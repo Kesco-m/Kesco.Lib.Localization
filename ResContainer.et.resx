@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="1" xml:space="preserve">
+    <value>üks</value>
+  </data>
+	<data name="10" xml:space="preserve">
+    <value>kümme</value>
+  </data>
+	<data name="100" xml:space="preserve">
+    <value>sada</value>
+  </data>
+	<data name="1000" xml:space="preserve">
+    <value>tuhat</value>
+  </data>
+	<data name="1000000" xml:space="preserve">
+    <value>miljon</value>
+  </data>
+	<data name="1000000000" xml:space="preserve">
+    <value>miljard</value>
+  </data>
+	<data name="1000000000_2" xml:space="preserve">
+    <value>miljardit</value>
+  </data>
+	<data name="1000000000_5" xml:space="preserve">
+    <value>miljardit</value>
+  </data>
+	<data name="1000000_2" xml:space="preserve">
+    <value>miljonit</value>
+  </data>
+	<data name="1000000_5" xml:space="preserve">
+    <value>miljonit</value>
+  </data>
+	<data name="1000_2" xml:space="preserve">
+    <value>tuhat</value>
+  </data>
+	<data name="1000_5" xml:space="preserve">
+    <value>tuhat</value>
+  </data>
+	<data name="11" xml:space="preserve">
+    <value>üksteist</value>
+  </data>
+	<data name="12" xml:space="preserve">
+    <value>kaksteist</value>
+  </data>
+	<data name="13" xml:space="preserve">
+    <value>kolmteist</value>
+  </data>
+	<data name="14" xml:space="preserve">
+    <value>neliteist</value>
+  </data>
+	<data name="15" xml:space="preserve">
+    <value>viisteist</value>
+  </data>
+	<data name="16" xml:space="preserve">
+    <value>kuusteist</value>
+  </data>
+	<data name="17" xml:space="preserve">
+    <value>seitseteist</value>
+  </data>
+	<data name="18" xml:space="preserve">
+    <value>kaheksateist</value>
+  </data>
+	<data name="19" xml:space="preserve">
+    <value>üheksateist</value>
+  </data>
+	<data name="1_she" xml:space="preserve">
+    <value>üks</value>
+  </data>
+	<data name="2" xml:space="preserve">
+    <value>kaks</value>
+  </data>
+	<data name="20" xml:space="preserve">
+    <value>kakskümmend</value>
+  </data>
+	<data name="200" xml:space="preserve">
+    <value>kakssada</value>
+  </data>
+	<data name="2_she" xml:space="preserve">
+    <value>kaks</value>
+  </data>
+	<data name="3" xml:space="preserve">
+    <value>kolm</value>
+  </data>
+	<data name="30" xml:space="preserve">
+    <value>kolmkümmend</value>
+  </data>
+	<data name="300" xml:space="preserve">
+    <value>kolmsada</value>
+  </data>
+	<data name="4" xml:space="preserve">
+    <value>neli</value>
+  </data>
+	<data name="40" xml:space="preserve">
+    <value>nelikümmend</value>
+  </data>
+	<data name="400" xml:space="preserve">
+    <value>nelisada</value>
+  </data>
+	<data name="5" xml:space="preserve">
+    <value>viis</value>
+  </data>
+	<data name="50" xml:space="preserve">
+    <value>viiskümmend</value>
+  </data>
+	<data name="500" xml:space="preserve">
+    <value>vissada</value>
+  </data>
+	<data name="6" xml:space="preserve">
+    <value>kuus</value>
+  </data>
+	<data name="60" xml:space="preserve">
+    <value>kuuskümmend</value>
+  </data>
+	<data name="600" xml:space="preserve">
+    <value>kuussada</value>
+  </data>
+	<data name="7" xml:space="preserve">
+    <value>seitse</value>
+  </data>
+	<data name="70" xml:space="preserve">
+    <value>seitsekümmend</value>
+  </data>
+	<data name="700" xml:space="preserve">
+    <value>seitsesada</value>
+  </data>
+	<data name="8" xml:space="preserve">
+    <value>kaheksa</value>
+  </data>
+	<data name="80" xml:space="preserve">
+    <value>kaheksakümmend</value>
+  </data>
+	<data name="800" xml:space="preserve">
+    <value>kaheksasada</value>
+  </data>
+	<data name="9" xml:space="preserve">
+    <value>üheksa</value>
+  </data>
+	<data name="90" xml:space="preserve">
+    <value>üheksakümmend</value>
+  </data>
+	<data name="900" xml:space="preserve">
+    <value>üheksasada</value>
+  </data>
+	<data name="add" xml:space="preserve">
+    <value>Lisa olemasolev</value>
+  </data>
+	<data name="alertError" xml:space="preserve">
+    <value>putukas</value>
+  </data>
+	<data name="alertMessage" xml:space="preserve">
+    <value>sõnum</value>
+  </data>
+	<data name="alertWarning" xml:space="preserve">
+    <value>hoiatus</value>
+  </data>
+	<data name="BtnClose" xml:space="preserve">
+    <value>   Sulge</value>
+  </data>
+	<data name="BtnConfirm" xml:space="preserve">
+    <value>  Kinnitan</value>
+  </data>
+	<data name="btnDelete" xml:space="preserve">
+    <value>  Kustuta</value>
+  </data>
+	<data name="BtnFormAgain" xml:space="preserve">
+    <value>  Loo uuesti</value>
+  </data>
+	<data name="btnHelp" xml:space="preserve">
+    <value>  Abi</value>
+  </data>
+	<data name="BtnRebuild" xml:space="preserve">
+    <value>Loo täielikult uuesti</value>
+  </data>
+	<data name="BtnRebuildPrevDoc" xml:space="preserve">
+    <value>Luua uuesti eelmise dokumendi alusel</value>
+  </data>
+	<data name="BtnUpdateData" xml:space="preserve">
+    <value>Uuenda andmeid</value>
+  </data>
+	<data name="cmdCopy" xml:space="preserve">
+    <value>Koopia</value>
+  </data>
+	<data name="cmdCopyTooltip" xml:space="preserve">
+    <value>Loo uus dokument on identne selle</value>
+  </data>
+	<data name="cmdCreateDescription" xml:space="preserve">
+    <value>Loo klassi dokumendi tüüp:</value>
+  </data>
+	<data name="cmdHelp" xml:space="preserve">
+    <value>viide</value>
+  </data>
+	<data name="cmdOpenDoc" xml:space="preserve">
+    <value>avatud dokumentide arhiiv</value>
+  </data>
+	<data name="cmdRefresh" xml:space="preserve">
+    <value>Värskendama</value>
+  </data>
+	<data name="cmdRefreshDescription" xml:space="preserve">
+    <value>Uuendatud välimuse dokumendi ümber all hoiatus valdkondades.Andmed ei ole uuendatud.</value>
+  </data>
+	<data name="cmdSave" xml:space="preserve">
+    <value>Salvesta</value>
+  </data>
+	<data name="cmdSaveDelSign" xml:space="preserve">
+    <value>, Eemaldamine allkirjad</value>
+  </data>
+	<data name="cmdSign" xml:space="preserve">
+    <value>märk maha</value>
+  </data>
+	<data name="cmdSignFinal" xml:space="preserve">
+    <value>läbi, tööd on lõpetatud</value>
+  </data>
+	<data name="create" xml:space="preserve">
+    <value>Loo uus dokument</value>
+  </data>
+	<data name="errCopyData" xml:space="preserve">
+    <value>"Viga kopeerimisel!Ei saanud andmeid kopeerimiseks!"</value>
+  </data>
+	<data name="errWithoutBuyer" xml:space="preserve">
+    <value>Ostja ei ole määratud.</value>
+  </data>
+	<data name="errWithoutDatePred" xml:space="preserve">
+    <value>Ettemaksuarve kuupäev on määramata</value>
+  </data>
+	<data name="errWithoutSeller" xml:space="preserve">
+    <value>Müüja ei ole määratud.</value>
+  </data>
+	<data name="EUR_J1" xml:space="preserve">
+    <value>sent</value>
+  </data>
+	<data name="EUR_J2" xml:space="preserve">
+    <value>senti</value>
+  </data>
+	<data name="EUR_J5" xml:space="preserve">
+    <value>senti</value>
+  </data>
+	<data name="EUR_S1" xml:space="preserve">
+    <value>euro</value>
+  </data>
+	<data name="EUR_S2" xml:space="preserve">
+    <value>eurot</value>
+  </data>
+	<data name="EUR_S5" xml:space="preserve">
+    <value>eurot</value>
+  </data>
+	<data name="exDocUnavailable" xml:space="preserve">
+    <value>Kodeeritud dokumendi {0} ei ole kättesaadav.</value>
+  </data>
+	<data name="generateNumberOfDocument" xml:space="preserve">
+    <value>tekitama</value>
+  </data>
+	<data name="generatingNumberOfDocument" xml:space="preserve">
+    <value>tekivad, kui salvestate</value>
+  </data>
+	<data name="lbladdString" xml:space="preserve">
+    <value>Transporditeenused hind</value>
+  </data>
+	<data name="lblApplication" xml:space="preserve">
+    <value>taotlus</value>
+  </data>
+	<data name="lblAssignClaims" xml:space="preserve">
+    <value>Loovutamine</value>
+  </data>
+	<data name="lblBaseName" xml:space="preserve">
+    <value>Baas</value>
+  </data>
+	<data name="lblBasis" xml:space="preserve">
+    <value>Toimetaja alusel</value>
+  </data>
+	<data name="lblBasisName" xml:space="preserve">
+    <value>Nimi alusel</value>
+  </data>
+	<data name="lblBillLading" xml:space="preserve">
+    <value>konossement</value>
+  </data>
+	<data name="lblBtnPrint" xml:space="preserve">
+    <value>Trüki dokument</value>
+  </data>
+	<data name="lblBtnTexPreview" xml:space="preserve">
+    <value>Vaata tekst</value>
+  </data>
+	<data name="lblBtnTextEditor" xml:space="preserve">
+    <value>Teksti redaktor</value>
+  </data>
+	<data name="lblBuyer" xml:space="preserve">
+    <value>ostja</value>
+  </data>
+	<data name="lblBuyerRS" xml:space="preserve">
+    <value>Konto ostja</value>
+  </data>
+	<data name="lblChoosePP" xml:space="preserve">
+    <value>valige maksedokumendid</value>
+  </data>
+	<data name="lblCostOutNDS" xml:space="preserve">
+    <value>Hind KM-ta</value>
+  </data>
+	<data name="lblDate" xml:space="preserve">
+    <value>Kuupäev</value>
+  </data>
+	<data name="lblDateDue" xml:space="preserve">
+    <value>makse kuupäev</value>
+  </data>
+	<data name="lblDescription" xml:space="preserve">
+    <value>Arhiivdokumendi kirjeldus</value>
+  </data>
+	<data name="lblDocName" xml:space="preserve">
+    <value>dokumendi pealkiri</value>
+  </data>
+	<data name="lblDocNumber" xml:space="preserve">
+    <value>number</value>
+  </data>
+	<data name="lblDueData" xml:space="preserve">
+    <value>Maksekuupäev ei ole määratud</value>
+  </data>
+	<data name="lblGO" xml:space="preserve">
+    <value>saatja</value>
+  </data>
+	<data name="lblGP" xml:space="preserve">
+    <value>kaubasaaja</value>
+  </data>
+	<data name="lblInvByOsn" xml:space="preserve">
+    <value>viia invoice'I andmed vastavusse alusdokumendiga</value>
+  </data>
+	<data name="lblInvoiceProforma" xml:space="preserve">
+    <value>Kulu, proforma arve</value>
+  </data>
+	<data name="lblItogo" xml:space="preserve">
+    <value>Kokku</value>
+  </data>
+	<data name="lblItogoClaim" xml:space="preserve">
+    <value>Kokku pretensioonide kohta</value>
+  </data>
+	<data name="lblItogoInv" xml:space="preserve">
+    <value>Arve kokku</value>
+  </data>
+	<data name="lblItogoProduct" xml:space="preserve">
+    <value>Kokku kaupade kohta</value>
+  </data>
+	<data name="lblItogoUsl" xml:space="preserve">
+    <value>Kokku osutatud teenuste kohta</value>
+  </data>
+	<data name="lblKurator" xml:space="preserve">
+    <value>Kuraator</value>
+  </data>
+	<data name="lblLangField" xml:space="preserve">
+    <value>Muster trükkimine forme</value>
+  </data>
+	<data name="lblLetterCredit" xml:space="preserve">
+    <value>akreditiiv</value>
+  </data>
+	<data name="lblNameTitle" xml:space="preserve">
+    <value>Nimi originaaldokumendi ei vasta nimetatud dokumendi tüüp</value>
+  </data>
+	<data name="lblNDS" xml:space="preserve">
+    <value>KM</value>
+  </data>
+	<data name="lblNDSRate" xml:space="preserve">
+    <value>KM määr</value>
+  </data>
+	<data name="lblNoNum" xml:space="preserve">
+    <value>Alusdokument ei ole kättesaadav, teenuste osutamisel või kaupade tarnimine on kavas tulevikus</value>
+  </data>
+	<data name="lblNotes" xml:space="preserve">
+    <value>märkus</value>
+  </data>
+	<data name="lblPaymentDocuments" xml:space="preserve">
+    <value>Kinkepiletid</value>
+  </data>
+	<data name="lblPosCol1" xml:space="preserve">
+    <value>Toode/Teenus</value>
+  </data>
+	<data name="lblPosCol10" xml:space="preserve">
+    <value>Summa</value>
+  </data>
+	<data name="lblPosCol2" xml:space="preserve">
+    <value>Kogus </value>
+  </data>
+	<data name="lblPosCol3" xml:space="preserve">
+    <value>Ühik</value>
+  </data>
+	<data name="lblPosCol4" xml:space="preserve">
+    <value>Hind KM-ta</value>
+  </data>
+	<data name="lblPosCol5" xml:space="preserve">
+    <value>Summa KM-ta</value>
+  </data>
+	<data name="lblPosCol6" xml:space="preserve">
+    <value>KM</value>
+  </data>
+	<data name="lblPosCol7" xml:space="preserve">
+    <value>Kokku</value>
+  </data>
+	<data name="lblPosCol8" xml:space="preserve">
+    <value>Pretensioon</value>
+  </data>
+	<data name="lblPosCol9" xml:space="preserve">
+    <value>Hind</value>
+  </data>
+	<data name="lblPositionCaption" xml:space="preserve">
+    <value>Alusdokumendi positsioonid</value>
+  </data>
+	<data name="lblPosKol" xml:space="preserve">
+    <value>Kogus </value>
+  </data>
+	<data name="lblPosNo" xml:space="preserve">
+    <value>puuduvad</value>
+  </data>
+	<data name="lblPosResource" xml:space="preserve">
+    <value>Ressursi valik</value>
+  </data>
+	<data name="lblPosResourceName" xml:space="preserve">
+    <value>Ressursi nimetus</value>
+  </data>
+	<data name="lblPosResourceNameLat" xml:space="preserve">
+    <value>Ressursi nimetus (lat.)</value>
+  </data>
+	<data name="lblPosTitle" xml:space="preserve">
+    <value>Invoice-proforma positsioon</value>
+  </data>
+	<data name="lblPosUnavaible" xml:space="preserve">
+    <value>ei ole kättesaadavad</value>
+  </data>
+	<data name="lblPosНеРеализовано" xml:space="preserve">
+    <value>ei ole realiseertiud</value>
+  </data>
+	<data name="lblPrnDescription" xml:space="preserve">
+    <value>trükivormide jaoks</value>
+  </data>
+	<data name="lblSeller" xml:space="preserve">
+    <value>müüja</value>
+  </data>
+	<data name="lblSellerRS" xml:space="preserve">
+    <value>Konto müüja</value>
+  </data>
+	<data name="lblSign1" xml:space="preserve">
+    <value>Esimene allkirjastaja</value>
+  </data>
+	<data name="lblSign2" xml:space="preserve">
+    <value>Teine allkirjastaja</value>
+  </data>
+	<data name="lblSigners" xml:space="preserve">
+    <value>Allakirjutanud vormid</value>
+  </data>
+	<data name="lblSummaOutNDS" xml:space="preserve">
+    <value>Summa KM-ta</value>
+  </data>
+	<data name="lblTitleAdmin" xml:space="preserve">
+    <value>Setting vastava tabeli väljad dokumendi väljad loogiline üksus</value>
+  </data>
+	<data name="lblToBePaid" xml:space="preserve">
+    <value>tuleb pöörata</value>
+  </data>
+	<data name="lblTypeDoc" xml:space="preserve">
+    <value>Valige dokumendi tüüp</value>
+  </data>
+	<data name="LBL_ПоПолю" xml:space="preserve">
+    <value>põllule</value>
+  </data>
+	<data name="lCancelSign" xml:space="preserve">
+    <value>tühista allkiri</value>
+  </data>
+	<data name="listComplete" xml:space="preserve">
+    <value>lõpetatud</value>
+  </data>
+	<data name="listFollowType" xml:space="preserve">
+    <value>Tulemuseks dokumentide</value>
+  </data>
+	<data name="listNewDoc" xml:space="preserve">
+    <value>dokumendi loomiseks</value>
+  </data>
+	<data name="listNotSigned" xml:space="preserve">
+    <value>ei ole allkirjastanud</value>
+  </data>
+	<data name="listSigned" xml:space="preserve">
+    <value>allkirjastatud</value>
+  </data>
+	<data name="minus" xml:space="preserve">
+    <value>miinus</value>
+  </data>
+	<data name="msgAs" xml:space="preserve">
+    <value>nagu</value>
+  </data>
+	<data name="msgBtn1" xml:space="preserve">
+    <value>Ei ole dokumenti</value>
+  </data>
+	<data name="msgBtn2" xml:space="preserve">
+    <value>Jah ma teen! Dokumendi number:</value>
+  </data>
+	<data name="msgBtn3" xml:space="preserve">
+    <value>Õige numbri</value>
+  </data>
+	<data name="msgConfirm" xml:space="preserve">
+    <value>kinnitama</value>
+  </data>
+	<data name="msgConfirm1" xml:space="preserve">
+    <value>ei meeldi dokumendi number!</value>
+  </data>
+	<data name="msgConfirm2" xml:space="preserve">
+    <value>Oled sa kindel numbri - </value>
+  </data>
+	<data name="MsgConfirmRebuild" xml:space="preserve">
+    <value>Kas olete kindel, et soovite teksti täielikult uuesti luua?</value>
+  </data>
+	<data name="msgDelFinishSign" xml:space="preserve">
+    <value>Sa eemaldada lõpliku allkirja.</value>
+  </data>
+	<data name="msgDelFinishSign1" xml:space="preserve">
+    <value>See eemaldab finoperatsy see dokument ({0} toodet).</value>
+  </data>
+	<data name="msgDelFinishSign2" xml:space="preserve">
+    <value>Jätka?</value>
+  </data>
+	<data name="msgDelFinishSignWithTran" xml:space="preserve">
+    <value>Eemaldamine lõplik allkiri on võimatu:
+Selle dokumendi on finantstehinguid.</value>
+  </data>
+	<data name="msgDelSign" xml:space="preserve">
+    <value>Sa kustutada allkiri {0}.
+ See on mõttekas ainult, et muuta e-posti andmed. kujundada.
+ Et taastada allkirju tuleb kohaldada määratud töötaja.
+ Jätka?</value>
+  </data>
+	<data name="msgDelSignOtherEmplUnavaible" xml:space="preserve">
+    <value>Eemaldamine lõplik allakirjutamine teise töötaja võimatu.</value>
+  </data>
+	<data name="msgDelSignUnavaible" xml:space="preserve">
+    <value>Allkiri ei ole kättesaadav, siis võib juba eemaldatud.</value>
+  </data>
+	<data name="msgDoc" xml:space="preserve">
+    <value>Dokument</value>
+  </data>
+	<data name="msgEx" xml:space="preserve">
+    <value>Ei saa kaarti väljad andmebaasi (DokumentyDannye) marginaalid on.</value>
+  </data>
+	<data name="msgFinishSign" xml:space="preserve">
+    <value>Te allkirjastate elektroonilist vormi kui ""Tehtud-töö lõpetatud"".&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+Seda allkirja ei saa tulevikus eemaldada.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+Kas olete kindel, et&amp;lt;b&amp;gt;töö dokumendiga on lõpetatud&amp;lt;/b&amp;gt;, andmed on sisestatud elektroonilise vormi korrektselt ning ei vaja muutmist tulevikus?&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;</value>
+  </data>
+	<data name="msgMoreOneApp" xml:space="preserve">
+    <value>kehtib üle ühe lepingu lisa</value>
+  </data>
+	<data name="msgNoAccessDogovor" xml:space="preserve">
+    <value>Puudub otsene ligipääs lepingule, ei saa kontrollida lisasid.</value>
+  </data>
+	<data name="msgNoBProject" xml:space="preserve">
+    <value>Dokument ei ulatu osaluse</value>
+  </data>
+	<data name="msgNoDataField" xml:space="preserve">
+    <value>Väli ei ole täidetud</value>
+  </data>
+	<data name="msgNoElForm" xml:space="preserve">
+    <value>puudub elektrooniline vorm</value>
+  </data>
+	<data name="msgNoForm" xml:space="preserve">
+    <value>Dokument ei ole edektronnoy kujul. Kasutaja pilte arhiivis dokumente ei ole võimalik</value>
+  </data>
+	<data name="msgNotAvailable" xml:space="preserve">
+    <value>ei ole kättesaadav.</value>
+  </data>
+	<data name="msgNotExistsOnDocDate" xml:space="preserve">
+    <value>Olemas on dokumendi kuupäev</value>
+  </data>
+	<data name="msgOldTitle" xml:space="preserve">
+    <value>Vanas versioonis</value>
+  </data>
+	<data name="msgOnDate" xml:space="preserve">
+    <value>Kuupäevaks</value>
+  </data>
+	<data name="msgOsnAttention0" xml:space="preserve">
+    <value>TÄHELEPANU!!!</value>
+  </data>
+	<data name="msgOsnAttention1" xml:space="preserve">
+    <value>Invoice'I alusdokumendiks määrasite dokumendi</value>
+  </data>
+	<data name="msgOsnAttention2" xml:space="preserve">
+    <value>Selle operatsiooni tulemusena viiakse KÕIK antud dokumendi andmed vastavusse alusdokumendiga.</value>
+  </data>
+	<data name="msgOsnAttention3" xml:space="preserve">
+    <value>Tähtis:</value>
+  </data>
+	<data name="msgOsnAttention4" xml:space="preserve">
+    <value>Invoice'I ja alsudokumendi positsioonid on ühised</value>
+  </data>
+	<data name="msgOsnAttention5" xml:space="preserve">
+    <value>Seos vana alusdokumendiga kustutatakse ära!</value>
+  </data>
+	<data name="msgOsnAttention6" xml:space="preserve">
+    <value>Kas olete kindel, et soovitе teostada antud operatsiooni?</value>
+  </data>
+	<data name="msgOsnAttention7" xml:space="preserve">
+    <value>Kas olete kindel, et soovite kustutada alsudokumenti?</value>
+  </data>
+	<data name="msgPPNoBuyer" xml:space="preserve">
+    <value>Ostja ei ole määratud</value>
+  </data>
+	<data name="msgPPNoDate" xml:space="preserve">
+    <value>Invoice'I kuupäev on määramata</value>
+  </data>
+	<data name="msgPPNoDogovor" xml:space="preserve">
+    <value>Leping ei ole määratud</value>
+  </data>
+	<data name="msgPPNoSeller" xml:space="preserve">
+    <value>Müüja ei ole määratud</value>
+  </data>
+	<data name="msgPPNoVal" xml:space="preserve">
+    <value>Valuuta ei ole määratud</value>
+  </data>
+	<data name="msgSendFinishMsg" xml:space="preserve">
+    <value>Saada sõnum lõpliku allkirja</value>
+  </data>
+	<data name="msgSign" xml:space="preserve">
+    <value>Allkirjasta</value>
+  </data>
+	<data name="msgUnableAppendix" xml:space="preserve">
+    <value>Ei saa kontrollida lisa</value>
+  </data>
+	<data name="msgUserNotAuth" xml:space="preserve">
+    <value>Kasutaja ei ole lubatud</value>
+  </data>
+	<data name="msgVidVz" xml:space="preserve">
+    <value>Tuleb määrata lisa, kuna lepingus on märgitud: arvestuste täpsustus lisa järgi</value>
+  </data>
+	<data name="msgWarningSign" xml:space="preserve">
+    <value>&lt;br&gt;
+* Kui redigeerimisel elektroonilise vormi muutuse / allkirjastatud teise
+töötaja.
+&lt;br&gt;
+(Soovitan vaadata praegust seisu elektroonilisel kujul arhiiv)</value>
+  </data>
+	<data name="MSG_HasCorrecting" xml:space="preserve">
+    <value>Dokumendis on korrigeerida oma dokumendi</value>
+  </data>
+	<data name="Msg_КопироватьПозицию" xml:space="preserve">
+    <value>Kopeeri positsioon</value>
+  </data>
+	<data name="Msg_НеВерныйПроцент" xml:space="preserve">
+    <value>Vale protsent</value>
+  </data>
+	<data name="Msg_НеВерныйСрокОплаты" xml:space="preserve">
+    <value>Vale maksetähtaeg</value>
+  </data>
+	<data name="Msg_РедактироватьПозицию" xml:space="preserve">
+    <value>Muuda kirjeid</value>
+  </data>
+	<data name="Msg_СоздатьНовуюПозицию" xml:space="preserve">
+    <value>Loo uus positisoon</value>
+  </data>
+	<data name="Msg_УдалитьПозицию" xml:space="preserve">
+    <value>Kustuta positsioon</value>
+  </data>
+	<data name="newDoc" xml:space="preserve">
+    <value>Uus dokument</value>
+  </data>
+	<data name="NtfDataChanged" xml:space="preserve">
+    <value>Alusdokumendi muutmise kuupäev on suurem kui jooksva dokumendi muutmise kuupäev! Dokumendi tekst võib mitte vastata andmetele!</value>
+  </data>
+	<data name="ntfDateDueData" xml:space="preserve">
+    <value>Maksekuupäev on väiksem kui dokumendi kuupäev</value>
+  </data>
+	<data name="ntfDocNotSign" xml:space="preserve">
+    <value>dokument ei ole allkirjastatud</value>
+  </data>
+	<data name="NTF_DateBaseDoc" xml:space="preserve">
+    <value>asutaja kuupäev peab olema väiksem või võrdne alates käesoleva dokumendi</value>
+  </data>
+	<data name="NTF_SmthIsNotMatchDogovor" xml:space="preserve">
+    <value>ei ole lepingu alusel</value>
+  </data>
+	<data name="NTF_SmthIsNotMatchPrilozhenie" xml:space="preserve">
+    <value>ei kohaldamise</value>
+  </data>
+	<data name="numberNotExists" xml:space="preserve">
+    <value>Dokumenti ei number</value>
+  </data>
+	<data name="oneFollowType" xml:space="preserve">
+    <value>Heitvee dokumendi tüüp</value>
+  </data>
+	<data name="optLanguageen" xml:space="preserve">
+    <value>Inglise</value>
+  </data>
+	<data name="optLanguageru" xml:space="preserve">
+    <value>Vene</value>
+  </data>
+	<data name="ppBtnCancel" xml:space="preserve">
+    <value>Katkestus</value>
+  </data>
+	<data name="ppBtnChoose" xml:space="preserve">
+    <value>Vali </value>
+  </data>
+	<data name="ppBtnShowForm" xml:space="preserve">
+    <value>Vaata praegust seisu elektroonilisel kujul arhiiv</value>
+  </data>
+	<data name="ppDtlCol1" xml:space="preserve">
+    <value>Maksedokument</value>
+  </data>
+	<data name="ppDtlCol2" xml:space="preserve">
+    <value>Kirjeldus</value>
+  </data>
+	<data name="ppDtlCol3" xml:space="preserve">
+    <value>Arvestamata summa</value>
+  </data>
+	<data name="ppFltNoForma" xml:space="preserve">
+    <value>Dokumendil koodiga  {0} puudub elektrooniline vorm.</value>
+  </data>
+	<data name="ppFltNotAccess" xml:space="preserve">
+    <value>Dokument koodiga {0} ei ole kättesaadav.</value>
+  </data>
+	<data name="ppFltOsn" xml:space="preserve">
+    <value>Makse alus</value>
+  </data>
+	<data name="ppFltTitle" xml:space="preserve">
+    <value>Maksedokumendid valitud järgmiste kriteeriumite järgi:</value>
+  </data>
+	<data name="ppFltВалюта" xml:space="preserve">
+    <value>Valuuta  </value>
+  </data>
+	<data name="ppFltДата" xml:space="preserve">
+    <value>Dokumendi kuupäev</value>
+  </data>
+	<data name="ppFltДоговор" xml:space="preserve">
+    <value>Leping</value>
+  </data>
+	<data name="ppFltПлательщик" xml:space="preserve">
+    <value>Maksja</value>
+  </data>
+	<data name="ppFltПолучатель" xml:space="preserve">
+    <value>Saaja</value>
+  </data>
+	<data name="ppLblFilter" xml:space="preserve">
+    <value>näita/peida filter</value>
+  </data>
+	<data name="ppLblRefreshList" xml:space="preserve">
+    <value>uuenda nimekiri</value>
+  </data>
+	<data name="ppLblTitle" xml:space="preserve">
+    <value>Maksedokumentide valik</value>
+  </data>
+	<data name="ppНеУказано" xml:space="preserve">
+    <value>ei ole määratud</value>
+  </data>
+	<data name="QSBtnCancel" xml:space="preserve">
+    <value>Katkestus</value>
+  </data>
+	<data name="QSBtnNo" xml:space="preserve">
+    <value>Ei</value>
+  </data>
+	<data name="QSBtnYes" xml:space="preserve">
+    <value>Jah</value>
+  </data>
+	<data name="QSMsg1" xml:space="preserve">
+    <value>Dokument on muudetud! Salvestada?</value>
+  </data>
+	<data name="QSMsg2" xml:space="preserve">
+    <value>Alusdokumendi muutmise kuupäev on suurem kui jooksva dokumendi muutmise kuupäev! Luua dokumendi tekst uuesti?</value>
+  </data>
+	<data name="RUB_J1" xml:space="preserve">
+    <value>kopikas</value>
+  </data>
+	<data name="RUB_J2" xml:space="preserve">
+    <value>kopikat</value>
+  </data>
+	<data name="RUB_J5" xml:space="preserve">
+    <value>kopikat</value>
+  </data>
+	<data name="RUB_S1" xml:space="preserve">
+    <value>rubla</value>
+  </data>
+	<data name="RUB_S2" xml:space="preserve">
+    <value>rubla</value>
+  </data>
+	<data name="RUB_S5" xml:space="preserve">
+    <value>rubla</value>
+  </data>
+	<data name="RUR_J1" xml:space="preserve">
+    <value>kopikas</value>
+  </data>
+	<data name="RUR_J2" xml:space="preserve">
+    <value>kopikat</value>
+  </data>
+	<data name="RUR_J5" xml:space="preserve">
+    <value>kopikat</value>
+  </data>
+	<data name="RUR_S1" xml:space="preserve">
+    <value>rubla</value>
+  </data>
+	<data name="RUR_S2" xml:space="preserve">
+    <value>rubla</value>
+  </data>
+	<data name="RUR_S5" xml:space="preserve">
+    <value>rubla</value>
+  </data>
+	<data name="String1" xml:space="preserve">
+    <value>esitama andmed vastavalt arve dokumendi alus</value>
+  </data>
+	<data name="title" xml:space="preserve">
+    <value>Loo / vali sissetulnud dokumenti</value>
+  </data>
+	<data name="titleHelp" xml:space="preserve">
+    <value>aitama</value>
+  </data>
+	<data name="titleSave" xml:space="preserve">
+    <value>dokumendi salvestamine</value>
+  </data>
+	<data name="ttlFIO" xml:space="preserve">
+    <value>IOF töötaja</value>
+  </data>
+	<data name="ttlPOST" xml:space="preserve">
+    <value>ohvitser</value>
+  </data>
+	<data name="typeNumberOfDocument" xml:space="preserve">
+    <value>käsitsi seadistada</value>
+  </data>
+	<data name="USD_J1" xml:space="preserve">
+    <value>sent</value>
+  </data>
+	<data name="USD_J2" xml:space="preserve">
+    <value>senti</value>
+  </data>
+	<data name="USD_J5" xml:space="preserve">
+    <value>senti</value>
+  </data>
+	<data name="USD_S1" xml:space="preserve">
+    <value>USA dollar</value>
+  </data>
+	<data name="USD_S2" xml:space="preserve">
+    <value>USA dollarit</value>
+  </data>
+	<data name="USD_S5" xml:space="preserve">
+    <value>USA dollarit</value>
+  </data>
+	<data name="_Msg_Cmd_НеСохраняется" xml:space="preserve">
+    <value>Dokumendi salvestamine ei ole võimalik</value>
+  </data>
+	<data name="_Msg_ВыборТекста" xml:space="preserve">
+    <value>Täita eelmise dokumendi alusel?</value>
+  </data>
+	<data name="_Msg_ДоговорВалюта" xml:space="preserve">
+    <value>maksevaluuta ei vasta lepingu maksevaluutale</value>
+  </data>
+	<data name="_Msg_ДокументНеДоступен" xml:space="preserve">
+    <value>dokument ei ole kättesaadav</value>
+  </data>
+	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
+    <value>dokumendil puudu elektrooniline vorm</value>
+  </data>
+	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
+    <value>Toodete jaoks on mõõteühik kohustuslik</value>
+  </data>
+	<data name="_Msg_Количество" xml:space="preserve">
+    <value>Kogus ei ole määratud</value>
+  </data>
+	<data name="_Msg_Количество0" xml:space="preserve">
+    <value>Kogus peab olema 0-st suurem</value>
+  </data>
+	<data name="_Msg_ЛицоАдрес" xml:space="preserve">
+    <value>aadress on määramata</value>
+  </data>
+	<data name="_Msg_ЛицоАдресЮридический" xml:space="preserve">
+    <value>isikul puudub juriidiline aadress</value>
+  </data>
+	<data name="_Msg_ЛицоИНН" xml:space="preserve">
+    <value>isikul puudub ИНН</value>
+  </data>
+	<data name="_Msg_ЛицоКПП" xml:space="preserve">
+    <value>isikul puudub КПП</value>
+  </data>
+	<data name="_Msg_ЛицоНазвание" xml:space="preserve">
+    <value>isikul puudub lühinim</value>
+  </data>
+	<data name="_Msg_ЛицоНеДоступно" xml:space="preserve">
+    <value>isik ei ole kättesaadav</value>
+  </data>
+	<data name="_Msg_ЛицоНеПроверено" xml:space="preserve">
+    <value>isik ei ole kontrollitud</value>
+  </data>
+	<data name="_Msg_ЛицоПолноеНазвание" xml:space="preserve">
+    <value>isikul puudub täisnimi</value>
+  </data>
+	<data name="_Msg_ЛицоРеквизиты" xml:space="preserve">
+    <value>isikul puuduvad rekvisiidid {0}</value>
+  </data>
+	<data name="_Msg_НетВсего" xml:space="preserve">
+    <value>Väli 'Kokku' ei ole täidetud</value>
+  </data>
+	<data name="_Msg_НетВсего0" xml:space="preserve">
+    <value>Kokku peab olema 0-st suurem</value>
+  </data>
+	<data name="_Msg_НетОснования" xml:space="preserve">
+    <value>Alusdokument ei ole määratud</value>
+  </data>
+	<data name="_Msg_ОснованиеВалюта" xml:space="preserve">
+    <value>maksevaluuta ei vasta alusdokumendi maksevaluutale</value>
+  </data>
+	<data name="_Msg_ОснованиеГО" xml:space="preserve">
+    <value>isik ei vasta kaubasaatjale alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеГОРеквизиты" xml:space="preserve">
+    <value>isiku rekvisiidid ei vasta kaubasaatja dokumentidele põhjendustele</value>
+  </data>
+	<data name="_Msg_ОснованиеГП" xml:space="preserve">
+    <value>isik ei vasta dokumendi saajale</value>
+  </data>
+	<data name="_Msg_ОснованиеГПРеквизиты" xml:space="preserve">
+    <value>isiku rekvisiidid ei vasta kaubasaaja rekvisiitidele alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеЗаказчик" xml:space="preserve">
+    <value>isik ei vasta tellijale alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеИсполнитель" xml:space="preserve">
+    <value>isik ei vasta täitjale alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеНеДоступно" xml:space="preserve">
+    <value>Alusdokument ei ole kättesaadav!</value>
+  </data>
+	<data name="_Msg_ОснованиеНетФормы" xml:space="preserve">
+    <value>Alusdokumendil puudub elektrooniline vorm</value>
+  </data>
+	<data name="_Msg_ОснованиеПокупатель" xml:space="preserve">
+    <value>isik ei vasta ostjale alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеПокупательАдрес" xml:space="preserve">
+    <value>isiku aadress ei vasta ostja aadressile alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеПродавец" xml:space="preserve">
+    <value>isik ei vasta müüjale alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеПродавецАдрес" xml:space="preserve">
+    <value>isiku aadress ei vasta müüja aadressile alusdokumendis</value>
+  </data>
+	<data name="_Msg_ОснованиеУжеЕсть1" xml:space="preserve">
+    <value>Dokument juba eksisteerib</value>
+  </data>
+	<data name="_Msg_ОснованиеУжеЕсть2" xml:space="preserve">
+    <value>mille aluseks on</value>
+  </data>
+	<data name="_Msg_ПриложениеВалюта" xml:space="preserve">
+    <value>maksevaluuta ei vasta lisa maksevaluutale</value>
+  </data>
+	<data name="_Msg_Ресурс" xml:space="preserve">
+    <value>Ressurs on määramata</value>
+  </data>
+	<data name="_Msg_РесурсИмя" xml:space="preserve">
+    <value>Ressursi nimetus ei ole määratud</value>
+  </data>
+	<data name="_Msg_РесурсНетЛатНазвания" xml:space="preserve">
+    <value>Ressursi ladinatähestikuline nimetus on määramata</value>
+  </data>
+	<data name="_Msg_СоответствиеСлужебке" xml:space="preserve">
+    <value>ei vasta teenistuskirjale</value>
+  </data>
+	<data name="_Msg_СтавкаНДС" xml:space="preserve">
+    <value>KM määr ei ole määratud</value>
+  </data>
+	<data name="_Msg_СуммаБезНДС" xml:space="preserve">
+    <value>Summa KM-ta ei ole määratud</value>
+  </data>
+	<data name="_Msg_СуммаБезНДС0" xml:space="preserve">
+    <value>Summa KM-ta peab olema  0-st suurem</value>
+  </data>
+	<data name="_Msg_СуммаНДС" xml:space="preserve">
+    <value>KM summa ei ole määratud</value>
+  </data>
+	<data name="_Msg_СуммаНДС0" xml:space="preserve">
+    <value>KM summa peab olema suurem või võrdne 0</value>
+  </data>
+	<data name="_Msg_СчетSWIFTБанка" xml:space="preserve">
+    <value>pangal puudub SWIFT</value>
+  </data>
+	<data name="_Msg_СчетБанкНеПроверен" xml:space="preserve">
+    <value>pank ei ole kontrollitud</value>
+  </data>
+	<data name="_Msg_СчетБИКБанка" xml:space="preserve">
+    <value>pangal puudub BIC</value>
+  </data>
+	<data name="_Msg_СчетВалютаДокумента" xml:space="preserve">
+    <value>pangakonto valuuta ei vasta dokumendi valuutale</value>
+  </data>
+	<data name="_Msg_СчетКСБанка" xml:space="preserve">
+    <value>pangal puudub korr. Konto</value>
+  </data>
+	<data name="_Msg_СчетНазваниеБанка" xml:space="preserve">
+    <value>pangal puudub lühinimetus</value>
+  </data>
+	<data name="_Msg_СчетНеБанк" xml:space="preserve">
+    <value>isik ei ole pank</value>
+  </data>
+	<data name="_Msg_СчетНеДействует" xml:space="preserve">
+    <value>pangakonto ei kehti</value>
+  </data>
+	<data name="_Msg_СчетНеДоступен" xml:space="preserve">
+    <value>pangakonto ei ole kättesaadav</value>
+  </data>
+	<data name="_Msg_СчетНеПоДатеДоговора" xml:space="preserve">
+    <value>lepingu kehtivustähtaeg ei vasta invoice'I kuupäevale</value>
+  </data>
+	<data name="_Msg_СчетНеПоДоговору" xml:space="preserve">
+    <value>pangakonto ei vasta pangakontole dokumendis</value>
+  </data>
+	<data name="_Msg_СчетНеПоПриложению" xml:space="preserve">
+    <value>pangakonto ei vasta pangakontole lisas</value>
+  </data>
+	<data name="_Msg_СчетПокупателя" xml:space="preserve">
+    <value>pangakonto ei vasta ostjale</value>
+  </data>
+	<data name="_Msg_СчетПродавца" xml:space="preserve">
+    <value>pangakonto ei vasta müüjale</value>
+  </data>
+	<data name="_Msg_СчетРеквизитыБанка" xml:space="preserve">
+    <value>pangal puuduvad rekvisiidid: {0}</value>
+  </data>
+	<data name="_Msg_ТекстИзменен" xml:space="preserve">
+    <value>Dokumendi tekst on muudetud! Salvestada?</value>
+  </data>
+	<data name="_Msg_ЦенаБезНДС" xml:space="preserve">
+    <value>Hind KM-ta ei ole määratud</value>
+  </data>
+	<data name="_Msg_ЦенаБезНДС0" xml:space="preserve">
+    <value>Hind KM-ta peab olema 0-st suurem</value>
+  </data>
+	<data name="lblStatus" xml:space="preserve">
+    <value>seisund</value>
+  </data>
+	<data name="lblUser" xml:space="preserve">
+    <value>kasutaja</value>
+  </data>
+	<data name="lblDocUser" xml:space="preserve">
+    <value>Dokumendi tööd:</value>
+  </data>
+	<data name="lblEdit" xml:space="preserve">
+    <value>Toimetajad</value>
+  </data>
+	<data name="lblView" xml:space="preserve">
+    <value>ülevaade</value>
+  </data>
+	<data name="lblDateDelivery" xml:space="preserve">
+    <value>Maksetähtaeg kuni üleandmise kuupäevast</value>
+  </data>
+	<data name="lblDateFrom" xml:space="preserve">
+    <value>Kuupäev majutust</value>
+  </data>
+	<data name="lblDateTo" xml:space="preserve">
+    <value>Külastuse aeg</value>
+  </data>
+	<data name="lblPayAcc" xml:space="preserve">
+    <value>Makse majutust</value>
+  </data>
+	<data name="lblPercentagePrepaid" xml:space="preserve">
+    <value>protsent ettemakstud</value>
+  </data>
+	<data name="msgCallContact" xml:space="preserve">
+    <value>Võta kontakti</value>
+  </data>
+	<data name="msgNoContact" xml:space="preserve">
+    <value>No kontaktid</value>
+  </data>
+	<data name="msgCall" xml:space="preserve">
+    <value>üleskutse</value>
+  </data>
+	<data name="msgPhoneSelect" xml:space="preserve">
+    <value>Valige telefon, millest helistada number</value>
+  </data>
+	<data name="msgDefaultPhone" xml:space="preserve">
+    <value>Säästa peamised töö- telefoni selles arvutis</value>
+  </data>
+	<data name="lblPosition" xml:space="preserve">
+    <value>asukoht</value>
+  </data>
+	<data name="msgNoPhone" xml:space="preserve">
+    <value>Telefoni ei leitud</value>
+  </data>
+	<data name="msgBreakCall" xml:space="preserve">
+    <value>lõpetama</value>
+  </data>
+	<data name="msgSelectPhone" xml:space="preserve">
+    <value>Vali mobiiltelefoni</value>
+  </data>
+	<data name="Msg_FIO" xml:space="preserve">
+    <value>määratud käsitsi</value>
+  </data>
+	<data name="optLanguage1" xml:space="preserve">
+    <value>keel 1</value>
+  </data>
+	<data name="optLanguage2" xml:space="preserve">
+    <value>keel 2</value>
+  </data>
+	<data name="cEmplName" xml:space="preserve">
+    <value>töötaja</value>
+  </data>
+	<data name="cEndTime" xml:space="preserve">
+    <value>töö lõpp</value>
+  </data>
+	<data name="cInternetAccessCount" xml:space="preserve">
+    <value>Tellimuste arv &lt;br&gt; Internet</value>
+  </data>
+	<data name="cInternetAccessTotalTime" xml:space="preserve">
+    <value>Koguaeg tellimusi &lt;br&gt; Internet</value>
+  </data>
+	<data name="cInterval" xml:space="preserve">
+    <value>Koguaeg</value>
+  </data>
+	<data name="cStartTime" xml:space="preserve">
+    <value>Alustamine</value>
+  </data>
+	<data name="hPageSubTitle" xml:space="preserve">
+    <value>Loetelu alluvatelt</value>
+  </data>
+	<data name="hPageTitle" xml:space="preserve">
+    <value>Raamatupidamisarvestuse süsteemi töötajate aega</value>
+  </data>
+	<data name="iPCustom" xml:space="preserve">
+    <value>omavoliliselt</value>
+  </data>
+	<data name="iPTypeDay" xml:space="preserve">
+    <value>päev</value>
+  </data>
+	<data name="iPTypeMounth" xml:space="preserve">
+    <value>kuu</value>
+  </data>
+	<data name="iPTypeQuarter" xml:space="preserve">
+    <value>kvartal</value>
+  </data>
+	<data name="iPTypeWeek" xml:space="preserve">
+    <value>Nädal</value>
+  </data>
+	<data name="iPTypeYear" xml:space="preserve">
+    <value>Aasta</value>
+  </data>
+	<data name="lAsc" xml:space="preserve">
+    <value>(kasvavalt).</value>
+  </data>
+	<data name="lClear" xml:space="preserve">
+    <value>Selge</value>
+  </data>
+	<data name="lDesc" xml:space="preserve">
+    <value>(kahanev).</value>
+  </data>
+	<data name="lErrorDesc" xml:space="preserve">
+    <value>* - Rikkumised juurdepääsu kontroll</value>
+  </data>
+	<data name="lFilterCompany" xml:space="preserve">
+    <value>firma</value>
+  </data>
+	<data name="lFilterEmplAvaible" xml:space="preserve">
+    <value>Näita tööalaselt lõigud perioodiks</value>
+  </data>
+	<data name="lFilterEmplName" xml:space="preserve">
+    <value>töötaja</value>
+  </data>
+	<data name="lFilterError" xml:space="preserve">
+    <value>Valesti seadistatud filtreerimise võimalusi</value>
+  </data>
+	<data name="lFilterPost" xml:space="preserve">
+    <value>Officer</value>
+  </data>
+	<data name="lFilterSubdivision" xml:space="preserve">
+    <value>alajaotus</value>
+  </data>
+	<data name="lFrom" xml:space="preserve">
+    <value>Koos</value>
+  </data>
+	<data name="lNeedRefresh" xml:space="preserve">
+    <value>Et kuvada nimekirja, otsi</value>
+  </data>
+	<data name="lNoData" xml:space="preserve">
+    <value>No Information</value>
+  </data>
+	<data name="lPeriod" xml:space="preserve">
+    <value>Periood</value>
+  </data>
+	<data name="lPhones" xml:space="preserve">
+    <value>m.</value>
+  </data>
+	<data name="lPlaces" xml:space="preserve">
+    <value>k.</value>
+  </data>
+	<data name="lPrimaryComp" xml:space="preserve">
+    <value>kasuks ettevõte</value>
+  </data>
+	<data name="lPrimaryEmpl" xml:space="preserve">
+    <value>kasuks töötaja</value>
+  </data>
+	<data name="lRefresh" xml:space="preserve">
+    <value>Otsige</value>
+  </data>
+	<data name="lRules" xml:space="preserve">
+    <value>Rikkumised juurdepääsu kontroll</value>
+  </data>
+	<data name="lShowList" xml:space="preserve">
+    <value>show</value>
+  </data>
+	<data name="lTimeExit" xml:space="preserve">
+    <value>tõusnud</value>
+  </data>
+	<data name="lTo" xml:space="preserve">
+    <value>edasi</value>
+  </data>
+	<data name="lTotalFound" xml:space="preserve">
+    <value>Leitud [{0}] sissekanded</value>
+  </data>
+	<data name="сAbsent" xml:space="preserve">
+    <value>Kogu puruneb</value>
+  </data>
+	<data name="removeFromList" xml:space="preserve">
+    <value>loendist eemaldada</value>
+  </data>
+	<data name="lCont" xml:space="preserve">
+    <value>jätkama</value>
+  </data>
+	<data name="lEnd" xml:space="preserve">
+    <value>täielik</value>
+  </data>
+	<data name="lSession" xml:space="preserve">
+    <value>Seansi aeg on möödas, siis logige jälle.</value>
+  </data>
+	<data name="sAdvancedSearch" xml:space="preserve">
+    <value>Täpsem otsing.</value>
+  </data>
+	<data name="sCreateIndividual" xml:space="preserve">
+    <value>Loo individuaalne</value>
+  </data>
+	<data name="sCreateLegal" xml:space="preserve">
+    <value>Loo juriidiline isik</value>
+  </data>
+	<data name="sFindMore" xml:space="preserve">
+    <value>Näitan {0} arvestust. Leitud rohkem!</value>
+  </data>
+	<data name="sNotFound" xml:space="preserve">
+    <value>Midagi ei leitud.</value>
+  </data>
+	<data name="sRefineSearch" xml:space="preserve">
+    <value>Täpsustan oma otsingut.</value>
+  </data>
+	<data name="lUserPhoto" xml:space="preserve">
+    <value>Vaata fotot</value>
+  </data>
+	<data name="Lin" xml:space="preserve">
+    <value>Elements nimekirjast</value>
+  </data>
+	<data name="Lnotin" xml:space="preserve">
+    <value>Elements välja</value>
+  </data>
+	<data name="hPageDetailsTitle" xml:space="preserve">
+    <value>Üksikasjalikult päevadel</value>
+  </data>
+	<data name="lBack" xml:space="preserve">
+    <value>tagasi</value>
+  </data>
+	<data name="lFlagCaption" xml:space="preserve">
+    <value>Ära näita tühi kanded</value>
+  </data>
+	<data name="hPageSubTitleDetails2" xml:space="preserve">
+    <value>Täpne töötaja aeg</value>
+  </data>
+	<data name="lAbsCaption" xml:space="preserve">
+    <value>Töölt ära</value>
+  </data>
+	<data name="lFor" xml:space="preserve">
+    <value>jaoks</value>
+  </data>
+	<data name="lNoEntrance" xml:space="preserve">
+    <value>Märkus: Entry tööajaga töötaja kontoris ei olnud fikseeritud</value>
+  </data>
+	<data name="lNoExit" xml:space="preserve">
+    <value>Märkus: Aeg töötajad kontoris ei ole kindlaks määratud</value>
+  </data>
+	<data name="lWorkCaption" xml:space="preserve">
+    <value>See oli töökohal</value>
+  </data>
+	<data name="cPlace" xml:space="preserve">
+    <value>kontor</value>
+  </data>
+	<data name="lNoFixed" xml:space="preserve">
+    <value>Määramata</value>
+  </data>
+	<data name="lNoFixedEnter" xml:space="preserve">
+    <value>Sissepääs ei ole fikseeritud</value>
+  </data>
+	<data name="lNoFixedExit" xml:space="preserve">
+    <value>Saak ei ole fikseeritud</value>
+  </data>
+	<data name="lTotal" xml:space="preserve">
+    <value>summaarne</value>
+  </data>
+	<data name="lblNotValue" xml:space="preserve">
+    <value>Väärtus ei ole määratud</value>
+  </data>
+	<data name="errContacts1" xml:space="preserve">
+    <value>Kõne ei ole võimalik kindlaks selle telefoniga.</value>
+  </data>
+	<data name="errContacts2" xml:space="preserve">
+    <value>Muutke telefoni teise.</value>
+  </data>
+	<data name="call" xml:space="preserve">
+    <value>üleskutse</value>
+  </data>
+	<data name="connecting" xml:space="preserve">
+    <value>ühendus</value>
+  </data>
+	<data name="notActiveCall" xml:space="preserve">
+    <value>ei ole aktiivne kõne</value>
+  </data>
+	<data name="cContainsAll" xml:space="preserve">
+    <value>Sisaldab kõiki sõnu</value>
+  </data>
+	<data name="TM_LegendTitle" xml:space="preserve">
+    <value>Sest veerus "Summa" ja "Töötajad maksavad"</value>
+  </data>
+	<data name="TM_TitleGray" xml:space="preserve">
+    <value>Käibemaks on iga arve rekord</value>
+  </data>
+	<data name="TM_TitleGray2" xml:space="preserve">
+    <value>Summa ilma käibemaksuta</value>
+  </data>
+	<data name="TM_TitleGreen" xml:space="preserve">
+    <value>Käibemaks on juba kantud summa laadimist</value>
+  </data>
+	<data name="TM_TitleOrange" xml:space="preserve">
+    <value>Raku lepingu tingimused ei ole määratletud</value>
+  </data>
+	<data name="TM_TitleWhite" xml:space="preserve">
+    <value>Summa sisaldab KM</value>
+  </data>
+	<data name="cEmpty" xml:space="preserve">
+    <value>tühi</value>
+  </data>
+	<data name="cEnds" xml:space="preserve">
+    <value>Lõpeb sõnadega</value>
+  </data>
+	<data name="cEqually" xml:space="preserve">
+    <value>võrdselt</value>
+  </data>
+	<data name="cLess" xml:space="preserve">
+    <value>vähem</value>
+  </data>
+	<data name="cLessOrEqual" xml:space="preserve">
+    <value>Väiksem või võrdne</value>
+  </data>
+	<data name="cLike" xml:space="preserve">
+    <value>nagu</value>
+  </data>
+	<data name="cMatches" xml:space="preserve">
+    <value>Täielikult sobib</value>
+  </data>
+	<data name="cMore" xml:space="preserve">
+    <value>rohkem</value>
+  </data>
+	<data name="cMoreOrEqual" xml:space="preserve">
+    <value>Rohkem või võrdne</value>
+  </data>
+	<data name="cNotEmpty" xml:space="preserve">
+    <value>Mitte tühi</value>
+  </data>
+	<data name="cNotEnds" xml:space="preserve">
+    <value>Sõnad ei lõppenud kohta</value>
+  </data>
+	<data name="cNotEqual" xml:space="preserve">
+    <value>ei võrdu</value>
+  </data>
+	<data name="cNotMatches" xml:space="preserve">
+    <value>Täiesti identsed</value>
+  </data>
+	<data name="cNotStart" xml:space="preserve">
+    <value>Sõnad ei suuda alustada</value>
+  </data>
+	<data name="cStarts" xml:space="preserve">
+    <value>Sõnad alustada</value>
+  </data>
+	<data name="cUnlike" xml:space="preserve">
+    <value>erinevalt</value>
+  </data>
+	<data name="dEqual" xml:space="preserve">
+    <value>täitsa sarnane</value>
+  </data>
+	<data name="dInterval" xml:space="preserve">
+    <value>Asub intervall</value>
+  </data>
+	<data name="dLessOrEqual" xml:space="preserve">
+    <value>Väiksem või võrdne</value>
+  </data>
+	<data name="dMoreOrEqual" xml:space="preserve">
+    <value>Suurem või võrdne</value>
+  </data>
+	<data name="dNull" xml:space="preserve">
+    <value>ei ole määratud</value>
+  </data>
+	<data name="TMD_Head1" xml:space="preserve">
+    <value>Number</value>
+  </data>
+	<data name="TMD_Head2" xml:space="preserve">
+    <value>sulgemata perioodil</value>
+  </data>
+	<data name="TMD_Head3" xml:space="preserve">
+    <value>Periood</value>
+  </data>
+	<data name="TMD_Head4" xml:space="preserve">
+    <value>Kokkulepe - Beeline</value>
+  </data>
+	<data name="TMD_TblColumn1" xml:space="preserve">
+    <value>Kuupäev ja aeg</value>
+  </data>
+	<data name="TMD_TblColumn2" xml:space="preserve">
+    <value>Tüüp</value>
+  </data>
+	<data name="TMD_TblColumn3" xml:space="preserve">
+    <value>Tellija ala</value>
+  </data>
+	<data name="TMD_TblColumn4" xml:space="preserve">
+    <value>Suund</value>
+  </data>
+	<data name="TMD_TblColumn5" xml:space="preserve">
+    <value>Teenus</value>
+  </data>
+	<data name="TMD_TblColumn6" xml:space="preserve">
+    <value>Kestus</value>
+  </data>
+	<data name="TMD_TblColumn7" xml:space="preserve">
+    <value>Kilotavu</value>
+  </data>
+	<data name="TMD_TblColumn8" xml:space="preserve">
+    <value>töötaja (sisaldab käibemaksu)</value>
+  </data>
+	<data name="TMD_TblColumn9" xml:space="preserve">
+    <value>Summa (sisaldab käibemaksu)</value>
+  </data>
+	<data name="TMD_TblFooter" xml:space="preserve">
+    <value>Kogusummas</value>
+  </data>
+	<data name="TMD_Title" xml:space="preserve">
+    <value>Üksikasjalik aruanne telefonikõned</value>
+  </data>
+	<data name="TM_ClearFilter" xml:space="preserve">
+    <value>Clear filter</value>
+  </data>
+	<data name="TM_FDataEmptyDogovor" xml:space="preserve">
+    <value>kõik lepingud</value>
+  </data>
+	<data name="TM_FDataEmptyEmployee" xml:space="preserve">
+    <value>kõik töötajad</value>
+  </data>
+	<data name="TM_FDataEmptyMonth" xml:space="preserve">
+    <value>kõik</value>
+  </data>
+	<data name="TM_FDataEmptyPhone" xml:space="preserve">
+    <value>kõik telefonid</value>
+  </data>
+	<data name="TM_FDogovor" xml:space="preserve">
+    <value>Kokkulepe</value>
+  </data>
+	<data name="TM_FEmployee" xml:space="preserve">
+    <value>Töötaja</value>
+  </data>
+	<data name="TM_FilterApply" xml:space="preserve">
+    <value>Otsing</value>
+  </data>
+	<data name="TM_FMonth" xml:space="preserve">
+    <value>Kuu</value>
+  </data>
+	<data name="TM_FOpenMonth" xml:space="preserve">
+    <value>Jooksva kuu</value>
+  </data>
+	<data name="TM_FPhone" xml:space="preserve">
+    <value>Telefon</value>
+  </data>
+	<data name="TM_FYear" xml:space="preserve">
+    <value>Aasta</value>
+  </data>
+	<data name="TM_Rpt1" xml:space="preserve">
+    <value>Kulud telefonid</value>
+  </data>
+	<data name="TM_Rpt2" xml:space="preserve">
+    <value>Kõne kestus</value>
+  </data>
+	<data name="TM_Rpt3" xml:space="preserve">
+    <value>Kulutused töötajatele</value>
+  </data>
+	<data name="TM_Rpt4" xml:space="preserve">
+    <value>Kestus töötajatele</value>
+  </data>
+	<data name="TM_Rpt5" xml:space="preserve">
+    <value>Üksikasjalikult Beeline</value>
+  </data>
+	<data name="TM_RptDetail" xml:space="preserve">
+    <value>Vaata detailset aruannet telefonikõned</value>
+  </data>
+	<data name="TM_TblColumn2" xml:space="preserve">
+    <value>Aeg</value>
+  </data>
+	<data name="TM_TblColumn3" xml:space="preserve">
+    <value>Summa</value>
+  </data>
+	<data name="TM_TblColumn4_0" xml:space="preserve">
+    <value>Töötajad</value>
+  </data>
+	<data name="TM_TblColumn4_1" xml:space="preserve">
+    <value>maksavad</value>
+  </data>
+	<data name="TM_Title" xml:space="preserve">
+    <value>Arved: Mobiilside</value>
+  </data>
+	<data name="STORE_Actuality" xml:space="preserve">
+    <value>Aktuaalsus</value>
+  </data>
+	<data name="STORE_Agreement" xml:space="preserve">
+    <value>Kokkulepe</value>
+  </data>
+	<data name="STORE_FindStore" xml:space="preserve">
+    <value>Leida poest</value>
+  </data>
+	<data name="STORE_KeeperBank" xml:space="preserve">
+    <value>Kuraator/Pank</value>
+  </data>
+	<data name="STORE_Manager" xml:space="preserve">
+    <value>Juht</value>
+  </data>
+	<data name="STORE_Name" xml:space="preserve">
+    <value>Nimi</value>
+  </data>
+	<data name="STORE_Residence" xml:space="preserve">
+    <value>Ladustamine</value>
+  </data>
+	<data name="STORE_ResourceCurrency" xml:space="preserve">
+    <value>Ressurss/Valuuta</value>
+  </data>
+	<data name="STORE_Store" xml:space="preserve">
+    <value>Ladu</value>
+  </data>
+	<data name="STORE_StoreNumberUndefined" xml:space="preserve">
+    <value>Lao number teadmata</value>
+  </data>
+	<data name="STORE_StoreType" xml:space="preserve">
+    <value>Salvestamistüüp</value>
+  </data>
+	<data name="TMD_Vat" xml:space="preserve">
+    <value>sisaldab käibemaksu</value>
+  </data>
+	<data name="TM_Empty" xml:space="preserve">
+    <value>Andmed rahuldada filtreerimine kriteeriumid ei leitud!</value>
+  </data>
+	<data name="STORE_CreateStore" xml:space="preserve">
+    <value>Luua uus ladu</value>
+  </data>
+	<data name="LinOnce" xml:space="preserve">
+    <value>valimine</value>
+  </data>
+	<data name="LnotinOnce" xml:space="preserve">
+    <value>välja arvatud</value>
+  </data>
+	<data name="STORE_IsActual" xml:space="preserve">
+    <value>õigusaktid</value>
+  </data>
+	<data name="STORE_IsNotActual" xml:space="preserve">
+    <value>ei ole kohaldatav</value>
+  </data>
+	<data name="Title_Help" xml:space="preserve">
+    <value>avab abi</value>
+  </data>
+	<data name="sName" xml:space="preserve">
+    <value>Nimi</value>
+  </data>
+	<data name="sTypeOfTransport" xml:space="preserve">
+    <value>transpordi liik</value>
+  </data>
+	<data name="sCode" xml:space="preserve">
+    <value>kood</value>
+  </data>
+	<data name="sTransport" xml:space="preserve">
+    <value>Transport</value>
+  </data>
+	<data name="lblAnyValue" xml:space="preserve">
+    <value>Määra mingit väärtust</value>
+  </data>
+	<data name="PageBar_lCurrentPage" xml:space="preserve">
+    <value>Lehekülg</value>
+  </data>
+	<data name="PageBar_lFirstPage" xml:space="preserve">
+    <value>Mine esimese lehe</value>
+  </data>
+	<data name="PageBar_lLastPage" xml:space="preserve">
+    <value>Mine viimase lehekülje</value>
+  </data>
+	<data name="PageBar_lNextPage" xml:space="preserve">
+    <value>Mine järgmisele lehele</value>
+  </data>
+	<data name="PageBar_lOf" xml:space="preserve">
+    <value>kohta</value>
+  </data>
+	<data name="PageBar_lPrevPage" xml:space="preserve">
+    <value>Mine eelmisele lehele</value>
+  </data>
+	<data name="PageBar_lRowsPerPage" xml:space="preserve">
+    <value>Rida lehel</value>
+  </data>
+	<data name="TM_AllYear" xml:space="preserve">
+    <value>aastaringselt (no üksikasju)</value>
+  </data>
+	<data name="sCreateResource" xml:space="preserve">
+    <value>Loo vara</value>
+  </data>
+	<data name="STORE_SaveStore" xml:space="preserve">
+    <value>Säilitamine ladu</value>
+  </data>
+	<data name="cContainsAny" xml:space="preserve">
+    <value>See sisaldab mis tahes sõna</value>
+  </data>
+	<data name="cNotContainAny" xml:space="preserve">
+    <value>See ei sisalda sõna</value>
+  </data>
+	<data name="STORE_DoesNotMatter" xml:space="preserve">
+    <value>Ei ole oluline</value>
+  </data>
+	<data name="STORE_ClearSearchConstraints" xml:space="preserve">
+    <value>Eemalda piirangud otsing</value>
+  </data>
+	<data name="STORE_SelectStore" xml:space="preserve">
+    <value>Valige lattu</value>
+  </data>
+	<data name="STORE_IBAN" xml:space="preserve">
+    <value>IBAN</value>
+  </data>
+	<data name="STORE_Edit" xml:space="preserve">
+    <value>Muuta</value>
+  </data>
+	<data name="cEndTimeAbs" xml:space="preserve">
+    <value>End of murda</value>
+  </data>
+	<data name="cStartTimeAbs" xml:space="preserve">
+    <value>Start murda</value>
+  </data>
+	<data name="cptnNeedCheck" xml:space="preserve">
+    <value>See nõuab testimine</value>
+  </data>
+	<data name="cptnUnicForState" xml:space="preserve">
+    <value>See on unikaalne riik</value>
+  </data>
+	<data name="lblAttribute1" xml:space="preserve">
+    <value>Atribuut1</value>
+  </data>
+	<data name="lblAttribute2" xml:space="preserve">
+    <value>Atribuut2</value>
+  </data>
+	<data name="lblAttribute3" xml:space="preserve">
+    <value>Atribuut3</value>
+  </data>
+	<data name="lblAttributeFormat" xml:space="preserve">
+    <value>Omadus Format Mask</value>
+  </data>
+	<data name="STORE_Description" xml:space="preserve">
+    <value>Märkus</value>
+  </data>
+	<data name="STORE_Subsidiary" xml:space="preserve">
+    <value>Tütarettevõte</value>
+  </data>
+	<data name="STORE_NeedFillResidence" xml:space="preserve">
+    <value>Toidupoes peate täpsustama hoiukohast.</value>
+  </data>
+	<data name="STORE_NeedFill" xml:space="preserve">
+    <value>Et lattu tuleb täpsustada {0}.</value>
+  </data>
+	<data name="lblChanged" xml:space="preserve">
+    <value>Kui muutus</value>
+  </data>
+	<data name="lblChangedBy" xml:space="preserve">
+    <value>Muutunud</value>
+  </data>
+	<data name="lblAttributeFormatState" xml:space="preserve">
+    <value>Riigi atribuut</value>
+  </data>
+	<data name="lblAttributeFormatType" xml:space="preserve">
+    <value>Nimi atribuuditüüpe</value>
+  </data>
+	<data name="lblLanguageLat" xml:space="preserve">
+    <value>Nimi Ladina</value>
+  </data>
+	<data name="lblLanguageReg" xml:space="preserve">
+    <value>Nimi keeles</value>
+  </data>
+	<data name="lblLanguageRus" xml:space="preserve">
+    <value>Nimi vene keeles</value>
+  </data>
+	<data name="errIncorrectlyFilledField" xml:space="preserve">
+    <value>Valesti täidetud valdkonnas</value>
+  </data>
+	<data name="errValidChar" xml:space="preserve">
+    <value>Väli on lubatud ainult märke #, ja -</value>
+  </data>
+	<data name="errValidExDef" xml:space="preserve">
+    <value>Väli on keelatud sümboleid, välja arvatud sidekriips</value>
+  </data>
+	<data name="errValidLatNum" xml:space="preserve">
+    <value>Valdkonnas lubatud ainult tähti, numbreid ja yhdysmerkkejä</value>
+  </data>
+	<data name="cpnEditFormat" xml:space="preserve">
+    <value>Muokkausattribuutti formaadis</value>
+  </data>
+	<data name="cptFormatNameRus1" xml:space="preserve">
+    <value>Formaat nimi atribuut 1 vene</value>
+  </data>
+	<data name="cptFormatNameRus2" xml:space="preserve">
+    <value>Formaat nimi atribuut 2 vene</value>
+  </data>
+	<data name="cptFormatNameRus3" xml:space="preserve">
+    <value>Formaat nimi atribuut 3 vene</value>
+  </data>
+	<data name="cptFormatState" xml:space="preserve">
+    <value>Atribuut formaadis ala</value>
+  </data>
+	<data name="cptFormatType" xml:space="preserve">
+    <value>Tüüp atribuut formaadis</value>
+  </data>
+	<data name="errValidFormatNameRus1" xml:space="preserve">
+    <value>Field atribuudi nimi vene 1 atribuut peab olema täidetud</value>
+  </data>
+	<data name="errValidFormatNameRus2" xml:space="preserve">
+    <value>Field atribuudi nimi vene 2 atribuut peab olema täidetud</value>
+  </data>
+	<data name="errValidFormatNameRus3" xml:space="preserve">
+    <value>Field atribuudi nimi vene 3 atribuut peab olema täidetud</value>
+  </data>
+	<data name="errValitFormatState" xml:space="preserve">
+    <value>Valdkonnas ala tuleb täita</value>
+  </data>
+	<data name="errValitFormatType" xml:space="preserve">
+    <value>Valdkonnas formaadis tüüp peab olema täidetud</value>
+  </data>
+	<data name="errWrongSymInField" xml:space="preserve">
+    <value>Väli sisaldab valesid märke</value>
+  </data>
+	<data name="lbChenged" xml:space="preserve">
+    <value>Muutunud</value>
+  </data>
+	<data name="cpAtributeEdit" xml:space="preserve">
+    <value>Montaaž üksus atribuut</value>
+  </data>
+	<data name="errValidateAttrubuteValue" xml:space="preserve">
+    <value>peab olema täidetud</value>
+  </data>
+	<data name="errValidateAttrubuteValue2" xml:space="preserve">
+    <value>Oskus2 valdkonnas peab olema täidetud</value>
+  </data>
+	<data name="errValidateAttrubuteValue3" xml:space="preserve">
+    <value>Oskus3 valdkonnas peab olema täidetud</value>
+  </data>
+	<data name="errFiled" xml:space="preserve">
+    <value>Väli</value>
+  </data>
+	<data name="btnCancel" xml:space="preserve">
+    <value>Tühistama</value>
+  </data>
+	<data name="cpAcceptSave" xml:space="preserve">
+    <value>Kinnita säästa</value>
+  </data>
+	<data name="msgAddAttributeConfirm" xml:space="preserve">
+    <value>Loo See omadus muudab Järgmise atribuut lõpuni</value>
+  </data>
+	<data name="msgEditAttributeConfirm" xml:space="preserve">
+    <value>Selle muutmine atribuut kuupäeva muutus järgmise atribuut lõpuks</value>
+  </data>
+	<data name="msgTo" xml:space="preserve">
+    <value>edasi</value>
+  </data>
+	<data name="cpChildOrganization" xml:space="preserve">
+    <value>Alluvate organisatsioonide</value>
+  </data>
+	<data name="cpDataValid" xml:space="preserve">
+    <value>Andmed kehtiva</value>
+  </data>
+	<data name="cpDescription" xml:space="preserve">
+    <value>Märkus</value>
+  </data>
+	<data name="cpManager" xml:space="preserve">
+    <value>Pea</value>
+  </data>
+	<data name="cpOwn" xml:space="preserve">
+    <value>Vara</value>
+  </data>
+	<data name="cpOwner" xml:space="preserve">
+    <value>Omanik</value>
+  </data>
+	<data name="cpParentOrganization" xml:space="preserve">
+    <value>Peaorganisatsioon</value>
+  </data>
+	<data name="cpRepresentative" xml:space="preserve">
+    <value>Esindaja</value>
+  </data>
+	<data name="cpSignRole" xml:space="preserve">
+    <value>Allkirjaõigus</value>
+  </data>
+	<data name="cpTo" xml:space="preserve">
+    <value>Kuni</value>
+  </data>
+	<data name="cpWorker" xml:space="preserve">
+    <value>Töötaja</value>
+  </data>
+	<data name="cpWorkPlace" xml:space="preserve">
+    <value>Kontor</value>
+  </data>
+	<data name="cpWorkSpace" xml:space="preserve">
+    <value>Töökoht</value>
+  </data>
+	<data name="elFirstSign" xml:space="preserve">
+    <value>Esimene allkiri</value>
+  </data>
+	<data name="elSecondSign" xml:space="preserve">
+    <value>Teine allkiri</value>
+  </data>
+	<data name="errDatesEx" xml:space="preserve">
+    <value>Kuupäev Koos ei saa olla rohkem kui kuupäeva Kuni</value>
+  </data>
+	<data name="lblAdditional" xml:space="preserve">
+    <value>lisa</value>
+  </data>
+	<data name="lblAdress" xml:space="preserve">
+    <value>Aadress</value>
+  </data>
+	<data name="lblCity" xml:space="preserve">
+    <value>Linn</value>
+  </data>
+	<data name="lblCityCode" xml:space="preserve">
+    <value>linna kood / piirkond</value>
+  </data>
+	<data name="lblContact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+	<data name="lblCountry" xml:space="preserve">
+    <value>Riik</value>
+  </data>
+	<data name="lblCountryCode" xml:space="preserve">
+    <value>Riigi kood</value>
+  </data>
+	<data name="lblDescriptionForm" xml:space="preserve">
+    <value>Kirjeldus</value>
+  </data>
+	<data name="lblForDependes" xml:space="preserve">
+    <value>Vastavalt töötaja</value>
+  </data>
+	<data name="lblForPosition" xml:space="preserve">
+    <value>Kontor</value>
+  </data>
+	<data name="lblForWorkPlace" xml:space="preserve">
+    <value>Töökohal</value>
+  </data>
+	<data name="lblIndex" xml:space="preserve">
+    <value>Indeks</value>
+  </data>
+	<data name="lblLocalNumber" xml:space="preserve">
+    <value>Kohalik number</value>
+  </data>
+	<data name="lblStateProv" xml:space="preserve">
+    <value>Maakond / riik</value>
+  </data>
+	<data name="tltContact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+	<data name="ttContactType" xml:space="preserve">
+    <value>Kontakti tüüp</value>
+  </data>
+	<data name="ttPerson" xml:space="preserve">
+    <value>Inimene</value>
+  </data>
+	<data name="errAdressValidation" xml:space="preserve">
+    <value>Aadress valdkonnas peab olema täidetud</value>
+  </data>
+	<data name="errAnotherContactValidation" xml:space="preserve">
+    <value>Valdkonnas tuleb täita Kontakt</value>
+  </data>
+	<data name="errContactTypeValidation" xml:space="preserve">
+    <value>Ergutuskontaktide tüübist tuleb täita</value>
+  </data>
+	<data name="errCountryValidation" xml:space="preserve">
+    <value>Field Riik peab olema täidetud</value>
+  </data>
+	<data name="errTelephoneCountryValidation" xml:space="preserve">
+    <value>Field Country code tuleb täita</value>
+  </data>
+	<data name="errTelephoneValidation" xml:space="preserve">
+    <value>Kohalik number väli peab olema täidetud</value>
+  </data>
+	<data name="errWorkValidation" xml:space="preserve">
+    <value>Field Seisukoht peab olema täidetud</value>
+  </data>
+	<data name="msgDelete" xml:space="preserve">
+    <value>Eemaldamine</value>
+  </data>
+	<data name="msgDeleteContactValidation" xml:space="preserve">
+    <value>Olete kindel, et soovite kustutada selle kontakti?</value>
+  </data>
+	<data name="errContactIDNotInPersonID" xml:space="preserve">
+    <value>Valitud kontakti ei kuulu valitud isik.</value>
+  </data>
+	<data name="errWrongParametrs" xml:space="preserve">
+    <value>Vale parameetrite möödas.</value>
+  </data>
+	<data name="cpNaturalAttributes" xml:space="preserve">
+    <value>Nägu üksikasjad</value>
+  </data>
+	<data name="cpNaturalBirthddate" xml:space="preserve">
+    <value>Sünnikuupäev</value>
+  </data>
+	<data name="cpNaturalContacts" xml:space="preserve">
+    <value>Sidemed</value>
+  </data>
+	<data name="cpNaturalCreateCaption" xml:space="preserve">
+    <value>Õppijal</value>
+  </data>
+	<data name="cpNaturalFIO" xml:space="preserve">
+    <value>Täielik nimi</value>
+  </data>
+	<data name="cpNaturalFirstNameLat" xml:space="preserve">
+    <value>Nimi Ladina</value>
+  </data>
+	<data name="cpNaturalFirstNameReg" xml:space="preserve">
+    <value>Nimi registreerimise kohta keeles</value>
+  </data>
+	<data name="cpNaturalNickName" xml:space="preserve">
+    <value>Salvesta</value>
+  </data>
+	<data name="cpNaturalPersonFemale" xml:space="preserve">
+    <value>Naissoost</value>
+  </data>
+	<data name="cpNaturalPersonMale" xml:space="preserve">
+    <value>Mees</value>
+  </data>
+	<data name="cpNaturalPersonTypes" xml:space="preserve">
+    <value>Tüübid nägu</value>
+  </data>
+	<data name="cpNaturalResponsible" xml:space="preserve">
+    <value>Eest vastutav ametnik</value>
+  </data>
+	<data name="cpNaturalSecondNameLat" xml:space="preserve">
+    <value>Perekonnanimi Ladina</value>
+  </data>
+	<data name="cpNaturalSecondNameReg" xml:space="preserve">
+    <value>Viimane registreerimise keeles</value>
+  </data>
+	<data name="cpNaturalSex" xml:space="preserve">
+    <value>Põrand</value>
+  </data>
+	<data name="cpNaturalTerritory" xml:space="preserve">
+    <value>Asukohariik</value>
+  </data>
+	<data name="cpNaturalThirdNameLat" xml:space="preserve">
+    <value>Lähis nimi Ladina</value>
+  </data>
+	<data name="cpNaturalThirdNameReg" xml:space="preserve">
+    <value>Lähis nime keeles registreerimise riigist</value>
+  </data>
+	<data name="errValidNaturalEmployeesCount" xml:space="preserve">
+    <value>Tuleb valitud vähemalt ühe laadimisega</value>
+  </data>
+	<data name="errValidNaturalGender" xml:space="preserve">
+    <value>Valdkonnas tuleb täita korrusel</value>
+  </data>
+	<data name="errValidNaturalNickName" xml:space="preserve">
+    <value>Salvesta valdkonnas peab olema täidetud</value>
+  </data>
+	<data name="errValidNaturalSecondName" xml:space="preserve">
+    <value>Field Name keeles registreerinud riigis peab olema täidetud</value>
+  </data>
+	<data name="errValidNaturalTerritory" xml:space="preserve">
+    <value>Kursuse registreerimise riik peab olema täidetud</value>
+  </data>
+	<data name="sCalledNumber" xml:space="preserve">
+    <value>helistades number</value>
+  </data>
+	<data name="sCallNumber" xml:space="preserve">
+    <value>nimetatakse arvu</value>
+  </data>
+	<data name="sNamePhone" xml:space="preserve">
+    <value>IP-telefoni nimi</value>
+  </data>
+	<data name="sStartCall" xml:space="preserve">
+    <value>Kõne aega</value>
+  </data>
+	<data name="lFilterSubEmpl" xml:space="preserve">
+    <value>Sealhulgas alluvatelt</value>
+  </data>
+	<data name="lPrint" xml:space="preserve">
+    <value>trükk</value>
+  </data>
+	<data name="sTitlePage" xml:space="preserve">
+    <value>Loetelu aktiivsed kõned</value>
+  </data>
+	<data name="lClearAdd" xml:space="preserve">
+    <value>Clear filter tingimused ja väärtused</value>
+  </data>
+	<data name="lPrintAdd" xml:space="preserve">
+    <value>Trüki täielikku nimekirja valitud töötajate</value>
+  </data>
+	<data name="lRefreshAdd" xml:space="preserve">
+    <value>Otsi töötajate võttes arvesse filter</value>
+  </data>
+	<data name="cpChildOrganizations" xml:space="preserve">
+    <value>Alluvate organisatsioonide</value>
+  </data>
+	<data name="cpNaturalJuridicalCaption" xml:space="preserve">
+    <value>Luua juriidiline isik</value>
+  </data>
+	<data name="cpOwners" xml:space="preserve">
+    <value>Omanikud</value>
+  </data>
+	<data name="cpParentOrganizations" xml:space="preserve">
+    <value>Juhtivad organisatsioonid</value>
+  </data>
+	<data name="cpWorkers" xml:space="preserve">
+    <value>Töötajad</value>
+  </data>
+	<data name="errValidNaturalTypesCount" xml:space="preserve">
+    <value>Tuleb valitud vähemalt ühe tüüpi inimene</value>
+  </data>
+	<data name="lblJuridicalAlias" xml:space="preserve">
+    <value>Alias</value>
+  </data>
+	<data name="lblJuridicalBankCompany" xml:space="preserve">
+    <value>Kas Bank</value>
+  </data>
+	<data name="lblJuridicalGovermentCompany" xml:space="preserve">
+    <value>Riigi organisatsioon</value>
+  </data>
+	<data name="lblJuridicalRegistrationDate" xml:space="preserve">
+    <value>Registreerimise kuupäeva</value>
+  </data>
+	<data name="errValidationJuridicalCompanyName" xml:space="preserve">
+    <value>Golf Short ettevõtte nimi peab olema täidetud</value>
+  </data>
+	<data name="errValidationJuridicalNickName" xml:space="preserve">
+    <value>Kasutajanime väli tuleb täita</value>
+  </data>
+	<data name="lblJuridicalFormCompanyName" xml:space="preserve">
+    <value>Ettevõtte nimi</value>
+  </data>
+	<data name="lblJuridicalFormFullCompanyName" xml:space="preserve">
+    <value>Full ettevõtte nimi</value>
+  </data>
+	<data name="lblJuridicalFormLatCompanyName" xml:space="preserve">
+    <value>Rahvusvahelise ettevõtte nimi</value>
+  </data>
+	<data name="lblJuridicalFormParentCompanyName" xml:space="preserve">
+    <value>Nimi emaettevõtja nimetavas</value>
+  </data>
+	<data name="lblJuridicalFormShortCompanyName" xml:space="preserve">
+    <value>Lühike ettevõtte nimi</value>
+  </data>
+	<data name="cpProcessCheatingPerson" xml:space="preserve">
+    <value>Loomise protsessi nägu</value>
+  </data>
+	<data name="errSuccessSave" xml:space="preserve">
+    <value>Edukalt salvestatud</value>
+  </data>
+	<data name="errWhileSave" xml:space="preserve">
+    <value>Salvestamine nurjus</value>
+  </data>
+	<data name="lblBtnGoToPerson" xml:space="preserve">
+    <value>Tagasi näkku</value>
+  </data>
+	<data name="lblBtnTryAgain" xml:space="preserve">
+    <value>Uuesti</value>
+  </data>
+	<data name="TM_Issued" xml:space="preserve">
+    <value>Emiteeritud</value>
+  </data>
+	<data name="TM_OutSimData" xml:space="preserve">
+    <value>Ei informatsiooni sim-kaardi aastateks!</value>
+  </data>
+	<data name="TM_SimInfo" xml:space="preserve">
+    <value>Teave SIM-kaardi</value>
+  </data>
+	<data name="TM_Withdrawn" xml:space="preserve">
+    <value>Tühistada</value>
+  </data>
+	<data name="QMsgDelSign" xml:space="preserve">
+    <value>Olete kindel, et soovite kustutada allkirjaga dokumendi?</value>
+  </data>
+	<data name="lblMtrName" xml:space="preserve">
+    <value>Nimi ja liik</value>
+  </data>
+	<data name="lblPurchasesTerm" xml:space="preserve">
+    <value>Term ostud</value>
+  </data>
+	<data name="lblPurposeOfAcquisition" xml:space="preserve">
+    <value>Eesmärk omandamine</value>
+  </data>
+	<data name="DossierEmployeeInfo_FullName_Label" xml:space="preserve">
+    <value>Töötaja</value>
+  </data>
+	<data name="DossierEmployeeInfo_Organization" xml:space="preserve">
+    <value>Organisatsioon</value>
+  </data>
+	<data name="EmployeeStatus_Fired" xml:space="preserve">
+    <value>vallandati</value>
+  </data>
+	<data name="EmployeeStatus_Guest" xml:space="preserve">
+    <value>külaline on külaline kaart</value>
+  </data>
+	<data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
+    <value>raseduspuhkus</value>
+  </data>
+	<data name="EmployeeStatus_Outlier" xml:space="preserve">
+    <value>autsaider</value>
+  </data>
+	<data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
+    <value>isiklik külaline</value>
+  </data>
+	<data name="lblCaptionIsGovermentOrganization" xml:space="preserve">
+    <value>See on riiklik organisatsioon</value>
+  </data>
+	<data name="lblCaptionNotIsGovermentOrganization" xml:space="preserve">
+    <value>See ei ole riigi organisatsiooni</value>
+  </data>
+	<data name="DossierEmployeeInfo_Contacts_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+	<data name="DossierEmployeeInfo_Contacts_Messanger" xml:space="preserve">
+    <value>Sõnumitooja</value>
+  </data>
+	<data name="DossierEmployeeInfo_Contacts_WorkPhone" xml:space="preserve">
+    <value>Äri telefon</value>
+  </data>
+	<data name="lblSpecifications" xml:space="preserve">
+    <value>Tehnilised omadused</value>
+  </data>
+	<data name="lblUnit" xml:space="preserve">
+    <value>mõõtühik</value>
+  </data>
+	<data name="msgHeadSignUnable" xml:space="preserve">
+    <value>Ei saa määrata üksuse juhi</value>
+  </data>
+	<data name="msgNoHeadSign" xml:space="preserve">
+    <value>Ei juhi allkiri
+üksus</value>
+  </data>
+	<data name="lblUnitShort" xml:space="preserve">
+    <value>üksus</value>
+  </data>
+	<data name="lblCargowaybills" xml:space="preserve">
+    <value>Veosaateleht</value>
+  </data>
+	<data name="lblOfficeMemorandums" xml:space="preserve">
+    <value>Memorandum</value>
+  </data>
+	<data name="lblPayment" xml:space="preserve">
+    <value>Makse</value>
+  </data>
+	<data name="msgDocs" xml:space="preserve">
+    <value>Dokumente</value>
+  </data>
+	<data name="lblAdd" xml:space="preserve">
+    <value>Lisama</value>
+  </data>
+	<data name="lblAddition" xml:space="preserve">
+    <value>lisamine</value>
+  </data>
+	<data name="lblRemoval" xml:space="preserve">
+    <value>eemaldamine</value>
+  </data>
+	<data name="DateFrom" xml:space="preserve">
+    <value>pärit </value>
+  </data>
+	<data name="lblChat" xml:space="preserve">
+    <value>Vestlus</value>
+  </data>
+	<data name="ContactControl_CommunicateWithContact" xml:space="preserve">
+    <value>Suhelda kontakt</value>
+  </data>
+	<data name="DoisserEmployeeInfo_OfiiceWorkPlace" xml:space="preserve">
+    <value>Büroo töökohal</value>
+  </data>
+	<data name="DossierEmployeeInfo_Organization_CoWorkingWith" xml:space="preserve">
+    <value>kohta koos:</value>
+  </data>
+	<data name="DossierEmployeeInfo_Organization_CoWorkingWithAnother" xml:space="preserve">
+    <value>vahetustega töö:</value>
+  </data>
+	<data name="DossierEmployeeInfo_Position" xml:space="preserve">
+    <value>Postitus</value>
+  </data>
+	<data name="DossierEmployeeInfo_PositionIsCombined" xml:space="preserve">
+    <value>ühendab postitus</value>
+  </data>
+	<data name="DossierEmployeeInfo_WorkPlace" xml:space="preserve">
+    <value>Töökoht</value>
+  </data>
+	<data name="PersonRoles_RoleName" xml:space="preserve">
+    <value>Roll</value>
+  </data>
+	<data name="DoisserEmployeeInfo_NoCommonEmpoyees" xml:space="preserve">
+    <value>Kontsernil ei ole töötajate</value>
+  </data>
+	<data name="DossierEmployeeInfo_CommonEmployees" xml:space="preserve">
+    <value>Töötajad, kes on grupis</value>
+  </data>
+	<data name="DossierEmployeeInfo_NotReplacement" xml:space="preserve">
+    <value>Töötaja puudub. Tema asetäitja:</value>
+  </data>
+	<data name="DossierEmployeeInfo_Remplacementive" xml:space="preserve">
+    <value>Töötaja asendab need kadunud personal:</value>
+  </data>
+	<data name="DossierEmployeeInfo_Replacement" xml:space="preserve">
+    <value>Töötaja puudub.</value>
+  </data>
+	<data name="lblBussinesProject" xml:space="preserve">
+    <value>äriprojekt</value>
+  </data>
+	<data name="errDoisserIDNotFound" xml:space="preserve">
+    <value>Mitte üle indetefikator inimene / töötaja.</value>
+  </data>
+	<data name="errDoisserNotAccessPerson" xml:space="preserve">
+    <value>Ei ligipääsu nägu.</value>
+  </data>
+	<data name="errDoisserWarrning" xml:space="preserve">
+    <value>Hoiatus!</value>
+  </data>
+	<data name="lblAccounts" xml:space="preserve">
+    <value>Atstsounts</value>
+  </data>
+	<data name="lblAddToPerson" xml:space="preserve">
+    <value>Lisa inimese</value>
+  </data>
+	<data name="lblBankingProvision" xml:space="preserve">
+    <value>Pangandusteenuste osutamine</value>
+  </data>
+	<data name="lblCatalogs" xml:space="preserve">
+    <value>Toode (tooted)</value>
+  </data>
+	<data name="lblDeletePerson" xml:space="preserve">
+    <value>Kustuta inimene</value>
+  </data>
+	<data name="lblDeleteReplacements" xml:space="preserve">
+    <value>Eemaldamine asendused</value>
+  </data>
+	<data name="lblDeleteReplacementsText" xml:space="preserve">
+    <value>Olete kindel, et soovite kustutada kõik asendama?</value>
+  </data>
+	<data name="lblDetailsJuridicalPerson" xml:space="preserve">
+    <value>Andmed juriidiline isik</value>
+  </data>
+	<data name="lblDetailsNaturalPerson" xml:space="preserve">
+    <value>Andmed füüsilise isiku</value>
+  </data>
+	<data name="lblDoisserAssign" xml:space="preserve">
+    <value>Määrama</value>
+  </data>
+	<data name="lblDoisserChecked" xml:space="preserve">
+    <value>Kontrollitud</value>
+  </data>
+	<data name="lblDoisserChengedBy" xml:space="preserve">
+    <value>Teha muudatusi</value>
+  </data>
+	<data name="lblDoisserFrom" xml:space="preserve">
+    <value>pärit</value>
+  </data>
+	<data name="lblDoisserNotChecked" xml:space="preserve">
+    <value>Kinnitamata</value>
+  </data>
+	<data name="lblDoisserTo" xml:space="preserve">
+    <value>kuni</value>
+  </data>
+	<data name="lblDoisserView" xml:space="preserve">
+    <value>Vaade</value>
+  </data>
+	<data name="lblEvidenceWholesaleImplementation" xml:space="preserve">
+    <value>Tõendeid hulgimüük rakendamine</value>
+  </data>
+	<data name="lblFindPersonDocument" xml:space="preserve">
+    <value>Otsi isik dokumentide arhiiv</value>
+  </data>
+	<data name="lblFindPersons" xml:space="preserve">
+    <value>Otsi inimest</value>
+  </data>
+	<data name="lblIncactiveRequsites" xml:space="preserve">
+    <value>Passiivne rekvisiidid</value>
+  </data>
+	<data name="lblManagers" xml:space="preserve">
+    <value>Juhid</value>
+  </data>
+	<data name="lblNaturalSexF" xml:space="preserve">
+    <value>Naissoost</value>
+  </data>
+	<data name="lblNaturalSexM" xml:space="preserve">
+    <value>Mees</value>
+  </data>
+	<data name="lblNaturalWorkPlaces" xml:space="preserve">
+    <value>tööKOHTADES</value>
+  </data>
+	<data name="lblNotIndicated" xml:space="preserve">
+    <value>Pole täpsustatud</value>
+  </data>
+	<data name="lblNotIndicateda" xml:space="preserve">
+    <value>Pole täpsustatud</value>
+  </data>
+	<data name="lblNotIndicatedo" xml:space="preserve">
+    <value>Pole täpsustatud</value>
+  </data>
+	<data name="lblRepresentatives" xml:space="preserve">
+    <value>Esindajad</value>
+  </data>
+	<data name="lblSorageServiceProviding" xml:space="preserve">
+    <value>Hoidmiseks teenused</value>
+  </data>
+	<data name="lblStores" xml:space="preserve">
+    <value>Kauplused</value>
+  </data>
+	<data name="msgDoisserCoworkers" xml:space="preserve">
+    <value>Oled kindel, et soovite määrata töötajate vahetustega töö koos c</value>
+  </data>
+	<data name="msgDeleteFromList" xml:space="preserve">
+    <value>Eemalda loendist?</value>
+  </data>
+	<data name="msgLinkDoc" xml:space="preserve">
+    <value>Määra dokumendi</value>
+  </data>
+	<data name="lblPartialPay" xml:space="preserve">
+    <value>osamakse</value>
+  </data>
+	<data name="msgWrongType" xml:space="preserve">
+    <value>Latest dokument ei vasta soovitud tüüpi kuju.</value>
+  </data>
+	<data name="ttAddShetDog" xml:space="preserve">
+    <value>Otkryvayet dialog svyazyvaniya dokumentov
+Avab dokumendid siduvad dialoogi</value>
+  </data>
+	<data name="msgQuestionDelete" xml:space="preserve">
+    <value>Kas soovid kustutada {0}?</value>
+  </data>
+	<data name="alertAlreadyLinked" xml:space="preserve">
+    <value>See dokument on juba seotud teise dokumenti. Lingi tüüp ei võimalda valida see</value>
+  </data>
+	<data name="signedAkt" xml:space="preserve">
+    <value>See dokument on allkirjastatud. Sa ei saa seda muuta</value>
+  </data>
+	<data name="DocDateNotExist" xml:space="preserve">
+    <value>Kuupäeva dokument ei ole täidetud!</value>
+  </data>
+	<data name="DocNumberNotExist" xml:space="preserve">
+    <value>Mitte täielikult dokumendi number!</value>
+  </data>
+	<data name="ClearAllDoc" xml:space="preserve">
+    <value>Kas soovite kustutada kõik andmed dokumendi?</value>
+  </data>
+	<data name="AskRevertDoc" xml:space="preserve">
+    <value>Kas soovite naasta dokumendi algsesse olekusse?</value>
+  </data>
+	<data name="lblVariablePartDoc" xml:space="preserve">
+    <value>muutuva osa dokumendist</value>
+  </data>
+	<data name="lUserLogo" xml:space="preserve">
+    <value>Näita logo</value>
+  </data>
+	<data name="cmdCancel" xml:space="preserve">
+    <value>Loobu</value>
+  </data>
+	<data name="cmdDelete" xml:space="preserve">
+    <value>Kustuta</value>
+  </data>
+	<data name="cmdOK" xml:space="preserve">
+    <value>Okei</value>
+  </data>
+	<data name="cmdUncheck" xml:space="preserve">
+    <value>Tühjendage kõik valikud</value>
+  </data>
+	<data name="cmdWorkplaceOther" xml:space="preserve">
+    <value>Muu töökoht</value>
+  </data>
+	<data name="CONFIRM_StdCaptionNo" xml:space="preserve">
+    <value>Aga</value>
+  </data>
+	<data name="CONFIRM_StdCaptionYes" xml:space="preserve">
+    <value>Jah</value>
+  </data>
+	<data name="CONFIRM_StdMessage" xml:space="preserve">
+    <value>Kas olete kindel, et soovite selle kirje kustutada?</value>
+  </data>
+	<data name="CONFIRM_StdTitle" xml:space="preserve">
+    <value>Sõnum</value>
+  </data>
+	<data name="DIRECTIONS_FORM_AG_Title" xml:space="preserve">
+    <value>Valige täiendavad õigused:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_CF_Title" xml:space="preserve">
+    <value>Valige jagatud kaustad:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_Mail_Title" xml:space="preserve">
+    <value>Valige postkasti nimi:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_Role_Title" xml:space="preserve">
+    <value>Täpsustage töötaja roll ettevõttes:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_Type_Title" xml:space="preserve">
+    <value>Määrake töötaja juurdepääs isikutele:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_WP_Title" xml:space="preserve">
+    <value>Valige töötaja töökoht:</value>
+  </data>
+	<data name="Vacation_Company" xml:space="preserve">
+    <value>Organisatsioon</value>
+  </data>
+	<data name="Vacation_Days" xml:space="preserve">
+    <value>kestus</value>
+  </data>
+	<data name="Vacation_Director" xml:space="preserve">
+    <value>organisatsiooni juhile</value>
+  </data>
+	<data name="Vacation_From" xml:space="preserve">
+    <value>puhkuse esimene päev</value>
+  </data>
+	<data name="Vacation_Person" xml:space="preserve">
+    <value>Töötajast</value>
+  </data>
+	<data name="Vacation_To" xml:space="preserve">
+    <value>puhkuse viimane päev</value>
+  </data>
+	<data name="Vacation_Type" xml:space="preserve">
+    <value>puhkuse tüüp</value>
+  </data>
+	<data name="Vacation_FirstWorkingDay" xml:space="preserve">
+    <value>Tööpäev</value>
+  </data>
+	<data name="Vacation_SubDescription" xml:space="preserve">
+    <value>Märkus</value>
+  </data>
+	<data name="Vacation_SubEmployee" xml:space="preserve">
+    <value>Töötaja</value>
+  </data>
+	<data name="Vacation_SubFrom" xml:space="preserve">
+    <value>koos</value>
+  </data>
+	<data name="Vacation_SubTo" xml:space="preserve">
+    <value>by</value>
+  </data>
+	<data name="Vacation_ErrSubDescription" xml:space="preserve">
+    <value>Soovi kirjutada märge väljale.</value>
+  </data>
+	<data name="Vacation_ErrSubEmployee" xml:space="preserve">
+    <value>Ei asenda töötaja välja.</value>
+  </data>
+	<data name="Vacation_ErrSubFrom" xml:space="preserve">
+    <value>Asutuse alguskuupäeva pole määratud.</value>
+  </data>
+	<data name="Vacation_ErrSubTitle" xml:space="preserve">
+    <value>Töötaja asendamise loomise viga</value>
+  </data>
+	<data name="Vacation_ErrSubTo" xml:space="preserve">
+    <value>Asenduse lõppkuupäeva pole määratud.</value>
+  </data>
+	<data name="Vacation_ErrSubDates" xml:space="preserve">
+    <value>Asenduse lõppkuupäev peab olema suurem kui asendamise alguskuupäev.</value>
+  </data>
+	<data name="Vacation_ErrSubDocNotSaved" xml:space="preserve">
+    <value>Dokumenti tuleb salvestada!</value>
+  </data>
+	<data name="Vacation_DocTitle" xml:space="preserve">
+    <value>Palun esitage:</value>
+  </data>
+	<data name="Vacation_NtfDateInPast" xml:space="preserve">
+    <value>juba möödunud kuupäev</value>
+  </data>
+	<data name="Vacation_NtfDateLessThatDateDoc" xml:space="preserve">
+    <value>kuupäev on väiksem kui dokumendi kuupäev</value>
+  </data>
+	<data name="Vacation_NtfDatesAreNotValid" xml:space="preserve">
+    <value>puhkuse lõppkuupäev ei tohi olla väiksem kui puhkuse alguskuupäev.</value>
+  </data>
+	<data name="Vacation_NtfNoFirstSign" xml:space="preserve">
+    <value>ei ole õigust määratud organisatsiooni esimesele allkirjale</value>
+  </data>
+	<data name="Vacation_NtfNotExistsOnDocDate" xml:space="preserve">
+    <value>dokumendi kuupäeval ei ole</value>
+  </data>
+	<data name="Vacation_NtfPersonIsNotAvailable" xml:space="preserve">
+    <value>inimene pole saadaval</value>
+  </data>
+	<data name="Vacation_NtfWorkStaff" xml:space="preserve">
+    <value>ei vasta määratud organisatsiooni personaliarvestusele</value>
+  </data>
+	<data name="Vacation_SubDoc" xml:space="preserve">
+    <value>dokument {0} alates {1}</value>
+  </data>
+	<data name="Vacation_SubDates" xml:space="preserve">
+    <value>alates {0} kuni {1}</value>
+  </data>
+	<data name="Vacation_SubTitle" xml:space="preserve">
+    <value>Dokumendi asendused</value>
+  </data>
+	<data name="Vacation_ErrSubDb" xml:space="preserve">
+    <value>Asenduse salvestamine andmebaasi ei õnnestunud.</value>
+  </data>
+	<data name="Vacation_ErrSubDocDates" xml:space="preserve">
+    <value>Puhkuse algus- ja lõppkuupäeva pole määratud, mille kohaselt luuakse uus asendus.</value>
+  </data>
+	<data name="Vacation_JsResources" xml:space="preserve">
+    <value>"BtnSave": "Salvesta",
+"BtnCancel": "tühistamine",
+"BtnDelete": "Kustuta",
+"BtnYes": "Jah",
+"BtnNo": "Ei",
+"From": "koos&amp;nbsp;",
+"To": "&amp;nbsp;",
+"SubTitle": "Töötajate asendamine",
+"SubDelete": "Kustutada välja asendus?",
+"SubDeleteTitle": "Kustuta asendamine",
+"SubDeleteAlt": "Kustuta"</value>
+  </data>
+	<data name="Vacation_SubDocFrom" xml:space="preserve">
+    <value>dokument alates {0}</value>
+  </data>
+	<data name="Vacation_ErrSubDates30" xml:space="preserve">
+    <value>Asendusaeg peaks olema vahemikus 1 kuni 30 päeva.</value>
+  </data>
+	<data name="Vacation_AddSubFormAlt" xml:space="preserve">
+    <value>Lisa</value>
+  </data>
+	<data name="Vacation_AddSubFormTitle" xml:space="preserve">
+    <value>Lisa asendus</value>
+  </data>
+	<data name="cmdAdd" xml:space="preserve">
+    <value>Lisama</value>
+  </data>
+	<data name="cmdClearTitle" xml:space="preserve">
+    <value>Kustuta filter ja filtri tulemus</value>
+  </data>
+	<data name="cmdCloseTitleApp" xml:space="preserve">
+    <value>Sulgege rakendus</value>
+  </data>
+	<data name="cmdRefreshTitle" xml:space="preserve">
+    <value>Värskenda nimekirja</value>
+  </data>
+	<data name="ROLES_cmdAddTitle" xml:space="preserve">
+    <value>Avage töötaja rolli lisamise vorm</value>
+  </data>
+	<data name="ROLES_TitleAddRole" xml:space="preserve">
+    <value>Töötaja rolli lisamine</value>
+  </data>
+	<data name="cmdClose" xml:space="preserve">
+		<value>Sulge</value>
+	</data>
+	<data name="ROLES_AppTitle" xml:space="preserve">
+		<value>Rollide haldamine</value>
+	</data>
+	<data name="ROLES_labelRole" xml:space="preserve">
+		<value>Role</value>
+	</data>
+	<data name="ROLES_labelEmplInRole" xml:space="preserve">
+		<value>Töötajad rollis</value>
+	</data>
+	<data name="ROLES_labelEmplPerson" xml:space="preserve">
+		<value>Töötajatele kättesaadavad organisatsioonid</value>
+	</data>
+	<data name="ROLES_labelDeleteEmplRole" xml:space="preserve">
+		<value>Eemaldage töötaja rollist</value>
+	</data>
+	<data name="cmdAddTitle" xml:space="preserve">
+		<value>Lisa kanne</value>
+	</data>
+	<data name="ROLES_msgNeedRole" xml:space="preserve">
+		<value>Täpsustage töötaja rolli!</value>
+	</data>
+	<data name="ROLES_msgNeedEmpl" xml:space="preserve">
+		<value>Palun valige töötaja!</value>
+	</data>
+	<data name="ROLES_msgConfirmAddAll" xml:space="preserve">
+		<value>Kas olete kindel, et soovite selle töötaja rolli kõigis ettevõtetes anda?</value>
+	</data>
+	<data name="_Msg_RequiredFields" xml:space="preserve">
+		<value>Kohustuslikud väljad ei ole täidetud</value>
+	</data>
+	<data name="lblOrganization" xml:space="preserve">
+		<value>Organisatsioon</value>
+	</data>
+	<data name="lblBProject" xml:space="preserve">
+		<value>Äriprojekt</value>
+	</data>
+	<data name="ROLES_TitleEditRole" xml:space="preserve">
+		<value>Töötaja rolli muutmine</value>
+	</data>
+	<data name="ROLES_msgSetRoleOrOrganization" xml:space="preserve">
+		<value>Määrake roll või organisatsioon!</value>
+	</data>
+	<data name="ROLES_RolesList" xml:space="preserve">
+		<value>Rollide loend</value>
+	</data>
+	<data name="ROLES_FolderList" xml:space="preserve">
+		<value>Avalike kataloogide loend</value>
+	</data>
+	<data name="ROLES_labelChooseFolders" xml:space="preserve">
+		<value>Valige valitud kaustad</value>
+	</data>
+	<data name="cmdEdit" xml:space="preserve">
+		<value>Muuta</value>
+	</data>
+	<data name="lblBrowse" xml:space="preserve">
+		<value>sirvige</value>
+	</data>
+	<data name="lblEditable" xml:space="preserve">
+		<value>muudatused</value>
+	</data>
+	<data name="COMET_Title" xml:space="preserve">
+		<value>Koostööinfo</value>
+	</data>
+	<data name="cAccountUnknown" xml:space="preserve">
+		<value>Konto number pole teada</value>
+	</data>
+	<data name="cContainsAllOrdered" xml:space="preserve">
+		<value>Sisaldab antud järjekorras sõnu</value>
+	</data>
+	<data name="cmdAddToReport" xml:space="preserve">
+		<value>Lisa kontole</value>
+	</data>
+	<data name="cmdDisplayReport" xml:space="preserve">
+		<value>Näita aruannet</value>
+	</data>
+	<data name="cmdExportTo1S" xml:space="preserve">
+		<value>Eksport 1C-ni</value>
+	</data>
+	<data name="cNotContainAll" xml:space="preserve">
+		<value>Ei sisalda ühtegi sõna</value>
+	</data>
+	<data name="cNotContainsAllOrdered" xml:space="preserve">
+		<value>Ei sisalda sõnu antud järjekorras</value>
+	</data>
+	<data name="lblCodeField" xml:space="preserve">
+		<value>Dokumendi koodiväli</value>
+	</data>
+	<data name="lblColumn" xml:space="preserve">
+		<value>Tabeli veerg</value>
+	</data>
+	<data name="lblEntity" xml:space="preserve">
+		<value>Loogilise üksuse välja</value>
+	</data>
+	<data name="lblField" xml:space="preserve">
+		<value>Dokumendi väli</value>
+	</data>
+	<data name="_Msg_СрокДоговораФактура" xml:space="preserve">
+		<value>Lepingu tähtaeg ei vasta arve kuupäevale</value>
+	</data>
+	<data name="lblFieldEn" xml:space="preserve">
+		<value>Dokumendiväljavõte (english)</value>
+	</data>
+	<data name="lblQuantity" xml:space="preserve">
+		<value>Number of</value>
+	</data>
+	<data name="listEmpl" xml:space="preserve">
+		<value>Töötajate nimekiri</value>
+	</data>
+	<data name="msgOsnAttention2Factura" xml:space="preserve">
+		<value>Arve alusel dokumendina märkisite dokumendi</value>
+	</data>
+	<data name="msgOsnAttention4Factura" xml:space="preserve">
+		<value>Arve ja põhidokumentide positsioonid on ÜLDISED!</value>
+	</data>
+	<data name="MsgSchetOsnovanieData" xml:space="preserve">
+		<value>Alusdokument on kaubaarve kuupäevast pikem</value>
+	</data>
+	<data name="msgSimpleDelSign" xml:space="preserve">
+		<value>Kustuta allkiri {0}?</value>
+	</data>
+	<data name="ntf_DocIsNotSigned" xml:space="preserve">
+		<value>Dokumendi elektrooniline vorm ei ole allkirjastatud</value>
+	</data>
+	<data name="STORE_Branch" xml:space="preserve">
+		<value>Filiaali asukoht</value>
+	</data>
+	<data name="STORE_CreateStoreTitle" xml:space="preserve">
+		<value>Lao loomine</value>
+	</data>
+	<data name="STORE_Keeper" xml:space="preserve">
+		<value>The Guardian</value>
+	</data>
+	<data name="STORE_NotValid" xml:space="preserve">
+		<value>Ladu ei toiminud {0}</value>
+	</data>
+	<data name="STORE_NotValidAfter" xml:space="preserve">
+		<value>Laopood ei töötanud pärast</value>
+	</data>
+	<data name="STORE_NotValidBefore" xml:space="preserve">
+		<value>Laopood ei tööta enne</value>
+	</data>
+	<data name="STORE_ReportDeleteFrom" xml:space="preserve">
+		<value>Eemalda&amp;nbsp;aruandest</value>
+	</data>
+	<data name="STORE_ReportType" xml:space="preserve">
+		<value>Aruande tüüp</value>
+	</data>
+	<data name="STORE_Resource" xml:space="preserve">
+		<value>Ressurss</value>
+	</data>
+	<data name="STORE_SelectReportType" xml:space="preserve">
+		<value>Määrake aruande tüüp ladude kaupa.</value>
+	</data>
+	<data name="STORE_StoreReportLegend" xml:space="preserve">
+		<value>Aruannete haldamine</value>
+	</data>
+	<data name="STORE_Stores" xml:space="preserve">
+		<value>Ladu</value>
+	</data>
+	<data name="STORE_Text" xml:space="preserve">
+		<value>Otsi stringi</value>
+	</data>
+	<data name="STORE_Valid" xml:space="preserve">
+		<value>Ladu ei toiminud {0}</value>
+	</data>
+	<data name="msgTwiceDocCorrect" xml:space="preserve">
+		<value>Viga! Valitud dokumenti parandatakse samaaegselt mitmete dokumentide abil.</value>
+	</data>
+	<data name="MSG_ChosenCorrected" xml:space="preserve">
+		<value>Parandatud dokumendina määratlesite dokumendi "{0}"!</value>
+	</data>
+	<data name="MSG_ConfirmUnlinkCorrected" xml:space="preserve">
+		<value>Kas olete kindel, et soovite kustutada parandatud dokumendi lingi?</value>
+	</data>
+	<data name="MSG_CorrectedWith" xml:space="preserve">
+		<value>Dokument on parandatud</value>
+	</data>
+	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
+		<value>Selle operatsiooni tulemuseks on KÕIK andmed praegusest dokumendist
+viiakse vastavusse parandatud dokumendiga.
+
+Kas olete kindel, et soovite seda operatsiooni teha?</value>
+	</data>
+	<data name="MSG_DocAlreadyCorrected" xml:space="preserve">
+		<value>Valitud dokument "{0}" on juba dokumendis "{1}" parandatud</value>
+	</data>
+	<data name="MSG_LastDocAsCorrected" xml:space="preserve">
+		<value>Viimane asetatakse parandava alusena.</value>
+	</data>
+	<data name="ntf_PersonIsNotAvailable" xml:space="preserve">
+		<value>See isik ei ole kättesaadav</value>
+	</data>
+	<data name="STORE_Account" xml:space="preserve">
+		<value>Konto number</value>
+	</data>
+	<data name="STORE_AccountUnknown" xml:space="preserve">
+		<value>Konto number pole teada</value>
+	</data>
+	<data name="STORE_Bank" xml:space="preserve">
+		<value>Pank</value>
+	</data>
+	<data name="STORE_ConfirmCancel" xml:space="preserve">
+		<value>Kas soovite eemaldada kõik tehtud muudatused?</value>
+	</data>
+	<data name="STORE_ConfirmClose" xml:space="preserve">
+		<value>Teie muudatused pole salvestatud. Sule rakendus?</value>
+	</data>
+	<data name="STORE_ConfirmRefresh" xml:space="preserve">
+		<value>Teie muudatused pole salvestatud. Laadige üles viimati salvestatud parameetrid laos?</value>
+	</data>
+	<data name="STORE_Currency" xml:space="preserve">
+		<value>Valuuta</value>
+	</data>
+	<data name="STORE_DatesAreNotValid" xml:space="preserve">
+		<value>Lao toimingu lõppkuupäev ei tohiks olla varasem kui meetme alguskuupäev!</value>
+	</data>
+	<data name="STORE_Department" xml:space="preserve">
+		<value>Eraldamine</value>
+	</data>
+	<data name="STORE_EditStoreTitle" xml:space="preserve">
+		<value>Muutke lao seadeid</value>
+	</data>
+	<data name="STORE_FailedAddToReports" xml:space="preserve">
+		<value>Warehouse'i aruannetesse laod ei saanud lisada. {0}</value>
+	</data>
+	<data name="STORE_FailedMoveStores" xml:space="preserve">
+		<value>Valitud ladude teisaldamine ebaõnnestus. {0}</value>
+	</data>
+	<data name="STORE_FailedRemoveFromReports" xml:space="preserve">
+		<value>Ladu kustutamine Warehouse'i raportitest ebaõnnestus. {0}</value>
+	</data>
+	<data name="STORE_FailedRemoveStores" xml:space="preserve">
+		<value>Valitud laod on kustutatud ebaõnnestunud. {0}</value>
+	</data>
+	<data name="STORE_FailedSave" xml:space="preserve">
+		<value>Lao ei saanud salvestada. {0}</value>
+	</data>
+	<data name="STORE_FromInFuture" xml:space="preserve">
+		<value>Lao toimingu lõppkuupäev ei tohi olla varem kui meede alguskuupäev!</value>
+	</data>
+	<data name="STORE_ManagerDepartment" xml:space="preserve">
+		<value>Juhi jagunemine</value>
+	</data>
+	<data name="STORE_NoStoresToMove" xml:space="preserve">
+		<value>Liikumiseks pole ühtegi laod välja valitud.</value>
+	</data>
+	<data name="STORE_PageSettings" xml:space="preserve">
+		<value>Kohanda</value>
+	</data>
+	<data name="STORE_Queries" xml:space="preserve">
+		<value>Täiendav soov</value>
+	</data>
+	<data name="STORE_queryFilterAnd" xml:space="preserve">
+		<value>Ja</value>
+	</data>
+	<data name="STORE_queryFilterOr" xml:space="preserve">
+		<value>VÕI</value>
+	</data>
+	<data name="STORE_ReportInsertAfter" xml:space="preserve">
+		<value>Sisesta&amp;nbsp;pärast&amp;nbsp;joont</value>
+	</data>
+	<data name="STORE_ReportMoveToBegin" xml:space="preserve">
+		<value>Liigub&amp;nbsp;aruande&amp;nbsp;algusesse</value>
+	</data>
+	<data name="STORE_ReportMoveToEnd" xml:space="preserve">
+		<value>Liigu&amp;nbsp;aruande&amp;nbsp;lõpuni</value>
+	</data>
+	<data name="STORE_ReportSelected" xml:space="preserve">
+		<value>Valitud laod</value>
+	</data>
+	<data name="STORE_ReportTitle" xml:space="preserve">
+		<value>Laovaruande planeerimine</value>
+	</data>
+	<data name="STORE_SearchEdit" xml:space="preserve">
+		<value>Muuda otsingutingimusi</value>
+	</data>
+	<data name="STORE_SetupFields" xml:space="preserve">
+		<value>Kuva valitud väljad</value>
+	</data>
+	<data name="STORE_StoreReport" xml:space="preserve">
+		<value>Laovaruande planeerimine</value>
+	</data>
+	<data name="STORE_StoreReportType" xml:space="preserve">
+		<value>Esitatakse raportites</value>
+	</data>
+	<data name="STORE_StoresReportChanged" xml:space="preserve">
+		<value>Laovaruannet on muudetud.</value>
+	</data>
+	<data name="STORE_Title" xml:space="preserve">
+		<value>Laopinna otsimine</value>
+	</data>
+	<data name="STORE_ToInPast" xml:space="preserve">
+		<value>Kuupäev on juba möödas</value>
+	</data>
+	<data name="STORE_ValidFromIsNull" xml:space="preserve">
+		<value>Laovaru alguskuupäev pole määratud</value>
+	</data>
+	<data name="STORE_ValidFromToIsNull" xml:space="preserve">
+		<value>Ühtegi tegevuskuupäeva pole määratud</value>
+	</data>
+	<data name="STORE_ValidFromToIsNullDescription" xml:space="preserve">
+		<value>Lao algus- ja lõppkuupäevad pole määratud</value>
+	</data>
+	<data name="STORE_ValidPeriodFilter" xml:space="preserve">
+		<value>Toimunud määratud kuupäeval</value>
+	</data>
+	<data name="STORE_ValidPeriodFilterBegin" xml:space="preserve">
+		<value>Ei kehti kuni selle kuupäevani</value>
+	</data>
+	<data name="STORE_ValidPeriodFilterEnd" xml:space="preserve">
+		<value>Ebaõnnestub pärast määratud kuupäeva</value>
+	</data>
+	<data name="STORE_ValidPeriodFilterNotWorking" xml:space="preserve">
+		<value>Ebaefektiivne määratud kuupäeval</value>
+	</data>
+	<data name="STORE_ValidToIsNull" xml:space="preserve">
+		<value>Lao lõpp pole paigaldatud</value>
+	</data>
+	<data name="titleCancel" xml:space="preserve">
+		<value>Loobu</value>
+	</data>
+	<data name="TM_Wait" xml:space="preserve">
+		<value>Palun oodake. Andmete laadimine ...</value>
+	</data>
+	<data name="STORE_JsResources" xml:space="preserve">
+		<value>"MsgRowNotFound": "Määratud stringi ei leitud!",
+    "MsgDeleteSelectedStoresConfirm": "Kas kustutada aruandest valitud varud?",
+    "MsgSaveConfirm": "Teie muudatused pole salvestatud. Salvesta tehtud muudatused?",
+    "MsgCloseConfirm": "Teie muudatused pole salvestatud. Sulgege rakendus?",
+    "MsgCancelConfirm": "Loobu kõikidest tehtud muudatustest?",
+    "BtnYes":"Jah",
+    "BtnNo": "Ei",
+    "BtnCancel": "Loobu",
+    "BtnSave": "Salvesta",
+    "SrchDisplayDescr": "Salvesta",
+    "SrchDisplayFields": "Muuda otsingutingimusi",
+    "SetupFields": "Lehe seadete muutmine"</value>
+	</data>
+	<data name="lblNewMessage" xml:space="preserve">
+		<value>Uus sõnum on saabunud.</value>
+	</data>
+	<data name="lblTogetherWork" xml:space="preserve">
+		<value>Töötage koos</value>
+	</data>
+	<data name="cmdSendMessage" xml:space="preserve">
+		<value>Saada sõnum</value>
+	</data>
+	<data name="lblWriteMessage" xml:space="preserve">
+		<value>Kirjuta uus sõnum</value>
+	</data>
+</root>

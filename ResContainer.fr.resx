@@ -1,0 +1,3112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Vacation_Company" xml:space="preserve">
+<value>Organisation</value>
+</data>
+	<data name="Vacation_Days" xml:space="preserve">
+<value>Durée</value>
+</data>
+	<data name="Vacation_Director" xml:space="preserve">
+<value>À la tête de l'organisation</value>
+</data>
+	<data name="Vacation_From" xml:space="preserve">
+<value>Premier jour de vacances</value>
+</data>
+	<data name="Vacation_Person" xml:space="preserve">
+<value>D'un employé</value>
+</data>
+	<data name="Vacation_To" xml:space="preserve">
+<value>Le dernier jour de vacances</value>
+</data>
+	<data name="Vacation_Type" xml:space="preserve">
+<value>Type de vacances</value>
+</data>
+	<data name="Vacation_FirstWorkingDay" xml:space="preserve">
+<value>Jour de travail</value>
+</data>
+	<data name="Vacation_SubDescription" xml:space="preserve">
+<value>Note</value>
+</data>
+	<data name="Vacation_SubEmployee" xml:space="preserve">
+<value>Employé</value>
+</data>
+	<data name="Vacation_SubFrom" xml:space="preserve">
+<value>avec</value>
+</data>
+	<data name="Vacation_SubTo" xml:space="preserve">
+<value>par</value>
+</data>
+	<data name="Vacation_ErrSubDescription" xml:space="preserve">
+<value>Vous voulez écrire une raison dans le champ de note.</value>
+</data>
+	<data name="Vacation_ErrSubEmployee" xml:space="preserve">
+<value>Aucun employé de remplacement n'est sélectionné.</value>
+</data>
+	<data name="Vacation_ErrSubFrom" xml:space="preserve">
+<value>La date de début du remplacement n'est pas spécifiée.</value>
+</data>
+	<data name="Vacation_ErrSubTitle" xml:space="preserve">
+<value>Erreur lors de la création du remplacement d'un employé</value>
+</data>
+	<data name="Vacation_ErrSubTo" xml:space="preserve">
+<value>La date de fin du remplacement n'est pas spécifiée.</value>
+</data>
+	<data name="Vacation_ErrSubDates" xml:space="preserve">
+<value>La date de fin de la substitution doit être supérieure à la date de début de la substitution.</value>
+</data>
+	<data name="Vacation_ErrSubDocNotSaved" xml:space="preserve">
+<value>Le document doit être sauvegardé!</value>
+</data>
+	<data name="Vacation_DocTitle" xml:space="preserve">
+<value>Veuillez fournir:</value>
+</data>
+	<data name="Vacation_NtfDateInPast" xml:space="preserve">
+<value>date déjà passée</value>
+</data>
+	<data name="Vacation_NtfDateLessThatDateDoc" xml:space="preserve">
+<value>la date est inférieure à la date du document</value>
+</data>
+	<data name="Vacation_NtfDatesAreNotValid" xml:space="preserve">
+<value>la date de fin du congé ne doit pas être inférieure à la date de début du congé.</value>
+</data>
+	<data name="Vacation_NtfNoFirstSign" xml:space="preserve">
+<value>n'a pas droit à la première signature dans l'organisation spécifiée</value>
+</data>
+	<data name="Vacation_NtfNotExistsOnDocDate" xml:space="preserve">
+<value>n'existe pas à la date du document</value>
+</data>
+	<data name="Vacation_NtfPersonIsNotAvailable" xml:space="preserve">
+<value>une personne n'est pas disponible</value>
+</data>
+	<data name="Vacation_NtfWorkStaff" xml:space="preserve">
+<value>ne correspond pas au planning de recrutement de l'organisation spécifiée</value>
+</data>
+	<data name="Vacation_SubDoc" xml:space="preserve">
+<value>document {0} à partir de {1}</value>
+</data>
+	<data name="Vacation_SubDates" xml:space="preserve">
+<value>de {0} à {1}</value>
+</data>
+	<data name="Vacation_SubTitle" xml:space="preserve">
+<value>Substitutions de document</value>
+</data>
+	<data name="Vacation_ErrSubDb" xml:space="preserve">
+<value>Impossible d'enregistrer la substitution dans la base de données.</value>
+</data>
+	<data name="Vacation_ErrSubDocDates" xml:space="preserve">
+<value>Les dates de début et de fin des vacances ne sont pas définies, en fonction de la création d'une nouvelle substitution.</value>
+</data>
+	<data name="Vacation_JsResources" xml:space="preserve">
+<value>"BtnSave": "Enregistrer",
+"BtnCancel": "Annuler",
+"BtnDelete": "Supprimer",
+"BtnYes": "Oui",
+"BtnNo": "Non",
+"From": "avec&amp;nbsp;",
+"To": "par&amp;nbsp;",
+"SubTitle": "Substitution d'employé",
+"SubDelete": "Supprimer le remplacement?",
+"SubDeleteTitle": "Supprimer le remplacement",
+"SubDeleteAlt": "Supprimer"</value>
+</data>
+	<data name="Vacation_SubDocFrom" xml:space="preserve">
+<value>Document de {0}</value>
+</data>
+	<data name="Vacation_ErrSubDates30" xml:space="preserve">
+<value>Le délai de remplacement doit être compris entre 1 et 30 jours.</value>
+</data>
+	<data name="Vacation_AddSubFormAlt" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+	<data name="Vacation_AddSubFormTitle" xml:space="preserve">
+    <value>Ajouter un remplacement</value>
+  </data>
+	<data name="newDoc" xml:space="preserve">
+		<value>Nouveau document</value>
+	</data>
+	<data name="generatingNumberOfDocument" xml:space="preserve">
+		<value>sera généré en économisant</value>
+	</data>
+	<data name="lblDocNumber" xml:space="preserve">
+		<value>Nombre</value>
+	</data>
+	<data name="lblDate" xml:space="preserve">
+		<value>Date</value>
+	</data>
+	<data name="cmdSignFinal" xml:space="preserve">
+		<value>terminé-travail terminé</value>
+	</data>
+	<data name="cmdSign" xml:space="preserve">
+		<value>signer</value>
+	</data>
+	<data name="msgSign" xml:space="preserve">
+		<value>Signer</value>
+	</data>
+	<data name="cmdRefresh" xml:space="preserve">
+		<value>Rafraîchir</value>
+	</data>
+	<data name="cmdSave" xml:space="preserve">
+		<value>Sauvegarder</value>
+	</data>
+	<data name="sName" xml:space="preserve">
+		<value>Nom</value>
+	</data>
+	<data name="ppDtlCol2" xml:space="preserve">
+		<value>Description</value>
+	</data>
+	<data name="lblDescriptionForm" xml:space="preserve">
+		<value>Description</value>
+	</data>
+	<data name="ROLES_FolderList" xml:space="preserve">
+		<value>Liste des dossiers publics</value>
+	</data>
+	<data name="ROLES_labelChooseFolders" xml:space="preserve">
+		<value>Sélectionnez les dossiers sélectionnés</value>
+	</data>
+	<data name="ppBtnChoose" xml:space="preserve">
+		<value>Sélectionnez</value>
+	</data>
+	<data name="cmdRefreshTitle" xml:space="preserve">
+		<value>Actualiser la liste</value>
+	</data>
+	<data name="cmdCloseTitleApp" xml:space="preserve">
+		<value>Fermer l'application</value>
+	</data>
+	<data name="cmdClose" xml:space="preserve">
+		<value>Fermer</value>
+	</data>
+	<data name="STORE_Edit" xml:space="preserve">
+		<value>Modifier</value>
+	</data>
+	<data name="cmdEdit" xml:space="preserve">
+		<value>Modifier</value>
+	</data>
+	<data name="lblBrowse" xml:space="preserve">
+		<value>feuilleter</value>
+	</data>
+	<data name="lblEditable" xml:space="preserve">
+		<value>modifications</value>
+	</data>
+	<data name="COMET_Title" xml:space="preserve">
+		<value>Informations sur la collaboration</value>
+	</data>
+	<data name="PersonRoles_RoleName" xml:space="preserve">
+		<value>Rôles</value>
+	</data>
+	<data name="ROLES_cmdAddTitle" xml:space="preserve">
+		<value>Administration des rôles</value>
+	</data>
+	<data name="ROLES_AppTitle" xml:space="preserve">
+		<value>Administration des rôles</value>
+	</data>
+	<data name="ROLES_labelEmplInRole" xml:space="preserve">
+		<value>Employés dans le rôle</value>
+	</data>
+	<data name="ROLES_labelEmplPerson" xml:space="preserve">
+		<value>Organisations disponibles pour l'employé</value>
+	</data>
+	<data name="ROLES_labelDeleteEmplRole" xml:space="preserve">
+		<value>Supprimer un rôle d'employé</value>
+	</data>
+	<data name="ROLES_labelRole" xml:space="preserve">
+		<value>Le rôle</value>
+	</data>
+	<data name="ROLES_TitleAddRole" xml:space="preserve">
+		<value>Ajouter un rôle à un employé</value>
+	</data>
+	<data name="ROLES_msgNeedRole" xml:space="preserve">
+		<value>Précisez le rôle de l'employé!</value>
+	</data>
+	<data name="ROLES_msgNeedEmpl" xml:space="preserve">
+		<value>S'il vous plaît sélectionner un employé!</value>
+	</data>
+	<data name="ROLES_msgConfirmAddAll" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir donner à cet employé un rôle dans toutes les entreprises?</value>
+	</data>
+	<data name="ROLES_msgSetRoleOrOrganization" xml:space="preserve">
+		<value>Précisez le rôle ou l'organisation!</value>
+	</data>
+	<data name="ROLES_RolesList" xml:space="preserve">
+		<value>Liste des rôles</value>
+	</data>
+	<data name="ROLES_TitleEditRole" xml:space="preserve">
+		<value>Modification d'un rôle d'employé</value>
+	</data>
+	<data name="cmdAdd" xml:space="preserve">
+		<value>Télécharger</value>
+	</data>
+	<data name="cmdClearTitle" xml:space="preserve">
+		<value>Effacer le filtre et le résultat du filtre</value>
+	</data>
+	<data name="cmdOK" xml:space="preserve">
+		<value>OK</value>
+	</data>
+	<data name="cmdHelp" xml:space="preserve">
+		<value>Aide</value>
+	</data>
+	<data name="cmdDelete" xml:space="preserve">
+		<value>Supprimer</value>
+	</data>
+	<data name="lClear" xml:space="preserve">
+		<value>Effacer</value>
+	</data>
+	<data name="cmdCancel" xml:space="preserve">
+		<value>Annuler</value>
+	</data>
+	<data name="cmdCopy" xml:space="preserve">
+		<value>Copier</value>
+	</data>
+	<data name="cmdCopyTooltip" xml:space="preserve">
+		<value>Créez un nouveau document identique à celui-ci</value>
+	</data>
+	<data name="cmdUncheck" xml:space="preserve">
+		<value>Désélectionner tout</value>
+	</data>
+	<data name="cmdWorkplaceOther" xml:space="preserve">
+		<value>Autre lieu de travail</value>
+	</data>
+	<data name="lNoData" xml:space="preserve">
+		<value>Aucune information</value>
+	</data>
+	<data name="cmdAddTitle" xml:space="preserve">
+		<value>Ajouter une entrée</value>
+	</data>
+	<data name="_Msg_RequiredFields" xml:space="preserve">
+		<value>Les champs obligatoires ne sont pas renseignés</value>
+	</data>
+	<data name="Msg_РедактироватьПозицию" xml:space="preserve">
+		<value>Modifier l'entrée</value>
+	</data>
+	<data name="lblOrganization" xml:space="preserve">
+		<value>Organisation</value>
+	</data>
+	<data name="cEmplName" xml:space="preserve">
+		<value>Employé</value>
+	</data>
+	<data name="lblBProject" xml:space="preserve">
+		<value>Projet d'entreprise</value>
+	</data>
+	<data name="lblChangedBy" xml:space="preserve">
+		<value>A changé</value>
+	</data>
+	<data name="1" xml:space="preserve">
+		<value>un</value>
+	</data>
+	<data name="10" xml:space="preserve">
+		<value>dix</value>
+	</data>
+	<data name="100" xml:space="preserve">
+		<value>cent</value>
+	</data>
+	<data name="1000" xml:space="preserve">
+		<value>mille</value>
+	</data>
+	<data name="1000000" xml:space="preserve">
+		<value>un million</value>
+	</data>
+	<data name="1000000000" xml:space="preserve">
+		<value>des milliards</value>
+	</data>
+	<data name="_Msg_СчетНеПоПриложению" xml:space="preserve">
+		<value>le compte bancaire ne correspond pas au compte dans l'application</value>
+	</data>
+	<data name="_Msg_СчетПокупателя" xml:space="preserve">
+		<value>le compte bancaire ne correspond pas à l'acheteur</value>
+	</data>
+	<data name="_Msg_СчетПродавца" xml:space="preserve">
+		<value>compte bancaire ne correspond pas au vendeur</value>
+	</data>
+	<data name="_Msg_СчетРеквизитыБанка" xml:space="preserve">
+		<value>la banque n'a pas les conditions requises pour {0}</value>
+	</data>
+	<data name="_Msg_ТекстИзменен" xml:space="preserve">
+		<value>Le texte du document a été changé! Pour écrire?</value>
+	</data>
+	<data name="_Msg_ЦенаБезНДС" xml:space="preserve">
+		<value>Aucun prix n'est spécifié sans TVA</value>
+	</data>
+	<data name="_Msg_ЦенаБезНДС0" xml:space="preserve">
+		<value>Le prix sans TVA doit être supérieur à 0</value>
+	</data>
+	<data name="сAbsent" xml:space="preserve">
+		<value>Temps total de pauses</value>
+	</data>
+	<data name="_Msg_ОснованиеПокупательАдрес" xml:space="preserve">
+		<value>l'adresse de la personne ne correspond pas à l'adresse de l'acheteur dans le document</value>
+	</data>
+	<data name="_Msg_ОснованиеПродавец" xml:space="preserve">
+		<value>La personne ne se conforme pas au vendeur dans le document</value>
+	</data>
+	<data name="_Msg_ОснованиеПродавецАдрес" xml:space="preserve">
+		<value>l'adresse de la personne ne correspond pas à l'adresse du vendeur dans le</value>
+	</data>
+	<data name="_Msg_ОснованиеУжеЕсть1" xml:space="preserve">
+		<value>Il y a déjà un document</value>
+	</data>
+	<data name="_Msg_ОснованиеУжеЕсть2" xml:space="preserve">
+		<value>dont la base est</value>
+	</data>
+	<data name="_Msg_ПриложениеВалюта" xml:space="preserve">
+		<value>la devise de paiement ne correspond pas à la devise de paiement dans l'application</value>
+	</data>
+	<data name="_Msg_Ресурс" xml:space="preserve">
+		<value>Ressource non spécifiée</value>
+	</data>
+	<data name="_Msg_РесурсИмя" xml:space="preserve">
+		<value>Le nom de la ressource n'est pas spécifié</value>
+	</data>
+	<data name="_Msg_РесурсНетЛатНазвания" xml:space="preserve">
+		<value>Le nom de la ressource latine n'est pas spécifié</value>
+	</data>
+	<data name="_Msg_СоответствиеСлужебке" xml:space="preserve">
+		<value>ne correspond pas au service</value>
+	</data>
+	<data name="_Msg_СрокДоговораФактура" xml:space="preserve">
+		<value>La durée de la convention ne correspond pas à la date de la facture</value>
+	</data>
+	<data name="_Msg_СтавкаНДС" xml:space="preserve">
+		<value>Taux de TVA non spécifié</value>
+	</data>
+	<data name="_Msg_СуммаБезНДС" xml:space="preserve">
+		<value>Aucun montant n'est spécifié sans TVA</value>
+	</data>
+	<data name="_Msg_СуммаБезНДС0" xml:space="preserve">
+		<value>Le montant sans TVA doit être supérieur à 0</value>
+	</data>
+	<data name="_Msg_СуммаНДС" xml:space="preserve">
+		<value>Le montant de la TVA n'est pas spécifié</value>
+	</data>
+	<data name="_Msg_СуммаНДС0" xml:space="preserve">
+		<value>La somme de la TVA doit être supérieure ou égale à 0</value>
+	</data>
+	<data name="_Msg_СчетSWIFTБанка" xml:space="preserve">
+		<value>la banque n'a pas de rapidité</value>
+	</data>
+	<data name="_Msg_СчетБанкНеПроверен" xml:space="preserve">
+		<value>banque non vérifiée</value>
+	</data>
+	<data name="_Msg_СчетБИКБанка" xml:space="preserve">
+		<value>la banque n'a pas de vélo</value>
+	</data>
+	<data name="_Msg_СчетВалютаДокумента" xml:space="preserve">
+		<value>la devise du compte bancaire ne correspond pas à la devise du document</value>
+	</data>
+	<data name="_Msg_СчетКСБанка" xml:space="preserve">
+		<value>la banque n'a pas de compte bancaire</value>
+	</data>
+	<data name="_Msg_СчетНазваниеБанка" xml:space="preserve">
+		<value>la banque n'a pas de nom court</value>
+	</data>
+	<data name="_Msg_СчетНеБанк" xml:space="preserve">
+		<value>personne n'est une banque</value>
+	</data>
+	<data name="_Msg_СчетНеДействует" xml:space="preserve">
+		<value>compte bancaire n'est pas valide</value>
+	</data>
+	<data name="_Msg_СчетНеДоступен" xml:space="preserve">
+		<value>compte bancaire n'est pas disponible</value>
+	</data>
+	<data name="_Msg_СчетНеПоДатеДоговора" xml:space="preserve">
+		<value>la durée de la convention ne correspond pas à la date de la facture</value>
+	</data>
+	<data name="_Msg_СчетНеПоДоговору" xml:space="preserve">
+		<value>le compte bancaire ne correspond pas au compte dans le contrat</value>
+	</data>
+	<data name="_Msg_ОснованиеНеДоступно" xml:space="preserve">
+		<value>Le document de base n'est pas disponible!</value>
+	</data>
+	<data name="_Msg_ОснованиеНетФормы" xml:space="preserve">
+		<value>La base de document n'est pas sous forme électronique</value>
+	</data>
+	<data name="_Msg_ОснованиеПокупатель" xml:space="preserve">
+		<value>La personne ne correspond pas à l'acheteur dans le document</value>
+	</data>
+	<data name="lblNewMessage" xml:space="preserve">
+		<value>Un nouveau message est arrivé.</value>
+	</data>
+	<data name="lblTogetherWork" xml:space="preserve">
+		<value>Ensemble avec vous travaillez</value>
+	</data>
+	<data name="lblChat" xml:space="preserve">
+		<value>Chat</value>
+	</data>
+	<data name="cmdSendMessage" xml:space="preserve">
+		<value>Envoyer le message</value>
+	</data>
+	<data name="lblWriteMessage" xml:space="preserve">
+		<value>Ecrire un nouveau message</value>
+	</data>
+	<data name="_Msg_Cmd_НеСохраняется" xml:space="preserve">
+		<value>Le document ne peut pas être enregistré.</value>
+	</data>
+	<data name="_Msg_ВыборТекста" xml:space="preserve">
+		<value>Remplir sur la base du document précédent?</value>
+	</data>
+	<data name="_Msg_ДоговорВалюта" xml:space="preserve">
+		<value>la devise de paiement ne correspond pas à la devise de paiement du contrat</value>
+	</data>
+	<data name="_Msg_ДокументНеДоступен" xml:space="preserve">
+		<value>le document n'est pas disponible</value>
+	</data>
+	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
+		<value>le document n'a aucun el. formes</value>
+	</data>
+	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
+		<value>Pour les produits, l'unité de mesure est obligatoire</value>
+	</data>
+	<data name="_Msg_Количество" xml:space="preserve">
+		<value>Aucune quantité spécifiée</value>
+	</data>
+	<data name="_Msg_Количество0" xml:space="preserve">
+		<value>Le nombre doit être supérieur à 0</value>
+	</data>
+	<data name="_Msg_ЛицоАдрес" xml:space="preserve">
+		<value>aucune adresse spécifiée</value>
+	</data>
+	<data name="_Msg_ЛицоАдресЮридический" xml:space="preserve">
+		<value>la personne n'a pas d'adresse légale</value>
+	</data>
+	<data name="_Msg_ЛицоИНН" xml:space="preserve">
+		<value>la personne n'a pas de DCI</value>
+	</data>
+	<data name="_Msg_ЛицоКПП" xml:space="preserve">
+		<value>la personne n'a pas de point de contrôle</value>
+	</data>
+	<data name="_Msg_ЛицоНазвание" xml:space="preserve">
+		<value>la personne n'a pas de nom court</value>
+	</data>
+	<data name="_Msg_ЛицоНеДоступно" xml:space="preserve">
+		<value>personne n'est pas disponible</value>
+	</data>
+	<data name="_Msg_ЛицоНеПроверено" xml:space="preserve">
+		<value>personne non vérifiée</value>
+	</data>
+	<data name="_Msg_ЛицоПолноеНазвание" xml:space="preserve">
+		<value>la personne n'a pas le nom complet</value>
+	</data>
+	<data name="_Msg_ЛицоРеквизиты" xml:space="preserve">
+		<value>la personne n'a pas les conditions requises pour {0}</value>
+	</data>
+	<data name="_Msg_НетВсего" xml:space="preserve">
+		<value>Le champ "Total" est vide</value>
+	</data>
+	<data name="_Msg_НетВсего0" xml:space="preserve">
+		<value>Le total doit être supérieur à 0</value>
+	</data>
+	<data name="_Msg_НетОснования" xml:space="preserve">
+		<value>Aucun document trouvé.</value>
+	</data>
+	<data name="_Msg_ОснованиеВалюта" xml:space="preserve">
+		<value>la devise de paiement ne correspond pas à la devise du document de la base</value>
+	</data>
+	<data name="_Msg_ОснованиеГО" xml:space="preserve">
+		<value>personne ne correspond pas à l'expéditeur dans le document</value>
+	</data>
+	<data name="_Msg_ОснованиеГОРеквизиты" xml:space="preserve">
+		<value>les conditions de la personne ne correspondent pas aux conditions exigées à l'expéditeur dans le document aux motifs</value>
+	</data>
+	<data name="_Msg_ОснованиеГП" xml:space="preserve">
+		<value>personne ne correspond pas au destinataire dans le document</value>
+	</data>
+	<data name="_Msg_ОснованиеГПРеквизиты" xml:space="preserve">
+		<value>les conditions de la personne ne correspondent pas aux conditions requises du destinataire dans le document aux motifs</value>
+	</data>
+	<data name="_Msg_ОснованиеЗаказчик" xml:space="preserve">
+		<value>La personne ne respecte pas le client dans le document</value>
+	</data>
+	<data name="_Msg_ОснованиеИсполнитель" xml:space="preserve">
+		<value>La personne ne correspond pas à l'interprète du document</value>
+	</data>
+	<data name="1000000000_2" xml:space="preserve">
+		<value>milliard</value>
+	</data>
+	<data name="1000000000_5" xml:space="preserve">
+		<value>des milliards</value>
+	</data>
+	<data name="1000000_2" xml:space="preserve">
+		<value>million</value>
+	</data>
+	<data name="1000000_5" xml:space="preserve">
+		<value>million</value>
+	</data>
+	<data name="1000_2" xml:space="preserve">
+		<value>des milliers de</value>
+	</data>
+	<data name="1000_5" xml:space="preserve">
+		<value>mille</value>
+	</data>
+	<data name="11" xml:space="preserve">
+		<value>onze</value>
+	</data>
+	<data name="12" xml:space="preserve">
+		<value>douze</value>
+	</data>
+	<data name="13" xml:space="preserve">
+		<value>treize</value>
+	</data>
+	<data name="14" xml:space="preserve">
+		<value>quatorze</value>
+	</data>
+	<data name="15" xml:space="preserve">
+		<value>quinze</value>
+	</data>
+	<data name="16" xml:space="preserve">
+		<value>seize</value>
+	</data>
+	<data name="17" xml:space="preserve">
+		<value>dix-sept</value>
+	</data>
+	<data name="18" xml:space="preserve">
+		<value>dix-huit</value>
+	</data>
+	<data name="19" xml:space="preserve">
+		<value>dix-neuf</value>
+	</data>
+	<data name="1_she" xml:space="preserve">
+		<value>un</value>
+	</data>
+	<data name="2" xml:space="preserve">
+		<value>deux</value>
+	</data>
+	<data name="20" xml:space="preserve">
+		<value>vingt</value>
+	</data>
+	<data name="200" xml:space="preserve">
+		<value>deux cents</value>
+	</data>
+	<data name="2_she" xml:space="preserve">
+		<value>deux</value>
+	</data>
+	<data name="3" xml:space="preserve">
+		<value>trois</value>
+	</data>
+	<data name="30" xml:space="preserve">
+		<value>trente</value>
+	</data>
+	<data name="300" xml:space="preserve">
+		<value>trois cents</value>
+	</data>
+	<data name="4" xml:space="preserve">
+		<value>quatre</value>
+	</data>
+	<data name="40" xml:space="preserve">
+		<value>quarante</value>
+	</data>
+	<data name="400" xml:space="preserve">
+		<value>quatre cents</value>
+	</data>
+	<data name="TMD_TblColumn6" xml:space="preserve">
+		<value>Durée</value>
+	</data>
+	<data name="TMD_TblColumn7" xml:space="preserve">
+		<value>Kilobyte</value>
+	</data>
+	<data name="TMD_TblColumn8" xml:space="preserve">
+		<value>employé (TVA incluse)</value>
+	</data>
+	<data name="TMD_TblColumn9" xml:space="preserve">
+		<value>Montant</value>
+	</data>
+	<data name="TMD_TblFooter" xml:space="preserve">
+		<value>Total</value>
+	</data>
+	<data name="TMD_Title" xml:space="preserve">
+		<value>Un rapport détaillé sur les appels téléphoniques</value>
+	</data>
+	<data name="TMD_Vat" xml:space="preserve">
+		<value>TVA comprise</value>
+	</data>
+	<data name="TM_AllYear" xml:space="preserve">
+		<value>toute l'année (sans détails)</value>
+	</data>
+	<data name="TM_ClearFilter" xml:space="preserve">
+		<value>Effacer le filtre</value>
+	</data>
+	<data name="TM_Empty" xml:space="preserve">
+		<value>Les données satisfaisant les conditions de filtrage ne sont pas trouvées!</value>
+	</data>
+	<data name="TM_FDataEmptyDogovor" xml:space="preserve">
+		<value>tous les contrats</value>
+	</data>
+	<data name="TM_FDataEmptyEmployee" xml:space="preserve">
+		<value>tous les employés</value>
+	</data>
+	<data name="TM_FDataEmptyMonth" xml:space="preserve">
+		<value>tout le</value>
+	</data>
+	<data name="TM_FDataEmptyPhone" xml:space="preserve">
+		<value>tous les téléphones</value>
+	</data>
+	<data name="TM_FDogovor" xml:space="preserve">
+		<value>Contrat</value>
+	</data>
+	<data name="TM_FEmployee" xml:space="preserve">
+		<value>Employé</value>
+	</data>
+	<data name="TM_FilterApply" xml:space="preserve">
+		<value>Chercher</value>
+	</data>
+	<data name="TM_FMonth" xml:space="preserve">
+		<value>Mois</value>
+	</data>
+	<data name="TM_FOpenMonth" xml:space="preserve">
+		<value>Mois en cours</value>
+	</data>
+	<data name="TM_FPhone" xml:space="preserve">
+		<value>Numéro de téléphone</value>
+	</data>
+	<data name="TM_FYear" xml:space="preserve">
+		<value>Année</value>
+	</data>
+	<data name="TM_Issued" xml:space="preserve">
+		<value>Émis</value>
+	</data>
+	<data name="TM_LegendTitle" xml:space="preserve">
+		<value>Pour les colonnes "Somme" et "Montant payé par les employés"</value>
+	</data>
+	<data name="TM_OutSimData" xml:space="preserve">
+		<value>Il n'y a pas d'informations sur la carte SIM pour la période spécifiée!</value>
+	</data>
+	<data name="TM_Rpt1" xml:space="preserve">
+		<value>Dépenses par téléphone</value>
+	</data>
+	<data name="TM_Rpt2" xml:space="preserve">
+		<value>Durée par téléphones</value>
+	</data>
+	<data name="TM_Rpt3" xml:space="preserve">
+		<value>Coûts de personnel</value>
+	</data>
+	<data name="TM_Rpt4" xml:space="preserve">
+		<value>Durée pour les employés</value>
+	</data>
+	<data name="TM_Rpt5" xml:space="preserve">
+		<value>Détailler les services de Beeline</value>
+	</data>
+	<data name="TM_RptDetail" xml:space="preserve">
+		<value>Détail ouvert</value>
+	</data>
+	<data name="TM_SimInfo" xml:space="preserve">
+		<value>Informations sur la carte SIM</value>
+	</data>
+	<data name="TM_TblColumn2" xml:space="preserve">
+		<value>Temps</value>
+	</data>
+	<data name="TM_TblColumn3" xml:space="preserve">
+		<value>Montant</value>
+	</data>
+	<data name="TM_TblColumn4_0" xml:space="preserve">
+		<value>Montant payé</value>
+	</data>
+	<data name="TM_TblColumn4_1" xml:space="preserve">
+		<value>employés</value>
+	</data>
+	<data name="TM_Title" xml:space="preserve">
+		<value>Tarification: communication mobile</value>
+	</data>
+	<data name="TM_TitleGray" xml:space="preserve">
+		<value>La TVA est ajoutée à chaque enregistrement de facturation</value>
+	</data>
+	<data name="TM_TitleGray2" xml:space="preserve">
+		<value>Le montant est indiqué sans TVA</value>
+	</data>
+	<data name="TM_TitleGreen" xml:space="preserve">
+		<value>La TVA est déjà incluse dans le montant de la facture</value>
+	</data>
+	<data name="TM_TitleOrange" xml:space="preserve">
+		<value>Les termes du contrat de communication mobile ne sont pas définis</value>
+	</data>
+	<data name="TM_TitleWhite" xml:space="preserve">
+		<value>Le montant est indiqué avec TVA</value>
+	</data>
+	<data name="TM_Wait" xml:space="preserve">
+		<value>Merci de patienter Chargement des données ...</value>
+	</data>
+	<data name="TM_Withdrawn" xml:space="preserve">
+		<value>Retiré</value>
+	</data>
+	<data name="ttAddShetDog" xml:space="preserve">
+		<value>Ouvre la boîte de dialogue de liaison de document</value>
+	</data>
+	<data name="ttContactType" xml:space="preserve">
+		<value>Type de contact</value>
+	</data>
+	<data name="ttlFIO" xml:space="preserve">
+		<value>Employé IOF</value>
+	</data>
+	<data name="ttlPOST" xml:space="preserve">
+		<value>Position de l'employé</value>
+	</data>
+	<data name="ttPerson" xml:space="preserve">
+		<value>Visage</value>
+	</data>
+	<data name="typeNumberOfDocument" xml:space="preserve">
+		<value>spécifier manuellement</value>
+	</data>
+	<data name="USD_J1" xml:space="preserve">
+		<value>cent</value>
+	</data>
+	<data name="USD_J2" xml:space="preserve">
+		<value>cents</value>
+	</data>
+	<data name="USD_J5" xml:space="preserve">
+		<value>cents</value>
+	</data>
+	<data name="USD_S1" xml:space="preserve">
+		<value>Dollar américain</value>
+	</data>
+	<data name="USD_S2" xml:space="preserve">
+		<value>le dollar américain</value>
+	</data>
+	<data name="USD_S5" xml:space="preserve">
+		<value>USD</value>
+	</data>
+	<data name="DateFrom" xml:space="preserve">
+		<value>de la</value>
+	</data>
+	<data name="5" xml:space="preserve">
+		<value>cinq</value>
+	</data>
+	<data name="50" xml:space="preserve">
+		<value>cinquante</value>
+	</data>
+	<data name="500" xml:space="preserve">
+		<value>cinq cents</value>
+	</data>
+	<data name="6" xml:space="preserve">
+		<value>six</value>
+	</data>
+	<data name="60" xml:space="preserve">
+		<value>soixante</value>
+	</data>
+	<data name="600" xml:space="preserve">
+		<value>six cents</value>
+	</data>
+	<data name="7" xml:space="preserve">
+		<value>sept</value>
+	</data>
+	<data name="70" xml:space="preserve">
+		<value>soixante-dix</value>
+	</data>
+	<data name="700" xml:space="preserve">
+		<value>sept cents</value>
+	</data>
+	<data name="8" xml:space="preserve">
+		<value>huit</value>
+	</data>
+	<data name="80" xml:space="preserve">
+		<value>achtzig</value>
+	</data>
+	<data name="800" xml:space="preserve">
+		<value>quatre-vingt</value>
+	</data>
+	<data name="9" xml:space="preserve">
+		<value>neuf</value>
+	</data>
+	<data name="90" xml:space="preserve">
+		<value>quatre-vingt dix</value>
+	</data>
+	<data name="900" xml:space="preserve">
+		<value>neuf cents</value>
+	</data>
+	<data name="add" xml:space="preserve">
+		<value>Ajouter existant</value>
+	</data>
+	<data name="alertAlreadyLinked" xml:space="preserve">
+		<value>Ce document est déjà associé à un autre document. Le type de connexion ne vous permet pas de le lier de nouveau.</value>
+	</data>
+	<data name="alertError" xml:space="preserve">
+		<value>Erreur</value>
+	</data>
+	<data name="alertMessage" xml:space="preserve">
+		<value>Fehler</value>
+	</data>
+	<data name="alertWarning" xml:space="preserve">
+		<value>La prévention</value>
+	</data>
+	<data name="AskRevertDoc" xml:space="preserve">
+		<value>Voulez-vous renvoyer le document dans son état d'origine?</value>
+	</data>
+	<data name="btnCancel" xml:space="preserve">
+		<value>Annuler</value>
+	</data>
+	<data name="BtnClose" xml:space="preserve">
+		<value> Fermer</value>
+	</data>
+	<data name="BtnConfirm" xml:space="preserve">
+		<value> Je confirme</value>
+	</data>
+	<data name="btnDelete" xml:space="preserve">
+		<value> Supprimer</value>
+	</data>
+	<data name="BtnFormAgain" xml:space="preserve">
+		<value>   Recréer</value>
+	</data>
+	<data name="btnHelp" xml:space="preserve">
+		<value> Aide</value>
+	</data>
+	<data name="BtnRebuild" xml:space="preserve">
+		<value>Complètement reconstruire</value>
+	</data>
+	<data name="BtnRebuildPrevDoc" xml:space="preserve">
+		<value>Reconstruire selon le document précédent</value>
+	</data>
+	<data name="BtnUpdateData" xml:space="preserve">
+		<value>Mise à jour</value>
+	</data>
+	<data name="cAccountUnknown" xml:space="preserve">
+		<value>Le numéro de compte est inconnu</value>
+	</data>
+	<data name="call" xml:space="preserve">
+		<value>une cloche</value>
+	</data>
+	<data name="cContainsAll" xml:space="preserve">
+		<value>Contient tous les mots</value>
+	</data>
+	<data name="cContainsAllOrdered" xml:space="preserve">
+		<value>Contient des mots dans l'ordre donné</value>
+	</data>
+	<data name="cContainsAny" xml:space="preserve">
+		<value>Contient n'importe quel mot</value>
+	</data>
+	<data name="cEmpty" xml:space="preserve">
+		<value>Leerer String</value>
+	</data>
+	<data name="cEnds" xml:space="preserve">
+		<value>Les mots se terminent</value>
+	</data>
+	<data name="cEndTime" xml:space="preserve">
+		<value>Fin du travail</value>
+	</data>
+	<data name="cEndTimeAbs" xml:space="preserve">
+		<value>Fin de pause</value>
+	</data>
+	<data name="cEqually" xml:space="preserve">
+		<value>Est égal</value>
+	</data>
+	<data name="cInternetAccessCount" xml:space="preserve">
+		<value>Nombre de commandes pour l'accès à Internet</value>
+	</data>
+	<data name="cInternetAccessTotalTime" xml:space="preserve">
+		<value>Temps total de commande pour l'accès à Internet</value>
+	</data>
+	<data name="titleCancel" xml:space="preserve">
+		<value>Annuler</value>
+	</data>
+	<data name="titleHelp" xml:space="preserve">
+		<value>Aide</value>
+	</data>
+	<data name="titleSave" xml:space="preserve">
+		<value>Enregistrer le document</value>
+	</data>
+	<data name="Title_Help" xml:space="preserve">
+		<value>Ouvrir l'aide</value>
+	</data>
+	<data name="tltContact" xml:space="preserve">
+		<value>Contactez-nous</value>
+	</data>
+	<data name="TMD_Head1" xml:space="preserve">
+		<value>Chambre</value>
+	</data>
+	<data name="TMD_Head2" xml:space="preserve">
+		<value>période non clôturée</value>
+	</data>
+	<data name="TMD_Head3" xml:space="preserve">
+		<value>Période</value>
+	</data>
+	<data name="TMD_Head4" xml:space="preserve">
+		<value>Contrat - Beeline</value>
+	</data>
+	<data name="TMD_TblColumn1" xml:space="preserve">
+		<value>Date et heure</value>
+	</data>
+	<data name="TMD_TblColumn2" xml:space="preserve">
+		<value>Type</value>
+	</data>
+	<data name="TMD_TblColumn3" xml:space="preserve">
+		<value>Zone d'abonné</value>
+	</data>
+	<data name="TMD_TblColumn4" xml:space="preserve">
+		<value>Destination</value>
+	</data>
+	<data name="TMD_TblColumn5" xml:space="preserve">
+		<value>Service</value>
+	</data>
+	<data name="cInterval" xml:space="preserve">
+		<value>Durée totale</value>
+	</data>
+	<data name="ClearAllDoc" xml:space="preserve">
+		<value>Voulez-vous effacer toutes les données du document?</value>
+	</data>
+	<data name="cLess" xml:space="preserve">
+		<value>Moins</value>
+	</data>
+	<data name="cLessOrEqual" xml:space="preserve">
+		<value>Moins ou égal à</value>
+	</data>
+	<data name="cLike" xml:space="preserve">
+		<value>Cela ressemble</value>
+	</data>
+	<data name="cMatches" xml:space="preserve">
+		<value>Entièrement adapté</value>
+	</data>
+	<data name="cmdAddToReport" xml:space="preserve">
+		<value>Ajouter au compte</value>
+	</data>
+	<data name="cmdCreateDescription" xml:space="preserve">
+		<value>Générer une classe pour le type de document:</value>
+	</data>
+	<data name="cmdDisplayReport" xml:space="preserve">
+		<value>Afficher le rapport</value>
+	</data>
+	<data name="cmdExportTo1S" xml:space="preserve">
+		<value>Exporter vers 1C</value>
+	</data>
+	<data name="cmdOpenDoc" xml:space="preserve">
+		<value>ouvrir dans l'archive des documents</value>
+	</data>
+	<data name="cmdRefreshDescription" xml:space="preserve">
+		<value>L'apparence du document est mise à jour, les avertissements sous les champs sont recalculés. Les données ne sont pas mises à jour.</value>
+	</data>
+	<data name="cmdSaveDelSign" xml:space="preserve">
+		<value>, enlever des signatures</value>
+	</data>
+	<data name="cMore" xml:space="preserve">
+		<value>Plus d'infos</value>
+	</data>
+	<data name="cMoreOrEqual" xml:space="preserve">
+		<value>Supérieur ou égal à</value>
+	</data>
+	<data name="cNotContainAll" xml:space="preserve">
+		<value>Ne contient aucun mot</value>
+	</data>
+	<data name="cNotContainAny" xml:space="preserve">
+		<value>Ne contient aucun mot</value>
+	</data>
+	<data name="cNotContainsAllOrdered" xml:space="preserve">
+		<value>Ne contient pas de mots dans l'ordre donné</value>
+	</data>
+	<data name="cNotEmpty" xml:space="preserve">
+		<value>Pas une chaîne vide</value>
+	</data>
+	<data name="cNotEnds" xml:space="preserve">
+		<value>Les mots ne s'arrêtent pas là.</value>
+	</data>
+	<data name="cNotEqual" xml:space="preserve">
+		<value>Pas égal à</value>
+	</data>
+	<data name="cNotMatches" xml:space="preserve">
+		<value>Ne correspond pas exactement</value>
+	</data>
+	<data name="cNotStart" xml:space="preserve">
+		<value>Les mots ne commencent pas</value>
+	</data>
+	<data name="CONFIRM_StdCaptionNo" xml:space="preserve">
+		<value>Non</value>
+	</data>
+	<data name="CONFIRM_StdCaptionYes" xml:space="preserve">
+		<value>Oui</value>
+	</data>
+	<data name="CONFIRM_StdMessage" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir supprimer cette entrée?</value>
+	</data>
+	<data name="CONFIRM_StdTitle" xml:space="preserve">
+		<value>Votre message</value>
+	</data>
+	<data name="connecting" xml:space="preserve">
+		<value>jonction</value>
+	</data>
+	<data name="ContactControl_CommunicateWithContact" xml:space="preserve">
+		<value>Contact par contact</value>
+	</data>
+	<data name="cpAcceptSave" xml:space="preserve">
+		<value>Confirmer Enregistrer</value>
+	</data>
+	<data name="cpAtributeEdit" xml:space="preserve">
+		<value>Modification de l'attribut de visage</value>
+	</data>
+	<data name="cpChildOrganization" xml:space="preserve">
+		<value>Organisation subordonnée</value>
+	</data>
+	<data name="cpChildOrganizations" xml:space="preserve">
+		<value>Organismes subordonnés</value>
+	</data>
+	<data name="cpDataValid" xml:space="preserve">
+		<value>Les données sont valides</value>
+	</data>
+	<data name="cpDescription" xml:space="preserve">
+		<value>Note</value>
+	</data>
+	<data name="cPlace" xml:space="preserve">
+		<value>Office</value>
+	</data>
+	<data name="cpManager" xml:space="preserve">
+		<value>Chef de</value>
+	</data>
+	<data name="cpNaturalAttributes" xml:space="preserve">
+		<value>Les exigences de la personne</value>
+	</data>
+	<data name="cpNaturalBirthddate" xml:space="preserve">
+		<value>Date de naissance</value>
+	</data>
+	<data name="cpNaturalContacts" xml:space="preserve">
+		<value>Contactez nous</value>
+	</data>
+	<data name="cpNaturalCreateCaption" xml:space="preserve">
+		<value>Création d'un individu</value>
+	</data>
+	<data name="cpNaturalFIO" xml:space="preserve">
+		<value>Nom</value>
+	</data>
+	<data name="cpNaturalFirstNameLat" xml:space="preserve">
+		<value>Nom en latin</value>
+	</data>
+	<data name="cpNaturalFirstNameReg" xml:space="preserve">
+		<value>Nom dans la langue d'enregistrement</value>
+	</data>
+	<data name="sTransport" xml:space="preserve">
+		<value>Services de transport</value>
+	</data>
+	<data name="String1" xml:space="preserve">
+		<value>rapprocher les données de la facture du document</value>
+	</data>
+	<data name="sTypeOfTransport" xml:space="preserve">
+		<value>Mode de transport</value>
+	</data>
+	<data name="title" xml:space="preserve">
+		<value>Créer / sélectionner un document de sortie</value>
+	</data>
+	<data name="STORE_StoreReportLegend" xml:space="preserve">
+		<value>Gestion des rapports</value>
+	</data>
+	<data name="STORE_StoreReportType" xml:space="preserve">
+		<value>Présent dans les rapports</value>
+	</data>
+	<data name="STORE_Stores" xml:space="preserve">
+		<value>Entrepôt</value>
+	</data>
+	<data name="STORE_StoresReportChanged" xml:space="preserve">
+		<value>Le rapport d'entrepôt a été modifié.</value>
+	</data>
+	<data name="STORE_StoreType" xml:space="preserve">
+		<value>Type d'entrepôt</value>
+	</data>
+	<data name="STORE_Subsidiary" xml:space="preserve">
+		<value>Branche / succursale</value>
+	</data>
+	<data name="STORE_Text" xml:space="preserve">
+		<value>Rechercher une chaîne</value>
+	</data>
+	<data name="STORE_Title" xml:space="preserve">
+		<value>Recherche d'entrepôt</value>
+	</data>
+	<data name="STORE_ToInPast" xml:space="preserve">
+		<value>Date déjà passée</value>
+	</data>
+	<data name="STORE_Valid" xml:space="preserve">
+		<value>Entrepôt exploité {0}</value>
+	</data>
+	<data name="STORE_ValidFromIsNull" xml:space="preserve">
+		<value>La date de début de l'entrepôt n'est pas définie</value>
+	</data>
+	<data name="STORE_ValidFromToIsNull" xml:space="preserve">
+		<value>Aucune date d'action définie</value>
+	</data>
+	<data name="STORE_ValidFromToIsNullDescription" xml:space="preserve">
+		<value>Les dates de début et de fin de l'entrepôt ne sont pas définies</value>
+	</data>
+	<data name="STORE_ValidPeriodFilter" xml:space="preserve">
+		<value>A agi à la date spécifiée</value>
+	</data>
+	<data name="STORE_ValidPeriodFilterBegin" xml:space="preserve">
+		<value>Non valide jusqu'à cette date</value>
+	</data>
+	<data name="STORE_ValidPeriodFilterEnd" xml:space="preserve">
+		<value>Pas efficace après la date spécifiée</value>
+	</data>
+	<data name="STORE_ValidPeriodFilterNotWorking" xml:space="preserve">
+		<value>Pas efficace à la date spécifiée</value>
+	</data>
+	<data name="STORE_ValidToIsNull" xml:space="preserve">
+		<value>La fin de l'entrepôt n'est pas installée</value>
+	</data>
+	<data name="STORE_SetupFields" xml:space="preserve">
+		<value>Afficher les champs sélectionnés</value>
+	</data>
+	<data name="STORE_Store" xml:space="preserve">
+		<value>Entrepôt</value>
+	</data>
+	<data name="STORE_StoreNumberUndefined" xml:space="preserve">
+		<value>Numéro inconnu</value>
+	</data>
+	<data name="STORE_StoreReport" xml:space="preserve">
+		<value>Planification du rapport d'entrepôt</value>
+	</data>
+	<data name="STORE_Resource" xml:space="preserve">
+		<value>Ressource</value>
+	</data>
+	<data name="STORE_ResourceCurrency" xml:space="preserve">
+		<value>Ressource / devise</value>
+	</data>
+	<data name="STORE_SaveStore" xml:space="preserve">
+		<value>Enregistrement de l'entrepôt</value>
+	</data>
+	<data name="STORE_SearchEdit" xml:space="preserve">
+		<value>Modifier les conditions de recherche</value>
+	</data>
+	<data name="STORE_SelectReportType" xml:space="preserve">
+		<value>Indiquez le type de rapport par entrepôts.</value>
+	</data>
+	<data name="STORE_SelectStore" xml:space="preserve">
+		<value>Choisissez un entrepôt</value>
+	</data>
+	<data name="STORE_NotValidAfter" xml:space="preserve">
+		<value>L'entrepôt n'a pas fonctionné après</value>
+	</data>
+	<data name="STORE_NotValidBefore" xml:space="preserve">
+		<value>L'entrepôt n'a pas fonctionné jusqu'à</value>
+	</data>
+	<data name="STORE_PageSettings" xml:space="preserve">
+		<value>Personnaliser</value>
+	</data>
+	<data name="STORE_Queries" xml:space="preserve">
+		<value>Demande supplémentaire</value>
+	</data>
+	<data name="STORE_queryFilterAnd" xml:space="preserve">
+		<value>Et</value>
+	</data>
+	<data name="STORE_queryFilterOr" xml:space="preserve">
+		<value>OU</value>
+	</data>
+	<data name="STORE_ReportDeleteFrom" xml:space="preserve">
+		<value>Supprimer&amp;nbsp;du&amp;nbsp;rapport</value>
+	</data>
+	<data name="STORE_ReportInsertAfter" xml:space="preserve">
+		<value>Coller&amp;nbsp;après&amp;nbsp;lignes</value>
+	</data>
+	<data name="STORE_ReportMoveToBegin" xml:space="preserve">
+		<value>Déplacer&amp;nbsp;pour&amp;nbsp;démarrer&amp;nbsp;rapport</value>
+	</data>
+	<data name="STORE_ReportMoveToEnd" xml:space="preserve">
+		<value>Déplace&amp;nbsp;a&amp;nbsp;fin&amp;nbsp;du&amp;nbsp;rap&amp;nbsp;port</value>
+	</data>
+	<data name="STORE_ReportSelected" xml:space="preserve">
+		<value>Entrepôts sélectionnés</value>
+	</data>
+	<data name="STORE_ReportTitle" xml:space="preserve">
+		<value>Planification du rapport d'entrepôt</value>
+	</data>
+	<data name="STORE_ReportType" xml:space="preserve">
+		<value>Type de rapport</value>
+	</data>
+	<data name="STORE_Residence" xml:space="preserve">
+		<value>Emplacement de stockage</value>
+	</data>
+	<data name="STORE_NotValid" xml:space="preserve">
+		<value>L'entrepôt n'a pas fonctionné {0}</value>
+	</data>
+	<data name="STORE_IsNotActual" xml:space="preserve">
+		<value>Ne s'applique pas</value>
+	</data>
+	<data name="STORE_JsResources" xml:space="preserve">
+		<value>"MsgRowNotFound": "La chaîne spécifiée n'a pas été trouvée!",
+    "MsgDeleteSelectedStoresConfirm": "Supprimer les stocks sélectionnés du rapport?",
+    "MsgSaveConfirm": "Vos modifications n'ont pas été enregistrées. Voulez-vous enregistrer les modifications effectuées?",
+    "MsgCloseConfirm": "Vos modifications n'ont pas été enregistrées. Fermer l'application?",
+    "MsgCancelConfirm": "Voulez-vous annuler toutes les modifications effectuées?",
+    "BtnYes":"Oui",
+    "BtnNo": "Non",
+    "BtnCancel": "Annuler",
+    "BtnSave": "Sauvegarder",
+    "SrchDisplayDescr": "Afficher les termes de recherche",
+    "SrchDisplayFields": "Modifier les conditions de recherche",
+    "SetupFields": "Personnalisez la page"</value>
+	</data>
+	<data name="STORE_Keeper" xml:space="preserve">
+		<value>Le gardien</value>
+	</data>
+	<data name="STORE_KeeperBank" xml:space="preserve">
+		<value>Gardien / Banque</value>
+	</data>
+	<data name="STORE_Manager" xml:space="preserve">
+		<value>Le manager</value>
+	</data>
+	<data name="STORE_ManagerDepartment" xml:space="preserve">
+		<value>Division du manager</value>
+	</data>
+	<data name="STORE_Name" xml:space="preserve">
+		<value>Titre</value>
+	</data>
+	<data name="STORE_NeedFill" xml:space="preserve">
+		<value>L'entrepôt doit avoir {0}.</value>
+	</data>
+	<data name="STORE_NeedFillResidence" xml:space="preserve">
+		<value>Pour l'épicerie, vous devez spécifier l'emplacement de stockage.</value>
+	</data>
+	<data name="STORE_NoStoresToMove" xml:space="preserve">
+		<value>Für den Umzug wurden keine Lager ausgewählt.</value>
+	</data>
+	<data name="QSMsg2" xml:space="preserve">
+		<value>La date du changement de document est plus longue que la date du changement du document en cours! Reconstruire le texte du document?</value>
+	</data>
+	<data name="removeFromList" xml:space="preserve">
+		<value>retirer de la liste</value>
+	</data>
+	<data name="RUB_J1" xml:space="preserve">
+		<value>kopeck</value>
+	</data>
+	<data name="RUB_J2" xml:space="preserve">
+		<value>quelques centimes</value>
+	</data>
+	<data name="RUB_J5" xml:space="preserve">
+		<value>kopecks</value>
+	</data>
+	<data name="RUB_S1" xml:space="preserve">
+		<value>rouble</value>
+	</data>
+	<data name="RUB_S2" xml:space="preserve">
+		<value>rouble</value>
+	</data>
+	<data name="RUB_S5" xml:space="preserve">
+		<value>roubles</value>
+	</data>
+	<data name="RUR_J1" xml:space="preserve">
+		<value>kopeck</value>
+	</data>
+	<data name="RUR_J2" xml:space="preserve">
+		<value>quelques centimes</value>
+	</data>
+	<data name="RUR_J5" xml:space="preserve">
+		<value>kopecks</value>
+	</data>
+	<data name="RUR_S1" xml:space="preserve">
+		<value>rouble</value>
+	</data>
+	<data name="RUR_S2" xml:space="preserve">
+		<value>rouble</value>
+	</data>
+	<data name="RUR_S5" xml:space="preserve">
+		<value>roubles</value>
+	</data>
+	<data name="sAdvancedSearch" xml:space="preserve">
+		<value>Recherche avancée</value>
+	</data>
+	<data name="sCalledNumber" xml:space="preserve">
+		<value>Numéro d'appel</value>
+	</data>
+	<data name="sCallNumber" xml:space="preserve">
+		<value>Numéro appelé</value>
+	</data>
+	<data name="sCode" xml:space="preserve">
+		<value>Code</value>
+	</data>
+	<data name="sCreateIndividual" xml:space="preserve">
+		<value>Créer un individu</value>
+	</data>
+	<data name="sCreateLegal" xml:space="preserve">
+		<value>Créer une entité légale</value>
+	</data>
+	<data name="sCreateResource" xml:space="preserve">
+		<value>Créer une propriété</value>
+	</data>
+	<data name="sFindMore" xml:space="preserve">
+		<value>Affichage de {0} enregistrements Trouvé plus!</value>
+	</data>
+	<data name="signedAkt" xml:space="preserve">
+		<value>Ce document est signé. Vous ne pourrez pas y apporter de modifications.</value>
+	</data>
+	<data name="sNamePhone" xml:space="preserve">
+		<value>Nom du téléphone IP</value>
+	</data>
+	<data name="sNotFound" xml:space="preserve">
+		<value>Rien n'a été trouvé.</value>
+	</data>
+	<data name="sRefineSearch" xml:space="preserve">
+		<value>Affinez la demande.</value>
+	</data>
+	<data name="sStartCall" xml:space="preserve">
+		<value>Appelez l'heure de début</value>
+	</data>
+	<data name="sTitlePage" xml:space="preserve">
+		<value>Liste des appels actifs</value>
+	</data>
+	<data name="STORE_Account" xml:space="preserve">
+		<value>Numéro de compte</value>
+	</data>
+	<data name="STORE_AccountUnknown" xml:space="preserve">
+		<value>Le numéro de compte est inconnu</value>
+	</data>
+	<data name="STORE_Actuality" xml:space="preserve">
+		<value>Pertinence</value>
+	</data>
+	<data name="STORE_Agreement" xml:space="preserve">
+		<value>Contrat</value>
+	</data>
+	<data name="STORE_Bank" xml:space="preserve">
+		<value>Bank</value>
+	</data>
+	<data name="STORE_Branch" xml:space="preserve">
+		<value>Succursale</value>
+	</data>
+	<data name="STORE_ClearSearchConstraints" xml:space="preserve">
+		<value>Effacer le filtre</value>
+	</data>
+	<data name="STORE_ConfirmCancel" xml:space="preserve">
+		<value>Voulez-vous annuler toutes les modifications effectuées?</value>
+	</data>
+	<data name="STORE_ConfirmClose" xml:space="preserve">
+		<value>Vos modifications n'ont pas été enregistrées. Fermer l'application?</value>
+	</data>
+	<data name="STORE_ConfirmRefresh" xml:space="preserve">
+		<value>Vos modifications n'ont pas été enregistrées. Télécharger les derniers paramètres enregistrés de l'entrepôt?</value>
+	</data>
+	<data name="STORE_CreateStore" xml:space="preserve">
+		<value>Créer un nouvel entrepôt</value>
+	</data>
+	<data name="STORE_CreateStoreTitle" xml:space="preserve">
+		<value>Créer un entrepôt</value>
+	</data>
+	<data name="STORE_Currency" xml:space="preserve">
+		<value>Devise</value>
+	</data>
+	<data name="STORE_DatesAreNotValid" xml:space="preserve">
+		<value>La date de fin de l'action de l'entrepôt ne doit pas être antérieure à la date de début de l'action!</value>
+	</data>
+	<data name="STORE_Department" xml:space="preserve">
+		<value>Séparation</value>
+	</data>
+	<data name="STORE_Description" xml:space="preserve">
+		<value>Note</value>
+	</data>
+	<data name="STORE_DoesNotMatter" xml:space="preserve">
+		<value>Peu importe</value>
+	</data>
+	<data name="STORE_EditStoreTitle" xml:space="preserve">
+		<value>Ändern Sie die Lagereinstellungen</value>
+	</data>
+	<data name="STORE_FailedAddToReports" xml:space="preserve">
+		<value>Impossible d'ajouter l'entrepôt aux rapports d'entrepôt. {0}</value>
+	</data>
+	<data name="STORE_FailedMoveStores" xml:space="preserve">
+		<value>Échec du déplacement des entrepôts sélectionnés. {0}</value>
+	</data>
+	<data name="STORE_FailedRemoveFromReports" xml:space="preserve">
+		<value>Impossible de supprimer l'entrepôt des rapports d'entrepôt. {0}</value>
+	</data>
+	<data name="STORE_FailedRemoveStores" xml:space="preserve">
+		<value>Impossible de supprimer les entrepôts sélectionnés. {0}</value>
+	</data>
+	<data name="STORE_FailedSave" xml:space="preserve">
+		<value>L'entrepôt n'a pas pu être enregistré. {0}</value>
+	</data>
+	<data name="STORE_FindStore" xml:space="preserve">
+		<value>Recherche d'entrepôt</value>
+	</data>
+	<data name="STORE_FromInFuture" xml:space="preserve">
+		<value>La date n'est pas encore venue</value>
+	</data>
+	<data name="STORE_IBAN" xml:space="preserve">
+		<value>IBAN</value>
+	</data>
+	<data name="STORE_IsActual" xml:space="preserve">
+		<value>Efficace</value>
+	</data>
+	<data name="ppLblRefreshList" xml:space="preserve">
+		<value>actualiser la liste</value>
+	</data>
+	<data name="ppLblTitle" xml:space="preserve">
+		<value>Sélection de documents de paiement</value>
+	</data>
+	<data name="ppНеУказано" xml:space="preserve">
+		<value>non spécifié</value>
+	</data>
+	<data name="QMsgDelSign" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir supprimer la signature du document?</value>
+	</data>
+	<data name="QSBtnCancel" xml:space="preserve">
+		<value>Annuler</value>
+	</data>
+	<data name="QSBtnNo" xml:space="preserve">
+		<value>Non</value>
+	</data>
+	<data name="QSBtnYes" xml:space="preserve">
+		<value>Oui</value>
+	</data>
+	<data name="QSMsg1" xml:space="preserve">
+		<value>Le document a été modifié! Enregistrer le?</value>
+	</data>
+	<data name="ppFltДоговор" xml:space="preserve">
+		<value>Contrat</value>
+	</data>
+	<data name="ppFltПлательщик" xml:space="preserve">
+		<value>Payeur</value>
+	</data>
+	<data name="ppFltПолучатель" xml:space="preserve">
+		<value>Destinataire</value>
+	</data>
+	<data name="ppLblFilter" xml:space="preserve">
+		<value>afficher / masquer le filtre installé</value>
+	</data>
+	<data name="EUR_J1" xml:space="preserve">
+		<value>cent</value>
+	</data>
+	<data name="EUR_J2" xml:space="preserve">
+		<value>cents</value>
+	</data>
+	<data name="EUR_J5" xml:space="preserve">
+		<value>cents</value>
+	</data>
+	<data name="lblCaptionIsGovermentOrganization" xml:space="preserve">
+		<value>Est une organisation d'état</value>
+	</data>
+	<data name="lblJuridicalBankCompany" xml:space="preserve">
+		<value>Est une banque</value>
+	</data>
+	<data name="lblLangField" xml:space="preserve">
+		<value>Imprimer le modèle de formulaire</value>
+	</data>
+	<data name="lblPartialPay" xml:space="preserve">
+		<value>Paiement partiel</value>
+	</data>
+	<data name="Lin" xml:space="preserve">
+		<value>Articles de la liste</value>
+	</data>
+	<data name="Lnotin" xml:space="preserve">
+		<value>Éléments sauf</value>
+	</data>
+	<data name="msgDelFinishSign1" xml:space="preserve">
+		<value>Cela entraînera la suppression des opérations Finch sur ce document ({0} pcs).</value>
+	</data>
+	<data name="ntf_DocIsNotSigned" xml:space="preserve">
+		<value>Le formulaire électronique du document n'est pas signé</value>
+	</data>
+	<data name="optLanguage1" xml:space="preserve">
+		<value>Langue 1</value>
+	</data>
+	<data name="optLanguage2" xml:space="preserve">
+		<value>Langue 2</value>
+	</data>
+	<data name="cpNaturalSecondNameLat" xml:space="preserve">
+		<value>Nom en alphabet latin</value>
+	</data>
+	<data name="cpNaturalSecondNameReg" xml:space="preserve">
+		<value>Nom dans la langue d'enregistrement</value>
+	</data>
+	<data name="DIRECTIONS_FORM_AG_Title" xml:space="preserve">
+		<value>Sélectionnez des droits supplémentaires:</value>
+	</data>
+	<data name="DIRECTIONS_FORM_CF_Title" xml:space="preserve">
+		<value>Sélectionnez les dossiers partagés:</value>
+	</data>
+	<data name="DIRECTIONS_FORM_Mail_Title" xml:space="preserve">
+		<value>Sélectionnez le nom de la boîte aux lettres:</value>
+	</data>
+	<data name="DIRECTIONS_FORM_Role_Title" xml:space="preserve">
+		<value>Précisez le rôle de l'employé dans l'entreprise:</value>
+	</data>
+	<data name="DIRECTIONS_FORM_Type_Title" xml:space="preserve">
+		<value>Précisez l'accès des employés aux types de personnes:</value>
+	</data>
+	<data name="DIRECTIONS_FORM_WP_Title" xml:space="preserve">
+		<value>Choisissez le lieu de travail d'un employé:</value>
+	</data>
+	<data name="lblCostOutNDS" xml:space="preserve">
+		<value>Prix sans TVA</value>
+	</data>
+	<data name="lblPosCol4" xml:space="preserve">
+		<value>Prix sans TVA</value>
+	</data>
+	<data name="lblPosCol9" xml:space="preserve">
+		<value>Prix</value>
+	</data>
+	<data name="lblPurposeOfAcquisition" xml:space="preserve">
+		<value>But de l'acquisition</value>
+	</data>
+	<data name="cpNaturalPersonTypes" xml:space="preserve">
+		<value>Types de visage</value>
+	</data>
+	<data name="cptFormatState" xml:space="preserve">
+		<value>Territoire du format d'attribut</value>
+	</data>
+	<data name="cptFormatType" xml:space="preserve">
+		<value>Type de format d'attribut</value>
+	</data>
+	<data name="cptnNeedCheck" xml:space="preserve">
+		<value>Nécessite une vérification</value>
+	</data>
+	<data name="cptnUnicForState" xml:space="preserve">
+		<value>Unique dans le pays</value>
+	</data>
+	<data name="dEqual" xml:space="preserve">
+		<value>Exactement le même</value>
+	</data>
+	<data name="EmployeeStatus_Fired" xml:space="preserve">
+		<value>rejeté</value>
+	</data>
+	<data name="errSuccessSave" xml:space="preserve">
+		<value>Sauvegardé avec succès</value>
+	</data>
+	<data name="lbladdString" xml:space="preserve">
+		<value>Services de transport dans le prix</value>
+	</data>
+	<data name="lblAnyValue" xml:space="preserve">
+		<value>Toute valeur est spécifiée</value>
+	</data>
+	<data name="lblAssignClaims" xml:space="preserve">
+		<value>Cession du droit de revendication</value>
+	</data>
+	<data name="lblCargowaybills" xml:space="preserve">
+		<value>Lettres de transport de marchandises</value>
+	</data>
+	<data name="lblDeletePerson" xml:space="preserve">
+		<value>Enlever le visage</value>
+	</data>
+	<data name="lblDeleteReplacements" xml:space="preserve">
+		<value>Suppression de substitutions</value>
+	</data>
+	<data name="lblRemoval" xml:space="preserve">
+		<value>Supprimer</value>
+	</data>
+	<data name="lblSpecifications" xml:space="preserve">
+		<value>Spécifications techniques</value>
+	</data>
+	<data name="lblTitleAdmin" xml:space="preserve">
+		<value>Définition des champs des champs du champ de document à associer à une entité logique</value>
+	</data>
+	<data name="lPhones" xml:space="preserve">
+		<value>t.</value>
+	</data>
+	<data name="lTimeExit" xml:space="preserve">
+		<value>Laissé à</value>
+	</data>
+	<data name="msgBtn1" xml:space="preserve">
+		<value>Le document n'a pas de numéro</value>
+	</data>
+	<data name="msgDelete" xml:space="preserve">
+		<value>Supprimer</value>
+	</data>
+	<data name="msgDeleteFromList" xml:space="preserve">
+		<value>Supprimer un élément de la liste?</value>
+	</data>
+	<data name="msgDelFinishSignWithTran" xml:space="preserve">
+		<value>Vous ne pouvez pas supprimer la signature de fin:
+Sur ce document, il y a des opérations financières.</value>
+	</data>
+	<data name="msgDelSignOtherEmplUnavaible" xml:space="preserve">
+		<value>Vous ne pouvez pas supprimer la signature de fin d'un autre employé.</value>
+	</data>
+	<data name="msgNoPhone" xml:space="preserve">
+		<value>Téléphone introuvable</value>
+	</data>
+	<data name="msgSimpleDelSign" xml:space="preserve">
+		<value>Supprimer la signature {0}?</value>
+	</data>
+	<data name="Msg_FIO" xml:space="preserve">
+		<value>spécifié manuellement</value>
+	</data>
+	<data name="MSG_HasCorrecting" xml:space="preserve">
+		<value>le document a un document le corrigeant.</value>
+	</data>
+	<data name="Msg_УдалитьПозицию" xml:space="preserve">
+		<value>Supprimer l'élément</value>
+	</data>
+	<data name="numberNotExists" xml:space="preserve">
+		<value>Le document n'a pas de numéro</value>
+	</data>
+	<data name="ppDtlCol1" xml:space="preserve">
+		<value>Document de paiement</value>
+	</data>
+	<data name="ppDtlCol3" xml:space="preserve">
+		<value>Montant non enregistré</value>
+	</data>
+	<data name="ppFltNoForma" xml:space="preserve">
+		<value>Le document avec le code {0} n'a pas de formulaire électronique.</value>
+	</data>
+	<data name="ppFltNotAccess" xml:space="preserve">
+		<value>Le document avec le code {0} n'est pas disponible.</value>
+	</data>
+	<data name="ppFltOsn" xml:space="preserve">
+		<value>Motifs de paiement</value>
+	</data>
+	<data name="ppFltTitle" xml:space="preserve">
+		<value>Les documents de paiement sont sélectionnés selon les critères suivants:</value>
+	</data>
+	<data name="ppFltВалюта" xml:space="preserve">
+		<value>Devise</value>
+	</data>
+	<data name="ppFltДата" xml:space="preserve">
+		<value>Date du document</value>
+	</data>
+	<data name="cpNaturalNickName" xml:space="preserve">
+		<value>Enregistrer sous</value>
+	</data>
+	<data name="cpNaturalTerritory" xml:space="preserve">
+		<value>Pays d'enregistrement</value>
+	</data>
+	<data name="DossierEmployeeInfo_CommonEmployees" xml:space="preserve">
+		<value>Employés du groupe</value>
+	</data>
+	<data name="DossierEmployeeInfo_NotReplacement" xml:space="preserve">
+		<value>L'employé est absent. Il est remplacé par:</value>
+	</data>
+	<data name="hPageSubTitle" xml:space="preserve">
+		<value>Liste des employés subalternes</value>
+	</data>
+	<data name="lblAccounts" xml:space="preserve">
+		<value>Comptes</value>
+	</data>
+	<data name="lblAttributeFormatState" xml:space="preserve">
+		<value>Pays d'attribut</value>
+	</data>
+	<data name="lblCountry" xml:space="preserve">
+		<value>Pays</value>
+	</data>
+	<data name="lblDateDelivery" xml:space="preserve">
+		<value>Délai de paiement à compter de la date de livraison</value>
+	</data>
+	<data name="lblInvoiceProforma" xml:space="preserve">
+		<value>Compte, formulaire de facture</value>
+	</data>
+	<data name="lblNDSRate" xml:space="preserve">
+		<value>Taux de TVA</value>
+	</data>
+	<data name="lblPosCol10" xml:space="preserve">
+		<value>Montant</value>
+	</data>
+	<data name="lblPosCol5" xml:space="preserve">
+		<value>Montant sans TVA</value>
+	</data>
+	<data name="lblPurchasesTerm" xml:space="preserve">
+		<value>Période d'achat</value>
+	</data>
+	<data name="lblStatus" xml:space="preserve">
+		<value>Statut</value>
+	</data>
+	<data name="lblSummaOutNDS" xml:space="preserve">
+		<value>Montant sans TVA</value>
+	</data>
+	<data name="listEmpl" xml:space="preserve">
+		<value>Liste des employés</value>
+	</data>
+	<data name="msgDefaultPhone" xml:space="preserve">
+		<value>Enregistrer comme le téléphone de travail principal sur cet ordinateur</value>
+	</data>
+	<data name="PageBar_lCurrentPage" xml:space="preserve">
+		<value>Page</value>
+	</data>
+	<data name="cpNaturalJuridicalCaption" xml:space="preserve">
+		<value>Établissement d'une entité juridique</value>
+	</data>
+	<data name="cpnEditFormat" xml:space="preserve">
+		<value>Modification d'un format d'attribut</value>
+	</data>
+	<data name="cpOwn" xml:space="preserve">
+		<value>Propriété</value>
+	</data>
+	<data name="cpProcessCheatingPerson" xml:space="preserve">
+		<value>Le processus de création d'un visage</value>
+	</data>
+	<data name="cpWorker" xml:space="preserve">
+		<value>Ouvrier</value>
+	</data>
+	<data name="cpWorkers" xml:space="preserve">
+		<value>Employés</value>
+	</data>
+	<data name="create" xml:space="preserve">
+		<value>Créer un nouveau document</value>
+	</data>
+	<data name="cStarts" xml:space="preserve">
+		<value>Les mots commencent</value>
+	</data>
+	<data name="DossierEmployeeInfo_Contacts_WorkPhone" xml:space="preserve">
+		<value>Téléphone de travail</value>
+	</data>
+	<data name="DossierEmployeeInfo_FullName_Label" xml:space="preserve">
+		<value>Employé</value>
+	</data>
+	<data name="DossierEmployeeInfo_PositionIsCombined" xml:space="preserve">
+		<value>compagnon</value>
+	</data>
+	<data name="DossierEmployeeInfo_Remplacementive" xml:space="preserve">
+		<value>L'employé remplace les employés absents suivants:</value>
+	</data>
+	<data name="DossierEmployeeInfo_Replacement" xml:space="preserve">
+		<value>L'employé est absent.</value>
+	</data>
+	<data name="DossierEmployeeInfo_WorkPlace" xml:space="preserve">
+		<value>Lieu de travail</value>
+	</data>
+	<data name="generateNumberOfDocument" xml:space="preserve">
+		<value>Générer</value>
+	</data>
+	<data name="hPageTitle" xml:space="preserve">
+		<value>Système de suivi du temps des employés</value>
+	</data>
+	<data name="lblBtnTexPreview" xml:space="preserve">
+		<value>Voir le texte</value>
+	</data>
+	<data name="lblBtnTextEditor" xml:space="preserve">
+		<value>Éditeur de texte</value>
+	</data>
+	<data name="lblBuyerRS" xml:space="preserve">
+		<value>R/s de l'acheteur</value>
+	</data>
+	<data name="lblDocUser" xml:space="preserve">
+		<value>Les documents suivants fonctionnent avec le document:</value>
+	</data>
+	<data name="lblDoisserFrom" xml:space="preserve">
+		<value>avec le</value>
+	</data>
+	<data name="lblEdit" xml:space="preserve">
+		<value>Modification</value>
+	</data>
+	<data name="lblEvidenceWholesaleImplementation" xml:space="preserve">
+		<value>Certificat de distribution en gros</value>
+	</data>
+	<data name="lblJuridicalAlias" xml:space="preserve">
+		<value>Surnom</value>
+	</data>
+	<data name="lblManagers" xml:space="preserve">
+		<value>Les gestionnaires</value>
+	</data>
+	<data name="lblOfficeMemorandums" xml:space="preserve">
+		<value>Notes de service</value>
+	</data>
+	<data name="lblPercentagePrepaid" xml:space="preserve">
+		<value>Pourcentage de prépaiement</value>
+	</data>
+	<data name="lblPosition" xml:space="preserve">
+		<value>Lieu:</value>
+	</data>
+	<data name="lblSellerRS" xml:space="preserve">
+		<value>R/s du vendeur</value>
+	</data>
+	<data name="lblStores" xml:space="preserve">
+		<value>Entrepôts</value>
+	</data>
+	<data name="lFilterEmplName" xml:space="preserve">
+		<value>Employé</value>
+	</data>
+	<data name="lFrom" xml:space="preserve">
+		<value>avec le</value>
+	</data>
+	<data name="listNewDoc" xml:space="preserve">
+		<value>créer un document</value>
+	</data>
+	<data name="msgAddAttributeConfirm" xml:space="preserve">
+		<value>La création de cet attribut modifie la date de fin de l'attribut suivant</value>
+	</data>
+	<data name="msgCallContact" xml:space="preserve">
+		<value>Contact par Contact</value>
+	</data>
+	<data name="msgLinkDoc" xml:space="preserve">
+		<value>Document de liaison</value>
+	</data>
+	<data name="Msg_СоздатьНовуюПозицию" xml:space="preserve">
+		<value>Créer un nouvel élément de campagne</value>
+	</data>
+	<data name="optLanguageru" xml:space="preserve">
+		<value>Russe</value>
+	</data>
+	<data name="cpNaturalSex" xml:space="preserve">
+		<value>Sexe</value>
+	</data>
+	<data name="cpRepresentative" xml:space="preserve">
+		<value>Représentant</value>
+	</data>
+	<data name="cpSignRole" xml:space="preserve">
+		<value>Signature à droite</value>
+	</data>
+	<data name="DossierEmployeeInfo_Organization_CoWorkingWithAnother" xml:space="preserve">
+		<value>changer de travail avec:</value>
+	</data>
+	<data name="EmployeeStatus_Outlier" xml:space="preserve">
+		<value>étranger</value>
+	</data>
+	<data name="errAdressValidation" xml:space="preserve">
+		<value>Le champ Attribute doit être renseigné</value>
+	</data>
+	<data name="errAnotherContactValidation" xml:space="preserve">
+		<value>Le champ Contact doit être rempli</value>
+	</data>
+	<data name="errContacts2" xml:space="preserve">
+		<value>Essayez d'appeler d'un autre.</value>
+	</data>
+	<data name="errContactTypeValidation" xml:space="preserve">
+		<value>Le champ Type de contact doit être rempli</value>
+	</data>
+	<data name="errCountryValidation" xml:space="preserve">
+		<value>Le champ Pays doit être rempli</value>
+	</data>
+	<data name="errFiled" xml:space="preserve">
+		<value>Champ</value>
+	</data>
+	<data name="errTelephoneCountryValidation" xml:space="preserve">
+		<value>Le champ du code de pays doit être rempli</value>
+	</data>
+	<data name="errTelephoneValidation" xml:space="preserve">
+		<value>Le champ du numéro local doit être rempli</value>
+	</data>
+	<data name="errValidateAttrubuteValue2" xml:space="preserve">
+		<value>Le champ Attribute2 doit être renseigné</value>
+	</data>
+	<data name="errValidateAttrubuteValue3" xml:space="preserve">
+		<value>Le champ Attribute3 doit être renseigné</value>
+	</data>
+	<data name="errValidationJuridicalCompanyName" xml:space="preserve">
+		<value>Le champ de nom court de l'entreprise doit être rempli</value>
+	</data>
+	<data name="errValidationJuridicalNickName" xml:space="preserve">
+		<value>Le champ Alias doit être rempli</value>
+	</data>
+	<data name="errValidFormatNameRus1" xml:space="preserve">
+		<value>Le nom du champ de l'attribut sur l'attribut russe 1 doit être rempli</value>
+	</data>
+	<data name="errValidFormatNameRus2" xml:space="preserve">
+		<value>Le nom du champ de l'attribut sur l'attribut russe 2 doit être rempli</value>
+	</data>
+	<data name="errValidFormatNameRus3" xml:space="preserve">
+		<value>Le nom du champ de l'attribut sur l'attribut russe 3 doit être rempli</value>
+	</data>
+	<data name="errValidNaturalGender" xml:space="preserve">
+		<value>Le champ Sexe doit être rempli</value>
+	</data>
+	<data name="errValidNaturalNickName" xml:space="preserve">
+		<value>Enregistrer sous comme champ doit être rempli</value>
+	</data>
+	<data name="errValidNaturalSecondName" xml:space="preserve">
+		<value>Le champ Nom de famille dans la langue du pays d'enregistrement doit être renseigné.</value>
+	</data>
+	<data name="errValidNaturalTerritory" xml:space="preserve">
+		<value>Le champ Pays d'enregistrement doit être renseigné</value>
+	</data>
+	<data name="errValitFormatState" xml:space="preserve">
+		<value>L'espace de champ doit être rempli</value>
+	</data>
+	<data name="errValitFormatType" xml:space="preserve">
+		<value>Le champ de type de format doit être rempli</value>
+	</data>
+	<data name="errWorkValidation" xml:space="preserve">
+		<value>Le champ Job doit être rempli</value>
+	</data>
+	<data name="iPCustom" xml:space="preserve">
+		<value>En option</value>
+	</data>
+	<data name="lblApplication" xml:space="preserve">
+		<value>Note:</value>
+	</data>
+	<data name="lblBankingProvision" xml:space="preserve">
+		<value>Fourniture de services bancaires</value>
+	</data>
+	<data name="lblBuyer" xml:space="preserve">
+		<value>Acheteur</value>
+	</data>
+	<data name="lblDoisserChecked" xml:space="preserve">
+		<value>Vérifié</value>
+	</data>
+	<data name="lblEntity" xml:space="preserve">
+		<value>Champ d'entité logique</value>
+	</data>
+	<data name="lblField" xml:space="preserve">
+		<value>Le champ Document</value>
+	</data>
+	<data name="lblFieldEn" xml:space="preserve">
+		<value>Champ de document (anglais)</value>
+	</data>
+	<data name="lblInvByOsn" xml:space="preserve">
+		<value>rapprocher les données de la facture du document</value>
+	</data>
+	<data name="lblJuridicalFormFullCompanyName" xml:space="preserve">
+		<value>Nom complet de l'entreprise</value>
+	</data>
+	<data name="lblNotes" xml:space="preserve">
+		<value>Note:</value>
+	</data>
+	<data name="lblPosCol1" xml:space="preserve">
+		<value>Produit/Service</value>
+	</data>
+	<data name="lblPosCol8" xml:space="preserve">
+		<value>Revendication</value>
+	</data>
+	<data name="lblRepresentatives" xml:space="preserve">
+		<value>Les représentants de</value>
+	</data>
+	<data name="lblSeller" xml:space="preserve">
+		<value>Vendeur</value>
+	</data>
+	<data name="lblSorageServiceProviding" xml:space="preserve">
+		<value>Fourniture de services de stockage</value>
+	</data>
+	<data name="lblUser" xml:space="preserve">
+		<value>Utilisateur</value>
+	</data>
+	<data name="lblView" xml:space="preserve">
+		<value>Regardez à l'intérieur</value>
+	</data>
+	<data name="lCont" xml:space="preserve">
+		<value>Continuer</value>
+	</data>
+	<data name="lShowList" xml:space="preserve">
+		<value>Montrer</value>
+	</data>
+	<data name="lUserLogo" xml:space="preserve">
+		<value>Afficher le logo</value>
+	</data>
+	<data name="lUserPhoto" xml:space="preserve">
+		<value>Afficher la photo</value>
+	</data>
+	<data name="msgDelFinishSign2" xml:space="preserve">
+		<value>Voulez-vous continuer?</value>
+	</data>
+	<data name="msgUserNotAuth" xml:space="preserve">
+		<value>Utilisateur non autorisé</value>
+	</data>
+	<data name="MSG_LastDocAsCorrected" xml:space="preserve">
+		<value>Ce dernier sera substitué en tant que base corrigible.</value>
+	</data>
+	<data name="ppBtnShowForm" xml:space="preserve">
+		<value>Voir l'état actuel du formulaire électronique dans les archives</value>
+	</data>
+	<data name="cpNaturalResponsible" xml:space="preserve">
+		<value>Personnel responsable</value>
+	</data>
+	<data name="cpNaturalThirdNameLat" xml:space="preserve">
+		<value>Patronyme en latin</value>
+	</data>
+	<data name="cpNaturalThirdNameReg" xml:space="preserve">
+		<value>Patronyme dans la langue du pays d'enregistrement</value>
+	</data>
+	<data name="DoisserEmployeeInfo_OfiiceWorkPlace" xml:space="preserve">
+		<value>Bureau de travail</value>
+	</data>
+	<data name="DossierEmployeeInfo_Organization" xml:space="preserve">
+		<value>
+Organisation</value>
+	</data>
+	<data name="elFirstSign" xml:space="preserve">
+		<value>Première signature</value>
+	</data>
+	<data name="errCopyData" xml:space="preserve">
+		<value>Erreur de copie
+Impossible d'obtenir des données à copier!</value>
+	</data>
+	<data name="errDoisserNotAccessPerson" xml:space="preserve">
+		<value>Pas d'accès au visage.</value>
+	</data>
+	<data name="errIncorrectlyFilledField" xml:space="preserve">
+		<value>Champs non valides</value>
+	</data>
+	<data name="errWhileSave" xml:space="preserve">
+		<value>Erreur lors de l'enregistrement</value>
+	</data>
+	<data name="errWithoutDatePred" xml:space="preserve">
+		<value>La date de la facture pour le prépaiement n'est pas indiquée.</value>
+	</data>
+	<data name="errWrongParametrs" xml:space="preserve">
+		<value>
+Les paramètres sont transmis de manière incorrecte.</value>
+	</data>
+	<data name="iPTypeWeek" xml:space="preserve">
+		<value>
+Semaine</value>
+	</data>
+	<data name="lAbsCaption" xml:space="preserve">
+		<value>Pas dans le lieu de travail</value>
+	</data>
+	<data name="lblBaseName" xml:space="preserve">
+		<value>
+Fondation</value>
+	</data>
+	<data name="lblBtnGoToPerson" xml:space="preserve">
+		<value>Aller au visage</value>
+	</data>
+	<data name="lblBtnPrint" xml:space="preserve">
+		<value>Impression d'un document</value>
+	</data>
+	<data name="lblBtnTryAgain" xml:space="preserve">
+		<value>Essayez à nouveau</value>
+	</data>
+	<data name="lblCaptionNotIsGovermentOrganization" xml:space="preserve">
+		<value>N'est pas une organisation gouvernementale</value>
+	</data>
+	<data name="lblDescription" xml:space="preserve">
+		<value>Description du document dans l'archive</value>
+	</data>
+	<data name="lblForDependes" xml:space="preserve">
+		<value>Par employé</value>
+	</data>
+	<data name="lblForWorkPlace" xml:space="preserve">
+		<value>Au lieu de travail</value>
+	</data>
+	<data name="lblIncactiveRequsites" xml:space="preserve">
+		<value>Conditions inactives</value>
+	</data>
+	<data name="lblNoNum" xml:space="preserve">
+		<value>La base du document est absente, la fourniture du service ou la livraison des marchandises est prévue à l'avenir</value>
+	</data>
+	<data name="lblNotIndicatedo" xml:space="preserve">
+		<value>Non spécifié</value>
+	</data>
+	<data name="lblPayAcc" xml:space="preserve">
+		<value>
+Paiement pour l'hébergement</value>
+	</data>
+	<data name="lblPayment" xml:space="preserve">
+		<value>
+Paiement</value>
+	</data>
+	<data name="lblPaymentDocuments" xml:space="preserve">
+		<value>Documents de paiement</value>
+	</data>
+	<data name="lblPositionCaption" xml:space="preserve">
+		<value>Positions sur le document aux motifs</value>
+	</data>
+	<data name="lblPosNo" xml:space="preserve">
+		<value>non</value>
+	</data>
+	<data name="lblPosTitle" xml:space="preserve">
+		<value>La position de la facture-pro forma</value>
+	</data>
+	<data name="lblSign1" xml:space="preserve">
+		<value>Premier signataire</value>
+	</data>
+	<data name="lblSigners" xml:space="preserve">
+		<value>Signatures de formulaires imprimés</value>
+	</data>
+	<data name="lblStateProv" xml:space="preserve">
+		<value>Etat / Province</value>
+	</data>
+	<data name="lblToBePaid" xml:space="preserve">
+		<value>Il est nécessaire de payer</value>
+	</data>
+	<data name="LBL_ПоПолю" xml:space="preserve">
+		<value>par champ</value>
+	</data>
+	<data name="lCancelSign" xml:space="preserve">
+		<value>annuler une signature</value>
+	</data>
+	<data name="lClearAdd" xml:space="preserve">
+		<value>Effacer les conditions et les valeurs de filtre</value>
+	</data>
+	<data name="lFilterEmplAvaible" xml:space="preserve">
+		<value>Afficher les employés qui ont des laissez-passer pour la période indiquée</value>
+	</data>
+	<data name="lFilterError" xml:space="preserve">
+		<value>Les paramètres de filtration sont mal réglés</value>
+	</data>
+	<data name="lFilterSubdivision" xml:space="preserve">
+		<value>Subdivision</value>
+	</data>
+	<data name="listSigned" xml:space="preserve">
+		<value>signé</value>
+	</data>
+	<data name="lPeriod" xml:space="preserve">
+		<value>Période</value>
+	</data>
+	<data name="lPrint" xml:space="preserve">
+		<value>Impression</value>
+	</data>
+	<data name="lPrintAdd" xml:space="preserve">
+		<value>Imprimer les listes complètes des employés sélectionnés</value>
+	</data>
+	<data name="lTo" xml:space="preserve">
+		<value>sur le</value>
+	</data>
+	<data name="msgCall" xml:space="preserve">
+		<value>Appeler</value>
+	</data>
+	<data name="msgConfirm" xml:space="preserve">
+		<value>Confirmer</value>
+	</data>
+	<data name="msgDelSignUnavaible" xml:space="preserve">
+		<value>La signature n'est pas disponible, elle a peut-être déjà été supprimée.</value>
+	</data>
+	<data name="msgHeadSignUnable" xml:space="preserve">
+		<value>Il est impossible d'identifier la tête de l'unité</value>
+	</data>
+	<data name="msgNoAccessDogovor" xml:space="preserve">
+		<value>Il n'y a pas d'accès direct au contrat, il est impossible de vérifier les applications.</value>
+	</data>
+	<data name="msgNoContact" xml:space="preserve">
+		<value>Aucun contact</value>
+	</data>
+	<data name="msgNoElForm" xml:space="preserve">
+		<value>il n'y a pas d'el.forma.</value>
+	</data>
+	<data name="msgNoHeadSign" xml:space="preserve">
+		<value>Il n'y a pas de signature de la tête
+unités</value>
+	</data>
+	<data name="msgOsnAttention4" xml:space="preserve">
+		<value>Positions de la facture et le document du sol - GÉNÉRAL!</value>
+	</data>
+	<data name="msgOsnAttention4Factura" xml:space="preserve">
+		<value>Les positions de la facture et du document de base sont GENERAL!</value>
+	</data>
+	<data name="msgPPNoDate" xml:space="preserve">
+		<value>
+Date de facturation non spécifiée</value>
+	</data>
+	<data name="msgPPNoVal" xml:space="preserve">
+		<value>La devise n'est pas spécifiée</value>
+	</data>
+	<data name="msgSendFinishMsg" xml:space="preserve">
+		<value>Envoyer un message à propos de la signature de fermeture</value>
+	</data>
+	<data name="msgTwiceDocCorrect" xml:space="preserve">
+		<value>Erreur! Le document sélectionné est corrigé simultanément à l'aide de plusieurs documents.</value>
+	</data>
+	<data name="msgUnableAppendix" xml:space="preserve">
+		<value>
+Impossible de vérifier l'application</value>
+	</data>
+	<data name="msgVidVz" xml:space="preserve">
+		<value>Vous devez spécifier l'application, car le contrat spécifie: le détail des règlements mutuels - "par application"</value>
+	</data>
+	<data name="Msg_НеВерныйПроцент" xml:space="preserve">
+		<value>Pourcentage invalide</value>
+	</data>
+	<data name="Msg_НеВерныйСрокОплаты" xml:space="preserve">
+		<value>Il est impossible d'identifier la tête de l'unité</value>
+	</data>
+	<data name="notActiveCall" xml:space="preserve">
+		<value>pas d'appel actif</value>
+	</data>
+	<data name="PageBar_lFirstPage" xml:space="preserve">
+		<value>Aller à la première page</value>
+	</data>
+	<data name="PageBar_lLastPage" xml:space="preserve">
+		<value>Aller à la dernière page</value>
+	</data>
+	<data name="PageBar_lNextPage" xml:space="preserve">
+		<value>Aller à la page suivante</value>
+	</data>
+	<data name="PageBar_lOf" xml:space="preserve">
+		<value>de la</value>
+	</data>
+	<data name="PageBar_lPrevPage" xml:space="preserve">
+		<value>Aller à la page précédente</value>
+	</data>
+	<data name="PageBar_lRowsPerPage" xml:space="preserve">
+		<value>Nombre d'entrées par page</value>
+	</data>
+	<data name="ppBtnCancel" xml:space="preserve">
+		<value>Annuler</value>
+	</data>
+	<data name="cUnlike" xml:space="preserve">
+		<value>
+Contrairement à</value>
+	</data>
+	<data name="dNull" xml:space="preserve">
+		<value>
+Non spécifié</value>
+	</data>
+	<data name="DocDateNotExist" xml:space="preserve">
+		<value>La date du document n'est pas remplie!</value>
+	</data>
+	<data name="errDoisserIDNotFound" xml:space="preserve">
+		<value>L'inode personne / employé n'est pas passé.</value>
+	</data>
+	<data name="errWithoutBuyer" xml:space="preserve">
+		<value>L'acheteur n'est pas spécifié.</value>
+	</data>
+	<data name="errWithoutSeller" xml:space="preserve">
+		<value>Aucun vendeur spécifié.</value>
+	</data>
+	<data name="lblDoisserNotChecked" xml:space="preserve">
+		<value>
+Non vérifié</value>
+	</data>
+	<data name="lblNotIndicated" xml:space="preserve">
+		<value>Non spécifié</value>
+	</data>
+	<data name="lblNotIndicateda" xml:space="preserve">
+		<value>
+Non spécifié</value>
+	</data>
+	<data name="lblPosНеРеализовано" xml:space="preserve">
+		<value>
+pas implémenté</value>
+	</data>
+	<data name="lFlagCaption" xml:space="preserve">
+		<value>Ne pas afficher les entrées vides</value>
+	</data>
+	<data name="listNotSigned" xml:space="preserve">
+		<value>pas signé</value>
+	</data>
+	<data name="lNoFixed" xml:space="preserve">
+		<value>
+Non défini</value>
+	</data>
+	<data name="msgConfirm1" xml:space="preserve">
+		<value>pas comme le numéro de document!</value>
+	</data>
+	<data name="msgEx" xml:space="preserve">
+		<value>Impossible de mapper les champs de la base de données (DocumentsData) avec les champs de l'entité.</value>
+	</data>
+	<data name="msgNoDataField" xml:space="preserve">
+		<value>Le champ est vide</value>
+	</data>
+	<data name="msgNotExistsOnDocDate" xml:space="preserve">
+		<value>N'existe pas à la date du document</value>
+	</data>
+	<data name="msgPPNoBuyer" xml:space="preserve">
+		<value>Aucun acheteur spécifié</value>
+	</data>
+	<data name="msgPPNoDogovor" xml:space="preserve">
+		<value>Aucun acheteur spécifié</value>
+	</data>
+	<data name="msgPPNoSeller" xml:space="preserve">
+		<value>Aucun vendeur spécifié</value>
+	</data>
+	<data name="NTF_SmthIsNotMatchDogovor" xml:space="preserve">
+		<value>pas sous contrat</value>
+	</data>
+	<data name="NTF_SmthIsNotMatchPrilozhenie" xml:space="preserve">
+		<value>pas par application</value>
+	</data>
+	<data name="cStartTime" xml:space="preserve">
+		<value>
+Commencer</value>
+	</data>
+	<data name="cStartTimeAbs" xml:space="preserve">
+		<value>
+Le début de la pause</value>
+	</data>
+	<data name="DocNumberNotExist" xml:space="preserve">
+		<value>Le numéro de document n'est pas rempli!</value>
+	</data>
+	<data name="lblAttributeFormatType" xml:space="preserve">
+		<value>Nom du type d'attribut</value>
+	</data>
+	<data name="lblDocName" xml:space="preserve">
+		<value>
+Titre du document</value>
+	</data>
+	<data name="lblDoisserAssign" xml:space="preserve">
+		<value>
+Attribuer</value>
+	</data>
+	<data name="lblJuridicalFormCompanyName" xml:space="preserve">
+		<value>Nom de l'entreprise</value>
+	</data>
+	<data name="lblJuridicalFormParentCompanyName" xml:space="preserve">
+		<value>
+Le titre du document d'origine ne correspond pas au type de document spécifié</value>
+	</data>
+	<data name="lblLanguageLat" xml:space="preserve">
+		<value>Nom latin</value>
+	</data>
+	<data name="lblLanguageReg" xml:space="preserve">
+		<value>Nom dans la langue du pays</value>
+	</data>
+	<data name="lblLanguageRus" xml:space="preserve">
+		<value>Nom dans la langue du pays</value>
+	</data>
+	<data name="lblMtrName" xml:space="preserve">
+		<value>Nom et type</value>
+	</data>
+	<data name="lblNameTitle" xml:space="preserve">
+		<value>Le titre du document d'origine ne correspond pas au type de document spécifié</value>
+	</data>
+	<data name="lblNDS" xml:space="preserve">
+		<value>
+TVA</value>
+	</data>
+	<data name="lblPosCol6" xml:space="preserve">
+		<value>
+TVA</value>
+	</data>
+	<data name="lblPosResourceName" xml:space="preserve">
+		<value>Nom de la ressource</value>
+	</data>
+	<data name="lblPosResourceNameLat" xml:space="preserve">
+		<value>Nom de la ressource (lat)</value>
+	</data>
+	<data name="lblPosUnavaible" xml:space="preserve">
+		<value>pas disponible</value>
+	</data>
+	<data name="lRules" xml:space="preserve">
+		<value>Violations de bande passante</value>
+	</data>
+	<data name="lTotalFound" xml:space="preserve">
+		<value>Enregistrements trouvés [{0}]</value>
+	</data>
+	<data name="lWorkCaption" xml:space="preserve">
+		<value>Était sur le lieu de travail</value>
+	</data>
+	<data name="msgNotAvailable" xml:space="preserve">
+		<value>
+pas disponible.</value>
+	</data>
+	<data name="cpNaturalPersonMale" xml:space="preserve">
+		<value>M</value>
+	</data>
+	<data name="cpWorkSpace" xml:space="preserve">
+		<value>Mois</value>
+	</data>
+	<data name="dLessOrEqual" xml:space="preserve">
+		<value>Moins ou égal à</value>
+	</data>
+	<data name="DossierEmployeeInfo_Contacts_Messanger" xml:space="preserve">
+		<value>
+Messenger</value>
+	</data>
+	<data name="iPTypeMounth" xml:space="preserve">
+		<value>
+Mois</value>
+	</data>
+	<data name="lBack" xml:space="preserve">
+		<value>avec le</value>
+	</data>
+	<data name="lblAttributeFormat" xml:space="preserve">
+		<value>Masque de format d'attribut</value>
+	</data>
+	<data name="lblBasisName" xml:space="preserve">
+		<value>avec le</value>
+	</data>
+	<data name="lblBillLading" xml:space="preserve">
+		<value>
+Connaissement</value>
+	</data>
+	<data name="lblColumn" xml:space="preserve">
+		<value>
+Colonne de table</value>
+	</data>
+	<data name="lblContact" xml:space="preserve">
+		<value>
+Contactez-nous</value>
+	</data>
+	<data name="lblCountryCode" xml:space="preserve">
+		<value>
+Nombre de</value>
+	</data>
+	<data name="lblJuridicalFormLatCompanyName" xml:space="preserve">
+		<value>Nom de l'entreprise internationale</value>
+	</data>
+	<data name="lblJuridicalFormShortCompanyName" xml:space="preserve">
+		<value>
+Nom de la société courte</value>
+	</data>
+	<data name="lblKurator" xml:space="preserve">
+		<value>
+Conservateur</value>
+	</data>
+	<data name="lblLocalNumber" xml:space="preserve">
+		<value>
+Numéro local</value>
+	</data>
+	<data name="lblNaturalSexM" xml:space="preserve">
+		<value>
+Homme Femme</value>
+	</data>
+	<data name="lblNaturalWorkPlaces" xml:space="preserve">
+		<value>Lieux de travail</value>
+	</data>
+	<data name="lblPosCol2" xml:space="preserve">
+		<value>
+Nombre de</value>
+	</data>
+	<data name="lblPosKol" xml:space="preserve">
+		<value>
+Nombre de</value>
+	</data>
+	<data name="lblQuantity" xml:space="preserve">
+		<value>
+Nombre de</value>
+	</data>
+	<data name="lFilterCompany" xml:space="preserve">
+		<value>L'entreprise</value>
+	</data>
+	<data name="minus" xml:space="preserve">
+		<value>moins</value>
+	</data>
+	<data name="msgOnDate" xml:space="preserve">
+		<value>
+À la date</value>
+	</data>
+	<data name="msgTo" xml:space="preserve">
+		<value>sur le</value>
+	</data>
+	<data name="Msg_КопироватьПозицию" xml:space="preserve">
+		<value>
+Copier la position</value>
+	</data>
+	<data name="ntf_PersonIsNotAvailable" xml:space="preserve">
+		<value>La personne est indisponible</value>
+	</data>
+	<data name="cpNaturalPersonFemale" xml:space="preserve">
+		<value>
+F</value>
+	</data>
+	<data name="cptFormatNameRus1" xml:space="preserve">
+		<value>Nom du format d'attribut 1 en russe</value>
+	</data>
+	<data name="cptFormatNameRus2" xml:space="preserve">
+		<value>Nom du format d'attribut 2 en russe</value>
+	</data>
+	<data name="cptFormatNameRus3" xml:space="preserve">
+		<value>
+Nom du format d'attribut 3 en russe</value>
+	</data>
+	<data name="cpTo" xml:space="preserve">
+		<value>
+jusqu'à</value>
+	</data>
+	<data name="cpWorkPlace" xml:space="preserve">
+		<value>
+Position</value>
+	</data>
+	<data name="DossierEmployeeInfo_Position" xml:space="preserve">
+		<value>
+Position</value>
+	</data>
+	<data name="EmployeeStatus_Guest" xml:space="preserve">
+		<value>
+invité sur la carte d'hôte</value>
+	</data>
+	<data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
+		<value>
+décret</value>
+	</data>
+	<data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
+		<value>invité personnel</value>
+	</data>
+	<data name="errContacts1" xml:space="preserve">
+		<value>
+L'appel ne peut pas être établi à partir de ce téléphone.</value>
+	</data>
+	<data name="errDatesEx" xml:space="preserve">
+		<value>
+La date C ne doit pas être supérieure à la date.</value>
+	</data>
+	<data name="errValidateAttrubuteValue" xml:space="preserve">
+		<value>
+doit être rempli</value>
+	</data>
+	<data name="errValidNaturalEmployeesCount" xml:space="preserve">
+		<value>
+Il doit y avoir au moins un responsable</value>
+	</data>
+	<data name="errValidNaturalTypesCount" xml:space="preserve">
+		<value>
+Au moins un type de visage doit être sélectionné</value>
+	</data>
+	<data name="EUR_S1" xml:space="preserve">
+		<value>
+euros</value>
+	</data>
+	<data name="EUR_S2" xml:space="preserve">
+		<value>
+euros</value>
+	</data>
+	<data name="EUR_S5" xml:space="preserve">
+		<value>
+euros</value>
+	</data>
+	<data name="exDocUnavailable" xml:space="preserve">
+		<value>
+Le document avec le code {0} n'est pas disponible.</value>
+	</data>
+	<data name="hPageDetailsTitle" xml:space="preserve">
+		<value>
+Forage par jours</value>
+	</data>
+	<data name="hPageSubTitleDetails2" xml:space="preserve">
+		<value>
+Spécification de temps de travail</value>
+	</data>
+	<data name="iPTypeDay" xml:space="preserve">
+		<value>
+Jour</value>
+	</data>
+	<data name="iPTypeQuarter" xml:space="preserve">
+		<value>
+Quartier</value>
+	</data>
+	<data name="lbChenged" xml:space="preserve">
+		<value>
+Changé</value>
+	</data>
+	<data name="lblAdd" xml:space="preserve">
+		<value>
+Télécharger</value>
+	</data>
+	<data name="lblAddition" xml:space="preserve">
+		<value>
+Ajouter</value>
+	</data>
+	<data name="lblAdditional" xml:space="preserve">
+		<value>
+Supplémentaire</value>
+	</data>
+	<data name="lblAddToPerson" xml:space="preserve">
+		<value>
+Ajouter une personne</value>
+	</data>
+	<data name="lblCatalogs" xml:space="preserve">
+		<value>
+Catalogue (s)</value>
+	</data>
+	<data name="lblChanged" xml:space="preserve">
+		<value>
+Changé</value>
+	</data>
+	<data name="lblCityCode" xml:space="preserve">
+		<value>Code Champ de document</value>
+	</data>
+	<data name="lblCodeField" xml:space="preserve">
+		<value>Code Champ de document</value>
+	</data>
+	<data name="lblDateDue" xml:space="preserve">
+		<value>Date de paiement</value>
+	</data>
+	<data name="lblDateFrom" xml:space="preserve">
+		<value>Date de séjour de</value>
+	</data>
+	<data name="lblDateTo" xml:space="preserve">
+		<value>
+Date de séjour</value>
+	</data>
+	<data name="lblDetailsNaturalPerson" xml:space="preserve">
+		<value>Données d'un individu</value>
+	</data>
+	<data name="lblDoisserTo" xml:space="preserve">
+		<value>
+jusqu'à</value>
+	</data>
+	<data name="lblDueData" xml:space="preserve">
+		<value>
+La date de paiement n'est pas spécifiée</value>
+	</data>
+	<data name="lblFindPersonDocument" xml:space="preserve">
+		<value>Rechercher des documents d'une personne dans les archives</value>
+	</data>
+	<data name="lblFindPersons" xml:space="preserve">
+		<value>Rechercher des personnes</value>
+	</data>
+	<data name="lblForPosition" xml:space="preserve">
+		<value>
+Position</value>
+	</data>
+	<data name="lblGO" xml:space="preserve">
+		<value>Expéditeur</value>
+	</data>
+	<data name="lblGP" xml:space="preserve">
+		<value>Destinataire</value>
+	</data>
+	<data name="lblIndex" xml:space="preserve">
+		<value>
+Indice</value>
+	</data>
+	<data name="lblItogo" xml:space="preserve">
+		<value>
+Total</value>
+	</data>
+	<data name="lblItogoClaim" xml:space="preserve">
+		<value>
+Total pour pritenziyam</value>
+	</data>
+	<data name="lblItogoProduct" xml:space="preserve">
+		<value>Total par produits</value>
+	</data>
+	<data name="lblItogoUsl" xml:space="preserve">
+		<value>Total pour pritenziyam</value>
+	</data>
+	<data name="lblJuridicalGovermentCompany" xml:space="preserve">
+		<value>Organisation d'État</value>
+	</data>
+	<data name="lblJuridicalRegistrationDate" xml:space="preserve">
+		<value>
+Date d'inscription</value>
+	</data>
+	<data name="lblNaturalSexF" xml:space="preserve">
+		<value>
+Femmes</value>
+	</data>
+	<data name="lblNotValue" xml:space="preserve">
+		<value>Valeur non spécifiée</value>
+	</data>
+	<data name="lblPosCol3" xml:space="preserve">
+		<value>
+Unité.</value>
+	</data>
+	<data name="lblPrnDescription" xml:space="preserve">
+		<value>
+pour imprimer des formulaires</value>
+	</data>
+	<data name="lblUnit" xml:space="preserve">
+		<value>
+Unité de mesure</value>
+	</data>
+	<data name="lblUnitShort" xml:space="preserve">
+		<value>
+Unité. modifier.</value>
+	</data>
+	<data name="lblVariablePartDoc" xml:space="preserve">
+		<value>Partie variable du document:</value>
+	</data>
+	<data name="lEnd" xml:space="preserve">
+		<value>
+Fin de l'appel</value>
+	</data>
+	<data name="lFilterPost" xml:space="preserve">
+		<value>
+Position de l'employé</value>
+	</data>
+	<data name="lFor" xml:space="preserve">
+		<value>
+pour le</value>
+	</data>
+	<data name="listComplete" xml:space="preserve">
+		<value>
+terminé</value>
+	</data>
+	<data name="lNeedRefresh" xml:space="preserve">
+		<value>
+Pour afficher la liste, effectuez une recherche</value>
+	</data>
+	<data name="LnotinOnce" xml:space="preserve">
+		<value>
+À l'exception de</value>
+	</data>
+	<data name="lPlaces" xml:space="preserve">
+		<value>
+à.</value>
+	</data>
+	<data name="lRefresh" xml:space="preserve">
+		<value>
+Chercher</value>
+	</data>
+	<data name="lRefreshAdd" xml:space="preserve">
+		<value>Rechercher des employés avec un filtre</value>
+	</data>
+	<data name="msgAs" xml:space="preserve">
+		<value>
+comme</value>
+	</data>
+	<data name="msgBreakCall" xml:space="preserve">
+		<value>
+Fin de l'appel</value>
+	</data>
+	<data name="msgBtn2" xml:space="preserve">
+		<value>Oui! Numéro de document:</value>
+	</data>
+	<data name="msgBtn3" xml:space="preserve">
+		<value>
+Corriger le numéro de document</value>
+	</data>
+	<data name="msgDoc" xml:space="preserve">
+		<value>
+Le document</value>
+	</data>
+	<data name="msgDocs" xml:space="preserve">
+		<value>
+Documents</value>
+	</data>
+	<data name="msgEditAttributeConfirm" xml:space="preserve">
+		<value>Modifier cet attribut va changer la date de fin de l'attribut suivant de</value>
+	</data>
+	<data name="msgMoreOneApp" xml:space="preserve">
+		<value>
+plus d'une annexe au contrat.</value>
+	</data>
+	<data name="msgNoBProject" xml:space="preserve">
+		<value>
+Le document ne concerne pas les projets de l'exploitation</value>
+	</data>
+	<data name="msgNoForm" xml:space="preserve">
+		<value>
+Le document n'a pas de forme ectectronique. Visualiser une image dans une archive de document n'est pas possible</value>
+	</data>
+	<data name="msgOldTitle" xml:space="preserve">
+		<value>
+Document dans l'ancienne version</value>
+	</data>
+	<data name="MsgSchetOsnovanieData" xml:space="preserve">
+		<value>
+Le document de la base est plus long que la date de la facture</value>
+	</data>
+	<data name="msgWrongType" xml:space="preserve">
+		<value>
+Le document téléchargé ne correspond pas au type requis pour ce formulaire.</value>
+	</data>
+	<data name="MSG_CorrectedWith" xml:space="preserve">
+		<value>
+Le document est corrigé avec</value>
+	</data>
+	<data name="NtfDataChanged" xml:space="preserve">
+		<value>La date du changement de document est plus longue que la date du changement du document en cours! Le texte du document peut ne pas correspondre aux données!</value>
+	</data>
+	<data name="ntfDateDueData" xml:space="preserve">
+		<value>
+La date de paiement est plus courte que la date du document</value>
+	</data>
+	<data name="ntfDocNotSign" xml:space="preserve">
+		<value>
+document non signé</value>
+	</data>
+	<data name="NTF_DateBaseDoc" xml:space="preserve">
+		<value>
+la date de fondation doit être inférieure ou égale à la date du document en cours</value>
+	</data>
+	<data name="cpOwner" xml:space="preserve">
+		<value>Propriétaire</value>
+	</data>
+	<data name="cpOwners" xml:space="preserve">
+		<value>Propriétaires</value>
+	</data>
+	<data name="cpParentOrganization" xml:space="preserve">
+		<value>Organisations responsables</value>
+	</data>
+	<data name="cpParentOrganizations" xml:space="preserve">
+		<value>Organisations responsables</value>
+	</data>
+	<data name="dInterval" xml:space="preserve">
+		<value>Dans l'intervalle</value>
+	</data>
+	<data name="dMoreOrEqual" xml:space="preserve">
+		<value>Supérieur ou égal à</value>
+	</data>
+	<data name="DoisserEmployeeInfo_NoCommonEmpoyees" xml:space="preserve">
+		<value>Il n'y a pas d'employés dans le groupe</value>
+	</data>
+	<data name="DossierEmployeeInfo_Contacts_Email" xml:space="preserve">
+		<value>Adresse e-mail</value>
+	</data>
+	<data name="DossierEmployeeInfo_Organization_CoWorkingWith" xml:space="preserve">
+		<value>avec:</value>
+	</data>
+	<data name="elSecondSign" xml:space="preserve">
+		<value>Deuxième signature</value>
+	</data>
+	<data name="errContactIDNotInPersonID" xml:space="preserve">
+		<value>Le contact sélectionné n'appartient pas à la personne élue.</value>
+	</data>
+	<data name="errDoisserWarrning" xml:space="preserve">
+		<value>Attention s'il vous plait!</value>
+	</data>
+	<data name="errValidChar" xml:space="preserve">
+		<value>Seulement # et -</value>
+	</data>
+	<data name="errValidExDef" xml:space="preserve">
+		<value>
+Les caractères ne sont pas autorisés sur le terrain, sauf pour le trait d'union</value>
+	</data>
+	<data name="errValidLatNum" xml:space="preserve">
+		<value>Sur le terrain, seules les lettres latines, les chiffres et un trait d'union sont autorisés</value>
+	</data>
+	<data name="errWrongSymInField" xml:space="preserve">
+		<value>Dans les champs, il y a des caractères invalides</value>
+	</data>
+	<data name="iPTypeYear" xml:space="preserve">
+		<value>Année</value>
+	</data>
+	<data name="lAsc" xml:space="preserve">
+		<value>(plus haut)</value>
+	</data>
+	<data name="lblAdress" xml:space="preserve">
+		<value>Adresse</value>
+	</data>
+	<data name="lblAttribute1" xml:space="preserve">
+		<value>Attribut1</value>
+	</data>
+	<data name="lblAttribute2" xml:space="preserve">
+		<value>Attribut2</value>
+	</data>
+	<data name="lblAttribute3" xml:space="preserve">
+		<value>Attribut3</value>
+	</data>
+	<data name="lblBussinesProject" xml:space="preserve">
+		<value>Projet d'entreprise</value>
+	</data>
+	<data name="lblChoosePP" xml:space="preserve">
+		<value>choisir les documents de paiement</value>
+	</data>
+	<data name="lblCity" xml:space="preserve">
+		<value>Ville</value>
+	</data>
+	<data name="lblDeleteReplacementsText" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir supprimer tous les remplacements?</value>
+	</data>
+	<data name="lblDoisserChengedBy" xml:space="preserve">
+		<value>Faire des changements</value>
+	</data>
+	<data name="lblDoisserView" xml:space="preserve">
+		<value>Voir</value>
+	</data>
+	<data name="lblItogoInv" xml:space="preserve">
+		<value>Total pour le compte</value>
+	</data>
+	<data name="lblLetterCredit" xml:space="preserve">
+		<value>Lettre de crédit</value>
+	</data>
+	<data name="lblPosCol7" xml:space="preserve">
+		<value>Total</value>
+	</data>
+	<data name="lblPosResource" xml:space="preserve">
+		<value>Choisissez une ressource</value>
+	</data>
+	<data name="lblSign2" xml:space="preserve">
+		<value>Le deuxième signataire</value>
+	</data>
+	<data name="lblTypeDoc" xml:space="preserve">
+		<value>Sélectionnez le type de document</value>
+	</data>
+	<data name="lDesc" xml:space="preserve">
+		<value>(décroissant)</value>
+	</data>
+	<data name="lErrorDesc" xml:space="preserve">
+		<value>
+
+
+
+
+* - Violations de la bande passante</value>
+	</data>
+	<data name="lFilterSubEmpl" xml:space="preserve">
+		<value>Y compris les employés subalternes</value>
+	</data>
+	<data name="LinOnce" xml:space="preserve">
+		<value>Élément sélectionné</value>
+	</data>
+	<data name="listFollowType" xml:space="preserve">
+		<value>Documents fluides</value>
+	</data>
+	<data name="lNoEntrance" xml:space="preserve">
+		<value>Attention: L'heure d'entrée du personnel dans le bureau n'a pas été fixée</value>
+	</data>
+	<data name="lNoExit" xml:space="preserve">
+		<value>Attention: le temps de sortie de l'employé n'a pas été fixé</value>
+	</data>
+	<data name="lNoFixedEnter" xml:space="preserve">
+		<value>L'entrée n'est pas fixe.</value>
+	</data>
+	<data name="lNoFixedExit" xml:space="preserve">
+		<value>La sortie n'est pas fixe.</value>
+	</data>
+	<data name="lPrimaryComp" xml:space="preserve">
+		<value>
+en faveur de l'entreprise</value>
+	</data>
+	<data name="lPrimaryEmpl" xml:space="preserve">
+		<value>en faveur d'un employé</value>
+	</data>
+	<data name="lSession" xml:space="preserve">
+		<value>L'heure de la session a expiré, veuillez recommencer le travail.</value>
+	</data>
+	<data name="lTotal" xml:space="preserve">
+		<value>Total</value>
+	</data>
+	<data name="msgConfirm2" xml:space="preserve">
+		<value>Êtes-vous sûr que le numéro de document -</value>
+	</data>
+	<data name="MsgConfirmRebuild" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir reconstruire le texte?</value>
+	</data>
+	<data name="msgDeleteContactValidation" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir supprimer ce contact?</value>
+	</data>
+	<data name="msgDelFinishSign" xml:space="preserve">
+		<value>Vous supprimez la signature finale.</value>
+	</data>
+	<data name="msgDelSign" xml:space="preserve">
+		<value>Vous supprimez la signature {0}
+Cela n'a de sens que de modifier les données de courrier électronique. forme.
+Pour restaurer la signature, vous devrez contacter l'employé spécifié.
+Voulez-vous continuer?</value>
+	</data>
+	<data name="msgDoisserCoworkers" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir nommer un employé pour travailler en équipe avec</value>
+	</data>
+	<data name="msgFinishSign" xml:space="preserve">
+		<value>Vous signez le formulaire électronique du document en tant que «Fait-travail accompli».&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+			Cette signature ne peut pas être supprimée à l'avenir.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+			Vous êtes sûr que&amp;lt;b&amp;gt;le travail sur le document est terminé&amp;lt;/b&amp;gt;, données dans l'e-forme
+			sont correctement entrés et vous n'en avez pas besoin
+			changer?&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;</value>
+	</data>
+	<data name="msgOsnAttention0" xml:space="preserve">
+		<value>ATTENTION !!!</value>
+	</data>
+	<data name="msgOsnAttention1" xml:space="preserve">
+		<value>Comme document de base de la facture, vous avez indiqué le document</value>
+	</data>
+	<data name="msgOsnAttention2" xml:space="preserve">
+		<value>À la suite de cette opération, TOUTES les données du document actuel seront mises en conformité avec le document par la base.</value>
+	</data>
+	<data name="msgOsnAttention2Factura" xml:space="preserve">
+		<value>En tant que document pour la base de la facture, vous avez indiqué le document</value>
+	</data>
+	<data name="msgOsnAttention3" xml:space="preserve">
+		<value>Important:</value>
+	</data>
+	<data name="msgOsnAttention5" xml:space="preserve">
+		<value>Le lien vers l'ancien document sera supprimé!</value>
+	</data>
+	<data name="msgOsnAttention6" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir effectuer cette opération?!</value>
+	</data>
+	<data name="msgOsnAttention7" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir supprimer le document?</value>
+	</data>
+	<data name="msgPhoneSelect" xml:space="preserve">
+		<value>Sélectionnez le téléphone à partir duquel appeler le numéro</value>
+	</data>
+	<data name="msgQuestionDelete" xml:space="preserve">
+		<value>Voulez-vous supprimer {0}?</value>
+	</data>
+	<data name="msgSelectPhone" xml:space="preserve">
+		<value>Sélectionner un téléphone</value>
+	</data>
+	<data name="msgWarningSign" xml:space="preserve">
+		<value>&lt;br&gt;
+					* ПVous avez édité le formulaire électronique, il a été modifié / signé par un autre
+					employé.
+					&lt;br&gt;&lt;br&gt;
+					(il est recommandé de voir l'état actuel du formulaire électronique dans les archives)</value>
+	</data>
+	<data name="MSG_ChosenCorrected" xml:space="preserve">
+		<value>En tant que document corrigé, vous avez spécifié le document '{0}'!</value>
+	</data>
+	<data name="MSG_ConfirmUnlinkCorrected" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir effacer le lien vers le document corrigé?</value>
+	</data>
+	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
+		<value>A la suite de cette opération, TOUTES les données du document en cours
+sera aligné sur le document en cours de correction.
+
+Êtes-vous sûr de vouloir effectuer cette opération?</value>
+	</data>
+	<data name="MSG_DocAlreadyCorrected" xml:space="preserve">
+		<value>Le document sélectionné '{0}' a déjà été corrigé à l'aide du document '{1}'</value>
+	</data>
+	<data name="oneFollowType" xml:space="preserve">
+		<value>Un document de type fluide</value>
+	</data>
+	<data name="optLanguageen" xml:space="preserve">
+		<value>Anglais</value>
+	</data>
+	<data name="lblBasis" xml:space="preserve">
+		<value>Base de livraison</value>
+	</data>
+	<data name="lblDetailsJuridicalPerson" xml:space="preserve">
+		<value>Données de l'entité légale</value>
+	</data>
+</root>

@@ -3003,4 +3003,590 @@ Are you sure you want to perform this operation ?</value>
 	<data name="lblWriteMessage" xml:space="preserve">
 		<value>Write new message</value>
 	</data>
+	<data name="MWP_Title" xml:space="preserve">
+		<value>The manager's workplace</value>
+	</data>
+	<data name="lblSettings" xml:space="preserve">
+		<value>Settings</value>
+	</data>
+	<data name="lblRun" xml:space="preserve">
+		<value>Run</value>
+	</data>
+	<data name="lblShipperStore" xml:space="preserve">
+		<value>Vendor warehouse</value>
+	</data>
+	<data name="lblProduct" xml:space="preserve">
+		<value>Product</value>
+	</data>
+	<data name="lblPayerStore" xml:space="preserve">
+		<value>Payer's warehouse</value>
+	</data>
+	<data name="lblPosResourceNameRus" xml:space="preserve">
+		<value>Resource name rus</value>
+	</data>
+	<data name="lblAktsiz" xml:space="preserve">
+		<value>Excise tax</value>
+	</data>
+	<data name="msgDeleteConfirm" xml:space="preserve">
+		<value>Are you sure you want to delete</value>
+	</data>
+	<data name="TTN_optTransactionBalance" xml:space="preserve">
+		<value>Transaction balance</value>
+	</data>
+	<data name="TTN_optBalanceCompletedDocuments" xml:space="preserve">
+		<value>Balance on completed documents</value>
+	</data>
+	<data name="TTN_optBalanceSignedDocuments" xml:space="preserve">
+		<value>Balance on signed documents</value>
+	</data>
+	<data name="errPrinting" xml:space="preserve">
+		<value>Error printing</value>
+	</data>
+	<data name="errRetrievingPageObject" xml:space="preserve">
+		<value>Error retrieving page object</value>
+	</data>
+	<data name="TTN_ ERRMoveStockInitialized" xml:space="preserve">
+		<value>The Move to Stock object has not been initialized. Open the edited item again.</value>
+	</data>
+	<data name="TTN_ntfKeeperNotFound" xml:space="preserve">
+		<value>keeper not found</value>
+	</data>
+	<data name="TTN_ntfKeeperNotVerified" xml:space="preserve">
+		<value>custodian not verified</value>
+	</data>
+	<data name="TTN_ntfKeeperNoDataOn" xml:space="preserve">
+		<value>there is no data on the custodian at</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchSupplier" xml:space="preserve">
+		<value>the warehouse does not match the supplier</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotAvailable" xml:space="preserve">
+		<value>warehouse not available</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchPayer" xml:space="preserve">
+		<value>the warehouse does not correspond to the payer</value>
+	</data>
+	<data name="TTN_ntfRussianNameNotMatchProduct" xml:space="preserve">
+		<value>Russian name does not match the product</value>
+	</data>
+	<data name="msgIN" xml:space="preserve">
+		<value>in</value>
+	</data>
+	<data name="TTN_ntfNotMatchApplication" xml:space="preserve">
+		<value>does not match the application</value>
+	</data>
+	<data name="TTN_ntfNotComplyContract" xml:space="preserve">
+		<value>does not comply with the contract</value>
+	</data>
+	<data name="TTN_ntfLatinNameNotMatchProduct" xml:space="preserve">
+		<value>the Latin name does not match the product</value>
+	</data>
+	<data name="TTN_ntfDocumentNotAvailable" xml:space="preserve">
+		<value>document is not available</value>
+	</data>
+	<data name="TTN_errFailedGenerateButtons" xml:space="preserve">
+		<value>Failed to generate form buttons</value>
+	</data>
+	<data name="TTN_msgDocumentCanNotBeSaved" xml:space="preserve">
+		<value>Document can not be saved.</value>
+	</data>
+	<data name="TTN_lblAtBeginningDay" xml:space="preserve">
+		<value>at the beginning of the day</value>
+	</data>
+	<data name="TTN_lblAtEndDay" xml:space="preserve">
+		<value>at the end of the day</value>
+	</data>
+	<data name="TTN_lblIncludeSubResources" xml:space="preserve">
+		<value>Include subordinate resources</value>
+	</data>
+	<data name="lblCustomsDeclaration" xml:space="preserve">
+		<value>Customs declaration</value>
+	</data>
+	<data name="lblCountryOfOrigin" xml:space="preserve">
+		<value>Country of origin</value>
+	</data>
+	<data name="lblEquivalent" xml:space="preserve">
+		<value>Equivalent</value>
+	</data>
+	<data name="TTN_lblUnitsSelect" xml:space="preserve">
+		<value>Select units. amend.</value>
+	</data>
+	<data name="TTN_ntfNotShipperStore" xml:space="preserve">
+		<value>The 'Vendor's warehouse' field is empty</value>
+	</data>
+	<data name="TTN_ntfNotPayerStore" xml:space="preserve">
+		<value>The 'Payer's Warehouse' field is empty</value>
+	</data>
+	<data name="TTN_ntfNotProduct" xml:space="preserve">
+		<value>The 'Product' field is empty</value>
+	</data>
+	<data name="TTN_ntfNotResourceRus" xml:space="preserve">
+		<value>The 'Russian product name' field is empty</value>
+	</data>
+	<data name="TTN_ntfNotCount" xml:space="preserve">
+		<value>The 'Quantity' field is empty</value>
+	</data>
+	<data name="TTN_ntfNotUnit" xml:space="preserve">
+		<value>Field 'Unit of measurement' is not filled</value>
+	</data>
+	<data name="TTN_ntfNotCostOutNDS" xml:space="preserve">
+		<value>Field is empty 'Price without VAT'</value>
+	</data>
+	<data name="TTN_ntfCostOutNDSIncorrect" xml:space="preserve">
+		<value>The price without VAT must be greater or less than 0</value>
+	</data>
+	<data name="TTN_ntfNotSummaNDS" xml:space="preserve">
+		<value>The 'VAT Amount' field is empty</value>
+	</data>
+	<data name="TTN_ntfNotVsego" xml:space="preserve">
+		<value>'Total' field is empty</value>
+	</data>
+	<data name="TTN_ntfVsegoIncorrect" xml:space="preserve">
+		<value>The value of the 'Total' field must be greater than or less than 0</value>
+	</data>
+	<data name="TTN_ntfNotGTD" xml:space="preserve">
+		<value>You must specify a customs declaration</value>
+	</data>
+	<data name="TTN_msgNDSSUM" xml:space="preserve">
+		<value>Did you specify the price including VAT?</value>
+	</data>
+	<data name="TTN_msgChoiceCalculationType" xml:space="preserve">
+		<value>Choice of calculation type</value>
+	</data>
+	<data name="QSBtnChange" xml:space="preserve">
+		<value>Change</value>
+	</data>
+	<data name="TTN_msgOKInfo" xml:space="preserve">
+		<value>to change and recalculate related values</value>
+	</data>
+	<data name="QSBtnRecalc" xml:space="preserve">
+		<value>Recalculation</value>
+	</data>
+	<data name="TTN_msgRecalcInfo" xml:space="preserve">
+		<value>for reverse recalculation of this value</value>
+	</data>
+	<data name="TTN_msgCancel" xml:space="preserve">
+		<value>to cancel changes</value>
+	</data>
+	<data name="TTN_msgChange" xml:space="preserve">
+		<value>to force a value change without recounting</value>
+	</data>
+	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
+		<value>Select an allocation type</value>
+	</data>
+	<data name="lblService" xml:space="preserve">
+		<value>Service</value>
+	</data>
+	<data name="TTN_ntfNotService" xml:space="preserve">
+		<value>The 'Service' field is not filled</value>
+	</data>
+	<data name="TTN_msgAgent" xml:space="preserve">
+		<value>agent</value>
+	</data>
+	<data name="lblPerson" xml:space="preserve">
+		<value>Person</value>
+	</data>
+	<data name="TTN_lblInvoiceDetail" xml:space="preserve">
+		<value>Requisites of waybill</value>
+	</data>
+	<data name="TTN_lblMonthResource" xml:space="preserve">
+		<value>Month of resources</value>
+	</data>
+	<data name="lblItogoInvoice" xml:space="preserve">
+		<value>Total for the waybill</value>
+	</data>
+	<data name="lblProducts" xml:space="preserve">
+		<value>Goods</value>
+	</data>
+	<data name="lblServices" xml:space="preserve">
+		<value>The services</value>
+	</data>
+	<data name="lblWait" xml:space="preserve">
+		<value>Wait</value>
+	</data>
+	<data name="TTN_MrisTitle" xml:space="preserve">
+		<value>Realization / purchase of goods</value>
+	</data>
+	<data name="TTN_errOpenEditForm" xml:space="preserve">
+		<value>The parameters for opening the edit form are incorrect!</value>
+	</data>
+	<data name="TTN_FactUslTitle" xml:space="preserve">
+		<value>Work performed / services provided</value>
+	</data>
+	<data name="TTN_optImplementationByResources" xml:space="preserve">
+		<value>Sales by goods</value>
+	</data>
+	<data name="TTN_optRealizationResourcesByWagons" xml:space="preserve">
+		<value>Realization of goods by wagons</value>
+	</data>
+	<data name="TTN_optGroupByResource" xml:space="preserve">
+		<value>Group By Item</value>
+	</data>
+	<data name="TTN_lblGOAddress" xml:space="preserve">
+		<value>Consignor address</value>
+	</data>
+	<data name="TTN_lblGPAddress" xml:space="preserve">
+		<value>Consignee address</value>
+	</data>
+	<data name="TTN_lblSectionGeneral" xml:space="preserve">
+		<value>The information of the waybill</value>
+	</data>
+	<data name="TTN_lblSectionSignersOfPaper" xml:space="preserve">
+		<value>Signatures of printed forms</value>
+	</data>
+	<data name="TTN_lblSectionDocuments" xml:space="preserve">
+		<value>Documentation</value>
+	</data>
+	<data name="TTN_lblSectionCurator" xml:space="preserve">
+		<value>Curator</value>
+	</data>
+	<data name="TTN_lblSectionGO" xml:space="preserve">
+		<value>Consignor</value>
+	</data>
+	<data name="TTN_lblSectionGP" xml:space="preserve">
+		<value>Consignee</value>
+	</data>
+	<data name="TTN_lblSectionShipper" xml:space="preserve">
+		<value>Provider</value>
+	</data>
+	<data name="TTN_lblSectionPayer" xml:space="preserve">
+		<value>Payer</value>
+	</data>
+	<data name="TTN_lblSectionGoToShipper" xml:space="preserve">
+		<value>Coincident with the consignor:</value>
+	</data>
+	<data name="TTN_lblSectionGpToPayer" xml:space="preserve">
+		<value>It coincides with the consignee:</value>
+	</data>
+	<data name="TTN_lblSectionResource" xml:space="preserve">
+		<value>Goods</value>
+	</data>
+	<data name="TTN_lblSectionServices" xml:space="preserve">
+		<value>The services</value>
+	</data>
+	<data name="TTN_lblSectionTransport" xml:space="preserve">
+		<value>Transport</value>
+	</data>
+	<data name="TTN_lblSectionRequiredInfo" xml:space="preserve">
+		<value>Absent</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
+		<value>the address does not correspond to the consignor</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGp" xml:space="preserve">
+		<value>the address does not match the consignee</value>
+	</data>
+	<data name="TTN_ntfPersonAddressShipper" xml:space="preserve">
+		<value>the address does not match the supplier</value>
+	</data>
+	<data name="TTN_ntfPersonAddressPayer" xml:space="preserve">
+		<value>the address does not match the payer</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGo" xml:space="preserve">
+		<value>requisites do not correspond to the consignor</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGp" xml:space="preserve">
+		<value>requisites do not correspond to the consignee</value>
+	</data>
+	<data name="TTN_ntfPersonInfoShipper" xml:space="preserve">
+		<value>the name does not match the supplier</value>
+	</data>
+	<data name="TTN_ntfPersonInfoPayer" xml:space="preserve">
+		<value>the name does not match the payer</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGo" xml:space="preserve">
+		<value>OKPO does not correspond to the consignor</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGp" xml:space="preserve">
+		<value>OKPO does not correspond to the consignee</value>
+	</data>
+	<data name="TTN_ntfPersonCodeShipper" xml:space="preserve">
+		<value>OKPO does not correspond to the supplier</value>
+	</data>
+	<data name="TTN_ntfPersonCodePayer" xml:space="preserve">
+		<value>OKPO does not correspond to the payer</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGo" xml:space="preserve">
+		<value>the consignor does not have OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGp" xml:space="preserve">
+		<value>the consignee does not have OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeShipper" xml:space="preserve">
+		<value>the supplier does not have OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodePayer" xml:space="preserve">
+		<value>the payer does not have OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGo" xml:space="preserve">
+		<value>the account does not correspond to the consignor</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGp" xml:space="preserve">
+		<value>the settlement account does not correspond to the consignee</value>
+	</data>
+	<data name="TTN_ntfPersonStoreShipper" xml:space="preserve">
+		<value>the settlement account does not correspond to the supplier</value>
+	</data>
+	<data name="TTN_ntfPersonStorePayer" xml:space="preserve">
+		<value>the settlement account does not correspond to the payer</value>
+	</data>
+	<data name="TTN_ntfAddressDate" xml:space="preserve">
+		<value>address is not valid document date</value>
+	</data>
+	<data name="TTN_ntfBaseDocumentOnDate" xml:space="preserve">
+		<value>the foundation date must be less than or equal to the date of the current document</value>
+	</data>
+	<data name="TTN_ntfCurrencyDocument" xml:space="preserve">
+		<value>the currency of the bank account does not correspond to the document currency</value>
+	</data>
+	<data name="TTN_ntfInfoStore" xml:space="preserve">
+		<value>requisites do not correspond to the settlement account</value>
+	</data>
+	<data name="TTN_ntfEnclosureContract" xml:space="preserve">
+		<value>applications are not associated with the document</value>
+	</data>
+	<data name="TTN_ntfDocumentForm" xml:space="preserve">
+		<value>the document does not have an electronic form</value>
+	</data>
+	<data name="TTN_ntfPersonDate" xml:space="preserve">
+		<value>the person does not have the requisites for the date of the document</value>
+	</data>
+	<data name="TTN_ntfStoreAccountDate" xml:space="preserve">
+		<value>settlement account is not valid. document date</value>
+	</data>
+	<data name="TTN_ntfPersonPosition" xml:space="preserve">
+		<value>the position does not match the person</value>
+	</data>
+	<data name="TTN_ntfPostingOnDate" xml:space="preserve">
+		<value>the posting date must be greater than or equal to the date of the current document</value>
+	</data>
+	<data name="TTN_ntfPersonDocument" xml:space="preserve">
+		<value>persons of the document do not correspond to the supplier and payer</value>
+	</data>
+	<data name="TTN_ntfPaymentInvoice" xml:space="preserve">
+		<value>payment documents have no basis</value>
+	</data>
+	<data name="TTN_bntAddResource" xml:space="preserve">
+		<value>Add item</value>
+	</data>
+	<data name="TTN_btnAddService" xml:space="preserve">
+		<value>Add service</value>
+	</data>
+	<data name="lblPosCol11" xml:space="preserve">
+		<value>Resource</value>
+	</data>
+	<data name="lblPosCol12" xml:space="preserve">
+		<value>Sending</value>
+	</data>
+	<data name="lblPosCol13" xml:space="preserve">
+		<value>Country of origin</value>
+	</data>
+	<data name="lblPosCol14" xml:space="preserve">
+		<value>Customs declaration</value>
+	</data>
+	<data name="TTN_btnDeletePosition" xml:space="preserve">
+		<value>delete position</value>
+	</data>
+	<data name="TTN_btnCopyPosition" xml:space="preserve">
+		<value>copy position</value>
+	</data>
+	<data name="lblPosCol15" xml:space="preserve">
+		<value>Agent Provider</value>
+	</data>
+	<data name="TTN_btnEditPosition" xml:space="preserve">
+		<value>edit position</value>
+	</data>
+	<data name="lblPosCol16" xml:space="preserve">
+		<value>Agent Payer</value>
+	</data>
+	<data name="lblSetFilter" xml:space="preserve">
+		<value>Filter is installed:</value>
+	</data>
+	<data name="TTN_lblProductNameRus" xml:space="preserve">
+		<value>Product name (rus)</value>
+	</data>
+	<data name="TTN_lblProductNameLat" xml:space="preserve">
+		<value>Product name (lat)</value>
+	</data>
+	<data name="TTN_lblServiceNameRus" xml:space="preserve">
+		<value>Service name (rus)</value>
+	</data>
+	<data name="TTN_lblServiceNameLat" xml:space="preserve">
+		<value>Service name (lat)</value>
+	</data>
+	<data name="lblEditFilter" xml:space="preserve">
+		<value>Edit filter</value>
+	</data>
+	<data name="lblFieldValue" xml:space="preserve">
+		<value>Field Value</value>
+	</data>
+	<data name="lAnd" xml:space="preserve">
+		<value>and</value>
+	</data>
+	<data name="TTN_FFrom" xml:space="preserve">
+		<value>from</value>
+	</data>
+	<data name="lblSelectAll" xml:space="preserve">
+		<value>Select all</value>
+	</data>
+	<data name="msgGridUseFilterFieldType" xml:space="preserve">
+		<value>Use the filter by field type!</value>
+	</data>
+	<data name="msgGridUniqError" xml:space="preserve">
+		<value>It is not possible to display a list of unique values, because the number of such values exceeds the established limit!</value>
+	</data>
+	<data name="msgOpenSettingFilter" xml:space="preserve">
+		<value>Open the filtering and sorting column settings.</value>
+	</data>
+	<data name="lblSortedBy" xml:space="preserve">
+		<value>Sorted by</value>
+	</data>
+	<data name="lblAscendingSort" xml:space="preserve">
+		<value>ascending</value>
+	</data>
+	<data name="lblDescendingSort" xml:space="preserve">
+		<value>descending</value>
+	</data>
+	<data name="lblColumnSortOrder" xml:space="preserve">
+		<value>Indicates the order in which the columns are sorted.</value>
+	</data>
+	<data name="msgGrigSordBackOrder" xml:space="preserve">
+		<value>Click on the icon to sort in the opposite direction.</value>
+	</data>
+	<data name="lblFilterAndSort" xml:space="preserve">
+		<value>Filtering and sorting</value>
+	</data>
+	<data name="msgSortOrderAZ" xml:space="preserve">
+		<value>Sorting from A to Z</value>
+	</data>
+	<data name="msgSortOrderZA" xml:space="preserve">
+		<value>Sorting from Z to A</value>
+	</data>
+	<data name="msgSortOrderMinMax" xml:space="preserve">
+		<value>Sorting from minimum to maximum</value>
+	</data>
+	<data name="msgSortOrderMaxMin" xml:space="preserve">
+		<value>Sorting from maximum to minimum</value>
+	</data>
+	<data name="msgGrigNoSort" xml:space="preserve">
+		<value>Do not sort</value>
+	</data>
+	<data name="msgGrigNoFilter" xml:space="preserve">
+		<value>Do not filter</value>
+	</data>
+	<data name="lNo" xml:space="preserve">
+		<value>not</value>
+	</data>
+	<data name="lblEqually" xml:space="preserve">
+		<value>equally</value>
+	</data>
+	<data name="lblGridSetNumericFilter" xml:space="preserve">
+		<value>Set numeric filter</value>
+	</data>
+	<data name="lblGridSetDateFilter" xml:space="preserve">
+		<value>Set filter by date</value>
+	</data>
+	<data name="lblGridSetTextFilter" xml:space="preserve">
+		<value>Install Text Filter</value>
+	</data>
+	<data name="lblGridRecordCount" xml:space="preserve">
+		<value>Total records</value>
+	</data>
+	<data name="msgErrorIdColumn" xml:space="preserve">
+		<value>Error determining column ID</value>
+	</data>
+	<data name="msgPrintCount" xml:space="preserve">
+		<value>Attention! Printed only</value>
+	</data>
+	<data name="lOf" xml:space="preserve">
+		<value>of</value>
+	</data>
+	<data name="msgErrorIdColumnFound" xml:space="preserve">
+		<value>Could not find the column by ID.</value>
+	</data>
+	<data name="lblGridRecords" xml:space="preserve">
+		<value>records</value>
+	</data>
+	<data name="lblGridEdit" xml:space="preserve">
+		<value>edit</value>
+	</data>
+	<data name="lblGridDelete" xml:space="preserve">
+		<value>remove</value>
+	</data>
+	<data name="lblGridCopy" xml:space="preserve">
+		<value>copy</value>
+	</data>
+	<data name="lblNotEqual" xml:space="preserve">
+		<value>not equal</value>
+	</data>
+	<data name="lblNoValue" xml:space="preserve">
+		<value>no value specified</value>
+	</data>
+	<data name="lblEmptyString" xml:space="preserve">
+		<value>empty line</value>
+	</data>
+	<data name="lblAnyValueSpecified" xml:space="preserve">
+		<value>any value is specified</value>
+	</data>
+	<data name="lblNoEmptyString" xml:space="preserve">
+		<value>not an empty string</value>
+	</data>
+	<data name="lblBetween" xml:space="preserve">
+		<value>between</value>
+	</data>
+	<data name="lblInInterval" xml:space="preserve">
+		<value>is in the interval</value>
+	</data>
+	<data name="lblBeginWith" xml:space="preserve">
+		<value>begin with</value>
+	</data>
+	<data name="lblEndsWith" xml:space="preserve">
+		<value>ends with</value>
+	</data>
+	<data name="lblContains" xml:space="preserve">
+		<value>contains</value>
+	</data>
+	<data name="lblNoContains" xml:space="preserve">
+		<value>does not contain</value>
+	</data>
+	<data name="lblMore" xml:space="preserve">
+		<value>more</value>
+	</data>
+	<data name="lblMoreOrEqual" xml:space="preserve">
+		<value>more or equal</value>
+	</data>
+	<data name="lblLess" xml:space="preserve">
+		<value>less</value>
+	</data>
+	<data name="lblLessOrEqual" xml:space="preserve">
+		<value>less or equal</value>
+	</data>
+	<data name="lORUp" xml:space="preserve">
+		<value>OR</value>
+	</data>
+	<data name="lANDUp" xml:space="preserve">
+		<value>AND</value>
+	</data>
+	<data name="lEmpty" xml:space="preserve">
+		<value>empty</value>
+	</data>
+	<data name="lblSettingFilter" xml:space="preserve">
+		<value>Set the filter</value>
+	</data>
+	<data name="cmdApply" xml:space="preserve">
+		<value>Apply</value>
+	</data>
+	<data name="msgEmptyFilterValue" xml:space="preserve">
+		<value>No value for filter!</value>
+	</data>
+	<data name="TTN_msgFakturaExist" xml:space="preserve">
+		<value>It is impossible to change the relationship with the corrected sales document in the presence of a resulting invoice.
+First, delete the resulting invoice.</value>
+	</data>
+	<data name="TTN_lblShipmentAmounts" xml:space="preserve">
+		<value>Shipment amounts</value>
+	</data>
+	<data name="lblCost" xml:space="preserve">
+		<value>Cost</value>
+	</data>
 </root>

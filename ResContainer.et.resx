@@ -484,7 +484,7 @@
     <value>Kinkepiletid</value>
   </data>
 	<data name="lblPosCol1" xml:space="preserve">
-    <value>Toode/Teenus</value>
+    <value>Toode / Teenus</value>
   </data>
 	<data name="lblPosCol10" xml:space="preserve">
     <value>Summa</value>
@@ -2999,5 +2999,588 @@ Kas olete kindel, et soovite seda operatsiooni teha?</value>
 	</data>
 	<data name="lblWriteMessage" xml:space="preserve">
 		<value>Kirjuta uus sõnum</value>
+	</data>
+	<data name="MWP_Title" xml:space="preserve">
+		<value>Juhi töökoht</value>
+	</data>
+	<data name="lblSettings" xml:space="preserve">
+		<value>Seaded</value>
+	</data>
+	<data name="lblRun" xml:space="preserve">
+		<value>Jookse</value>
+	</data>
+	<data name="lblShipperStore" xml:space="preserve">
+		<value>Müüja ladu</value>
+	</data>
+	<data name="lblPayerStore" xml:space="preserve">
+		<value>Maksja lao</value>
+	</data>
+	<data name="lblProduct" xml:space="preserve">
+		<value>Toode</value>
+	</data>
+	<data name="lblPosResourceNameRus" xml:space="preserve">
+		<value>Ressursi nimetus (rus.)</value>
+	</data>
+	<data name="msgDeleteConfirm" xml:space="preserve">
+		<value>Kas olete kindel, et soovite kustutada</value>
+	</data>
+	<data name="TTN_optTransactionBalance" xml:space="preserve">
+		<value>Tehingutasakaal</value>
+	</data>
+	<data name="TTN_optBalanceCompletedDocuments" xml:space="preserve">
+		<value>Täidetud dokumentide tasakaal</value>
+	</data>
+	<data name="TTN_optBalanceSignedDocuments" xml:space="preserve">
+		<value>Saldo allkirjastatud dokumentidele</value>
+	</data>
+	<data name="errPrinting" xml:space="preserve">
+		<value>Viga printimisel</value>
+	</data>
+	<data name="errRetrievingPageObject" xml:space="preserve">
+		<value>Vea leheobjekti allalaadimisel</value>
+	</data>
+	<data name="TTN_ ERRMoveStockInitialized" xml:space="preserve">
+		<value>Liikumine laoseisu objekti pole initsialiseeritud. Avatud redigeeritud üksus uuesti.</value>
+	</data>
+	<data name="TTN_ntfKeeperNotFound" xml:space="preserve">
+		<value>pidaja ei leitud</value>
+	</data>
+	<data name="TTN_ntfKeeperNotVerified" xml:space="preserve">
+		<value>kinnihoidja ei ole kinnitatud</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchSupplier" xml:space="preserve">
+		<value>ladu ei ühti tarnijaga</value>
+	</data>
+	<data name="TTN_ntfKeeperNoDataOn" xml:space="preserve">
+		<value>hoiuandjale ei ole andmeid</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotAvailable" xml:space="preserve">
+		<value>ladu pole saadaval</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchPayer" xml:space="preserve">
+		<value>ladu ei vasta maksjale</value>
+	</data>
+	<data name="TTN_ntfRussianNameNotMatchProduct" xml:space="preserve">
+		<value>Vene nimi ei vasta tootele</value>
+	</data>
+	<data name="msgIN" xml:space="preserve">
+		<value>aastal</value>
+	</data>
+	<data name="TTN_ntfNotMatchApplication" xml:space="preserve">
+		<value>ei vasta rakendusele</value>
+	</data>
+	<data name="TTN_ntfNotComplyContract" xml:space="preserve">
+		<value>ei vasta lepingule</value>
+	</data>
+	<data name="TTN_ntfLatinNameNotMatchProduct" xml:space="preserve">
+		<value>ladinakeelne nimetus ei vasta tootele</value>
+	</data>
+	<data name="TTN_ntfDocumentNotAvailable" xml:space="preserve">
+		<value>dokument pole saadaval</value>
+	</data>
+	<data name="TTN_errFailedGenerateButtons" xml:space="preserve">
+		<value>Vormi nuppude genereerimine ebaõnnestus</value>
+	</data>
+	<data name="TTN_lblAtBeginningDay" xml:space="preserve">
+		<value>päeva alguses</value>
+	</data>
+	<data name="TTN_lblAtEndDay" xml:space="preserve">
+		<value>päeva lõpus</value>
+	</data>
+	<data name="TTN_msgDocumentCanNotBeSaved" xml:space="preserve">
+		<value>Dokumenti ei saa salvestada.</value>
+	</data>
+	<data name="TTN_lblIncludeSubResources" xml:space="preserve">
+		<value>Lisage allutatud ressursid</value>
+	</data>
+	<data name="lblCustomsDeclaration" xml:space="preserve">
+		<value>Tollideklaratsioon</value>
+	</data>
+	<data name="lblCountryOfOrigin" xml:space="preserve">
+		<value>Päritoluriik</value>
+	</data>
+	<data name="TTN_lblUnitsSelect" xml:space="preserve">
+		<value>Valige üksused. muudan.</value>
+	</data>
+	<data name="lblEquivalent" xml:space="preserve">
+		<value>Samaväärne</value>
+	</data>
+	<data name="TTN_ntfNotShipperStore" xml:space="preserve">
+		<value>Lahtri "Vendor laos" on tühi</value>
+	</data>
+	<data name="TTN_ntfNotPayerStore" xml:space="preserve">
+		<value>Väljastus "Maksja laost" on tühi</value>
+	</data>
+	<data name="TTN_ntfNotProduct" xml:space="preserve">
+		<value>Väli "toode" on tühi</value>
+	</data>
+	<data name="TTN_ntfNotResourceRus" xml:space="preserve">
+		<value>Väli "Vene tootenimi" on tühi</value>
+	</data>
+	<data name="TTN_ntfNotCount" xml:space="preserve">
+		<value>Välja "Kogus" on tühi</value>
+	</data>
+	<data name="TTN_ntfNotUnit" xml:space="preserve">
+		<value>Väljund "Mõõtühik" pole täidetud</value>
+	</data>
+	<data name="TTN_ntfNotCostOutNDS" xml:space="preserve">
+		<value>Välja on tühi "Hind ilma käibemaksuta"</value>
+	</data>
+	<data name="TTN_ntfCostOutNDSIncorrect" xml:space="preserve">
+		<value>Hind ilma käibemaksuta peab olema suurem või väiksem kui 0</value>
+	</data>
+	<data name="TTN_ntfNotSummaNDS" xml:space="preserve">
+		<value>Väli "käibemaksumäär" on tühi</value>
+	</data>
+	<data name="TTN_ntfNotVsego" xml:space="preserve">
+		<value>Välja "Kokku" on tühi</value>
+	</data>
+	<data name="TTN_ntfVsegoIncorrect" xml:space="preserve">
+		<value>Väljendi "Kokku" väärtus peab olema suurem või väiksem kui 0</value>
+	</data>
+	<data name="TTN_ntfNotGTD" xml:space="preserve">
+		<value>Peate määrama tollideklaratsiooni</value>
+	</data>
+	<data name="TTN_msgNDSSUM" xml:space="preserve">
+		<value>Kas olete määranud hinna koos käibemaksuga?</value>
+	</data>
+	<data name="TTN_msgChoiceCalculationType" xml:space="preserve">
+		<value>Arvutamisviisi valik</value>
+	</data>
+	<data name="QSBtnRecalc" xml:space="preserve">
+		<value>Ümberarvutamine</value>
+	</data>
+	<data name="QSBtnChange" xml:space="preserve">
+		<value>Muuda</value>
+	</data>
+	<data name="TTN_msgOKInfo" xml:space="preserve">
+		<value>seotud väärtuste muutmiseks ja ümberarvutamiseks</value>
+	</data>
+	<data name="TTN_msgRecalcInfo" xml:space="preserve">
+		<value>selle väärtuse pöördväärtuse ümberarvutamiseks</value>
+	</data>
+	<data name="TTN_msgCancel" xml:space="preserve">
+		<value>muudatuste tühistamiseks</value>
+	</data>
+	<data name="TTN_msgChange" xml:space="preserve">
+		<value>sundida väärtuse muutust ilma ümber arvestamata</value>
+	</data>
+	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
+		<value>Valige jaotamise tüüp</value>
+	</data>
+	<data name="lblService" xml:space="preserve">
+		<value>Teenindus</value>
+	</data>
+	<data name="TTN_ntfNotService" xml:space="preserve">
+		<value>Välja "Teenus" pole täidetud</value>
+	</data>
+	<data name="TTN_msgAgent" xml:space="preserve">
+		<value>agent</value>
+	</data>
+	<data name="lblPerson" xml:space="preserve">
+		<value>Inimene</value>
+	</data>
+	<data name="TTN_lblInvoiceDetail" xml:space="preserve">
+		<value>Veokirja nõuded</value>
+	</data>
+	<data name="TTN_lblMonthResource" xml:space="preserve">
+		<value>Ressursside kuu</value>
+	</data>
+	<data name="lblItogoInvoice" xml:space="preserve">
+		<value>Kokku saatelehe kohta</value>
+	</data>
+	<data name="lblProducts" xml:space="preserve">
+		<value>Kaubad</value>
+	</data>
+	<data name="lblServices" xml:space="preserve">
+		<value>Teenused</value>
+	</data>
+	<data name="lblWait" xml:space="preserve">
+		<value>Oota</value>
+	</data>
+	<data name="TTN_MrisTitle" xml:space="preserve">
+		<value>Kaupade realiseerimine / ostmine</value>
+	</data>
+	<data name="TTN_FactUslTitle" xml:space="preserve">
+		<value>Töö tehtud / osutatud teenused</value>
+	</data>
+	<data name="TTN_errOpenEditForm" xml:space="preserve">
+		<value>Redigeerimisvormi avamise parameetrid on valed!</value>
+	</data>
+	<data name="TTN_optImplementationByResources" xml:space="preserve">
+		<value>Müük kaupade järgi</value>
+	</data>
+	<data name="TTN_optGroupByResource" xml:space="preserve">
+		<value>Grupi kaupa</value>
+	</data>
+	<data name="TTN_optRealizationResourcesByWagons" xml:space="preserve">
+		<value>Kaupade realiseerimine vagunitega</value>
+	</data>
+	<data name="TTN_lblGOAddress" xml:space="preserve">
+		<value>Saatja aadress</value>
+	</data>
+	<data name="TTN_lblGPAddress" xml:space="preserve">
+		<value>Saaja aadress</value>
+	</data>
+	<data name="TTN_lblSectionGeneral" xml:space="preserve">
+		<value>Teave saatelehe kohta</value>
+	</data>
+	<data name="TTN_lblSectionSignersOfPaper" xml:space="preserve">
+		<value>Trükitud vormide allkirjad</value>
+	</data>
+	<data name="TTN_lblSectionDocuments" xml:space="preserve">
+		<value>Dokumendid</value>
+	</data>
+	<data name="TTN_lblSectionCurator" xml:space="preserve">
+		<value>Kuraator</value>
+	</data>
+	<data name="TTN_lblSectionGO" xml:space="preserve">
+		<value>Kaubasaatja</value>
+	</data>
+	<data name="TTN_lblSectionGP" xml:space="preserve">
+		<value>Kaubasaaja</value>
+	</data>
+	<data name="TTN_lblSectionShipper" xml:space="preserve">
+		<value>Tarnija</value>
+	</data>
+	<data name="TTN_lblSectionPayer" xml:space="preserve">
+		<value>Maksja</value>
+	</data>
+	<data name="TTN_lblSectionGoToShipper" xml:space="preserve">
+		<value>Kooskõlas kaubasaatjaga:</value>
+	</data>
+	<data name="TTN_lblSectionGpToPayer" xml:space="preserve">
+		<value>See langeb kokku kaubasaajaga:</value>
+	</data>
+	<data name="TTN_lblSectionResource" xml:space="preserve">
+		<value>Kaubad</value>
+	</data>
+	<data name="TTN_lblSectionServices" xml:space="preserve">
+		<value>Teenused</value>
+	</data>
+	<data name="TTN_lblSectionTransport" xml:space="preserve">
+		<value>Transporditeenused</value>
+	</data>
+	<data name="TTN_lblSectionRequiredInfo" xml:space="preserve">
+		<value>Puudu</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
+		<value>aadress ei vasta kaubasaatjale</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGp" xml:space="preserve">
+		<value>aadress ei vasta kaubasaajale</value>
+	</data>
+	<data name="TTN_ntfPersonAddressShipper" xml:space="preserve">
+		<value>aadress ei ühti tarnijaga</value>
+	</data>
+	<data name="TTN_ntfPersonAddressPayer" xml:space="preserve">
+		<value>aadress ei vasta maksjale</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGo" xml:space="preserve">
+		<value>rekvisiidid ei vasta kaubasaatjale</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGp" xml:space="preserve">
+		<value>rekvisiidid ei vasta kaubasaajale</value>
+	</data>
+	<data name="TTN_ntfPersonInfoShipper" xml:space="preserve">
+		<value>nimi ei ühti tarnijaga</value>
+	</data>
+	<data name="TTN_ntfPersonInfoPayer" xml:space="preserve">
+		<value>nimi ei ühti maksjaga</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGo" xml:space="preserve">
+		<value>OKPO ei vasta kaubasaatjale</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGp" xml:space="preserve">
+		<value>OKPO ei vasta kaubasaajale</value>
+	</data>
+	<data name="TTN_ntfPersonCodeShipper" xml:space="preserve">
+		<value>OKPO ei vasta tarnijatele</value>
+	</data>
+	<data name="TTN_ntfPersonCodePayer" xml:space="preserve">
+		<value>OKPO ei vasta maksjale</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGo" xml:space="preserve">
+		<value>kaubasaajal OKPO puudub</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGp" xml:space="preserve">
+		<value>kaubasaajal OKPO puudub</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeShipper" xml:space="preserve">
+		<value>tarnijal ei ole OKPO-d</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodePayer" xml:space="preserve">
+		<value>maksjal pole OKPO-d</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGo" xml:space="preserve">
+		<value>konto ei vasta kaubasaatjale</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGp" xml:space="preserve">
+		<value>arvelduskonto ei vasta kaubasaajale</value>
+	</data>
+	<data name="TTN_ntfPersonStoreShipper" xml:space="preserve">
+		<value>arvelduskonto ei vasta tarnijatele</value>
+	</data>
+	<data name="TTN_ntfPersonStorePayer" xml:space="preserve">
+		<value>arvelduskonto ei vasta maksjale</value>
+	</data>
+	<data name="TTN_ntfAddressDate" xml:space="preserve">
+		<value>aadress ei ole kehtiv dokumendi kuupäev</value>
+	</data>
+	<data name="TTN_ntfBaseDocumentOnDate" xml:space="preserve">
+		<value>asutamiskuupäev peab olema väiksem kui praeguse dokumendi kuupäev või sellega võrdne</value>
+	</data>
+	<data name="TTN_ntfCurrencyDocument" xml:space="preserve">
+		<value>pangakonto valuuta ei vasta dokumendi valuutale</value>
+	</data>
+	<data name="TTN_ntfInfoStore" xml:space="preserve">
+		<value>rekvisiidid ei vasta arvelduskontol</value>
+	</data>
+	<data name="TTN_ntfEnclosureContract" xml:space="preserve">
+		<value>rakendused ei ole dokumendiga seotud</value>
+	</data>
+	<data name="TTN_ntfDocumentForm" xml:space="preserve">
+		<value>dokumendil puudub elektrooniline vorm</value>
+	</data>
+	<data name="TTN_ntfPersonDate" xml:space="preserve">
+		<value>isikul ei ole dokumendi kuupäeva jaoks vajalikke tingimusi</value>
+	</data>
+	<data name="TTN_ntfStoreAccountDate" xml:space="preserve">
+		<value>arvelduskonto ei kehti</value>
+	</data>
+	<data name="TTN_ntfPersonPosition" xml:space="preserve">
+		<value>positsioon ei vasta inimesele</value>
+	</data>
+	<data name="TTN_ntfPostingOnDate" xml:space="preserve">
+		<value>lähetamise kuupäev peab olema suurem kui praeguse dokumendi kuupäev või sellega võrdne</value>
+	</data>
+	<data name="TTN_ntfPersonDocument" xml:space="preserve">
+		<value>dokumendi isikud ei vasta tarnija ja maksjaga</value>
+	</data>
+	<data name="TTN_ntfPaymentInvoice" xml:space="preserve">
+		<value>maksedokumentidel ei ole alust</value>
+	</data>
+	<data name="TTN_bntAddResource" xml:space="preserve">
+		<value>Lisa üksus</value>
+	</data>
+	<data name="TTN_btnAddService" xml:space="preserve">
+		<value>Lisage teenust</value>
+	</data>
+	<data name="lblPosCol11" xml:space="preserve">
+		<value>Ressurss</value>
+	</data>
+	<data name="lblPosCol12" xml:space="preserve">
+		<value>Saatmine</value>
+	</data>
+	<data name="lblPosCol13" xml:space="preserve">
+		<value>Päritoluriik</value>
+	</data>
+	<data name="TTN_btnDeletePosition" xml:space="preserve">
+		<value>kustuta positsioon</value>
+	</data>
+	<data name="TTN_btnCopyPosition" xml:space="preserve">
+		<value>kopeeri postitus</value>
+	</data>
+	<data name="TTN_btnEditPosition" xml:space="preserve">
+		<value>muuda postitust</value>
+	</data>
+	<data name="lblPosCol14" xml:space="preserve">
+		<value>Tollideklaratsioon</value>
+	</data>
+	<data name="lblPosCol15" xml:space="preserve">
+		<value>Agent pakkuja</value>
+	</data>
+	<data name="lblPosCol16" xml:space="preserve">
+		<value>Agent maksja</value>
+	</data>
+	<data name="lblSetFilter" xml:space="preserve">
+		<value>Filtreeritakse:</value>
+	</data>
+	<data name="TTN_lblProductNameRus" xml:space="preserve">
+		<value>Toote nimetus (rus)</value>
+	</data>
+	<data name="TTN_lblProductNameLat" xml:space="preserve">
+		<value>Toote nimetus (lat)</value>
+	</data>
+	<data name="TTN_lblServiceNameRus" xml:space="preserve">
+		<value>Teenuse nimi (rus)</value>
+	</data>
+	<data name="TTN_lblServiceNameLat" xml:space="preserve">
+		<value>Teenuse nimi (lat)</value>
+	</data>
+	<data name="lblEditFilter" xml:space="preserve">
+		<value>Muuda filtrit</value>
+	</data>
+	<data name="lblFieldValue" xml:space="preserve">
+		<value>Väljuväärtus</value>
+	</data>
+	<data name="lAnd" xml:space="preserve">
+		<value>ja</value>
+	</data>
+	<data name="TTN_FFrom" xml:space="preserve">
+		<value>alates</value>
+	</data>
+	<data name="lblSelectAll" xml:space="preserve">
+		<value>Vali kõik</value>
+	</data>
+	<data name="msgGridUniqError" xml:space="preserve">
+		<value>Unikaalsete väärtuste loendit ei ole võimalik kuvada, sest selliste väärtuste arv ületab kehtestatud piiri!</value>
+	</data>
+	<data name="msgGridUseFilterFieldType" xml:space="preserve">
+		<value>Kasutage filtrit väli tüübi järgi!</value>
+	</data>
+	<data name="msgOpenSettingFilter" xml:space="preserve">
+		<value>Avage veeru seadete filtreerimine ja sorteerimine.</value>
+	</data>
+	<data name="lblSortedBy" xml:space="preserve">
+		<value>Sorteeritud poolt</value>
+	</data>
+	<data name="msgGrigSordBackOrder" xml:space="preserve">
+		<value>Klõpsake ikoonil, et sortida vastupidises suunas.</value>
+	</data>
+	<data name="lblAscendingSort" xml:space="preserve">
+		<value>kasvav</value>
+	</data>
+	<data name="lblDescendingSort" xml:space="preserve">
+		<value>kahanev</value>
+	</data>
+	<data name="lblColumnSortOrder" xml:space="preserve">
+		<value>Näitab veergude sortimise järjekorda.</value>
+	</data>
+	<data name="lblFilterAndSort" xml:space="preserve">
+		<value>Filtreerimine ja sortimine</value>
+	</data>
+	<data name="msgSortOrderAZ" xml:space="preserve">
+		<value>Sorteerimine A-lt Z-le</value>
+	</data>
+	<data name="msgSortOrderZA" xml:space="preserve">
+		<value>Sorteerimine Z-le A-lt</value>
+	</data>
+	<data name="msgSortOrderMinMax" xml:space="preserve">
+		<value>Sortimine miinimumilt maksimaalsele</value>
+	</data>
+	<data name="msgSortOrderMaxMin" xml:space="preserve">
+		<value>Sortimine maksimaalsest miinimumini</value>
+	</data>
+	<data name="msgGrigNoSort" xml:space="preserve">
+		<value>Ära sorteeri</value>
+	</data>
+	<data name="msgGrigNoFilter" xml:space="preserve">
+		<value>Ärge filtreerige</value>
+	</data>
+	<data name="lNo" xml:space="preserve">
+		<value>mitte</value>
+	</data>
+	<data name="lblEqually" xml:space="preserve">
+		<value>võrdub</value>
+	</data>
+	<data name="lblGridSetNumericFilter" xml:space="preserve">
+		<value>Määrake arvufilter</value>
+	</data>
+	<data name="lblGridSetDateFilter" xml:space="preserve">
+		<value>Määrake filter kuupäeva järgi</value>
+	</data>
+	<data name="lblGridSetTextFilter" xml:space="preserve">
+		<value>Tekstifiltri installimine</value>
+	</data>
+	<data name="msgErrorIdColumn" xml:space="preserve">
+		<value>Vea ID määramine viga</value>
+	</data>
+	<data name="lblGridRecordCount" xml:space="preserve">
+		<value>Kogu kirjeid</value>
+	</data>
+	<data name="msgPrintCount" xml:space="preserve">
+		<value>Tähelepanu palun! Ainult trükitud</value>
+	</data>
+	<data name="lOf" xml:space="preserve">
+		<value>alates</value>
+	</data>
+	<data name="lblGridRecords" xml:space="preserve">
+		<value>dokumendid</value>
+	</data>
+	<data name="msgErrorIdColumnFound" xml:space="preserve">
+		<value>Veerg ei leitud ID-ga.</value>
+	</data>
+	<data name="lblGridEdit" xml:space="preserve">
+		<value>redigeeri</value>
+	</data>
+	<data name="lblGridDelete" xml:space="preserve">
+		<value>eemaldada</value>
+	</data>
+	<data name="lblGridCopy" xml:space="preserve">
+		<value>koopia</value>
+	</data>
+	<data name="lblNotEqual" xml:space="preserve">
+		<value>ei ole võrdne</value>
+	</data>
+	<data name="lblEmptyString" xml:space="preserve">
+		<value>tühi string</value>
+	</data>
+	<data name="lblNoValue" xml:space="preserve">
+		<value>väärtus pole määratud</value>
+	</data>
+	<data name="lblNoEmptyString" xml:space="preserve">
+		<value>mitte tühi string</value>
+	</data>
+	<data name="lblAnyValueSpecified" xml:space="preserve">
+		<value>kõik väärtused on täpsustatud</value>
+	</data>
+	<data name="lblBetween" xml:space="preserve">
+		<value>vahel</value>
+	</data>
+	<data name="lblInInterval" xml:space="preserve">
+		<value>on intervallis</value>
+	</data>
+	<data name="lblBeginWith" xml:space="preserve">
+		<value>algab</value>
+	</data>
+	<data name="lblEndsWith" xml:space="preserve">
+		<value>lõpeb</value>
+	</data>
+	<data name="lblContains" xml:space="preserve">
+		<value>sisaldab</value>
+	</data>
+	<data name="lblNoContains" xml:space="preserve">
+		<value>ei sisalda</value>
+	</data>
+	<data name="lblMore" xml:space="preserve">
+		<value>rohkem kui</value>
+	</data>
+	<data name="lblMoreOrEqual" xml:space="preserve">
+		<value>suurem kui või võrdne</value>
+	</data>
+	<data name="lblLess" xml:space="preserve">
+		<value>vähem</value>
+	</data>
+	<data name="lblLessOrEqual" xml:space="preserve">
+		<value>vähem kui või võrdne</value>
+	</data>
+	<data name="lORUp" xml:space="preserve">
+		<value>VÕI</value>
+	</data>
+	<data name="lANDUp" xml:space="preserve">
+		<value>Ja</value>
+	</data>
+	<data name="lEmpty" xml:space="preserve">
+		<value>tühi</value>
+	</data>
+	<data name="cmdApply" xml:space="preserve">
+		<value>Rakenda</value>
+	</data>
+	<data name="lblSettingFilter" xml:space="preserve">
+		<value>Filtri seadistamine</value>
+	</data>
+	<data name="msgEmptyFilterValue" xml:space="preserve">
+		<value>Filtri jaoks pole väärtust!</value>
+	</data>
+	<data name="TTN_msgFakturaExist" xml:space="preserve">
+		<value>Saadud arve olemasolu korral ei ole suhte muutmine parandatud müügidokumendiga võimalik muuta.
+Esiteks kustutage saadud arve.</value>
+	</data>
+	<data name="TTN_lblShipmentAmounts" xml:space="preserve">
+		<value>Saadetiste kogused</value>
+	</data>
+	<data name="lblCost" xml:space="preserve">
+		<value>Hind</value>
 	</data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,2155 +59,2155 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="1" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="1" xml:space="preserve">
     <value>один</value>
   </data>
-  <data name="10" xml:space="preserve">
+	<data name="10" xml:space="preserve">
     <value>десять</value>
   </data>
-  <data name="100" xml:space="preserve">
+	<data name="100" xml:space="preserve">
     <value>сто</value>
   </data>
-  <data name="1000" xml:space="preserve">
+	<data name="1000" xml:space="preserve">
     <value>тысяча</value>
   </data>
-  <data name="1000000" xml:space="preserve">
+	<data name="1000000" xml:space="preserve">
     <value>миллион</value>
   </data>
-  <data name="1000000000" xml:space="preserve">
+	<data name="1000000000" xml:space="preserve">
     <value>миллиард</value>
   </data>
-  <data name="1000000000_2" xml:space="preserve">
+	<data name="1000000000_2" xml:space="preserve">
     <value>миллиарда</value>
   </data>
-  <data name="1000000000_5" xml:space="preserve">
+	<data name="1000000000_5" xml:space="preserve">
     <value>миллиардов</value>
   </data>
-  <data name="1000000_2" xml:space="preserve">
+	<data name="1000000_2" xml:space="preserve">
     <value>миллиона</value>
   </data>
-  <data name="1000000_5" xml:space="preserve">
+	<data name="1000000_5" xml:space="preserve">
     <value>миллионов</value>
   </data>
-  <data name="1000_2" xml:space="preserve">
+	<data name="1000_2" xml:space="preserve">
     <value>тысячи</value>
   </data>
-  <data name="1000_5" xml:space="preserve">
+	<data name="1000_5" xml:space="preserve">
     <value>тысяч</value>
   </data>
-  <data name="11" xml:space="preserve">
+	<data name="11" xml:space="preserve">
     <value>одинадцать</value>
   </data>
-  <data name="12" xml:space="preserve">
+	<data name="12" xml:space="preserve">
     <value>двенадцать</value>
   </data>
-  <data name="13" xml:space="preserve">
+	<data name="13" xml:space="preserve">
     <value>тринадцать</value>
   </data>
-  <data name="14" xml:space="preserve">
+	<data name="14" xml:space="preserve">
     <value>четырнадцать</value>
   </data>
-  <data name="15" xml:space="preserve">
+	<data name="15" xml:space="preserve">
     <value>пятнадцать</value>
   </data>
-  <data name="16" xml:space="preserve">
+	<data name="16" xml:space="preserve">
     <value>шестнадцать</value>
   </data>
-  <data name="17" xml:space="preserve">
+	<data name="17" xml:space="preserve">
     <value>семнадцать</value>
   </data>
-  <data name="18" xml:space="preserve">
+	<data name="18" xml:space="preserve">
     <value>восемнадцать</value>
   </data>
-  <data name="19" xml:space="preserve">
+	<data name="19" xml:space="preserve">
     <value>девятнадцать</value>
   </data>
-  <data name="1_she" xml:space="preserve">
+	<data name="1_she" xml:space="preserve">
     <value>одна</value>
   </data>
-  <data name="2" xml:space="preserve">
+	<data name="2" xml:space="preserve">
     <value>два</value>
   </data>
-  <data name="20" xml:space="preserve">
+	<data name="20" xml:space="preserve">
     <value>двадцать</value>
   </data>
-  <data name="200" xml:space="preserve">
+	<data name="200" xml:space="preserve">
     <value>двести</value>
   </data>
-  <data name="2_she" xml:space="preserve">
+	<data name="2_she" xml:space="preserve">
     <value>две</value>
   </data>
-  <data name="3" xml:space="preserve">
+	<data name="3" xml:space="preserve">
     <value>три</value>
   </data>
-  <data name="30" xml:space="preserve">
+	<data name="30" xml:space="preserve">
     <value>тридцать</value>
   </data>
-  <data name="300" xml:space="preserve">
+	<data name="300" xml:space="preserve">
     <value>триста</value>
   </data>
-  <data name="4" xml:space="preserve">
+	<data name="4" xml:space="preserve">
     <value>четыре</value>
   </data>
-  <data name="40" xml:space="preserve">
+	<data name="40" xml:space="preserve">
     <value>сорок</value>
   </data>
-  <data name="400" xml:space="preserve">
+	<data name="400" xml:space="preserve">
     <value>четыреста</value>
   </data>
-  <data name="5" xml:space="preserve">
+	<data name="5" xml:space="preserve">
     <value>пять</value>
   </data>
-  <data name="50" xml:space="preserve">
+	<data name="50" xml:space="preserve">
     <value>пятьдесят</value>
   </data>
-  <data name="500" xml:space="preserve">
+	<data name="500" xml:space="preserve">
     <value>пятьсот</value>
   </data>
-  <data name="6" xml:space="preserve">
+	<data name="6" xml:space="preserve">
     <value>шесть</value>
   </data>
-  <data name="60" xml:space="preserve">
+	<data name="60" xml:space="preserve">
     <value>шестьдесят</value>
   </data>
-  <data name="600" xml:space="preserve">
+	<data name="600" xml:space="preserve">
     <value>шестьсот</value>
   </data>
-  <data name="7" xml:space="preserve">
+	<data name="7" xml:space="preserve">
     <value>семь</value>
   </data>
-  <data name="70" xml:space="preserve">
+	<data name="70" xml:space="preserve">
     <value>семьдесят</value>
   </data>
-  <data name="700" xml:space="preserve">
+	<data name="700" xml:space="preserve">
     <value>семьсот</value>
   </data>
-  <data name="8" xml:space="preserve">
+	<data name="8" xml:space="preserve">
     <value>восемь</value>
   </data>
-  <data name="80" xml:space="preserve">
+	<data name="80" xml:space="preserve">
     <value>восемьдесят</value>
   </data>
-  <data name="800" xml:space="preserve">
+	<data name="800" xml:space="preserve">
     <value>восемьсот</value>
   </data>
-  <data name="9" xml:space="preserve">
+	<data name="9" xml:space="preserve">
     <value>девять</value>
   </data>
-  <data name="90" xml:space="preserve">
+	<data name="90" xml:space="preserve">
     <value>девяносто</value>
   </data>
-  <data name="900" xml:space="preserve">
+	<data name="900" xml:space="preserve">
     <value>девятьсот</value>
   </data>
-  <data name="add" xml:space="preserve">
+	<data name="add" xml:space="preserve">
     <value>Добавить существующий</value>
   </data>
-  <data name="alertAlreadyLinked" xml:space="preserve">
+	<data name="alertAlreadyLinked" xml:space="preserve">
     <value>Данный документ уже связан с другим документом. Тип связи не позволяет связать его повторно.</value>
   </data>
-  <data name="alertError" xml:space="preserve">
+	<data name="alertError" xml:space="preserve">
     <value>Ошибка</value>
   </data>
-  <data name="alertMessage" xml:space="preserve">
+	<data name="alertMessage" xml:space="preserve">
     <value>Сообщение</value>
   </data>
-  <data name="alertWarning" xml:space="preserve">
+	<data name="alertWarning" xml:space="preserve">
     <value>Предупреждение</value>
   </data>
-  <data name="AskRevertDoc" xml:space="preserve">
+	<data name="AskRevertDoc" xml:space="preserve">
     <value>Хотите вернуть документ в первоначальное состояние?</value>
   </data>
-  <data name="btnCancel" xml:space="preserve">
+	<data name="btnCancel" xml:space="preserve">
     <value>Отменить</value>
   </data>
-  <data name="BtnClose" xml:space="preserve">
+	<data name="BtnClose" xml:space="preserve">
     <value>   Закрыть</value>
   </data>
-  <data name="BtnConfirm" xml:space="preserve">
+	<data name="BtnConfirm" xml:space="preserve">
     <value>  Подтверждаю</value>
   </data>
-  <data name="btnDelete" xml:space="preserve">
+	<data name="btnDelete" xml:space="preserve">
     <value>  Удалить</value>
   </data>
-  <data name="BtnFormAgain" xml:space="preserve">
+	<data name="BtnFormAgain" xml:space="preserve">
     <value>  Сформировать заново</value>
   </data>
-  <data name="btnHelp" xml:space="preserve">
+	<data name="btnHelp" xml:space="preserve">
     <value>  Справка</value>
   </data>
-  <data name="BtnRebuild" xml:space="preserve">
+	<data name="BtnRebuild" xml:space="preserve">
     <value>Полностью перестроить</value>
   </data>
-  <data name="BtnRebuildPrevDoc" xml:space="preserve">
+	<data name="BtnRebuildPrevDoc" xml:space="preserve">
     <value>Перестроить по предыдущему документу</value>
   </data>
-  <data name="BtnUpdateData" xml:space="preserve">
+	<data name="BtnUpdateData" xml:space="preserve">
     <value>Обновить данные</value>
   </data>
-  <data name="cAccountUnknown" xml:space="preserve">
+	<data name="cAccountUnknown" xml:space="preserve">
     <value>Номер счета неизвестен</value>
   </data>
-  <data name="call" xml:space="preserve">
+	<data name="call" xml:space="preserve">
     <value>звонок</value>
   </data>
-  <data name="cContainsAll" xml:space="preserve">
+	<data name="cContainsAll" xml:space="preserve">
     <value>Содержит все слова</value>
   </data>
-  <data name="cContainsAllOrdered" xml:space="preserve">
+	<data name="cContainsAllOrdered" xml:space="preserve">
     <value>Содержит слова в заданном порядке</value>
   </data>
-  <data name="cContainsAny" xml:space="preserve">
+	<data name="cContainsAny" xml:space="preserve">
     <value>Содержит какое-либо слово</value>
   </data>
-  <data name="cEmplName" xml:space="preserve">
+	<data name="cEmplName" xml:space="preserve">
     <value>Сотрудник</value>
   </data>
-  <data name="cEmpty" xml:space="preserve">
+	<data name="cEmpty" xml:space="preserve">
     <value>Пустая строка</value>
   </data>
-  <data name="cEnds" xml:space="preserve">
+	<data name="cEnds" xml:space="preserve">
     <value>Слова заканчиваются</value>
   </data>
-  <data name="cEndTime" xml:space="preserve">
+	<data name="cEndTime" xml:space="preserve">
     <value>Конец работы</value>
   </data>
-  <data name="cEndTimeAbs" xml:space="preserve">
+	<data name="cEndTimeAbs" xml:space="preserve">
     <value>Конец перерыва</value>
   </data>
-  <data name="cEqually" xml:space="preserve">
+	<data name="cEqually" xml:space="preserve">
     <value>Равно</value>
   </data>
-  <data name="cInternetAccessCount" xml:space="preserve">
+	<data name="cInternetAccessCount" xml:space="preserve">
     <value>Число заказов&lt;br&gt;доступа в интернет</value>
   </data>
-  <data name="cInternetAccessTotalTime" xml:space="preserve">
+	<data name="cInternetAccessTotalTime" xml:space="preserve">
     <value>Общее время заказов&lt;br&gt;доступа в интернет</value>
   </data>
-  <data name="cInterval" xml:space="preserve">
+	<data name="cInterval" xml:space="preserve">
     <value>Суммарное время работы</value>
   </data>
-  <data name="ClearAllDoc" xml:space="preserve">
+	<data name="ClearAllDoc" xml:space="preserve">
     <value>Вы хотите очистить все данные документа?</value>
   </data>
-  <data name="cLess" xml:space="preserve">
+	<data name="cLess" xml:space="preserve">
     <value>Меньше</value>
   </data>
-  <data name="cLessOrEqual" xml:space="preserve">
+	<data name="cLessOrEqual" xml:space="preserve">
     <value>Меньше или равно</value>
   </data>
-  <data name="cLike" xml:space="preserve">
+	<data name="cLike" xml:space="preserve">
     <value>Похоже на</value>
   </data>
-  <data name="cMatches" xml:space="preserve">
+	<data name="cMatches" xml:space="preserve">
     <value>Полностью совпадает</value>
   </data>
-  <data name="cmdAddToReport" xml:space="preserve">
+	<data name="cmdAddToReport" xml:space="preserve">
     <value>Добавить в отчёт</value>
   </data>
-  <data name="cmdCancel" xml:space="preserve">
+	<data name="cmdCancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="cmdClose" xml:space="preserve">
+	<data name="cmdClose" xml:space="preserve">
     <value>Закрыть</value>
   </data>
-  <data name="cmdCopy" xml:space="preserve">
+	<data name="cmdCopy" xml:space="preserve">
     <value>Копировать</value>
   </data>
-  <data name="cmdCopyTooltip" xml:space="preserve">
+	<data name="cmdCopyTooltip" xml:space="preserve">
     <value>Создать новый документ идентичный данному</value>
   </data>
-  <data name="cmdCreateDescription" xml:space="preserve">
+	<data name="cmdCreateDescription" xml:space="preserve">
     <value>Сгенерировать класс для типа документа:</value>
   </data>
-  <data name="cmdDelete" xml:space="preserve">
+	<data name="cmdDelete" xml:space="preserve">
     <value>Удалить</value>
   </data>
-  <data name="cmdDisplayReport" xml:space="preserve">
+	<data name="cmdDisplayReport" xml:space="preserve">
     <value>Показать отчёт</value>
   </data>
-  <data name="cmdExportTo1S" xml:space="preserve">
+	<data name="cmdExportTo1S" xml:space="preserve">
     <value>Экспорт в 1С</value>
   </data>
-  <data name="cmdHelp" xml:space="preserve">
+	<data name="cmdHelp" xml:space="preserve">
     <value>Справка</value>
   </data>
-  <data name="cmdOK" xml:space="preserve">
+	<data name="cmdOK" xml:space="preserve">
     <value>OK</value>
   </data>
-  <data name="cmdOpenDoc" xml:space="preserve">
+	<data name="cmdOpenDoc" xml:space="preserve">
     <value>открыть в архиве документов</value>
   </data>
-  <data name="cmdRefresh" xml:space="preserve">
+	<data name="cmdRefresh" xml:space="preserve">
     <value>Обновить</value>
   </data>
-  <data name="cmdRefreshDescription" xml:space="preserve">
+	<data name="cmdRefreshDescription" xml:space="preserve">
     <value>Обновляется внешний вид документа, перерасчитываются предупреждения под полями. Данные не обновляются.</value>
   </data>
-  <data name="cmdSave" xml:space="preserve">
+	<data name="cmdSave" xml:space="preserve">
     <value>Сохранить</value>
   </data>
-  <data name="cmdSaveDelSign" xml:space="preserve">
+	<data name="cmdSaveDelSign" xml:space="preserve">
     <value>, удаляя подписи</value>
   </data>
-  <data name="cmdSign" xml:space="preserve">
+	<data name="cmdSign" xml:space="preserve">
     <value>подписать</value>
   </data>
-  <data name="cmdSignFinal" xml:space="preserve">
+	<data name="cmdSignFinal" xml:space="preserve">
     <value>выполнено-работа завершена</value>
   </data>
-  <data name="cmdUncheck" xml:space="preserve">
+	<data name="cmdUncheck" xml:space="preserve">
     <value>Снять выделение</value>
   </data>
-  <data name="cmdWorkplaceOther" xml:space="preserve">
+	<data name="cmdWorkplaceOther" xml:space="preserve">
     <value>Другое рабочее место</value>
   </data>
-  <data name="cMore" xml:space="preserve">
+	<data name="cMore" xml:space="preserve">
     <value>Больше</value>
   </data>
-  <data name="cMoreOrEqual" xml:space="preserve">
+	<data name="cMoreOrEqual" xml:space="preserve">
     <value>Больше или равно</value>
   </data>
-  <data name="cNotContainAll" xml:space="preserve">
+	<data name="cNotContainAll" xml:space="preserve">
     <value>Не содержит ни одного слова</value>
   </data>
-  <data name="cNotContainAny" xml:space="preserve">
+	<data name="cNotContainAny" xml:space="preserve">
     <value>Не содержит какого-либо слова</value>
   </data>
-  <data name="cNotContainsAllOrdered" xml:space="preserve">
+	<data name="cNotContainsAllOrdered" xml:space="preserve">
     <value>Не содержит слов в заданном порядке</value>
   </data>
-  <data name="cNotEmpty" xml:space="preserve">
+	<data name="cNotEmpty" xml:space="preserve">
     <value>Не пустая строка</value>
   </data>
-  <data name="cNotEnds" xml:space="preserve">
+	<data name="cNotEnds" xml:space="preserve">
     <value>Слова не заканчиваются</value>
   </data>
-  <data name="cNotEqual" xml:space="preserve">
+	<data name="cNotEqual" xml:space="preserve">
     <value>Не равно</value>
   </data>
-  <data name="cNotMatches" xml:space="preserve">
+	<data name="cNotMatches" xml:space="preserve">
     <value>Полностью не совпадает</value>
   </data>
-  <data name="cNotStart" xml:space="preserve">
+	<data name="cNotStart" xml:space="preserve">
     <value>Слова не начинаются</value>
   </data>
-  <data name="CONFIRM_StdCaptionNo" xml:space="preserve">
+	<data name="CONFIRM_StdCaptionNo" xml:space="preserve">
     <value>Нет</value>
   </data>
-  <data name="CONFIRM_StdCaptionYes" xml:space="preserve">
+	<data name="CONFIRM_StdCaptionYes" xml:space="preserve">
     <value>Да</value>
   </data>
-  <data name="CONFIRM_StdMessage" xml:space="preserve">
+	<data name="CONFIRM_StdMessage" xml:space="preserve">
     <value>Вы уверены, что хотите удалить эту запись?</value>
   </data>
-  <data name="CONFIRM_StdTitle" xml:space="preserve">
+	<data name="CONFIRM_StdTitle" xml:space="preserve">
     <value>Сообщение</value>
   </data>
-  <data name="connecting" xml:space="preserve">
+	<data name="connecting" xml:space="preserve">
     <value>соединение</value>
   </data>
-  <data name="ContactControl_CommunicateWithContact" xml:space="preserve">
+	<data name="ContactControl_CommunicateWithContact" xml:space="preserve">
     <value>Cвязаться по контакту</value>
   </data>
-  <data name="cpAcceptSave" xml:space="preserve">
+	<data name="cpAcceptSave" xml:space="preserve">
     <value>Подтвердите сохранение</value>
   </data>
-  <data name="cpAtributeEdit" xml:space="preserve">
+	<data name="cpAtributeEdit" xml:space="preserve">
     <value>Редактирование атрибута лица</value>
   </data>
-  <data name="cpChildOrganization" xml:space="preserve">
+	<data name="cpChildOrganization" xml:space="preserve">
     <value>Подчиненная организация</value>
   </data>
-  <data name="cpChildOrganizations" xml:space="preserve">
+	<data name="cpChildOrganizations" xml:space="preserve">
     <value>Подчиненные организациии</value>
   </data>
-  <data name="cpDataValid" xml:space="preserve">
+	<data name="cpDataValid" xml:space="preserve">
     <value>Данные действительны</value>
   </data>
-  <data name="cpDescription" xml:space="preserve">
+	<data name="cpDescription" xml:space="preserve">
     <value>Примечание</value>
   </data>
-  <data name="cPlace" xml:space="preserve">
+	<data name="cPlace" xml:space="preserve">
     <value>Офис</value>
   </data>
-  <data name="cpManager" xml:space="preserve">
+	<data name="cpManager" xml:space="preserve">
     <value>Руководитель</value>
   </data>
-  <data name="cpNaturalAttributes" xml:space="preserve">
+	<data name="cpNaturalAttributes" xml:space="preserve">
     <value>Реквизиты лица</value>
   </data>
-  <data name="cpNaturalBirthddate" xml:space="preserve">
+	<data name="cpNaturalBirthddate" xml:space="preserve">
     <value>Дата рождения</value>
   </data>
-  <data name="cpNaturalContacts" xml:space="preserve">
+	<data name="cpNaturalContacts" xml:space="preserve">
     <value>Контакты</value>
   </data>
-  <data name="cpNaturalCreateCaption" xml:space="preserve">
+	<data name="cpNaturalCreateCaption" xml:space="preserve">
     <value>Создание физического лица</value>
   </data>
-  <data name="cpNaturalFIO" xml:space="preserve">
+	<data name="cpNaturalFIO" xml:space="preserve">
     <value>ФИО</value>
   </data>
-  <data name="cpNaturalFirstNameLat" xml:space="preserve">
+	<data name="cpNaturalFirstNameLat" xml:space="preserve">
     <value>Имя на латинице</value>
   </data>
-  <data name="cpNaturalFirstNameReg" xml:space="preserve">
+	<data name="cpNaturalFirstNameReg" xml:space="preserve">
     <value>Имя на языке регистрации</value>
   </data>
-  <data name="cpNaturalJuridicalCaption" xml:space="preserve">
+	<data name="cpNaturalJuridicalCaption" xml:space="preserve">
     <value>Создание юридического лица</value>
   </data>
-  <data name="cpNaturalNickName" xml:space="preserve">
+	<data name="cpNaturalNickName" xml:space="preserve">
     <value>Сохранить как</value>
   </data>
-  <data name="cpNaturalPersonFemale" xml:space="preserve">
+	<data name="cpNaturalPersonFemale" xml:space="preserve">
     <value>Ж</value>
   </data>
-  <data name="cpNaturalPersonMale" xml:space="preserve">
+	<data name="cpNaturalPersonMale" xml:space="preserve">
     <value>М</value>
   </data>
-  <data name="cpNaturalPersonTypes" xml:space="preserve">
+	<data name="cpNaturalPersonTypes" xml:space="preserve">
     <value>Типы лица</value>
   </data>
-  <data name="cpNaturalResponsible" xml:space="preserve">
+	<data name="cpNaturalResponsible" xml:space="preserve">
     <value>Ответственные сотрудники</value>
   </data>
-  <data name="cpNaturalSecondNameLat" xml:space="preserve">
+	<data name="cpNaturalSecondNameLat" xml:space="preserve">
     <value>Фамилия на латинице</value>
   </data>
-  <data name="cpNaturalSecondNameReg" xml:space="preserve">
+	<data name="cpNaturalSecondNameReg" xml:space="preserve">
     <value>Фамилия на языке регистрации</value>
   </data>
-  <data name="cpNaturalSex" xml:space="preserve">
+	<data name="cpNaturalSex" xml:space="preserve">
     <value>Пол</value>
   </data>
-  <data name="cpNaturalTerritory" xml:space="preserve">
+	<data name="cpNaturalTerritory" xml:space="preserve">
     <value>Страна регистрации</value>
   </data>
-  <data name="cpNaturalThirdNameLat" xml:space="preserve">
+	<data name="cpNaturalThirdNameLat" xml:space="preserve">
     <value>Отчество на латинице</value>
   </data>
-  <data name="cpNaturalThirdNameReg" xml:space="preserve">
+	<data name="cpNaturalThirdNameReg" xml:space="preserve">
     <value>Отчество на языке страны регистрации</value>
   </data>
-  <data name="cpnEditFormat" xml:space="preserve">
+	<data name="cpnEditFormat" xml:space="preserve">
     <value>Редактирование формата атрибута</value>
   </data>
-  <data name="cpOwn" xml:space="preserve">
+	<data name="cpOwn" xml:space="preserve">
     <value>Собственность</value>
   </data>
-  <data name="cpOwner" xml:space="preserve">
+	<data name="cpOwner" xml:space="preserve">
     <value>Владелец</value>
   </data>
-  <data name="cpOwners" xml:space="preserve">
+	<data name="cpOwners" xml:space="preserve">
     <value>Владельцы</value>
   </data>
-  <data name="cpParentOrganization" xml:space="preserve">
+	<data name="cpParentOrganization" xml:space="preserve">
     <value>Головная организация</value>
   </data>
-  <data name="cpParentOrganizations" xml:space="preserve">
+	<data name="cpParentOrganizations" xml:space="preserve">
     <value>Головные организации</value>
   </data>
-  <data name="cpProcessCheatingPerson" xml:space="preserve">
+	<data name="cpProcessCheatingPerson" xml:space="preserve">
     <value>Процес создания лица</value>
   </data>
-  <data name="cpRepresentative" xml:space="preserve">
+	<data name="cpRepresentative" xml:space="preserve">
     <value>Представитель</value>
   </data>
-  <data name="cpSignRole" xml:space="preserve">
+	<data name="cpSignRole" xml:space="preserve">
     <value>Право подписи</value>
   </data>
-  <data name="cptFormatNameRus1" xml:space="preserve">
+	<data name="cptFormatNameRus1" xml:space="preserve">
     <value>Имя формата атрибута 1 на русском языке</value>
   </data>
-  <data name="cptFormatNameRus2" xml:space="preserve">
+	<data name="cptFormatNameRus2" xml:space="preserve">
     <value>Имя формата атрибута 2 на русском языке</value>
   </data>
-  <data name="cptFormatNameRus3" xml:space="preserve">
+	<data name="cptFormatNameRus3" xml:space="preserve">
     <value>Имя формата атрибута 3 на русском языке</value>
   </data>
-  <data name="cptFormatState" xml:space="preserve">
+	<data name="cptFormatState" xml:space="preserve">
     <value>Территория формата атрибута</value>
   </data>
-  <data name="cptFormatType" xml:space="preserve">
+	<data name="cptFormatType" xml:space="preserve">
     <value>Тип формата атрибута</value>
   </data>
-  <data name="cptnNeedCheck" xml:space="preserve">
+	<data name="cptnNeedCheck" xml:space="preserve">
     <value>Требует проверки</value>
   </data>
-  <data name="cptnUnicForState" xml:space="preserve">
+	<data name="cptnUnicForState" xml:space="preserve">
     <value>Уникален в приделах страны</value>
   </data>
-  <data name="cpTo" xml:space="preserve">
+	<data name="cpTo" xml:space="preserve">
     <value>до</value>
   </data>
-  <data name="cpWorker" xml:space="preserve">
+	<data name="cpWorker" xml:space="preserve">
     <value>Работник</value>
   </data>
-  <data name="cpWorkers" xml:space="preserve">
+	<data name="cpWorkers" xml:space="preserve">
     <value>Работники</value>
   </data>
-  <data name="cpWorkPlace" xml:space="preserve">
+	<data name="cpWorkPlace" xml:space="preserve">
     <value>Должность</value>
   </data>
-  <data name="cpWorkSpace" xml:space="preserve">
+	<data name="cpWorkSpace" xml:space="preserve">
     <value>Месяц</value>
   </data>
-  <data name="create" xml:space="preserve">
+	<data name="create" xml:space="preserve">
     <value>Создать новый документ</value>
   </data>
-  <data name="cStarts" xml:space="preserve">
+	<data name="cStarts" xml:space="preserve">
     <value>Слова начинаются</value>
   </data>
-  <data name="cStartTime" xml:space="preserve">
+	<data name="cStartTime" xml:space="preserve">
     <value>Начало работы</value>
   </data>
-  <data name="cStartTimeAbs" xml:space="preserve">
+	<data name="cStartTimeAbs" xml:space="preserve">
     <value>Начало перерыва</value>
   </data>
-  <data name="cUnlike" xml:space="preserve">
+	<data name="cUnlike" xml:space="preserve">
     <value>Не похоже на</value>
   </data>
-  <data name="DateFrom" xml:space="preserve">
+	<data name="DateFrom" xml:space="preserve">
     <value>от</value>
   </data>
-  <data name="dEqual" xml:space="preserve">
+	<data name="dEqual" xml:space="preserve">
     <value>Точно совпадает</value>
   </data>
-  <data name="dInterval" xml:space="preserve">
+	<data name="dInterval" xml:space="preserve">
     <value>В интервале</value>
   </data>
-  <data name="DIRECTIONS_FORM_AG_Title" xml:space="preserve">
+	<data name="DIRECTIONS_FORM_AG_Title" xml:space="preserve">
     <value>Выберите дополнительные права:</value>
   </data>
-  <data name="DIRECTIONS_FORM_CF_Title" xml:space="preserve">
+	<data name="DIRECTIONS_FORM_CF_Title" xml:space="preserve">
     <value>Выберите общие папки:</value>
   </data>
-  <data name="DIRECTIONS_FORM_Mail_Title" xml:space="preserve">
+	<data name="DIRECTIONS_FORM_Mail_Title" xml:space="preserve">
     <value>Выберите имя почтового ящика:</value>
   </data>
-  <data name="DIRECTIONS_FORM_Role_Title" xml:space="preserve">
+	<data name="DIRECTIONS_FORM_Role_Title" xml:space="preserve">
     <value>Укажите роль сотрудника в компании:</value>
   </data>
-  <data name="DIRECTIONS_FORM_Type_Title" xml:space="preserve">
+	<data name="DIRECTIONS_FORM_Type_Title" xml:space="preserve">
     <value>Укажите доступ сотрудника к типам лиц:</value>
   </data>
-  <data name="DIRECTIONS_FORM_WP_Title" xml:space="preserve">
+	<data name="DIRECTIONS_FORM_WP_Title" xml:space="preserve">
     <value>Выберите рабочее место сотрудника:</value>
   </data>
-  <data name="dLessOrEqual" xml:space="preserve">
+	<data name="dLessOrEqual" xml:space="preserve">
     <value>Меньше или равна</value>
   </data>
-  <data name="dMoreOrEqual" xml:space="preserve">
+	<data name="dMoreOrEqual" xml:space="preserve">
     <value>Больше или равна</value>
   </data>
-  <data name="dNull" xml:space="preserve">
+	<data name="dNull" xml:space="preserve">
     <value>Не указана</value>
   </data>
-  <data name="DocDateNotExist" xml:space="preserve">
+	<data name="DocDateNotExist" xml:space="preserve">
     <value>Не заполнена дата документа!</value>
   </data>
-  <data name="DocNumberNotExist" xml:space="preserve">
+	<data name="DocNumberNotExist" xml:space="preserve">
     <value>Не заполнен номер документа!</value>
   </data>
-  <data name="DoisserEmployeeInfo_NoCommonEmpoyees" xml:space="preserve">
+	<data name="DoisserEmployeeInfo_NoCommonEmpoyees" xml:space="preserve">
     <value>В группе нет сотрудников</value>
   </data>
-  <data name="DoisserEmployeeInfo_OfiiceWorkPlace" xml:space="preserve">
+	<data name="DoisserEmployeeInfo_OfiiceWorkPlace" xml:space="preserve">
     <value>Офисное рабочее место</value>
   </data>
-  <data name="DossierEmployeeInfo_CommonEmployees" xml:space="preserve">
+	<data name="DossierEmployeeInfo_CommonEmployees" xml:space="preserve">
     <value>Сотрудники, состоящие в группе</value>
   </data>
-  <data name="DossierEmployeeInfo_Contacts_Email" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Contacts_Email" xml:space="preserve">
     <value>E-mail</value>
   </data>
-  <data name="DossierEmployeeInfo_Contacts_Messanger" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Contacts_Messanger" xml:space="preserve">
     <value>Мессенжер</value>
   </data>
-  <data name="DossierEmployeeInfo_Contacts_WorkPhone" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Contacts_WorkPhone" xml:space="preserve">
     <value>Рабочий телефон</value>
   </data>
-  <data name="DossierEmployeeInfo_FullName_Label" xml:space="preserve">
+	<data name="DossierEmployeeInfo_FullName_Label" xml:space="preserve">
     <value>Сотрудник</value>
   </data>
-  <data name="DossierEmployeeInfo_NotReplacement" xml:space="preserve">
+	<data name="DossierEmployeeInfo_NotReplacement" xml:space="preserve">
     <value>Сотрудник отсутствует. Его замещают:</value>
   </data>
-  <data name="DossierEmployeeInfo_Organization" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Organization" xml:space="preserve">
     <value>Организация</value>
   </data>
-  <data name="DossierEmployeeInfo_Organization_CoWorkingWith" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Organization_CoWorkingWith" xml:space="preserve">
     <value>вместе с:</value>
   </data>
-  <data name="DossierEmployeeInfo_Organization_CoWorkingWithAnother" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Organization_CoWorkingWithAnother" xml:space="preserve">
     <value>посменная работа с:</value>
   </data>
-  <data name="DossierEmployeeInfo_Position" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Position" xml:space="preserve">
     <value>Должность</value>
   </data>
-  <data name="DossierEmployeeInfo_PositionIsCombined" xml:space="preserve">
+	<data name="DossierEmployeeInfo_PositionIsCombined" xml:space="preserve">
     <value>совместитель</value>
   </data>
-  <data name="DossierEmployeeInfo_Remplacementive" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Remplacementive" xml:space="preserve">
     <value>Сотрудник замещает следующих отсутствующих сотрудников:</value>
   </data>
-  <data name="DossierEmployeeInfo_Replacement" xml:space="preserve">
+	<data name="DossierEmployeeInfo_Replacement" xml:space="preserve">
     <value>Сотрудник отсутствует.</value>
   </data>
-  <data name="DossierEmployeeInfo_WorkPlace" xml:space="preserve">
+	<data name="DossierEmployeeInfo_WorkPlace" xml:space="preserve">
     <value>Рабочее место</value>
   </data>
-  <data name="elFirstSign" xml:space="preserve">
+	<data name="elFirstSign" xml:space="preserve">
     <value>Первая подпись</value>
   </data>
-  <data name="elSecondSign" xml:space="preserve">
+	<data name="elSecondSign" xml:space="preserve">
     <value>Вторая подпись</value>
   </data>
-  <data name="EmployeeStatus_Fired" xml:space="preserve">
+	<data name="EmployeeStatus_Fired" xml:space="preserve">
     <value>уволен</value>
   </data>
-  <data name="EmployeeStatus_Guest" xml:space="preserve">
+	<data name="EmployeeStatus_Guest" xml:space="preserve">
     <value>гость по гостевой карточке</value>
   </data>
-  <data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
+	<data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
     <value>декрет(отпуск)</value>
   </data>
-  <data name="EmployeeStatus_Outlier" xml:space="preserve">
+	<data name="EmployeeStatus_Outlier" xml:space="preserve">
     <value>посторонный</value>
   </data>
-  <data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
+	<data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
     <value>гость персональный</value>
   </data>
-  <data name="errAdressValidation" xml:space="preserve">
+	<data name="errAdressValidation" xml:space="preserve">
     <value>Поле Адрес должно быть заполнено</value>
   </data>
-  <data name="errAnotherContactValidation" xml:space="preserve">
+	<data name="errAnotherContactValidation" xml:space="preserve">
     <value>Поле Контакт должно быть заполнено</value>
   </data>
-  <data name="errContactIDNotInPersonID" xml:space="preserve">
+	<data name="errContactIDNotInPersonID" xml:space="preserve">
     <value>Выбранный контакт не пренадлежит выбраному лицу.</value>
   </data>
-  <data name="errContacts1" xml:space="preserve">
+	<data name="errContacts1" xml:space="preserve">
     <value>Звонок не может быть установлен с этого телефона.</value>
   </data>
-  <data name="errContacts2" xml:space="preserve">
+	<data name="errContacts2" xml:space="preserve">
     <value>Попробуйте позвонить с другого.</value>
   </data>
-  <data name="errContactTypeValidation" xml:space="preserve">
+	<data name="errContactTypeValidation" xml:space="preserve">
     <value>Поле Тип контакта должно быть заполнено</value>
   </data>
-  <data name="errCopyData" xml:space="preserve">
+	<data name="errCopyData" xml:space="preserve">
     <value>Ошибка копирования!
 Не удалось получить данные для копирования!</value>
   </data>
-  <data name="errCountryValidation" xml:space="preserve">
+	<data name="errCountryValidation" xml:space="preserve">
     <value>Поле Страна должно быть заполнено</value>
   </data>
-  <data name="errDatesEx" xml:space="preserve">
+	<data name="errDatesEx" xml:space="preserve">
     <value>Дата С не должна быть больше даты До</value>
   </data>
-  <data name="errDoisserIDNotFound" xml:space="preserve">
+	<data name="errDoisserIDNotFound" xml:space="preserve">
     <value>Не передан индетефикатор лица / сотрудника.</value>
   </data>
-  <data name="errDoisserNotAccessPerson" xml:space="preserve">
+	<data name="errDoisserNotAccessPerson" xml:space="preserve">
     <value>Нет доступа к лицу.</value>
   </data>
-  <data name="errDoisserWarrning" xml:space="preserve">
+	<data name="errDoisserWarrning" xml:space="preserve">
     <value>Внимание!</value>
   </data>
-  <data name="errFiled" xml:space="preserve">
+	<data name="errFiled" xml:space="preserve">
     <value>Поле</value>
   </data>
-  <data name="errIncorrectlyFilledField" xml:space="preserve">
+	<data name="errIncorrectlyFilledField" xml:space="preserve">
     <value>Неверно заполнены поля</value>
   </data>
-  <data name="errSuccessSave" xml:space="preserve">
+	<data name="errSuccessSave" xml:space="preserve">
     <value>Успешно сохранено</value>
   </data>
-  <data name="errTelephoneCountryValidation" xml:space="preserve">
+	<data name="errTelephoneCountryValidation" xml:space="preserve">
     <value>Поле Код страны должно быть заполнено</value>
   </data>
-  <data name="errTelephoneValidation" xml:space="preserve">
+	<data name="errTelephoneValidation" xml:space="preserve">
     <value>Поле Местный номер должно быть заполнено</value>
   </data>
-  <data name="errValidateAttrubuteValue" xml:space="preserve">
+	<data name="errValidateAttrubuteValue" xml:space="preserve">
     <value>должно быть заполнено</value>
   </data>
-  <data name="errValidateAttrubuteValue2" xml:space="preserve">
+	<data name="errValidateAttrubuteValue2" xml:space="preserve">
     <value>Поле Атрибут2 должно быть заполнено</value>
   </data>
-  <data name="errValidateAttrubuteValue3" xml:space="preserve">
+	<data name="errValidateAttrubuteValue3" xml:space="preserve">
     <value>Поле Атрибут3 должно быть заполнено</value>
   </data>
-  <data name="errValidationJuridicalCompanyName" xml:space="preserve">
+	<data name="errValidationJuridicalCompanyName" xml:space="preserve">
     <value>Поле Краткое название компании должно быть заполнено</value>
   </data>
-  <data name="errValidationJuridicalNickName" xml:space="preserve">
+	<data name="errValidationJuridicalNickName" xml:space="preserve">
     <value>Поле Псевдоним должно быть заполнено</value>
   </data>
-  <data name="errValidChar" xml:space="preserve">
+	<data name="errValidChar" xml:space="preserve">
     <value>В поле допускаются только знаки # и -</value>
   </data>
-  <data name="errValidExDef" xml:space="preserve">
+	<data name="errValidExDef" xml:space="preserve">
     <value>В поле не допускаются символы, кроме дефиса</value>
   </data>
-  <data name="errValidFormatNameRus1" xml:space="preserve">
+	<data name="errValidFormatNameRus1" xml:space="preserve">
     <value>Поле наименование атрибута на Русском атрибута 1 должно быть заполнено</value>
   </data>
-  <data name="errValidFormatNameRus2" xml:space="preserve">
+	<data name="errValidFormatNameRus2" xml:space="preserve">
     <value>Поле наименование атрибута на Русском атрибута 2 должно быть заполнено</value>
   </data>
-  <data name="errValidFormatNameRus3" xml:space="preserve">
+	<data name="errValidFormatNameRus3" xml:space="preserve">
     <value>Поле наименование атрибута на Русском атрибута 3 должно быть заполнено</value>
   </data>
-  <data name="errValidLatNum" xml:space="preserve">
+	<data name="errValidLatNum" xml:space="preserve">
     <value>В поле допускаются только латинские буквы, цифры и дефис</value>
   </data>
-  <data name="errValidNaturalEmployeesCount" xml:space="preserve">
+	<data name="errValidNaturalEmployeesCount" xml:space="preserve">
     <value>Должен быть выбран хотя бы один ответственный</value>
   </data>
-  <data name="errValidNaturalGender" xml:space="preserve">
+	<data name="errValidNaturalGender" xml:space="preserve">
     <value>Поле Пол должно быть заполнено</value>
   </data>
-  <data name="errValidNaturalNickName" xml:space="preserve">
+	<data name="errValidNaturalNickName" xml:space="preserve">
     <value>Поле Сохранить как должно быть заполнено</value>
   </data>
-  <data name="errValidNaturalSecondName" xml:space="preserve">
+	<data name="errValidNaturalSecondName" xml:space="preserve">
     <value>Поле Фамилия на языке страны регистрации должно быть заполнено</value>
   </data>
-  <data name="errValidNaturalTerritory" xml:space="preserve">
+	<data name="errValidNaturalTerritory" xml:space="preserve">
     <value>Поле Страна регистрации должно быть заполнено</value>
   </data>
-  <data name="errValidNaturalTypesCount" xml:space="preserve">
+	<data name="errValidNaturalTypesCount" xml:space="preserve">
     <value>Должен быть выбран хотя бы один тип лица</value>
   </data>
-  <data name="errValitFormatState" xml:space="preserve">
+	<data name="errValitFormatState" xml:space="preserve">
     <value>Поле территория должно быть заполнено</value>
   </data>
-  <data name="errValitFormatType" xml:space="preserve">
+	<data name="errValitFormatType" xml:space="preserve">
     <value>Поле тип формата должно быть заполнено</value>
   </data>
-  <data name="errWhileSave" xml:space="preserve">
+	<data name="errWhileSave" xml:space="preserve">
     <value>Ошибка при сохранении</value>
   </data>
-  <data name="errWithoutBuyer" xml:space="preserve">
+	<data name="errWithoutBuyer" xml:space="preserve">
     <value>Не указан покупатель.</value>
   </data>
-  <data name="errWithoutDatePred" xml:space="preserve">
+	<data name="errWithoutDatePred" xml:space="preserve">
     <value>Не указана дата счета на предоплату.</value>
   </data>
-  <data name="errWithoutSeller" xml:space="preserve">
+	<data name="errWithoutSeller" xml:space="preserve">
     <value>Не указан продавец.</value>
   </data>
-  <data name="errWorkValidation" xml:space="preserve">
+	<data name="errWorkValidation" xml:space="preserve">
     <value>Поле Должность должно быть заполнено</value>
   </data>
-  <data name="errWrongParametrs" xml:space="preserve">
+	<data name="errWrongParametrs" xml:space="preserve">
     <value>Неверно переданы параметры.</value>
   </data>
-  <data name="errWrongSymInField" xml:space="preserve">
+	<data name="errWrongSymInField" xml:space="preserve">
     <value>В полях присутствуют недопустимые символы</value>
   </data>
-  <data name="EUR_J1" xml:space="preserve">
+	<data name="EUR_J1" xml:space="preserve">
     <value>цент</value>
   </data>
-  <data name="EUR_J2" xml:space="preserve">
+	<data name="EUR_J2" xml:space="preserve">
     <value>цента</value>
   </data>
-  <data name="EUR_J5" xml:space="preserve">
+	<data name="EUR_J5" xml:space="preserve">
     <value>центов</value>
   </data>
-  <data name="EUR_S1" xml:space="preserve">
+	<data name="EUR_S1" xml:space="preserve">
     <value>евро</value>
   </data>
-  <data name="EUR_S2" xml:space="preserve">
+	<data name="EUR_S2" xml:space="preserve">
     <value>евро</value>
   </data>
-  <data name="EUR_S5" xml:space="preserve">
+	<data name="EUR_S5" xml:space="preserve">
     <value>евро</value>
   </data>
-  <data name="exDocUnavailable" xml:space="preserve">
+	<data name="exDocUnavailable" xml:space="preserve">
     <value>Документ с кодом {0} не доступен.</value>
   </data>
-  <data name="generateNumberOfDocument" xml:space="preserve">
+	<data name="generateNumberOfDocument" xml:space="preserve">
     <value>Сгенерировать</value>
   </data>
-  <data name="generatingNumberOfDocument" xml:space="preserve">
+	<data name="generatingNumberOfDocument" xml:space="preserve">
     <value>будет сгенерирован при сохранении</value>
   </data>
-  <data name="hPageDetailsTitle" xml:space="preserve">
+	<data name="hPageDetailsTitle" xml:space="preserve">
     <value>Детализация по дням</value>
   </data>
-  <data name="hPageSubTitle" xml:space="preserve">
+	<data name="hPageSubTitle" xml:space="preserve">
     <value>Список подчинённых сотрудников</value>
   </data>
-  <data name="hPageSubTitleDetails2" xml:space="preserve">
+	<data name="hPageSubTitleDetails2" xml:space="preserve">
     <value>Детализация рабочего времени</value>
   </data>
-  <data name="hPageTitle" xml:space="preserve">
+	<data name="hPageTitle" xml:space="preserve">
     <value>Система учета рабочего времени сотрудников</value>
   </data>
-  <data name="iPCustom" xml:space="preserve">
+	<data name="iPCustom" xml:space="preserve">
     <value>Произвольно</value>
   </data>
-  <data name="iPTypeDay" xml:space="preserve">
+	<data name="iPTypeDay" xml:space="preserve">
     <value>День</value>
   </data>
-  <data name="iPTypeMounth" xml:space="preserve">
+	<data name="iPTypeMounth" xml:space="preserve">
     <value>Месяц</value>
   </data>
-  <data name="iPTypeQuarter" xml:space="preserve">
+	<data name="iPTypeQuarter" xml:space="preserve">
     <value>Квартал</value>
   </data>
-  <data name="iPTypeWeek" xml:space="preserve">
+	<data name="iPTypeWeek" xml:space="preserve">
     <value>Неделя</value>
   </data>
-  <data name="iPTypeYear" xml:space="preserve">
+	<data name="iPTypeYear" xml:space="preserve">
     <value>Год</value>
   </data>
-  <data name="lAbsCaption" xml:space="preserve">
+	<data name="lAbsCaption" xml:space="preserve">
     <value>Отсутствовал на рабочем месте</value>
   </data>
-  <data name="lAsc" xml:space="preserve">
+	<data name="lAsc" xml:space="preserve">
     <value>(возр.)</value>
   </data>
-  <data name="lBack" xml:space="preserve">
+	<data name="lBack" xml:space="preserve">
     <value>Назад</value>
   </data>
-  <data name="lbChenged" xml:space="preserve">
+	<data name="lbChenged" xml:space="preserve">
     <value>Изменено</value>
   </data>
-  <data name="lblAccounts" xml:space="preserve">
+	<data name="lblAccounts" xml:space="preserve">
     <value>Счета</value>
   </data>
-  <data name="lblAdd" xml:space="preserve">
+	<data name="lblAdd" xml:space="preserve">
     <value>Добавить</value>
   </data>
-  <data name="lblAddition" xml:space="preserve">
+	<data name="lblAddition" xml:space="preserve">
     <value>Добавление</value>
   </data>
-  <data name="lblAdditional" xml:space="preserve">
+	<data name="lblAdditional" xml:space="preserve">
     <value>Добавочный</value>
   </data>
-  <data name="lbladdString" xml:space="preserve">
+	<data name="lbladdString" xml:space="preserve">
     <value>Услуги транспортировки в цене</value>
   </data>
-  <data name="lblAddToPerson" xml:space="preserve">
+	<data name="lblAddToPerson" xml:space="preserve">
     <value>Добавить лицу</value>
   </data>
-  <data name="lblAdress" xml:space="preserve">
+	<data name="lblAdress" xml:space="preserve">
     <value>Адрес</value>
   </data>
-  <data name="lblAnyValue" xml:space="preserve">
+	<data name="lblAnyValue" xml:space="preserve">
     <value>Указано любое значение</value>
   </data>
-  <data name="lblApplication" xml:space="preserve">
+	<data name="lblApplication" xml:space="preserve">
     <value>Приложение</value>
   </data>
-  <data name="lblAssignClaims" xml:space="preserve">
+	<data name="lblAssignClaims" xml:space="preserve">
     <value>Уступка права требования</value>
   </data>
-  <data name="lblAttribute1" xml:space="preserve">
+	<data name="lblAttribute1" xml:space="preserve">
     <value>Атрибут1</value>
   </data>
-  <data name="lblAttribute2" xml:space="preserve">
+	<data name="lblAttribute2" xml:space="preserve">
     <value>Атрибут2</value>
   </data>
-  <data name="lblAttribute3" xml:space="preserve">
+	<data name="lblAttribute3" xml:space="preserve">
     <value>Атрибут3</value>
   </data>
-  <data name="lblAttributeFormat" xml:space="preserve">
+	<data name="lblAttributeFormat" xml:space="preserve">
     <value>Маска формата атрибута</value>
   </data>
-  <data name="lblAttributeFormatState" xml:space="preserve">
+	<data name="lblAttributeFormatState" xml:space="preserve">
     <value>Страна атрибута</value>
   </data>
-  <data name="lblAttributeFormatType" xml:space="preserve">
+	<data name="lblAttributeFormatType" xml:space="preserve">
     <value>Наименование типа атрибута</value>
   </data>
-  <data name="lblBankingProvision" xml:space="preserve">
+	<data name="lblBankingProvision" xml:space="preserve">
     <value>Предоставление банковских услуг</value>
   </data>
-  <data name="lblBaseName" xml:space="preserve">
+	<data name="lblBaseName" xml:space="preserve">
     <value>Основание</value>
   </data>
-  <data name="lblBasis" xml:space="preserve">
+	<data name="lblBasis" xml:space="preserve">
     <value>Базис поставки</value>
   </data>
-  <data name="lblBasisName" xml:space="preserve">
+	<data name="lblBasisName" xml:space="preserve">
     <value>c</value>
   </data>
-  <data name="lblBillLading" xml:space="preserve">
+	<data name="lblBillLading" xml:space="preserve">
     <value>Коносамент</value>
   </data>
-  <data name="lblBtnGoToPerson" xml:space="preserve">
+	<data name="lblBtnGoToPerson" xml:space="preserve">
     <value>Перейти к лицу</value>
   </data>
-  <data name="lblBtnPrint" xml:space="preserve">
+	<data name="lblBtnPrint" xml:space="preserve">
     <value>Печать документа</value>
   </data>
-  <data name="lblBtnTexPreview" xml:space="preserve">
+	<data name="lblBtnTexPreview" xml:space="preserve">
     <value>Просмотр текста</value>
   </data>
-  <data name="lblBtnTextEditor" xml:space="preserve">
+	<data name="lblBtnTextEditor" xml:space="preserve">
     <value>Редактор текста</value>
   </data>
-  <data name="lblBtnTryAgain" xml:space="preserve">
+	<data name="lblBtnTryAgain" xml:space="preserve">
     <value>Повторить попытку</value>
   </data>
-  <data name="lblBussinesProject" xml:space="preserve">
+	<data name="lblBussinesProject" xml:space="preserve">
     <value>Бизнес проект</value>
   </data>
-  <data name="lblBuyer" xml:space="preserve">
+	<data name="lblBuyer" xml:space="preserve">
     <value>Покупатель</value>
   </data>
-  <data name="lblBuyerRS" xml:space="preserve">
+	<data name="lblBuyerRS" xml:space="preserve">
     <value>Р/с покупателя</value>
   </data>
-  <data name="lblCaptionIsGovermentOrganization" xml:space="preserve">
+	<data name="lblCaptionIsGovermentOrganization" xml:space="preserve">
     <value>Является государственной организацией</value>
   </data>
-  <data name="lblCaptionNotIsGovermentOrganization" xml:space="preserve">
+	<data name="lblCaptionNotIsGovermentOrganization" xml:space="preserve">
     <value>Не является государственной организацией</value>
   </data>
-  <data name="lblCargowaybills" xml:space="preserve">
+	<data name="lblCargowaybills" xml:space="preserve">
     <value>Товарно-транспортные накладные</value>
   </data>
-  <data name="lblCatalogs" xml:space="preserve">
+	<data name="lblCatalogs" xml:space="preserve">
     <value>Каталог(и)</value>
   </data>
-  <data name="lblChanged" xml:space="preserve">
+	<data name="lblChanged" xml:space="preserve">
     <value>Изменено</value>
   </data>
-  <data name="lblChangedBy" xml:space="preserve">
+	<data name="lblChangedBy" xml:space="preserve">
     <value>Изменил</value>
   </data>
-  <data name="lblChat" xml:space="preserve">
+	<data name="lblChat" xml:space="preserve">
     <value>Чат</value>
   </data>
-  <data name="lblChoosePP" xml:space="preserve">
+	<data name="lblChoosePP" xml:space="preserve">
     <value>выбрать платежные документы</value>
   </data>
-  <data name="lblCity" xml:space="preserve">
+	<data name="lblCity" xml:space="preserve">
     <value>Город</value>
   </data>
-  <data name="lblCityCode" xml:space="preserve">
+	<data name="lblCityCode" xml:space="preserve">
     <value>Код города/района</value>
   </data>
-  <data name="lblCodeField" xml:space="preserve">
+	<data name="lblCodeField" xml:space="preserve">
     <value>Код Поля Документа</value>
   </data>
-  <data name="lblColumn" xml:space="preserve">
+	<data name="lblColumn" xml:space="preserve">
     <value>Колонка Таблицы</value>
   </data>
-  <data name="lblContact" xml:space="preserve">
+	<data name="lblContact" xml:space="preserve">
     <value>Контакт</value>
   </data>
-  <data name="lblCostOutNDS" xml:space="preserve">
+	<data name="lblCostOutNDS" xml:space="preserve">
     <value>Цена без НДС</value>
   </data>
-  <data name="lblCountry" xml:space="preserve">
+	<data name="lblCountry" xml:space="preserve">
     <value>Страна</value>
   </data>
-  <data name="lblCountryCode" xml:space="preserve">
+	<data name="lblCountryCode" xml:space="preserve">
     <value>Код страны</value>
   </data>
-  <data name="lblDate" xml:space="preserve">
+	<data name="lblDate" xml:space="preserve">
     <value>Дата</value>
   </data>
-  <data name="lblDateDelivery" xml:space="preserve">
+	<data name="lblDateDelivery" xml:space="preserve">
     <value>Срок оплаты со дня поставки</value>
   </data>
-  <data name="lblDateDue" xml:space="preserve">
+	<data name="lblDateDue" xml:space="preserve">
     <value>Дата оплаты</value>
   </data>
-  <data name="lblDateFrom" xml:space="preserve">
+	<data name="lblDateFrom" xml:space="preserve">
     <value>Дата проживания с</value>
   </data>
-  <data name="lblDateTo" xml:space="preserve">
+	<data name="lblDateTo" xml:space="preserve">
     <value>Дата проживания по</value>
   </data>
-  <data name="lblDeletePerson" xml:space="preserve">
+	<data name="lblDeletePerson" xml:space="preserve">
     <value>Удалить лицо</value>
   </data>
-  <data name="lblDeleteReplacements" xml:space="preserve">
+	<data name="lblDeleteReplacements" xml:space="preserve">
     <value>Удаление замещений</value>
   </data>
-  <data name="lblDeleteReplacementsText" xml:space="preserve">
+	<data name="lblDeleteReplacementsText" xml:space="preserve">
     <value>Вы уверены, что хотите удалить все замещения?</value>
   </data>
-  <data name="lblDescription" xml:space="preserve">
+	<data name="lblDescription" xml:space="preserve">
     <value>Описание документа в архиве</value>
   </data>
-  <data name="lblDescriptionForm" xml:space="preserve">
+	<data name="lblDescriptionForm" xml:space="preserve">
     <value>Описание</value>
   </data>
-  <data name="lblDetailsJuridicalPerson" xml:space="preserve">
+	<data name="lblDetailsJuridicalPerson" xml:space="preserve">
     <value>Данные юридического лица</value>
   </data>
-  <data name="lblDetailsNaturalPerson" xml:space="preserve">
+	<data name="lblDetailsNaturalPerson" xml:space="preserve">
     <value>Данные физического лица</value>
   </data>
-  <data name="lblDocName" xml:space="preserve">
+	<data name="lblDocName" xml:space="preserve">
     <value>Название документа</value>
   </data>
-  <data name="lblDocNumber" xml:space="preserve">
+	<data name="lblDocNumber" xml:space="preserve">
     <value>Номер</value>
   </data>
-  <data name="lblDocUser" xml:space="preserve">
+	<data name="lblDocUser" xml:space="preserve">
     <value>С документом работают:</value>
   </data>
-  <data name="lblDoisserAssign" xml:space="preserve">
+	<data name="lblDoisserAssign" xml:space="preserve">
     <value>Назначить</value>
   </data>
-  <data name="lblDoisserChecked" xml:space="preserve">
+	<data name="lblDoisserChecked" xml:space="preserve">
     <value>Проверено</value>
   </data>
-  <data name="lblDoisserChengedBy" xml:space="preserve">
+	<data name="lblDoisserChengedBy" xml:space="preserve">
     <value>Вносившие изменения</value>
   </data>
-  <data name="lblDoisserFrom" xml:space="preserve">
+	<data name="lblDoisserFrom" xml:space="preserve">
     <value>с</value>
   </data>
-  <data name="lblDoisserNotChecked" xml:space="preserve">
+	<data name="lblDoisserNotChecked" xml:space="preserve">
     <value>Не проверено</value>
   </data>
-  <data name="lblDoisserTo" xml:space="preserve">
+	<data name="lblDoisserTo" xml:space="preserve">
     <value>до</value>
   </data>
-  <data name="lblDoisserView" xml:space="preserve">
+	<data name="lblDoisserView" xml:space="preserve">
     <value>Вид</value>
   </data>
-  <data name="lblDueData" xml:space="preserve">
+	<data name="lblDueData" xml:space="preserve">
     <value>Дата оплаты не указана</value>
   </data>
-  <data name="lblEdit" xml:space="preserve">
+	<data name="lblEdit" xml:space="preserve">
     <value>Редактирование</value>
   </data>
-  <data name="lblEntity" xml:space="preserve">
+	<data name="lblEntity" xml:space="preserve">
     <value>Поле логической сущности</value>
   </data>
-  <data name="lblEvidenceWholesaleImplementation" xml:space="preserve">
+	<data name="lblEvidenceWholesaleImplementation" xml:space="preserve">
     <value>Свидетельство на оптовую реализацию</value>
   </data>
-  <data name="lblField" xml:space="preserve">
+	<data name="lblField" xml:space="preserve">
     <value>Поле Документа</value>
   </data>
-  <data name="lblFieldEn" xml:space="preserve">
+	<data name="lblFieldEn" xml:space="preserve">
     <value>Поле Документа (english)</value>
   </data>
-  <data name="lblFindPersonDocument" xml:space="preserve">
+	<data name="lblFindPersonDocument" xml:space="preserve">
     <value>Искать документы лица в архиве</value>
   </data>
-  <data name="lblFindPersons" xml:space="preserve">
+	<data name="lblFindPersons" xml:space="preserve">
     <value>Искать лица</value>
   </data>
-  <data name="lblForDependes" xml:space="preserve">
+	<data name="lblForDependes" xml:space="preserve">
     <value>По работнику</value>
   </data>
-  <data name="lblForPosition" xml:space="preserve">
+	<data name="lblForPosition" xml:space="preserve">
     <value>Должность</value>
   </data>
-  <data name="lblForWorkPlace" xml:space="preserve">
+	<data name="lblForWorkPlace" xml:space="preserve">
     <value>По месту работы</value>
   </data>
-  <data name="lblGO" xml:space="preserve">
+	<data name="lblGO" xml:space="preserve">
     <value>Грузоотправитель</value>
   </data>
-  <data name="lblGP" xml:space="preserve">
+	<data name="lblGP" xml:space="preserve">
     <value>Грузополучатель</value>
   </data>
-  <data name="lblIncactiveRequsites" xml:space="preserve">
+	<data name="lblIncactiveRequsites" xml:space="preserve">
     <value>Недействующие реквизиты</value>
   </data>
-  <data name="lblIndex" xml:space="preserve">
+	<data name="lblIndex" xml:space="preserve">
     <value>Индекс</value>
   </data>
-  <data name="lblInvByOsn" xml:space="preserve">
+	<data name="lblInvByOsn" xml:space="preserve">
     <value>привести данные инвойса в соответствие с документом основанием</value>
   </data>
-  <data name="lblInvoiceProforma" xml:space="preserve">
+	<data name="lblInvoiceProforma" xml:space="preserve">
     <value>Счет, инвойс проформа</value>
   </data>
-  <data name="lblItogo" xml:space="preserve">
+	<data name="lblItogo" xml:space="preserve">
     <value>Итого</value>
   </data>
-  <data name="lblItogoClaim" xml:space="preserve">
+	<data name="lblItogoClaim" xml:space="preserve">
     <value>Итого по притензиям</value>
   </data>
-  <data name="lblItogoInv" xml:space="preserve">
+	<data name="lblItogoInv" xml:space="preserve">
     <value>Всего по счету</value>
   </data>
-  <data name="lblItogoProduct" xml:space="preserve">
+	<data name="lblItogoProduct" xml:space="preserve">
     <value>Итого по продуктам</value>
   </data>
-  <data name="lblItogoUsl" xml:space="preserve">
+	<data name="lblItogoUsl" xml:space="preserve">
     <value>Итого по оказанным услугам</value>
   </data>
-  <data name="lblJuridicalAlias" xml:space="preserve">
+	<data name="lblJuridicalAlias" xml:space="preserve">
     <value>Псевдоним</value>
   </data>
-  <data name="lblJuridicalBankCompany" xml:space="preserve">
+	<data name="lblJuridicalBankCompany" xml:space="preserve">
     <value>Является банком</value>
   </data>
-  <data name="lblJuridicalFormCompanyName" xml:space="preserve">
+	<data name="lblJuridicalFormCompanyName" xml:space="preserve">
     <value>Название компании</value>
   </data>
-  <data name="lblJuridicalFormFullCompanyName" xml:space="preserve">
+	<data name="lblJuridicalFormFullCompanyName" xml:space="preserve">
     <value>Полное название компании</value>
   </data>
-  <data name="lblJuridicalFormLatCompanyName" xml:space="preserve">
+	<data name="lblJuridicalFormLatCompanyName" xml:space="preserve">
     <value>Международное название компании</value>
   </data>
-  <data name="lblJuridicalFormParentCompanyName" xml:space="preserve">
+	<data name="lblJuridicalFormParentCompanyName" xml:space="preserve">
     <value>Название компании в родительском падеже</value>
   </data>
-  <data name="lblJuridicalFormShortCompanyName" xml:space="preserve">
+	<data name="lblJuridicalFormShortCompanyName" xml:space="preserve">
     <value>Краткое название компании</value>
   </data>
-  <data name="lblJuridicalGovermentCompany" xml:space="preserve">
+	<data name="lblJuridicalGovermentCompany" xml:space="preserve">
     <value>Государственная организация</value>
   </data>
-  <data name="lblJuridicalRegistrationDate" xml:space="preserve">
+	<data name="lblJuridicalRegistrationDate" xml:space="preserve">
     <value>Дата регистрации</value>
   </data>
-  <data name="lblKurator" xml:space="preserve">
+	<data name="lblKurator" xml:space="preserve">
     <value>Куратор</value>
   </data>
-  <data name="lblLangField" xml:space="preserve">
+	<data name="lblLangField" xml:space="preserve">
     <value>Шаблон печатной формы</value>
   </data>
-  <data name="lblLanguageLat" xml:space="preserve">
+	<data name="lblLanguageLat" xml:space="preserve">
     <value>Наименование на латинице</value>
   </data>
-  <data name="lblLanguageReg" xml:space="preserve">
+	<data name="lblLanguageReg" xml:space="preserve">
     <value>Наименование на языке страны</value>
   </data>
-  <data name="lblLanguageRus" xml:space="preserve">
+	<data name="lblLanguageRus" xml:space="preserve">
     <value>Наименование на Русском</value>
   </data>
-  <data name="lblLetterCredit" xml:space="preserve">
+	<data name="lblLetterCredit" xml:space="preserve">
     <value>Аккредитив</value>
   </data>
-  <data name="lblLocalNumber" xml:space="preserve">
+	<data name="lblLocalNumber" xml:space="preserve">
     <value>Местный номер</value>
   </data>
-  <data name="lblManagers" xml:space="preserve">
+	<data name="lblManagers" xml:space="preserve">
     <value>Руководители</value>
   </data>
-  <data name="lblMtrName" xml:space="preserve">
+	<data name="lblMtrName" xml:space="preserve">
     <value>Наименование и тип</value>
   </data>
-  <data name="lblNameTitle" xml:space="preserve">
+	<data name="lblNameTitle" xml:space="preserve">
     <value>Название на оригинале документа не соответствует указанному типу документа</value>
   </data>
-  <data name="lblNaturalSexF" xml:space="preserve">
+	<data name="lblNaturalSexF" xml:space="preserve">
     <value>Женский</value>
   </data>
-  <data name="lblNaturalSexM" xml:space="preserve">
+	<data name="lblNaturalSexM" xml:space="preserve">
     <value>Мужской</value>
   </data>
-  <data name="lblNaturalWorkPlaces" xml:space="preserve">
+	<data name="lblNaturalWorkPlaces" xml:space="preserve">
     <value>Места работы</value>
   </data>
-  <data name="lblNDS" xml:space="preserve">
+	<data name="lblNDS" xml:space="preserve">
     <value>НДС</value>
   </data>
-  <data name="lblNDSRate" xml:space="preserve">
+	<data name="lblNDSRate" xml:space="preserve">
     <value>Ставка НДС</value>
   </data>
-  <data name="lblNoNum" xml:space="preserve">
+	<data name="lblNoNum" xml:space="preserve">
     <value>Основание документа отсутствует, предоставление услуги или поставка товара планируется в будущем</value>
   </data>
-  <data name="lblNotes" xml:space="preserve">
+	<data name="lblNotes" xml:space="preserve">
     <value>Примечание</value>
   </data>
-  <data name="lblNotIndicated" xml:space="preserve">
+	<data name="lblNotIndicated" xml:space="preserve">
     <value>Не указан</value>
   </data>
-  <data name="lblNotIndicateda" xml:space="preserve">
+	<data name="lblNotIndicateda" xml:space="preserve">
     <value>Не указана</value>
   </data>
-  <data name="lblNotIndicatedo" xml:space="preserve">
+	<data name="lblNotIndicatedo" xml:space="preserve">
     <value>Не указано</value>
   </data>
-  <data name="lblNotValue" xml:space="preserve">
+	<data name="lblNotValue" xml:space="preserve">
     <value>Значение не указано</value>
   </data>
-  <data name="lblOfficeMemorandums" xml:space="preserve">
+	<data name="lblOfficeMemorandums" xml:space="preserve">
     <value>Служебные записки</value>
   </data>
-  <data name="lblPartialPay" xml:space="preserve">
+	<data name="lblPartialPay" xml:space="preserve">
     <value>Частичная оплата</value>
   </data>
-  <data name="lblPayAcc" xml:space="preserve">
+	<data name="lblPayAcc" xml:space="preserve">
     <value>Оплата за проживание</value>
   </data>
-  <data name="lblPayment" xml:space="preserve">
+	<data name="lblPayment" xml:space="preserve">
     <value>Оплата</value>
   </data>
-  <data name="lblPaymentDocuments" xml:space="preserve">
+	<data name="lblPaymentDocuments" xml:space="preserve">
     <value>Платежные документы</value>
   </data>
-  <data name="lblPercentagePrepaid" xml:space="preserve">
+	<data name="lblPercentagePrepaid" xml:space="preserve">
     <value>Процент предоплаты</value>
   </data>
-  <data name="lblPosCol1" xml:space="preserve">
-    <value>Продукт/Услуга</value>
+	<data name="lblPosCol1" xml:space="preserve">
+    <value>Товар / Услуга</value>
   </data>
-  <data name="lblPosCol10" xml:space="preserve">
+	<data name="lblPosCol10" xml:space="preserve">
     <value>Сумма</value>
   </data>
-  <data name="lblPosCol2" xml:space="preserve">
+	<data name="lblPosCol2" xml:space="preserve">
     <value>Кол-во</value>
   </data>
-  <data name="lblPosCol3" xml:space="preserve">
+	<data name="lblPosCol3" xml:space="preserve">
     <value>Ед.</value>
   </data>
-  <data name="lblPosCol4" xml:space="preserve">
+	<data name="lblPosCol4" xml:space="preserve">
     <value>Цена без НДС</value>
   </data>
-  <data name="lblPosCol5" xml:space="preserve">
+	<data name="lblPosCol5" xml:space="preserve">
     <value>Сумма без НДС</value>
   </data>
-  <data name="lblPosCol6" xml:space="preserve">
+	<data name="lblPosCol6" xml:space="preserve">
     <value>НДС</value>
   </data>
-  <data name="lblPosCol7" xml:space="preserve">
+	<data name="lblPosCol7" xml:space="preserve">
     <value>Всего</value>
   </data>
-  <data name="lblPosCol8" xml:space="preserve">
+	<data name="lblPosCol8" xml:space="preserve">
     <value>Претензия</value>
   </data>
-  <data name="lblPosCol9" xml:space="preserve">
+	<data name="lblPosCol9" xml:space="preserve">
     <value>Цена</value>
   </data>
-  <data name="lblPosition" xml:space="preserve">
+	<data name="lblPosition" xml:space="preserve">
     <value>Расположение</value>
   </data>
-  <data name="lblPositionCaption" xml:space="preserve">
+	<data name="lblPositionCaption" xml:space="preserve">
     <value>Позиции по документу основанию</value>
   </data>
-  <data name="lblPosKol" xml:space="preserve">
+	<data name="lblPosKol" xml:space="preserve">
     <value>Количество</value>
   </data>
-  <data name="lblPosNo" xml:space="preserve">
+	<data name="lblPosNo" xml:space="preserve">
     <value>отсутствуют</value>
   </data>
-  <data name="lblPosResource" xml:space="preserve">
+	<data name="lblPosResource" xml:space="preserve">
     <value>Выбор ресурса</value>
   </data>
-  <data name="lblPosResourceName" xml:space="preserve">
+	<data name="lblPosResourceName" xml:space="preserve">
     <value>Название ресурса</value>
   </data>
-  <data name="lblPosResourceNameLat" xml:space="preserve">
+	<data name="lblPosResourceNameLat" xml:space="preserve">
     <value>Название ресурса (лат)</value>
   </data>
-  <data name="lblPosTitle" xml:space="preserve">
+	<data name="lblPosTitle" xml:space="preserve">
     <value>Позиция инвойса-проформы</value>
   </data>
-  <data name="lblPosUnavaible" xml:space="preserve">
+	<data name="lblPosUnavaible" xml:space="preserve">
     <value>не доступны</value>
   </data>
-  <data name="lblPosНеРеализовано" xml:space="preserve">
+	<data name="lblPosНеРеализовано" xml:space="preserve">
     <value>не реализовано</value>
   </data>
-  <data name="lblPrnDescription" xml:space="preserve">
+	<data name="lblPrnDescription" xml:space="preserve">
     <value>для печатных форм</value>
   </data>
-  <data name="lblPurchasesTerm" xml:space="preserve">
+	<data name="lblPurchasesTerm" xml:space="preserve">
     <value>Срок закупки</value>
   </data>
-  <data name="lblPurposeOfAcquisition" xml:space="preserve">
+	<data name="lblPurposeOfAcquisition" xml:space="preserve">
     <value>Цель приобретения</value>
   </data>
-  <data name="lblQuantity" xml:space="preserve">
+	<data name="lblQuantity" xml:space="preserve">
     <value>Количество</value>
   </data>
-  <data name="lblRemoval" xml:space="preserve">
+	<data name="lblRemoval" xml:space="preserve">
     <value>Удаление</value>
   </data>
-  <data name="lblRepresentatives" xml:space="preserve">
+	<data name="lblRepresentatives" xml:space="preserve">
     <value>Представители</value>
   </data>
-  <data name="lblSeller" xml:space="preserve">
+	<data name="lblSeller" xml:space="preserve">
     <value>Продавец</value>
   </data>
-  <data name="lblSellerRS" xml:space="preserve">
+	<data name="lblSellerRS" xml:space="preserve">
     <value>Р/с продавца</value>
   </data>
-  <data name="lblSign1" xml:space="preserve">
+	<data name="lblSign1" xml:space="preserve">
     <value>Первый подписант</value>
   </data>
-  <data name="lblSign2" xml:space="preserve">
+	<data name="lblSign2" xml:space="preserve">
     <value>Второй подписант</value>
   </data>
-  <data name="lblSigners" xml:space="preserve">
+	<data name="lblSigners" xml:space="preserve">
     <value>Подписанты печатных форм</value>
   </data>
-  <data name="lblSorageServiceProviding" xml:space="preserve">
+	<data name="lblSorageServiceProviding" xml:space="preserve">
     <value>Предоставление услуг хранения</value>
   </data>
-  <data name="lblSpecifications" xml:space="preserve">
+	<data name="lblSpecifications" xml:space="preserve">
     <value>Технические характеристики</value>
   </data>
-  <data name="lblStateProv" xml:space="preserve">
+	<data name="lblStateProv" xml:space="preserve">
     <value>Область/Штат</value>
   </data>
-  <data name="lblStatus" xml:space="preserve">
+	<data name="lblStatus" xml:space="preserve">
     <value>Статус</value>
   </data>
-  <data name="lblStores" xml:space="preserve">
+	<data name="lblStores" xml:space="preserve">
     <value>Склады</value>
   </data>
-  <data name="lblSummaOutNDS" xml:space="preserve">
+	<data name="lblSummaOutNDS" xml:space="preserve">
     <value>Сумма без НДС</value>
   </data>
-  <data name="lblTitleAdmin" xml:space="preserve">
+	<data name="lblTitleAdmin" xml:space="preserve">
     <value>Установка соответствия полей таблицы ПоляДокументов с логической сущностью</value>
   </data>
-  <data name="lblToBePaid" xml:space="preserve">
+	<data name="lblToBePaid" xml:space="preserve">
     <value>Необходимо оплатить</value>
   </data>
-  <data name="lblTypeDoc" xml:space="preserve">
+	<data name="lblTypeDoc" xml:space="preserve">
     <value>Выберите тип документа</value>
   </data>
-  <data name="lblUnit" xml:space="preserve">
+	<data name="lblUnit" xml:space="preserve">
     <value>Единица измерения</value>
   </data>
-  <data name="lblUnitShort" xml:space="preserve">
+	<data name="lblUnitShort" xml:space="preserve">
     <value>Ед. изм.</value>
   </data>
-  <data name="lblUser" xml:space="preserve">
+	<data name="lblUser" xml:space="preserve">
     <value>Пользователь</value>
   </data>
-  <data name="lblVariablePartDoc" xml:space="preserve">
+	<data name="lblVariablePartDoc" xml:space="preserve">
     <value>Изменяемая часть документа:</value>
   </data>
-  <data name="lblView" xml:space="preserve">
+	<data name="lblView" xml:space="preserve">
     <value>Просмотр</value>
   </data>
-  <data name="LBL_ПоПолю" xml:space="preserve">
+	<data name="LBL_ПоПолю" xml:space="preserve">
     <value>по полю</value>
   </data>
-  <data name="lCancelSign" xml:space="preserve">
+	<data name="lCancelSign" xml:space="preserve">
     <value>отменить подпись</value>
   </data>
-  <data name="lClear" xml:space="preserve">
+	<data name="lClear" xml:space="preserve">
     <value>Очистить</value>
   </data>
-  <data name="lClearAdd" xml:space="preserve">
+	<data name="lClearAdd" xml:space="preserve">
     <value>Очистить условия и значения фильтра</value>
   </data>
-  <data name="lCont" xml:space="preserve">
+	<data name="lCont" xml:space="preserve">
     <value>Продолжить</value>
   </data>
-  <data name="lDesc" xml:space="preserve">
+	<data name="lDesc" xml:space="preserve">
     <value>(убыв.)</value>
   </data>
-  <data name="lEnd" xml:space="preserve">
+	<data name="lEnd" xml:space="preserve">
     <value>Завершить</value>
   </data>
-  <data name="lErrorDesc" xml:space="preserve">
+	<data name="lErrorDesc" xml:space="preserve">
     <value>* - Нарушения пропускного режима</value>
   </data>
-  <data name="lFilterCompany" xml:space="preserve">
+	<data name="lFilterCompany" xml:space="preserve">
     <value>Компания</value>
   </data>
-  <data name="lFilterEmplAvaible" xml:space="preserve">
+	<data name="lFilterEmplAvaible" xml:space="preserve">
     <value>Отображать сотрудников, имеющих проходы за указанный период</value>
   </data>
-  <data name="lFilterEmplName" xml:space="preserve">
+	<data name="lFilterEmplName" xml:space="preserve">
     <value>Сотрудник</value>
   </data>
-  <data name="lFilterError" xml:space="preserve">
+	<data name="lFilterError" xml:space="preserve">
     <value>Некорректно заданы параметры фильтрации</value>
   </data>
-  <data name="lFilterPost" xml:space="preserve">
+	<data name="lFilterPost" xml:space="preserve">
     <value>Должность сотрудника</value>
   </data>
-  <data name="lFilterSubdivision" xml:space="preserve">
+	<data name="lFilterSubdivision" xml:space="preserve">
     <value>Подразделение</value>
   </data>
-  <data name="lFilterSubEmpl" xml:space="preserve">
+	<data name="lFilterSubEmpl" xml:space="preserve">
     <value>Включая подчиненных сотрудников</value>
   </data>
-  <data name="lFlagCaption" xml:space="preserve">
+	<data name="lFlagCaption" xml:space="preserve">
     <value>Не показывать пустые записи</value>
   </data>
-  <data name="lFor" xml:space="preserve">
+	<data name="lFor" xml:space="preserve">
     <value>за</value>
   </data>
-  <data name="lFrom" xml:space="preserve">
+	<data name="lFrom" xml:space="preserve">
     <value>с</value>
   </data>
-  <data name="Lin" xml:space="preserve">
+	<data name="Lin" xml:space="preserve">
     <value>Элементы из списка</value>
   </data>
-  <data name="LinOnce" xml:space="preserve">
+	<data name="LinOnce" xml:space="preserve">
     <value>Выбранный элемент</value>
   </data>
-  <data name="listComplete" xml:space="preserve">
+	<data name="listComplete" xml:space="preserve">
     <value>завершен</value>
   </data>
-  <data name="listEmpl" xml:space="preserve">
+	<data name="listEmpl" xml:space="preserve">
     <value>Список сотрудников</value>
   </data>
-  <data name="listFollowType" xml:space="preserve">
+	<data name="listFollowType" xml:space="preserve">
     <value>Вытекающие документы</value>
   </data>
-  <data name="listNewDoc" xml:space="preserve">
+	<data name="listNewDoc" xml:space="preserve">
     <value>создать документ</value>
   </data>
-  <data name="listNotSigned" xml:space="preserve">
+	<data name="listNotSigned" xml:space="preserve">
     <value>не подписан</value>
   </data>
-  <data name="listSigned" xml:space="preserve">
+	<data name="listSigned" xml:space="preserve">
     <value>подписан</value>
   </data>
-  <data name="lNeedRefresh" xml:space="preserve">
+	<data name="lNeedRefresh" xml:space="preserve">
     <value>Для отображения списка выполните поиск</value>
   </data>
-  <data name="lNoData" xml:space="preserve">
+	<data name="lNoData" xml:space="preserve">
     <value>Нет данных</value>
   </data>
-  <data name="lNoEntrance" xml:space="preserve">
+	<data name="lNoEntrance" xml:space="preserve">
     <value>Внимание: Время входа сотрудника в офис не было зафиксированно</value>
   </data>
-  <data name="lNoExit" xml:space="preserve">
+	<data name="lNoExit" xml:space="preserve">
     <value>Внимание: Время выхода сотрудника из офиса не было зафиксированно</value>
   </data>
-  <data name="lNoFixed" xml:space="preserve">
+	<data name="lNoFixed" xml:space="preserve">
     <value>Не определено</value>
   </data>
-  <data name="lNoFixedEnter" xml:space="preserve">
+	<data name="lNoFixedEnter" xml:space="preserve">
     <value>Вход не зафиксирован</value>
   </data>
-  <data name="lNoFixedExit" xml:space="preserve">
+	<data name="lNoFixedExit" xml:space="preserve">
     <value>Выход не зафиксирован</value>
   </data>
-  <data name="Lnotin" xml:space="preserve">
+	<data name="Lnotin" xml:space="preserve">
     <value>Элементы за исключением</value>
   </data>
-  <data name="LnotinOnce" xml:space="preserve">
+	<data name="LnotinOnce" xml:space="preserve">
     <value>За исключением</value>
   </data>
-  <data name="lPeriod" xml:space="preserve">
+	<data name="lPeriod" xml:space="preserve">
     <value>Период</value>
   </data>
-  <data name="lPhones" xml:space="preserve">
+	<data name="lPhones" xml:space="preserve">
     <value>т.</value>
   </data>
-  <data name="lPlaces" xml:space="preserve">
+	<data name="lPlaces" xml:space="preserve">
     <value>к.</value>
   </data>
-  <data name="lPrimaryComp" xml:space="preserve">
+	<data name="lPrimaryComp" xml:space="preserve">
     <value>в пользу компании</value>
   </data>
-  <data name="lPrimaryEmpl" xml:space="preserve">
+	<data name="lPrimaryEmpl" xml:space="preserve">
     <value>в пользу сотрудника</value>
   </data>
-  <data name="lPrint" xml:space="preserve">
+	<data name="lPrint" xml:space="preserve">
     <value>Печать</value>
   </data>
-  <data name="lPrintAdd" xml:space="preserve">
+	<data name="lPrintAdd" xml:space="preserve">
     <value>Печать полного списки выбранных сотрудников</value>
   </data>
-  <data name="lRefresh" xml:space="preserve">
+	<data name="lRefresh" xml:space="preserve">
     <value>Искать</value>
   </data>
-  <data name="lRefreshAdd" xml:space="preserve">
+	<data name="lRefreshAdd" xml:space="preserve">
     <value>Искать сотрудников с учетом фильтра</value>
   </data>
-  <data name="lRules" xml:space="preserve">
+	<data name="lRules" xml:space="preserve">
     <value>Нарушения пропускного режима</value>
   </data>
-  <data name="lSession" xml:space="preserve">
+	<data name="lSession" xml:space="preserve">
     <value>Время сессии истекло, пожалуйста начните работу заново.</value>
   </data>
-  <data name="lShowList" xml:space="preserve">
+	<data name="lShowList" xml:space="preserve">
     <value>Показать</value>
   </data>
-  <data name="lTimeExit" xml:space="preserve">
+	<data name="lTimeExit" xml:space="preserve">
     <value>Ушедшие до</value>
   </data>
-  <data name="lTo" xml:space="preserve">
+	<data name="lTo" xml:space="preserve">
     <value>по</value>
   </data>
-  <data name="lTotal" xml:space="preserve">
+	<data name="lTotal" xml:space="preserve">
     <value>Всего</value>
   </data>
-  <data name="lTotalFound" xml:space="preserve">
+	<data name="lTotalFound" xml:space="preserve">
     <value>Найдено [{0}] записей</value>
   </data>
-  <data name="lUserLogo" xml:space="preserve">
+	<data name="lUserLogo" xml:space="preserve">
     <value>Показать логотип</value>
   </data>
-  <data name="lUserPhoto" xml:space="preserve">
+	<data name="lUserPhoto" xml:space="preserve">
     <value>Показать фото</value>
   </data>
-  <data name="lWorkCaption" xml:space="preserve">
+	<data name="lWorkCaption" xml:space="preserve">
     <value>Находился на рабочем месте</value>
   </data>
-  <data name="minus" xml:space="preserve">
+	<data name="minus" xml:space="preserve">
     <value>минус</value>
   </data>
-  <data name="msgAddAttributeConfirm" xml:space="preserve">
+	<data name="msgAddAttributeConfirm" xml:space="preserve">
     <value>Создание данного атрибута изменит дату окончания следующего атрибута с</value>
   </data>
-  <data name="msgAs" xml:space="preserve">
+	<data name="msgAs" xml:space="preserve">
     <value>как</value>
   </data>
-  <data name="msgBreakCall" xml:space="preserve">
+	<data name="msgBreakCall" xml:space="preserve">
     <value>Завершить звонок</value>
   </data>
-  <data name="msgBtn1" xml:space="preserve">
+	<data name="msgBtn1" xml:space="preserve">
     <value>У документа нет номера</value>
   </data>
-  <data name="msgBtn2" xml:space="preserve">
+	<data name="msgBtn2" xml:space="preserve">
     <value>Да! Номер документа:</value>
   </data>
-  <data name="msgBtn3" xml:space="preserve">
+	<data name="msgBtn3" xml:space="preserve">
     <value>Исправить номер документа</value>
   </data>
-  <data name="msgCall" xml:space="preserve">
+	<data name="msgCall" xml:space="preserve">
     <value>Позвонить</value>
   </data>
-  <data name="msgCallContact" xml:space="preserve">
+	<data name="msgCallContact" xml:space="preserve">
     <value>Связаться по контакту</value>
   </data>
-  <data name="msgConfirm" xml:space="preserve">
+	<data name="msgConfirm" xml:space="preserve">
     <value>Подтвердите</value>
   </data>
-  <data name="msgConfirm1" xml:space="preserve">
+	<data name="msgConfirm1" xml:space="preserve">
     <value>не похоже на номер документа!</value>
   </data>
-  <data name="msgConfirm2" xml:space="preserve">
+	<data name="msgConfirm2" xml:space="preserve">
     <value>Вы уверены, что номер документа -</value>
   </data>
-  <data name="MsgConfirmRebuild" xml:space="preserve">
+	<data name="MsgConfirmRebuild" xml:space="preserve">
     <value>Вы уверены, что хотите перестроить текст?</value>
   </data>
-  <data name="msgDefaultPhone" xml:space="preserve">
+	<data name="msgDefaultPhone" xml:space="preserve">
     <value>Сохранить как основной рабочий телефонный аппарат на этом компьютере</value>
   </data>
-  <data name="msgDelete" xml:space="preserve">
+	<data name="msgDelete" xml:space="preserve">
     <value>Удаление</value>
   </data>
-  <data name="msgDeleteContactValidation" xml:space="preserve">
+	<data name="msgDeleteContactValidation" xml:space="preserve">
     <value>Вы уверены, что хотите удалить этот контакт?</value>
   </data>
-  <data name="msgDeleteFromList" xml:space="preserve">
+	<data name="msgDeleteFromList" xml:space="preserve">
     <value>Удалить элемент из списка?</value>
   </data>
-  <data name="msgDelFinishSign" xml:space="preserve">
+	<data name="msgDelFinishSign" xml:space="preserve">
     <value>Вы удаляете завершающую подпись.</value>
   </data>
-  <data name="msgDelFinishSign1" xml:space="preserve">
+	<data name="msgDelFinishSign1" xml:space="preserve">
     <value>Это приведет к удалению финопераций по этому документу ({0} шт).</value>
   </data>
-  <data name="msgDelFinishSign2" xml:space="preserve">
+	<data name="msgDelFinishSign2" xml:space="preserve">
     <value>Продолжить?</value>
   </data>
-  <data name="msgDelFinishSignWithTran" xml:space="preserve">
+	<data name="msgDelFinishSignWithTran" xml:space="preserve">
     <value>Удаление завершающей подписи невозможно:
 по данному документу существуют финоперации.</value>
   </data>
-  <data name="msgDelSign" xml:space="preserve">
+	<data name="msgDelSign" xml:space="preserve">
     <value>Вы удаляете подпись {0}
 Это имеет смысл только для изменения данных эл. формы.
 Для восстановления подписи придется обратиться к указанному сотруднику.
 Продолжить?</value>
   </data>
-  <data name="msgDelSignOtherEmplUnavaible" xml:space="preserve">
+	<data name="msgDelSignOtherEmplUnavaible" xml:space="preserve">
     <value>Удаление завершающей подписи другого сотрудника невозможно.</value>
   </data>
-  <data name="msgDelSignUnavaible" xml:space="preserve">
+	<data name="msgDelSignUnavaible" xml:space="preserve">
     <value>Подпись недоступна, возможно она уже удалена.</value>
   </data>
-  <data name="msgDoc" xml:space="preserve">
+	<data name="msgDoc" xml:space="preserve">
     <value>Документ</value>
   </data>
-  <data name="msgDocs" xml:space="preserve">
+	<data name="msgDocs" xml:space="preserve">
     <value>Документы</value>
   </data>
-  <data name="msgDoisserCoworkers" xml:space="preserve">
+	<data name="msgDoisserCoworkers" xml:space="preserve">
     <value>Вы уверены, что хотите назначить сотрудника на посменную работу совместно c</value>
   </data>
-  <data name="msgEditAttributeConfirm" xml:space="preserve">
+	<data name="msgEditAttributeConfirm" xml:space="preserve">
     <value>Изменение данного атрибута изменит дату окончания следующего атрибута с</value>
   </data>
-  <data name="msgEx" xml:space="preserve">
+	<data name="msgEx" xml:space="preserve">
     <value>Не удалось сопоставить поля БД (ДокументыДанные) с полями сущности.</value>
   </data>
-  <data name="msgFinishSign" xml:space="preserve">
+	<data name="msgFinishSign" xml:space="preserve">
     <value>Вы подписываете электронную форму документа как "Выполнено-работа завершена".&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
 			Данная подпись не может быть удалена в дальнейшем.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
 			Вы уверенны, что &amp;lt;b&amp;gt;работа по документу завершена&amp;lt;/b&amp;gt;, данные в эл. форме
 			введены корректно и не потребуется их
 			изменить?&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;</value>
   </data>
-  <data name="msgHeadSignUnable" xml:space="preserve">
+	<data name="msgHeadSignUnable" xml:space="preserve">
     <value>Невозможно определить руководителя подразделения</value>
   </data>
-  <data name="msgLinkDoc" xml:space="preserve">
+	<data name="msgLinkDoc" xml:space="preserve">
     <value>Связать документ</value>
   </data>
-  <data name="msgMoreOneApp" xml:space="preserve">
+	<data name="msgMoreOneApp" xml:space="preserve">
     <value>действует более одного приложения к договору.</value>
   </data>
-  <data name="msgNoAccessDogovor" xml:space="preserve">
+	<data name="msgNoAccessDogovor" xml:space="preserve">
     <value>Нет прямого доступа к договору, невозможно проверить приложения.</value>
   </data>
-  <data name="msgNoBProject" xml:space="preserve">
+	<data name="msgNoBProject" xml:space="preserve">
     <value>Документ не по проектам холдинга</value>
   </data>
-  <data name="msgNoContact" xml:space="preserve">
+	<data name="msgNoContact" xml:space="preserve">
     <value>Нет контактов</value>
   </data>
-  <data name="msgNoDataField" xml:space="preserve">
+	<data name="msgNoDataField" xml:space="preserve">
     <value>Не заполнено поле</value>
   </data>
-  <data name="msgNoElForm" xml:space="preserve">
+	<data name="msgNoElForm" xml:space="preserve">
     <value>отсутствует эл.форма.</value>
   </data>
-  <data name="msgNoForm" xml:space="preserve">
+	<data name="msgNoForm" xml:space="preserve">
     <value>Документ не имеет эдектронной формы. Просмотр изображения в архиве документов невозможен</value>
   </data>
-  <data name="msgNoHeadSign" xml:space="preserve">
+	<data name="msgNoHeadSign" xml:space="preserve">
     <value>Отсутствует подпись руководителя
 подразделения</value>
   </data>
-  <data name="msgNoPhone" xml:space="preserve">
+	<data name="msgNoPhone" xml:space="preserve">
     <value>Телефон не найден</value>
   </data>
-  <data name="msgNotAvailable" xml:space="preserve">
+	<data name="msgNotAvailable" xml:space="preserve">
     <value>не доступен.</value>
   </data>
-  <data name="msgNotExistsOnDocDate" xml:space="preserve">
+	<data name="msgNotExistsOnDocDate" xml:space="preserve">
     <value>Не существует на дату документа</value>
   </data>
-  <data name="msgOldTitle" xml:space="preserve">
+	<data name="msgOldTitle" xml:space="preserve">
     <value>Документ в старой версии</value>
   </data>
-  <data name="msgOnDate" xml:space="preserve">
+	<data name="msgOnDate" xml:space="preserve">
     <value>На дату</value>
   </data>
-  <data name="msgOsnAttention0" xml:space="preserve">
+	<data name="msgOsnAttention0" xml:space="preserve">
     <value>ВНИМАНИЕ!!!</value>
   </data>
-  <data name="msgOsnAttention1" xml:space="preserve">
+	<data name="msgOsnAttention1" xml:space="preserve">
     <value>В качестве документа основания инвойса Вы указали документ</value>
   </data>
-  <data name="msgOsnAttention2" xml:space="preserve">
+	<data name="msgOsnAttention2" xml:space="preserve">
     <value>В результате этой операции ВСЕ данные текущего документа будут приведены в соответствие с документом основанием.</value>
   </data>
-  <data name="msgOsnAttention2Factura" xml:space="preserve">
+	<data name="msgOsnAttention2Factura" xml:space="preserve">
     <value>В качестве документа основания счета-фактуры Вы указали документ</value>
   </data>
-  <data name="msgOsnAttention3" xml:space="preserve">
+	<data name="msgOsnAttention3" xml:space="preserve">
     <value>Важно:</value>
   </data>
-  <data name="msgOsnAttention4" xml:space="preserve">
+	<data name="msgOsnAttention4" xml:space="preserve">
     <value>Позиции инвойса и документа основания - ОБЩИЕ!</value>
   </data>
-  <data name="msgOsnAttention4Factura" xml:space="preserve">
+	<data name="msgOsnAttention4Factura" xml:space="preserve">
     <value>Позиции счета-фактуры и документа основания - ОБЩИЕ!</value>
   </data>
-  <data name="msgOsnAttention5" xml:space="preserve">
+	<data name="msgOsnAttention5" xml:space="preserve">
     <value>Cвязь со старым документом основанием будет удалена!</value>
   </data>
-  <data name="msgOsnAttention6" xml:space="preserve">
+	<data name="msgOsnAttention6" xml:space="preserve">
     <value>Вы уверены, что хотите выполнить данную операцию?!</value>
   </data>
-  <data name="msgOsnAttention7" xml:space="preserve">
+	<data name="msgOsnAttention7" xml:space="preserve">
     <value>Вы уверены, что хотите удалить документ основание?!</value>
   </data>
-  <data name="msgPhoneSelect" xml:space="preserve">
+	<data name="msgPhoneSelect" xml:space="preserve">
     <value>Выберите телефон, с которого осуществить вызов на номер</value>
   </data>
-  <data name="msgPPNoBuyer" xml:space="preserve">
+	<data name="msgPPNoBuyer" xml:space="preserve">
     <value>Не указан покупатель</value>
   </data>
-  <data name="msgPPNoDate" xml:space="preserve">
+	<data name="msgPPNoDate" xml:space="preserve">
     <value>Не указана дата инвойса</value>
   </data>
-  <data name="msgPPNoDogovor" xml:space="preserve">
+	<data name="msgPPNoDogovor" xml:space="preserve">
     <value>Не указан договор</value>
   </data>
-  <data name="msgPPNoSeller" xml:space="preserve">
+	<data name="msgPPNoSeller" xml:space="preserve">
     <value>Не указан продавец</value>
   </data>
-  <data name="msgPPNoVal" xml:space="preserve">
+	<data name="msgPPNoVal" xml:space="preserve">
     <value>Не указана валюта</value>
   </data>
-  <data name="msgQuestionDelete" xml:space="preserve">
+	<data name="msgQuestionDelete" xml:space="preserve">
     <value>Вы хотите удалить {0}?</value>
   </data>
-  <data name="MsgSchetOsnovanieData" xml:space="preserve">
+	<data name="MsgSchetOsnovanieData" xml:space="preserve">
     <value>Дата документа основания больше даты счета</value>
   </data>
-  <data name="msgSelectPhone" xml:space="preserve">
+	<data name="msgSelectPhone" xml:space="preserve">
     <value>Выбрать телефон</value>
   </data>
-  <data name="msgSendFinishMsg" xml:space="preserve">
+	<data name="msgSendFinishMsg" xml:space="preserve">
     <value>Отсылать сообщение о завершающей подписи</value>
   </data>
-  <data name="msgSign" xml:space="preserve">
+	<data name="msgSign" xml:space="preserve">
     <value>Подписать</value>
   </data>
-  <data name="msgSimpleDelSign" xml:space="preserve">
+	<data name="msgSimpleDelSign" xml:space="preserve">
     <value>Удалить подпись {0}?</value>
   </data>
-  <data name="msgTo" xml:space="preserve">
+	<data name="msgTo" xml:space="preserve">
     <value>на</value>
   </data>
-  <data name="msgTwiceDocCorrect" xml:space="preserve">
+	<data name="msgTwiceDocCorrect" xml:space="preserve">
     <value>Ошибка! Выбранный документ одновременно скорректирован с помощью нескольких документов.</value>
   </data>
-  <data name="msgUnableAppendix" xml:space="preserve">
+	<data name="msgUnableAppendix" xml:space="preserve">
     <value>Невозможно проверить приложение</value>
   </data>
-  <data name="msgUserNotAuth" xml:space="preserve">
+	<data name="msgUserNotAuth" xml:space="preserve">
     <value>Пользователь не авторизован</value>
   </data>
-  <data name="msgVidVz" xml:space="preserve">
+	<data name="msgVidVz" xml:space="preserve">
     <value>Необходимо указать приложение, т.к. в договоре указано: детализация взаиморасчетов - «по приложению»</value>
   </data>
-  <data name="msgWarningSign" xml:space="preserve">
+	<data name="msgWarningSign" xml:space="preserve">
     <value>&lt;br&gt;
 					* Пока Вы редактировали электронную форму, её изменил/подписал другой
 					сотрудник.
 					&lt;br&gt;&lt;br&gt;
 					(рекомендуется посмотреть текущее состояние электронной формы в архиве)</value>
   </data>
-  <data name="msgWrongType" xml:space="preserve">
+	<data name="msgWrongType" xml:space="preserve">
     <value>Загружаемый документ не соответствует требуемому типу для данного формы.</value>
   </data>
-  <data name="MSG_ChosenCorrected" xml:space="preserve">
+	<data name="MSG_ChosenCorrected" xml:space="preserve">
     <value>В качестве корректируемого документа Вы указали документ	'{0}'!</value>
   </data>
-  <data name="MSG_ConfirmUnlinkCorrected" xml:space="preserve">
+	<data name="MSG_ConfirmUnlinkCorrected" xml:space="preserve">
     <value>Вы уверены, что хотите очистить ссылку на корректируемый документ?</value>
   </data>
-  <data name="MSG_CorrectedWith" xml:space="preserve">
+	<data name="MSG_CorrectedWith" xml:space="preserve">
     <value>Документ скорректирован с помощью</value>
   </data>
-  <data name="MSG_DataMergedWithCorrected" xml:space="preserve">
+	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
     <value>В результате этой операции ВСЕ данные текущего документа
 будут приведены в соответствие с корректируемым документом.
 
 Вы уверены, что хотите выполнить данную операцию?</value>
   </data>
-  <data name="MSG_DocAlreadyCorrected" xml:space="preserve">
+	<data name="MSG_DocAlreadyCorrected" xml:space="preserve">
     <value>Выбранный документ '{0}' уже откорректирован с помощью документа '{1}'</value>
   </data>
-  <data name="Msg_FIO" xml:space="preserve">
+	<data name="Msg_FIO" xml:space="preserve">
     <value>указано вручную</value>
   </data>
-  <data name="MSG_HasCorrecting" xml:space="preserve">
+	<data name="MSG_HasCorrecting" xml:space="preserve">
     <value>у документа имеется корректирующий его документ</value>
   </data>
-  <data name="MSG_LastDocAsCorrected" xml:space="preserve">
+	<data name="MSG_LastDocAsCorrected" xml:space="preserve">
     <value>Последний будет подставлен в качестве корректируемого основания.</value>
   </data>
-  <data name="Msg_КопироватьПозицию" xml:space="preserve">
+	<data name="Msg_КопироватьПозицию" xml:space="preserve">
     <value>Копировать позицию</value>
   </data>
-  <data name="Msg_НеВерныйПроцент" xml:space="preserve">
+	<data name="Msg_НеВерныйПроцент" xml:space="preserve">
     <value>Неверный процент</value>
   </data>
-  <data name="Msg_НеВерныйСрокОплаты" xml:space="preserve">
+	<data name="Msg_НеВерныйСрокОплаты" xml:space="preserve">
     <value>Неверный срок оплаты</value>
   </data>
-  <data name="Msg_РедактироватьПозицию" xml:space="preserve">
+	<data name="Msg_РедактироватьПозицию" xml:space="preserve">
     <value>Редактировать запись</value>
   </data>
-  <data name="Msg_СоздатьНовуюПозицию" xml:space="preserve">
+	<data name="Msg_СоздатьНовуюПозицию" xml:space="preserve">
     <value>Создать новую позицию</value>
   </data>
-  <data name="Msg_УдалитьПозицию" xml:space="preserve">
+	<data name="Msg_УдалитьПозицию" xml:space="preserve">
     <value>Удалить позицию</value>
   </data>
-  <data name="newDoc" xml:space="preserve">
+	<data name="newDoc" xml:space="preserve">
     <value>Новый документ</value>
   </data>
-  <data name="notActiveCall" xml:space="preserve">
+	<data name="notActiveCall" xml:space="preserve">
     <value>нет активного звонка</value>
   </data>
-  <data name="NtfDataChanged" xml:space="preserve">
+	<data name="NtfDataChanged" xml:space="preserve">
     <value>Дата изменения документа основания больше даты изменения текущего документа! Текст документа может не соответствовать данным!</value>
   </data>
-  <data name="ntfDateDueData" xml:space="preserve">
+	<data name="ntfDateDueData" xml:space="preserve">
     <value>Дата оплаты меньше даты документа</value>
   </data>
-  <data name="ntfDocNotSign" xml:space="preserve">
+	<data name="ntfDocNotSign" xml:space="preserve">
     <value>документ не подписан</value>
   </data>
-  <data name="NTF_DateBaseDoc" xml:space="preserve">
+	<data name="NTF_DateBaseDoc" xml:space="preserve">
     <value>дата основания должна быть меньше или равна дате текущего документа</value>
   </data>
-  <data name="ntf_DocIsNotSigned" xml:space="preserve">
+	<data name="ntf_DocIsNotSigned" xml:space="preserve">
     <value>Электронная форма документа не подписана</value>
   </data>
-  <data name="ntf_PersonIsNotAvailable" xml:space="preserve">
+	<data name="ntf_PersonIsNotAvailable" xml:space="preserve">
     <value>Лицо недоступно</value>
   </data>
-  <data name="NTF_SmthIsNotMatchDogovor" xml:space="preserve">
+	<data name="NTF_SmthIsNotMatchDogovor" xml:space="preserve">
     <value>не по договору</value>
   </data>
-  <data name="NTF_SmthIsNotMatchPrilozhenie" xml:space="preserve">
+	<data name="NTF_SmthIsNotMatchPrilozhenie" xml:space="preserve">
     <value>не по приложению</value>
   </data>
-  <data name="numberNotExists" xml:space="preserve">
+	<data name="numberNotExists" xml:space="preserve">
     <value>у документа нет номера</value>
   </data>
-  <data name="oneFollowType" xml:space="preserve">
+	<data name="oneFollowType" xml:space="preserve">
     <value>Вытекающий документ типа</value>
   </data>
-  <data name="optLanguage1" xml:space="preserve">
+	<data name="optLanguage1" xml:space="preserve">
     <value>Язык 1</value>
   </data>
-  <data name="optLanguage2" xml:space="preserve">
+	<data name="optLanguage2" xml:space="preserve">
     <value>Язык 2</value>
   </data>
-  <data name="optLanguageen" xml:space="preserve">
+	<data name="optLanguageen" xml:space="preserve">
     <value>Английский</value>
   </data>
-  <data name="optLanguageru" xml:space="preserve">
+	<data name="optLanguageru" xml:space="preserve">
     <value>Русский</value>
   </data>
-  <data name="PageBar_lCurrentPage" xml:space="preserve">
+	<data name="PageBar_lCurrentPage" xml:space="preserve">
     <value>Страница</value>
   </data>
-  <data name="PageBar_lFirstPage" xml:space="preserve">
+	<data name="PageBar_lFirstPage" xml:space="preserve">
     <value>Перейти к первой странице</value>
   </data>
-  <data name="PageBar_lLastPage" xml:space="preserve">
+	<data name="PageBar_lLastPage" xml:space="preserve">
     <value>Перейти к последней странице</value>
   </data>
-  <data name="PageBar_lNextPage" xml:space="preserve">
+	<data name="PageBar_lNextPage" xml:space="preserve">
     <value>Перейти к следующей странице</value>
   </data>
-  <data name="PageBar_lOf" xml:space="preserve">
+	<data name="PageBar_lOf" xml:space="preserve">
     <value>из</value>
   </data>
-  <data name="PageBar_lPrevPage" xml:space="preserve">
+	<data name="PageBar_lPrevPage" xml:space="preserve">
     <value>Перейти к предыдущей странице</value>
   </data>
-  <data name="PageBar_lRowsPerPage" xml:space="preserve">
+	<data name="PageBar_lRowsPerPage" xml:space="preserve">
     <value>Количество записей на страницу</value>
   </data>
-  <data name="PersonRoles_RoleName" xml:space="preserve">
+	<data name="PersonRoles_RoleName" xml:space="preserve">
     <value>Роли</value>
   </data>
-  <data name="ppBtnCancel" xml:space="preserve">
+	<data name="ppBtnCancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="ppBtnChoose" xml:space="preserve">
+	<data name="ppBtnChoose" xml:space="preserve">
     <value>Выбрать</value>
   </data>
-  <data name="ppBtnShowForm" xml:space="preserve">
+	<data name="ppBtnShowForm" xml:space="preserve">
     <value>Посмотреть текущее состояние электронной формы в архиве</value>
   </data>
-  <data name="ppDtlCol1" xml:space="preserve">
+	<data name="ppDtlCol1" xml:space="preserve">
     <value>Платежный документ</value>
   </data>
-  <data name="ppDtlCol2" xml:space="preserve">
+	<data name="ppDtlCol2" xml:space="preserve">
     <value>Описание</value>
   </data>
-  <data name="ppDtlCol3" xml:space="preserve">
+	<data name="ppDtlCol3" xml:space="preserve">
     <value>Неучтенная сумма</value>
   </data>
-  <data name="ppFltNoForma" xml:space="preserve">
+	<data name="ppFltNoForma" xml:space="preserve">
     <value>Документ с кодом {0} не имеет электронной формы.</value>
   </data>
-  <data name="ppFltNotAccess" xml:space="preserve">
+	<data name="ppFltNotAccess" xml:space="preserve">
     <value>Документ с кодом {0} не доступен.</value>
   </data>
-  <data name="ppFltOsn" xml:space="preserve">
+	<data name="ppFltOsn" xml:space="preserve">
     <value>Основания платежа</value>
   </data>
-  <data name="ppFltTitle" xml:space="preserve">
+	<data name="ppFltTitle" xml:space="preserve">
     <value>Платежные документы отобраны по следующим критериям:</value>
   </data>
-  <data name="ppFltВалюта" xml:space="preserve">
+	<data name="ppFltВалюта" xml:space="preserve">
     <value>Валюта</value>
   </data>
-  <data name="ppFltДата" xml:space="preserve">
+	<data name="ppFltДата" xml:space="preserve">
     <value>Дата документа</value>
   </data>
-  <data name="ppFltДоговор" xml:space="preserve">
+	<data name="ppFltДоговор" xml:space="preserve">
     <value>Договор</value>
   </data>
-  <data name="ppFltПлательщик" xml:space="preserve">
+	<data name="ppFltПлательщик" xml:space="preserve">
     <value>Плательщик</value>
   </data>
-  <data name="ppFltПолучатель" xml:space="preserve">
+	<data name="ppFltПолучатель" xml:space="preserve">
     <value>Получатель</value>
   </data>
-  <data name="ppLblFilter" xml:space="preserve">
+	<data name="ppLblFilter" xml:space="preserve">
     <value>показать/скрыть установленный фильтр</value>
   </data>
-  <data name="ppLblRefreshList" xml:space="preserve">
+	<data name="ppLblRefreshList" xml:space="preserve">
     <value>обновить список</value>
   </data>
-  <data name="ppLblTitle" xml:space="preserve">
+	<data name="ppLblTitle" xml:space="preserve">
     <value>Выбор платежных документов</value>
   </data>
-  <data name="ppНеУказано" xml:space="preserve">
+	<data name="ppНеУказано" xml:space="preserve">
     <value>не указано</value>
   </data>
-  <data name="QMsgDelSign" xml:space="preserve">
+	<data name="QMsgDelSign" xml:space="preserve">
     <value>Вы уверены, что хотите удалить подпись документа?</value>
   </data>
-  <data name="QSBtnCancel" xml:space="preserve">
+	<data name="QSBtnCancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="QSBtnNo" xml:space="preserve">
+	<data name="QSBtnNo" xml:space="preserve">
     <value>Нет</value>
   </data>
-  <data name="QSBtnYes" xml:space="preserve">
+	<data name="QSBtnYes" xml:space="preserve">
     <value>Да</value>
   </data>
-  <data name="QSMsg1" xml:space="preserve">
+	<data name="QSMsg1" xml:space="preserve">
     <value>В документ были внесены изменения! Сохранить?</value>
   </data>
-  <data name="QSMsg2" xml:space="preserve">
+	<data name="QSMsg2" xml:space="preserve">
     <value>Дата изменения документа основания больше даты изменения текущего документа! Перестроить текст документа?</value>
   </data>
-  <data name="removeFromList" xml:space="preserve">
+	<data name="removeFromList" xml:space="preserve">
     <value>убрать из списка</value>
   </data>
-  <data name="RUB_J1" xml:space="preserve">
+	<data name="RUB_J1" xml:space="preserve">
     <value>копейка</value>
   </data>
-  <data name="RUB_J2" xml:space="preserve">
+	<data name="RUB_J2" xml:space="preserve">
     <value>копейки</value>
   </data>
-  <data name="RUB_J5" xml:space="preserve">
+	<data name="RUB_J5" xml:space="preserve">
     <value>копеек</value>
   </data>
-  <data name="RUB_S1" xml:space="preserve">
+	<data name="RUB_S1" xml:space="preserve">
     <value>рубль</value>
   </data>
-  <data name="RUB_S2" xml:space="preserve">
+	<data name="RUB_S2" xml:space="preserve">
     <value>рубля</value>
   </data>
-  <data name="RUB_S5" xml:space="preserve">
+	<data name="RUB_S5" xml:space="preserve">
     <value>рублей</value>
   </data>
-  <data name="RUR_J1" xml:space="preserve">
+	<data name="RUR_J1" xml:space="preserve">
     <value>копейка</value>
   </data>
-  <data name="RUR_J2" xml:space="preserve">
+	<data name="RUR_J2" xml:space="preserve">
     <value>копейки</value>
   </data>
-  <data name="RUR_J5" xml:space="preserve">
+	<data name="RUR_J5" xml:space="preserve">
     <value>копеек</value>
   </data>
-  <data name="RUR_S1" xml:space="preserve">
+	<data name="RUR_S1" xml:space="preserve">
     <value>рубль</value>
   </data>
-  <data name="RUR_S2" xml:space="preserve">
+	<data name="RUR_S2" xml:space="preserve">
     <value>рубля</value>
   </data>
-  <data name="RUR_S5" xml:space="preserve">
+	<data name="RUR_S5" xml:space="preserve">
     <value>рублей</value>
   </data>
-  <data name="sAdvancedSearch" xml:space="preserve">
+	<data name="sAdvancedSearch" xml:space="preserve">
     <value>Расширенный поиск.</value>
   </data>
-  <data name="sCalledNumber" xml:space="preserve">
+	<data name="sCalledNumber" xml:space="preserve">
     <value>Вызывающий номер</value>
   </data>
-  <data name="sCallNumber" xml:space="preserve">
+	<data name="sCallNumber" xml:space="preserve">
     <value>Вызываемый номер</value>
   </data>
-  <data name="sCode" xml:space="preserve">
+	<data name="sCode" xml:space="preserve">
     <value>Код</value>
   </data>
-  <data name="sCreateIndividual" xml:space="preserve">
+	<data name="sCreateIndividual" xml:space="preserve">
     <value>Создать физическое лицо</value>
   </data>
-  <data name="sCreateLegal" xml:space="preserve">
+	<data name="sCreateLegal" xml:space="preserve">
     <value>Создать юридическое лицо</value>
   </data>
-  <data name="sCreateResource" xml:space="preserve">
+	<data name="sCreateResource" xml:space="preserve">
     <value>Создать ресурс</value>
   </data>
-  <data name="sFindMore" xml:space="preserve">
+	<data name="sFindMore" xml:space="preserve">
     <value>Показано {0} записей. Найдено больше!</value>
   </data>
-  <data name="signedAkt" xml:space="preserve">
+	<data name="signedAkt" xml:space="preserve">
     <value>Данный документ подписан. Вы не сможете внести в него изменения.</value>
   </data>
-  <data name="sName" xml:space="preserve">
+	<data name="sName" xml:space="preserve">
     <value>Наименование</value>
   </data>
-  <data name="sNamePhone" xml:space="preserve">
+	<data name="sNamePhone" xml:space="preserve">
     <value>Имя IP-телефона</value>
   </data>
-  <data name="sNotFound" xml:space="preserve">
+	<data name="sNotFound" xml:space="preserve">
     <value>Ничего не найдено.</value>
   </data>
-  <data name="sRefineSearch" xml:space="preserve">
+	<data name="sRefineSearch" xml:space="preserve">
     <value>Уточните запрос.</value>
   </data>
-  <data name="sStartCall" xml:space="preserve">
+	<data name="sStartCall" xml:space="preserve">
     <value>Время начала звонка</value>
   </data>
-  <data name="sTitlePage" xml:space="preserve">
+	<data name="sTitlePage" xml:space="preserve">
     <value>Список активный звонков</value>
   </data>
-  <data name="STORE_Account" xml:space="preserve">
+	<data name="STORE_Account" xml:space="preserve">
     <value>Номер счёта</value>
   </data>
-  <data name="STORE_AccountUnknown" xml:space="preserve">
+	<data name="STORE_AccountUnknown" xml:space="preserve">
     <value>Номер счёта неизвестен</value>
   </data>
-  <data name="STORE_Actuality" xml:space="preserve">
+	<data name="STORE_Actuality" xml:space="preserve">
     <value>Актуальность</value>
   </data>
-  <data name="STORE_Agreement" xml:space="preserve">
+	<data name="STORE_Agreement" xml:space="preserve">
     <value>Договор</value>
   </data>
-  <data name="STORE_Bank" xml:space="preserve">
+	<data name="STORE_Bank" xml:space="preserve">
     <value>Банк</value>
   </data>
-  <data name="STORE_Branch" xml:space="preserve">
+	<data name="STORE_Branch" xml:space="preserve">
     <value>Филиал</value>
   </data>
-  <data name="STORE_ClearSearchConstraints" xml:space="preserve">
+	<data name="STORE_ClearSearchConstraints" xml:space="preserve">
     <value>Очистить фильтр</value>
   </data>
-  <data name="STORE_ConfirmCancel" xml:space="preserve">
+	<data name="STORE_ConfirmCancel" xml:space="preserve">
     <value>Отменить все сделанные изменения?</value>
   </data>
-  <data name="STORE_ConfirmClose" xml:space="preserve">
+	<data name="STORE_ConfirmClose" xml:space="preserve">
     <value>Изменения не сохранены. Закрыть приложение?</value>
   </data>
-  <data name="STORE_ConfirmRefresh" xml:space="preserve">
+	<data name="STORE_ConfirmRefresh" xml:space="preserve">
     <value>Изменения не сохранены. Загрузить последние сохранённые параметры склада?</value>
   </data>
-  <data name="STORE_CreateStore" xml:space="preserve">
+	<data name="STORE_CreateStore" xml:space="preserve">
     <value>Создать новый склад</value>
   </data>
-  <data name="STORE_CreateStoreTitle" xml:space="preserve">
+	<data name="STORE_CreateStoreTitle" xml:space="preserve">
     <value>Создание склада</value>
   </data>
-  <data name="STORE_Currency" xml:space="preserve">
+	<data name="STORE_Currency" xml:space="preserve">
     <value>Валюта</value>
   </data>
-  <data name="STORE_DatesAreNotValid" xml:space="preserve">
+	<data name="STORE_DatesAreNotValid" xml:space="preserve">
     <value>Дата конца действия склада должна быть не раньше даты начала действия!</value>
   </data>
-  <data name="STORE_Department" xml:space="preserve">
+	<data name="STORE_Department" xml:space="preserve">
     <value>Отделение</value>
   </data>
-  <data name="STORE_Description" xml:space="preserve">
+	<data name="STORE_Description" xml:space="preserve">
     <value>Примечание</value>
   </data>
-  <data name="STORE_DoesNotMatter" xml:space="preserve">
+	<data name="STORE_DoesNotMatter" xml:space="preserve">
     <value>Не важно</value>
   </data>
-  <data name="STORE_Edit" xml:space="preserve">
+	<data name="STORE_Edit" xml:space="preserve">
     <value>Редактировать</value>
   </data>
-  <data name="STORE_EditStoreTitle" xml:space="preserve">
+	<data name="STORE_EditStoreTitle" xml:space="preserve">
     <value>Изменение параметров склада</value>
   </data>
-  <data name="STORE_FailedAddToReports" xml:space="preserve">
+	<data name="STORE_FailedAddToReports" xml:space="preserve">
     <value>Не удалось добавить склад в отчёты по складам. {0}</value>
   </data>
-  <data name="STORE_FailedMoveStores" xml:space="preserve">
+	<data name="STORE_FailedMoveStores" xml:space="preserve">
     <value>Не удалось переместить выбранные склады. {0}</value>
   </data>
-  <data name="STORE_FailedRemoveFromReports" xml:space="preserve">
+	<data name="STORE_FailedRemoveFromReports" xml:space="preserve">
     <value>Не удалось удалить склад из отчетов по складам. {0}</value>
   </data>
-  <data name="STORE_FailedRemoveStores" xml:space="preserve">
+	<data name="STORE_FailedRemoveStores" xml:space="preserve">
     <value>Не удалось удалить выбранные склады. {0}</value>
   </data>
-  <data name="STORE_FailedSave" xml:space="preserve">
+	<data name="STORE_FailedSave" xml:space="preserve">
     <value>Не удалось сохранить склад. {0}</value>
   </data>
-  <data name="STORE_FindStore" xml:space="preserve">
+	<data name="STORE_FindStore" xml:space="preserve">
     <value>Поиск складов</value>
   </data>
-  <data name="STORE_FromInFuture" xml:space="preserve">
+	<data name="STORE_FromInFuture" xml:space="preserve">
     <value>Дата ещё не наступила</value>
   </data>
-  <data name="STORE_IBAN" xml:space="preserve">
+	<data name="STORE_IBAN" xml:space="preserve">
     <value>IBAN</value>
   </data>
-  <data name="STORE_IsActual" xml:space="preserve">
+	<data name="STORE_IsActual" xml:space="preserve">
     <value>Действует</value>
   </data>
-  <data name="STORE_IsNotActual" xml:space="preserve">
+	<data name="STORE_IsNotActual" xml:space="preserve">
     <value>Не действует</value>
   </data>
-  <data name="STORE_JsResources" xml:space="preserve">
+	<data name="STORE_JsResources" xml:space="preserve">
     <value>"MsgRowNotFound": "Указанная строка не найдена!",
     "MsgDeleteSelectedStoresConfirm": "Удалить выбранные склады из отчета?",
     "MsgSaveConfirm": "Изменения не сохранены. Сохранить сделанные изменения?",
@@ -2221,667 +2221,667 @@
     "SrchDisplayFields": "Изменить условия поиска",
     "SetupFields": "Настройка страницы"</value>
   </data>
-  <data name="STORE_Keeper" xml:space="preserve">
+	<data name="STORE_Keeper" xml:space="preserve">
     <value>Хранитель</value>
   </data>
-  <data name="STORE_KeeperBank" xml:space="preserve">
+	<data name="STORE_KeeperBank" xml:space="preserve">
     <value> Хранитель/банк</value>
   </data>
-  <data name="STORE_Manager" xml:space="preserve">
+	<data name="STORE_Manager" xml:space="preserve">
     <value>Распорядитель</value>
   </data>
-  <data name="STORE_ManagerDepartment" xml:space="preserve">
+	<data name="STORE_ManagerDepartment" xml:space="preserve">
     <value>Подразделение распорядителя</value>
   </data>
-  <data name="STORE_Name" xml:space="preserve">
+	<data name="STORE_Name" xml:space="preserve">
     <value>Название</value>
   </data>
-  <data name="STORE_NeedFill" xml:space="preserve">
+	<data name="STORE_NeedFill" xml:space="preserve">
     <value>Для склада должен быть указан {0}.</value>
   </data>
-  <data name="STORE_NeedFillResidence" xml:space="preserve">
+	<data name="STORE_NeedFillResidence" xml:space="preserve">
     <value>Для продуктового склада необходимо указать место хранения.</value>
   </data>
-  <data name="STORE_NoStoresToMove" xml:space="preserve">
+	<data name="STORE_NoStoresToMove" xml:space="preserve">
     <value>Не выбраны склады для перемещения.</value>
   </data>
-  <data name="STORE_NotValid" xml:space="preserve">
+	<data name="STORE_NotValid" xml:space="preserve">
     <value>Склад не действовал {0}</value>
   </data>
-  <data name="STORE_NotValidAfter" xml:space="preserve">
+	<data name="STORE_NotValidAfter" xml:space="preserve">
     <value>Склад не действовал после</value>
   </data>
-  <data name="STORE_NotValidBefore" xml:space="preserve">
+	<data name="STORE_NotValidBefore" xml:space="preserve">
     <value>Склад не действовал до</value>
   </data>
-  <data name="STORE_PageSettings" xml:space="preserve">
+	<data name="STORE_PageSettings" xml:space="preserve">
     <value>Настройка</value>
   </data>
-  <data name="STORE_Queries" xml:space="preserve">
+	<data name="STORE_Queries" xml:space="preserve">
     <value>Дополнительный запрос</value>
   </data>
-  <data name="STORE_queryFilterAnd" xml:space="preserve">
+	<data name="STORE_queryFilterAnd" xml:space="preserve">
     <value>И</value>
   </data>
-  <data name="STORE_queryFilterOr" xml:space="preserve">
+	<data name="STORE_queryFilterOr" xml:space="preserve">
     <value>ИЛИ</value>
   </data>
-  <data name="STORE_ReportDeleteFrom" xml:space="preserve">
+	<data name="STORE_ReportDeleteFrom" xml:space="preserve">
     <value>Удалить&amp;nbsp;из&amp;nbsp;отчёта</value>
   </data>
-  <data name="STORE_ReportInsertAfter" xml:space="preserve">
+	<data name="STORE_ReportInsertAfter" xml:space="preserve">
     <value>Вставить&amp;nbsp;после&amp;nbsp;строки</value>
   </data>
-  <data name="STORE_ReportMoveToBegin" xml:space="preserve">
+	<data name="STORE_ReportMoveToBegin" xml:space="preserve">
     <value>Переместить&amp;nbsp;в&amp;nbsp;начало&amp;nbsp;отчёта</value>
   </data>
-  <data name="STORE_ReportMoveToEnd" xml:space="preserve">
+	<data name="STORE_ReportMoveToEnd" xml:space="preserve">
     <value>Переместить&amp;nbsp;в&amp;nbsp;конец&amp;nbsp;отчёта</value>
   </data>
-  <data name="STORE_ReportSelected" xml:space="preserve">
+	<data name="STORE_ReportSelected" xml:space="preserve">
     <value>Выбранные склады</value>
   </data>
-  <data name="STORE_ReportTitle" xml:space="preserve">
+	<data name="STORE_ReportTitle" xml:space="preserve">
     <value>Планирование отчёта по складам</value>
   </data>
-  <data name="STORE_ReportType" xml:space="preserve">
+	<data name="STORE_ReportType" xml:space="preserve">
     <value>Тип отчета</value>
   </data>
-  <data name="STORE_Residence" xml:space="preserve">
+	<data name="STORE_Residence" xml:space="preserve">
     <value>Место хранения</value>
   </data>
-  <data name="STORE_Resource" xml:space="preserve">
+	<data name="STORE_Resource" xml:space="preserve">
     <value>Ресурс</value>
   </data>
-  <data name="STORE_ResourceCurrency" xml:space="preserve">
+	<data name="STORE_ResourceCurrency" xml:space="preserve">
     <value>Ресурс/валюта</value>
   </data>
-  <data name="STORE_SaveStore" xml:space="preserve">
+	<data name="STORE_SaveStore" xml:space="preserve">
     <value>Сохранение склада</value>
   </data>
-  <data name="STORE_SearchEdit" xml:space="preserve">
+	<data name="STORE_SearchEdit" xml:space="preserve">
     <value>Изменить условия поиска</value>
   </data>
-  <data name="STORE_SelectReportType" xml:space="preserve">
+	<data name="STORE_SelectReportType" xml:space="preserve">
     <value>Укажите тип отчёта по складам.</value>
   </data>
-  <data name="STORE_SelectStore" xml:space="preserve">
+	<data name="STORE_SelectStore" xml:space="preserve">
     <value>Выбрать склад</value>
   </data>
-  <data name="STORE_SetupFields" xml:space="preserve">
+	<data name="STORE_SetupFields" xml:space="preserve">
     <value>Показывать выбранные поля</value>
   </data>
-  <data name="STORE_Store" xml:space="preserve">
+	<data name="STORE_Store" xml:space="preserve">
     <value>Склад</value>
   </data>
-  <data name="STORE_StoreNumberUndefined" xml:space="preserve">
+	<data name="STORE_StoreNumberUndefined" xml:space="preserve">
     <value>Номер неизвестен</value>
   </data>
-  <data name="STORE_StoreReport" xml:space="preserve">
+	<data name="STORE_StoreReport" xml:space="preserve">
     <value>Планирование отчёта по складам</value>
   </data>
-  <data name="STORE_StoreReportLegend" xml:space="preserve">
+	<data name="STORE_StoreReportLegend" xml:space="preserve">
     <value>Управление отчетами</value>
   </data>
-  <data name="STORE_StoreReportType" xml:space="preserve">
+	<data name="STORE_StoreReportType" xml:space="preserve">
     <value>Присутствует в отчетах</value>
   </data>
-  <data name="STORE_Stores" xml:space="preserve">
+	<data name="STORE_Stores" xml:space="preserve">
     <value>Склад</value>
   </data>
-  <data name="STORE_StoresReportChanged" xml:space="preserve">
+	<data name="STORE_StoresReportChanged" xml:space="preserve">
     <value>Отчёт по складам был изменен.</value>
   </data>
-  <data name="STORE_StoreType" xml:space="preserve">
+	<data name="STORE_StoreType" xml:space="preserve">
     <value>Тип склада</value>
   </data>
-  <data name="STORE_Subsidiary" xml:space="preserve">
+	<data name="STORE_Subsidiary" xml:space="preserve">
     <value>Отделение/филиал</value>
   </data>
-  <data name="STORE_Text" xml:space="preserve">
+	<data name="STORE_Text" xml:space="preserve">
     <value>Строка поиска</value>
   </data>
-  <data name="STORE_Title" xml:space="preserve">
+	<data name="STORE_Title" xml:space="preserve">
     <value>Поиск складов</value>
   </data>
-  <data name="STORE_ToInPast" xml:space="preserve">
+	<data name="STORE_ToInPast" xml:space="preserve">
     <value>Дата уже прошла</value>
   </data>
-  <data name="STORE_Valid" xml:space="preserve">
+	<data name="STORE_Valid" xml:space="preserve">
     <value>Склад действовал {0}</value>
   </data>
-  <data name="STORE_ValidFromIsNull" xml:space="preserve">
+	<data name="STORE_ValidFromIsNull" xml:space="preserve">
     <value>Дата начала действия склада не установлена</value>
   </data>
-  <data name="STORE_ValidFromToIsNull" xml:space="preserve">
+	<data name="STORE_ValidFromToIsNull" xml:space="preserve">
     <value>Даты действия не установлены</value>
   </data>
-  <data name="STORE_ValidFromToIsNullDescription" xml:space="preserve">
+	<data name="STORE_ValidFromToIsNullDescription" xml:space="preserve">
     <value>Даты начала и конца действия склада не установлены</value>
   </data>
-  <data name="STORE_ValidPeriodFilter" xml:space="preserve">
+	<data name="STORE_ValidPeriodFilter" xml:space="preserve">
     <value>Действовал на указанную дату</value>
   </data>
-  <data name="STORE_ValidPeriodFilterBegin" xml:space="preserve">
+	<data name="STORE_ValidPeriodFilterBegin" xml:space="preserve">
     <value>Не действовал до указанной даты</value>
   </data>
-  <data name="STORE_ValidPeriodFilterEnd" xml:space="preserve">
+	<data name="STORE_ValidPeriodFilterEnd" xml:space="preserve">
     <value>Не действовал после указанной даты</value>
   </data>
-  <data name="STORE_ValidPeriodFilterNotWorking" xml:space="preserve">
+	<data name="STORE_ValidPeriodFilterNotWorking" xml:space="preserve">
     <value>Не действовал на указанную дату</value>
   </data>
-  <data name="STORE_ValidToIsNull" xml:space="preserve">
+	<data name="STORE_ValidToIsNull" xml:space="preserve">
     <value>Дата конца действия склада не установлена</value>
   </data>
-  <data name="sTransport" xml:space="preserve">
+	<data name="sTransport" xml:space="preserve">
     <value>Транспорт</value>
   </data>
-  <data name="String1" xml:space="preserve">
+	<data name="String1" xml:space="preserve">
     <value>привести данные инвойса в соответствие с документом основанием</value>
   </data>
-  <data name="sTypeOfTransport" xml:space="preserve">
+	<data name="sTypeOfTransport" xml:space="preserve">
     <value>Вид транспорта</value>
   </data>
-  <data name="title" xml:space="preserve">
+	<data name="title" xml:space="preserve">
     <value>Создание/выбор вытекающего документа</value>
   </data>
-  <data name="titleCancel" xml:space="preserve">
+	<data name="titleCancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="titleHelp" xml:space="preserve">
+	<data name="titleHelp" xml:space="preserve">
     <value>Помощь</value>
   </data>
-  <data name="titleSave" xml:space="preserve">
+	<data name="titleSave" xml:space="preserve">
     <value>Сохранить документ</value>
   </data>
-  <data name="Title_Help" xml:space="preserve">
+	<data name="Title_Help" xml:space="preserve">
     <value>Открыть справку</value>
   </data>
-  <data name="tltContact" xml:space="preserve">
+	<data name="tltContact" xml:space="preserve">
     <value>Контакт</value>
   </data>
-  <data name="TMD_Head1" xml:space="preserve">
+	<data name="TMD_Head1" xml:space="preserve">
     <value>Номер</value>
   </data>
-  <data name="TMD_Head2" xml:space="preserve">
+	<data name="TMD_Head2" xml:space="preserve">
     <value>незакрытый период</value>
   </data>
-  <data name="TMD_Head3" xml:space="preserve">
+	<data name="TMD_Head3" xml:space="preserve">
     <value>Период</value>
   </data>
-  <data name="TMD_Head4" xml:space="preserve">
+	<data name="TMD_Head4" xml:space="preserve">
     <value>Договор - билайн</value>
   </data>
-  <data name="TMD_TblColumn1" xml:space="preserve">
+	<data name="TMD_TblColumn1" xml:space="preserve">
     <value>Дата и время</value>
   </data>
-  <data name="TMD_TblColumn2" xml:space="preserve">
+	<data name="TMD_TblColumn2" xml:space="preserve">
     <value>Тип</value>
   </data>
-  <data name="TMD_TblColumn3" xml:space="preserve">
+	<data name="TMD_TblColumn3" xml:space="preserve">
     <value>Зона абонента</value>
   </data>
-  <data name="TMD_TblColumn4" xml:space="preserve">
+	<data name="TMD_TblColumn4" xml:space="preserve">
     <value>Направление</value>
   </data>
-  <data name="TMD_TblColumn5" xml:space="preserve">
+	<data name="TMD_TblColumn5" xml:space="preserve">
     <value>Услуга</value>
   </data>
-  <data name="TMD_TblColumn6" xml:space="preserve">
+	<data name="TMD_TblColumn6" xml:space="preserve">
     <value>Длительность</value>
   </data>
-  <data name="TMD_TblColumn7" xml:space="preserve">
+	<data name="TMD_TblColumn7" xml:space="preserve">
     <value>Килобайт</value>
   </data>
-  <data name="TMD_TblColumn8" xml:space="preserve">
+	<data name="TMD_TblColumn8" xml:space="preserve">
     <value>сотрудником (с НДС)</value>
   </data>
-  <data name="TMD_TblColumn9" xml:space="preserve">
+	<data name="TMD_TblColumn9" xml:space="preserve">
     <value>Сумма</value>
   </data>
-  <data name="TMD_TblFooter" xml:space="preserve">
+	<data name="TMD_TblFooter" xml:space="preserve">
     <value>Итого</value>
   </data>
-  <data name="TMD_Title" xml:space="preserve">
+	<data name="TMD_Title" xml:space="preserve">
     <value>Детализированный отчёт по телефонным звонкам</value>
   </data>
-  <data name="TMD_Vat" xml:space="preserve">
+	<data name="TMD_Vat" xml:space="preserve">
     <value>включая НДС</value>
   </data>
-  <data name="TM_AllYear" xml:space="preserve">
+	<data name="TM_AllYear" xml:space="preserve">
     <value>весь год (без детализации)</value>
   </data>
-  <data name="TM_ClearFilter" xml:space="preserve">
+	<data name="TM_ClearFilter" xml:space="preserve">
     <value>Очистить фильтр</value>
   </data>
-  <data name="TM_Empty" xml:space="preserve">
+	<data name="TM_Empty" xml:space="preserve">
     <value>Данных, удовлетворяющих условиям фильтрации не найдено!</value>
   </data>
-  <data name="TM_FDataEmptyDogovor" xml:space="preserve">
+	<data name="TM_FDataEmptyDogovor" xml:space="preserve">
     <value>все договора</value>
   </data>
-  <data name="TM_FDataEmptyEmployee" xml:space="preserve">
-    <value>все сотрудники</value>
+	<data name="TM_FDataEmptyEmployee" xml:space="preserve">
+    <value>все пользователи</value>
   </data>
-  <data name="TM_FDataEmptyMonth" xml:space="preserve">
+	<data name="TM_FDataEmptyMonth" xml:space="preserve">
     <value>все</value>
   </data>
-  <data name="TM_FDataEmptyPhone" xml:space="preserve">
+	<data name="TM_FDataEmptyPhone" xml:space="preserve">
     <value>все телефоны</value>
   </data>
-  <data name="TM_FDogovor" xml:space="preserve">
+	<data name="TM_FDogovor" xml:space="preserve">
     <value>Договор</value>
   </data>
-  <data name="TM_FEmployee" xml:space="preserve">
-    <value>Сотрудник</value>
+	<data name="TM_FEmployee" xml:space="preserve">
+    <value>Пользователь</value>
   </data>
-  <data name="TM_FilterApply" xml:space="preserve">
+	<data name="TM_FilterApply" xml:space="preserve">
     <value>Искать</value>
   </data>
-  <data name="TM_FMonth" xml:space="preserve">
+	<data name="TM_FMonth" xml:space="preserve">
     <value>Месяц</value>
   </data>
-  <data name="TM_FOpenMonth" xml:space="preserve">
+	<data name="TM_FOpenMonth" xml:space="preserve">
     <value>Текущий месяц</value>
   </data>
-  <data name="TM_FPhone" xml:space="preserve">
+	<data name="TM_FPhone" xml:space="preserve">
     <value>Телефон</value>
   </data>
-  <data name="TM_FYear" xml:space="preserve">
+	<data name="TM_FYear" xml:space="preserve">
     <value>Год</value>
   </data>
-  <data name="TM_Issued" xml:space="preserve">
+	<data name="TM_Issued" xml:space="preserve">
     <value>Выдана</value>
   </data>
-  <data name="TM_LegendTitle" xml:space="preserve">
+	<data name="TM_LegendTitle" xml:space="preserve">
     <value>Для колонок "Сумма" и "Сумма, оплачиваемая сотрудниками"</value>
   </data>
-  <data name="TM_OutSimData" xml:space="preserve">
+	<data name="TM_OutSimData" xml:space="preserve">
     <value>Отсутствует информация о sim-карте за указанный период!</value>
   </data>
-  <data name="TM_Rpt1" xml:space="preserve">
+	<data name="TM_Rpt1" xml:space="preserve">
     <value>Затраты по телефонам</value>
   </data>
-  <data name="TM_Rpt2" xml:space="preserve">
+	<data name="TM_Rpt2" xml:space="preserve">
     <value>Длительность по телефонам</value>
   </data>
-  <data name="TM_Rpt3" xml:space="preserve">
+	<data name="TM_Rpt3" xml:space="preserve">
     <value>Затраты по сотрудникам</value>
   </data>
-  <data name="TM_Rpt4" xml:space="preserve">
+	<data name="TM_Rpt4" xml:space="preserve">
     <value>Длительность по сотрудникам</value>
   </data>
-  <data name="TM_Rpt5" xml:space="preserve">
+	<data name="TM_Rpt5" xml:space="preserve">
     <value>Детализация услуг Билайн</value>
   </data>
-  <data name="TM_RptDetail" xml:space="preserve">
+	<data name="TM_RptDetail" xml:space="preserve">
     <value>Открыть детализацию</value>
   </data>
-  <data name="TM_SimInfo" xml:space="preserve">
+	<data name="TM_SimInfo" xml:space="preserve">
     <value>Информация о sim-карте</value>
   </data>
-  <data name="TM_TblColumn2" xml:space="preserve">
+	<data name="TM_TblColumn2" xml:space="preserve">
     <value>Время</value>
   </data>
-  <data name="TM_TblColumn3" xml:space="preserve">
+	<data name="TM_TblColumn3" xml:space="preserve">
     <value>Сумма</value>
   </data>
-  <data name="TM_TblColumn4_0" xml:space="preserve">
+	<data name="TM_TblColumn4_0" xml:space="preserve">
     <value>Сумма, оплачиваемая</value>
   </data>
-  <data name="TM_TblColumn4_1" xml:space="preserve">
+	<data name="TM_TblColumn4_1" xml:space="preserve">
     <value>сотрудниками</value>
   </data>
-  <data name="TM_Title" xml:space="preserve">
+	<data name="TM_Title" xml:space="preserve">
     <value>Тарификация: Мобильная связь</value>
   </data>
-  <data name="TM_TitleGray" xml:space="preserve">
+	<data name="TM_TitleGray" xml:space="preserve">
     <value>НДС насчитывается на каждую запись тарификации</value>
   </data>
-  <data name="TM_TitleGray2" xml:space="preserve">
+	<data name="TM_TitleGray2" xml:space="preserve">
     <value>Сумма указана без НДС</value>
   </data>
-  <data name="TM_TitleGreen" xml:space="preserve">
+	<data name="TM_TitleGreen" xml:space="preserve">
     <value>НДС уже включен в сумму тарификации</value>
   </data>
-  <data name="TM_TitleOrange" xml:space="preserve">
+	<data name="TM_TitleOrange" xml:space="preserve">
     <value>Не определены условия договора сотовой связи</value>
   </data>
-  <data name="TM_TitleWhite" xml:space="preserve">
+	<data name="TM_TitleWhite" xml:space="preserve">
     <value>Сумма указана с НДС</value>
   </data>
-  <data name="TM_Wait" xml:space="preserve">
+	<data name="TM_Wait" xml:space="preserve">
     <value>Подождите. Идет загрузка данных...</value>
   </data>
-  <data name="TM_Withdrawn" xml:space="preserve">
+	<data name="TM_Withdrawn" xml:space="preserve">
     <value>Изъята</value>
   </data>
-  <data name="ttAddShetDog" xml:space="preserve">
+	<data name="ttAddShetDog" xml:space="preserve">
     <value>Открывает диалог связывания документов</value>
   </data>
-  <data name="ttContactType" xml:space="preserve">
+	<data name="ttContactType" xml:space="preserve">
     <value>Тип контакта</value>
   </data>
-  <data name="ttlFIO" xml:space="preserve">
+	<data name="ttlFIO" xml:space="preserve">
     <value>ИОФ сотрудника</value>
   </data>
-  <data name="ttlPOST" xml:space="preserve">
+	<data name="ttlPOST" xml:space="preserve">
     <value>Должность сотрудника</value>
   </data>
-  <data name="ttPerson" xml:space="preserve">
+	<data name="ttPerson" xml:space="preserve">
     <value>Лицо</value>
   </data>
-  <data name="typeNumberOfDocument" xml:space="preserve">
+	<data name="typeNumberOfDocument" xml:space="preserve">
     <value>указать вручную</value>
   </data>
-  <data name="USD_J1" xml:space="preserve">
+	<data name="USD_J1" xml:space="preserve">
     <value>цент</value>
   </data>
-  <data name="USD_J2" xml:space="preserve">
+	<data name="USD_J2" xml:space="preserve">
     <value>цента</value>
   </data>
-  <data name="USD_J5" xml:space="preserve">
+	<data name="USD_J5" xml:space="preserve">
     <value>центов</value>
   </data>
-  <data name="USD_S1" xml:space="preserve">
+	<data name="USD_S1" xml:space="preserve">
     <value>доллар США</value>
   </data>
-  <data name="USD_S2" xml:space="preserve">
+	<data name="USD_S2" xml:space="preserve">
     <value>доллара США</value>
   </data>
-  <data name="USD_S5" xml:space="preserve">
+	<data name="USD_S5" xml:space="preserve">
     <value>долларов США</value>
   </data>
-  <data name="_Msg_Cmd_НеСохраняется" xml:space="preserve">
+	<data name="_Msg_Cmd_НеСохраняется" xml:space="preserve">
     <value>Сохранение документа невозможно.</value>
   </data>
-  <data name="_Msg_ВыборТекста" xml:space="preserve">
+	<data name="_Msg_ВыборТекста" xml:space="preserve">
     <value>Заполнить на основании предыдущего документа?</value>
   </data>
-  <data name="_Msg_ДоговорВалюта" xml:space="preserve">
+	<data name="_Msg_ДоговорВалюта" xml:space="preserve">
     <value>валюта оплаты не соответствует валюте оплаты в договоре</value>
   </data>
-  <data name="_Msg_ДокументНеДоступен" xml:space="preserve">
+	<data name="_Msg_ДокументНеДоступен" xml:space="preserve">
     <value>документ не доступен</value>
   </data>
-  <data name="_Msg_ЕдИзмерения" xml:space="preserve">
+	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
     <value>Для продуктов единица измерения является обязательной</value>
   </data>
-  <data name="_Msg_Количество" xml:space="preserve">
+	<data name="_Msg_Количество" xml:space="preserve">
     <value>Не указазано количество</value>
   </data>
-  <data name="_Msg_Количество0" xml:space="preserve">
+	<data name="_Msg_Количество0" xml:space="preserve">
     <value>Количество должно быть больше 0</value>
   </data>
-  <data name="_Msg_ЛицоАдрес" xml:space="preserve">
+	<data name="_Msg_ЛицоАдрес" xml:space="preserve">
     <value>не указан адрес</value>
   </data>
-  <data name="_Msg_ЛицоАдресЮридический" xml:space="preserve">
+	<data name="_Msg_ЛицоАдресЮридический" xml:space="preserve">
     <value>у лица отсутствует юридический адрес</value>
   </data>
-  <data name="_Msg_ЛицоИНН" xml:space="preserve">
+	<data name="_Msg_ЛицоИНН" xml:space="preserve">
     <value>у лица отсутствует ИНН</value>
   </data>
-  <data name="_Msg_ЛицоКПП" xml:space="preserve">
+	<data name="_Msg_ЛицоКПП" xml:space="preserve">
     <value>у лица отсутствует КПП</value>
   </data>
-  <data name="_Msg_ЛицоНазвание" xml:space="preserve">
+	<data name="_Msg_ЛицоНазвание" xml:space="preserve">
     <value>у лица отсутствует краткое название</value>
   </data>
-  <data name="_Msg_ЛицоНеДоступно" xml:space="preserve">
+	<data name="_Msg_ЛицоНеДоступно" xml:space="preserve">
     <value>лицо не доступно</value>
   </data>
-  <data name="_Msg_ЛицоНеПроверено" xml:space="preserve">
+	<data name="_Msg_ЛицоНеПроверено" xml:space="preserve">
     <value>лицо не проверено</value>
   </data>
-  <data name="_Msg_ЛицоПолноеНазвание" xml:space="preserve">
+	<data name="_Msg_ЛицоПолноеНазвание" xml:space="preserve">
     <value>у лица отсутствует полное название</value>
   </data>
-  <data name="_Msg_ЛицоРеквизиты" xml:space="preserve">
+	<data name="_Msg_ЛицоРеквизиты" xml:space="preserve">
     <value>у лица отсутствует реквизиты на {0}</value>
   </data>
-  <data name="_Msg_НетВсего" xml:space="preserve">
+	<data name="_Msg_НетВсего" xml:space="preserve">
     <value>Не заполнено поле 'Всего'</value>
   </data>
-  <data name="_Msg_НетВсего0" xml:space="preserve">
+	<data name="_Msg_НетВсего0" xml:space="preserve">
     <value>Всего должно быть больше 0</value>
   </data>
-  <data name="_Msg_НетОснования" xml:space="preserve">
+	<data name="_Msg_НетОснования" xml:space="preserve">
     <value>Не указан документ основание.</value>
   </data>
-  <data name="_Msg_ОснованиеВалюта" xml:space="preserve">
+	<data name="_Msg_ОснованиеВалюта" xml:space="preserve">
     <value>валюта оплаты не соответствует валюте документа основания</value>
   </data>
-  <data name="_Msg_ОснованиеГО" xml:space="preserve">
+	<data name="_Msg_ОснованиеГО" xml:space="preserve">
     <value>лицо не соответствует грузоотправителю в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеГОРеквизиты" xml:space="preserve">
+	<data name="_Msg_ОснованиеГОРеквизиты" xml:space="preserve">
     <value>реквизиты лица не соответствуют реквизитам грузоотправителю в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеГП" xml:space="preserve">
+	<data name="_Msg_ОснованиеГП" xml:space="preserve">
     <value>лицо не соответствует грузополучателю в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеГПРеквизиты" xml:space="preserve">
+	<data name="_Msg_ОснованиеГПРеквизиты" xml:space="preserve">
     <value>реквизиты лица не соответствуют реквизитам грузополучателя в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеЗаказчик" xml:space="preserve">
+	<data name="_Msg_ОснованиеЗаказчик" xml:space="preserve">
     <value>лицо не соответствует заказчику в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеИсполнитель" xml:space="preserve">
+	<data name="_Msg_ОснованиеИсполнитель" xml:space="preserve">
     <value>лицо не соответствует исполнителю в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеНеДоступно" xml:space="preserve">
+	<data name="_Msg_ОснованиеНеДоступно" xml:space="preserve">
     <value>Документ основание не доступен!</value>
   </data>
-  <data name="_Msg_ОснованиеНетФормы" xml:space="preserve">
+	<data name="_Msg_ОснованиеНетФормы" xml:space="preserve">
     <value>Документ основание не имеет электронной формы</value>
   </data>
-  <data name="_Msg_ОснованиеПокупатель" xml:space="preserve">
+	<data name="_Msg_ОснованиеПокупатель" xml:space="preserve">
     <value>лицо не соответствует покупателю в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеПокупательАдрес" xml:space="preserve">
+	<data name="_Msg_ОснованиеПокупательАдрес" xml:space="preserve">
     <value>адрес лица не соответствует адресу покупателя в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеПродавец" xml:space="preserve">
+	<data name="_Msg_ОснованиеПродавец" xml:space="preserve">
     <value>лицо не соответствует продавцу в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеПродавецАдрес" xml:space="preserve">
+	<data name="_Msg_ОснованиеПродавецАдрес" xml:space="preserve">
     <value>адрес лица не соответствует адресу продавца в документе основании</value>
   </data>
-  <data name="_Msg_ОснованиеУжеЕсть1" xml:space="preserve">
+	<data name="_Msg_ОснованиеУжеЕсть1" xml:space="preserve">
     <value>Уже существует документ</value>
   </data>
-  <data name="_Msg_ОснованиеУжеЕсть2" xml:space="preserve">
+	<data name="_Msg_ОснованиеУжеЕсть2" xml:space="preserve">
     <value>основанием которого является</value>
   </data>
-  <data name="_Msg_ПриложениеВалюта" xml:space="preserve">
+	<data name="_Msg_ПриложениеВалюта" xml:space="preserve">
     <value>валюта оплаты не соответствует валюте оплаты в приложении</value>
   </data>
-  <data name="_Msg_Ресурс" xml:space="preserve">
+	<data name="_Msg_Ресурс" xml:space="preserve">
     <value>Не указазан ресурс</value>
   </data>
-  <data name="_Msg_РесурсИмя" xml:space="preserve">
+	<data name="_Msg_РесурсИмя" xml:space="preserve">
     <value>Не указазано название ресурса</value>
   </data>
-  <data name="_Msg_РесурсНетЛатНазвания" xml:space="preserve">
+	<data name="_Msg_РесурсНетЛатНазвания" xml:space="preserve">
     <value>Не указано латинское название ресурса</value>
   </data>
-  <data name="_Msg_СоответствиеСлужебке" xml:space="preserve">
+	<data name="_Msg_СоответствиеСлужебке" xml:space="preserve">
     <value>не соответствует служебке</value>
   </data>
-  <data name="_Msg_СрокДоговораФактура" xml:space="preserve">
+	<data name="_Msg_СрокДоговораФактура" xml:space="preserve">
     <value>Срок действия договора не соответствует дате счета</value>
   </data>
-  <data name="_Msg_СтавкаНДС" xml:space="preserve">
+	<data name="_Msg_СтавкаНДС" xml:space="preserve">
     <value>Не указазана ставка ндс</value>
   </data>
-  <data name="_Msg_СуммаБезНДС" xml:space="preserve">
+	<data name="_Msg_СуммаБезНДС" xml:space="preserve">
     <value>Не указазана сумма без ндс</value>
   </data>
-  <data name="_Msg_СуммаБезНДС0" xml:space="preserve">
+	<data name="_Msg_СуммаБезНДС0" xml:space="preserve">
     <value>Сумма без ндс должна быть больше 0</value>
   </data>
-  <data name="_Msg_СуммаНДС" xml:space="preserve">
+	<data name="_Msg_СуммаНДС" xml:space="preserve">
     <value>Не указазана сумма ндс</value>
   </data>
-  <data name="_Msg_СуммаНДС0" xml:space="preserve">
+	<data name="_Msg_СуммаНДС0" xml:space="preserve">
     <value>Сумма ндс должна быть больше или равна 0</value>
   </data>
-  <data name="_Msg_СчетSWIFTБанка" xml:space="preserve">
+	<data name="_Msg_СчетSWIFTБанка" xml:space="preserve">
     <value>у банка отсутствует swift</value>
   </data>
-  <data name="_Msg_СчетБанкНеПроверен" xml:space="preserve">
+	<data name="_Msg_СчетБанкНеПроверен" xml:space="preserve">
     <value>банк не проверен</value>
   </data>
-  <data name="_Msg_СчетБИКБанка" xml:space="preserve">
+	<data name="_Msg_СчетБИКБанка" xml:space="preserve">
     <value>у банка отсутствует бик</value>
   </data>
-  <data name="_Msg_СчетВалютаДокумента" xml:space="preserve">
+	<data name="_Msg_СчетВалютаДокумента" xml:space="preserve">
     <value>валюта банковского счета не соответствует валюте документа</value>
   </data>
-  <data name="_Msg_СчетКСБанка" xml:space="preserve">
+	<data name="_Msg_СчетКСБанка" xml:space="preserve">
     <value>у банка отсутствует кор.счет</value>
   </data>
-  <data name="_Msg_СчетНазваниеБанка" xml:space="preserve">
+	<data name="_Msg_СчетНазваниеБанка" xml:space="preserve">
     <value>у банка отсутствует краткое название</value>
   </data>
-  <data name="_Msg_СчетНеБанк" xml:space="preserve">
+	<data name="_Msg_СчетНеБанк" xml:space="preserve">
     <value>лицо не является банком</value>
   </data>
-  <data name="_Msg_СчетНеДействует" xml:space="preserve">
+	<data name="_Msg_СчетНеДействует" xml:space="preserve">
     <value>банковский счет не действует</value>
   </data>
-  <data name="_Msg_СчетНеДоступен" xml:space="preserve">
+	<data name="_Msg_СчетНеДоступен" xml:space="preserve">
     <value>банковский счет не доступен</value>
   </data>
-  <data name="_Msg_СчетНеПоДатеДоговора" xml:space="preserve">
+	<data name="_Msg_СчетНеПоДатеДоговора" xml:space="preserve">
     <value>срок действия договора не соответствует дате инвойса</value>
   </data>
-  <data name="_Msg_СчетНеПоДоговору" xml:space="preserve">
+	<data name="_Msg_СчетНеПоДоговору" xml:space="preserve">
     <value>банковский счет не соответствует счету в договоре</value>
   </data>
-  <data name="_Msg_СчетНеПоПриложению" xml:space="preserve">
+	<data name="_Msg_СчетНеПоПриложению" xml:space="preserve">
     <value>банковский счет не соответствует счету в приложении</value>
   </data>
-  <data name="_Msg_СчетПокупателя" xml:space="preserve">
+	<data name="_Msg_СчетПокупателя" xml:space="preserve">
     <value>банковский счет не соответствует покупателю</value>
   </data>
-  <data name="_Msg_СчетПродавца" xml:space="preserve">
+	<data name="_Msg_СчетПродавца" xml:space="preserve">
     <value>банковский счет не соответствует продавцу</value>
   </data>
-  <data name="_Msg_СчетРеквизитыБанка" xml:space="preserve">
+	<data name="_Msg_СчетРеквизитыБанка" xml:space="preserve">
     <value>у банка отсутствуют реквизиты на {0}</value>
   </data>
-  <data name="_Msg_ТекстИзменен" xml:space="preserve">
+	<data name="_Msg_ТекстИзменен" xml:space="preserve">
     <value>Текст документа был изменен! Записать?</value>
   </data>
-  <data name="_Msg_ЦенаБезНДС" xml:space="preserve">
+	<data name="_Msg_ЦенаБезНДС" xml:space="preserve">
     <value>Не указазана цена без ндс</value>
   </data>
-  <data name="_Msg_ЦенаБезНДС0" xml:space="preserve">
+	<data name="_Msg_ЦенаБезНДС0" xml:space="preserve">
     <value>Цена без ндс должна быть больше 0</value>
   </data>
-  <data name="сAbsent" xml:space="preserve">
+	<data name="сAbsent" xml:space="preserve">
     <value>Суммарное время перерывов</value>
   </data>
-  <data name="Vacation_Company" xml:space="preserve">
+	<data name="Vacation_Company" xml:space="preserve">
     <value>Организация</value>
   </data>
-  <data name="Vacation_Days" xml:space="preserve">
+	<data name="Vacation_Days" xml:space="preserve">
     <value>Продолжительность</value>
   </data>
-  <data name="Vacation_Director" xml:space="preserve">
+	<data name="Vacation_Director" xml:space="preserve">
     <value>Руководителю организации</value>
   </data>
-  <data name="Vacation_From" xml:space="preserve">
+	<data name="Vacation_From" xml:space="preserve">
     <value>Первый день отпуска</value>
   </data>
-  <data name="Vacation_Person" xml:space="preserve">
+	<data name="Vacation_Person" xml:space="preserve">
     <value>От работника</value>
   </data>
-  <data name="Vacation_To" xml:space="preserve">
+	<data name="Vacation_To" xml:space="preserve">
     <value>Последний день отпуска</value>
   </data>
-  <data name="Vacation_Type" xml:space="preserve">
+	<data name="Vacation_Type" xml:space="preserve">
     <value>Вид отпуска</value>
   </data>
-  <data name="Vacation_FirstWorkingDay" xml:space="preserve">
+	<data name="Vacation_FirstWorkingDay" xml:space="preserve">
     <value>День выхода на работу</value>
   </data>
-  <data name="Vacation_SubDescription" xml:space="preserve">
+	<data name="Vacation_SubDescription" xml:space="preserve">
     <value>Примечание</value>
   </data>
-  <data name="Vacation_SubEmployee" xml:space="preserve">
+	<data name="Vacation_SubEmployee" xml:space="preserve">
     <value>Сотрудник</value>
   </data>
-  <data name="Vacation_SubFrom" xml:space="preserve">
+	<data name="Vacation_SubFrom" xml:space="preserve">
     <value>с</value>
   </data>
-  <data name="Vacation_SubTo" xml:space="preserve">
+	<data name="Vacation_SubTo" xml:space="preserve">
     <value>по</value>
   </data>
-  <data name="Vacation_ErrSubDescription" xml:space="preserve">
+	<data name="Vacation_ErrSubDescription" xml:space="preserve">
     <value>Требуется написать причину в поле примечание.</value>
   </data>
-  <data name="Vacation_ErrSubEmployee" xml:space="preserve">
+	<data name="Vacation_ErrSubEmployee" xml:space="preserve">
     <value>Не выбран замещающий сотрудник.</value>
   </data>
-  <data name="Vacation_ErrSubFrom" xml:space="preserve">
+	<data name="Vacation_ErrSubFrom" xml:space="preserve">
     <value>Не указана дата начала замещения.</value>
   </data>
-  <data name="Vacation_ErrSubTitle" xml:space="preserve">
+	<data name="Vacation_ErrSubTitle" xml:space="preserve">
     <value>Ошибка создания замещения сотрудника</value>
   </data>
-  <data name="Vacation_ErrSubTo" xml:space="preserve">
+	<data name="Vacation_ErrSubTo" xml:space="preserve">
     <value>Не указана дата конца замещения.</value>
   </data>
-  <data name="Vacation_ErrSubDates" xml:space="preserve">
+	<data name="Vacation_ErrSubDates" xml:space="preserve">
     <value>Дата конца замещения должна быть больше даты начала замещения.</value>
   </data>
-  <data name="Vacation_ErrSubDocNotSaved" xml:space="preserve">
+	<data name="Vacation_ErrSubDocNotSaved" xml:space="preserve">
     <value>Документ должен быть сохранен!</value>
   </data>
-  <data name="Vacation_DocTitle" xml:space="preserve">
+	<data name="Vacation_DocTitle" xml:space="preserve">
     <value>Прошу предоставить:</value>
   </data>
-  <data name="Vacation_NtfDateInPast" xml:space="preserve">
+	<data name="Vacation_NtfDateInPast" xml:space="preserve">
     <value>дата уже прошла</value>
   </data>
-  <data name="Vacation_NtfDateLessThatDateDoc" xml:space="preserve">
+	<data name="Vacation_NtfDateLessThatDateDoc" xml:space="preserve">
     <value>дата меньше даты документа</value>
   </data>
-  <data name="Vacation_NtfDatesAreNotValid" xml:space="preserve">
+	<data name="Vacation_NtfDatesAreNotValid" xml:space="preserve">
     <value>дата конца отпуска должна быть не меньше даты начала отпуска.</value>
   </data>
-  <data name="Vacation_NtfNoFirstSign" xml:space="preserve">
+	<data name="Vacation_NtfNoFirstSign" xml:space="preserve">
     <value>не имеет права первой подписи в указанной организации</value>
   </data>
-  <data name="Vacation_NtfNotExistsOnDocDate" xml:space="preserve">
+	<data name="Vacation_NtfNotExistsOnDocDate" xml:space="preserve">
     <value>не существует на дату документа</value>
   </data>
-  <data name="Vacation_NtfPersonIsNotAvailable" xml:space="preserve">
+	<data name="Vacation_NtfPersonIsNotAvailable" xml:space="preserve">
     <value>лицо не доступно</value>
   </data>
-  <data name="Vacation_NtfWorkStaff" xml:space="preserve">
+	<data name="Vacation_NtfWorkStaff" xml:space="preserve">
     <value>не соответствует штатному расписанию указанной организации</value>
   </data>
-  <data name="Vacation_SubDoc" xml:space="preserve">
+	<data name="Vacation_SubDoc" xml:space="preserve">
     <value>документ {0} от {1}</value>
   </data>
-  <data name="Vacation_SubDates" xml:space="preserve">
+	<data name="Vacation_SubDates" xml:space="preserve">
     <value>с {0} по {1}</value>
   </data>
-  <data name="Vacation_SubTitle" xml:space="preserve">
+	<data name="Vacation_SubTitle" xml:space="preserve">
     <value>Замещают на время отпуска</value>
   </data>
-  <data name="Vacation_ErrSubDb" xml:space="preserve">
+	<data name="Vacation_ErrSubDb" xml:space="preserve">
     <value>Не удалось сохранить замещение в базе данных.</value>
   </data>
-  <data name="Vacation_ErrSubDocDates" xml:space="preserve">
+	<data name="Vacation_ErrSubDocDates" xml:space="preserve">
     <value>Не установлены даты начала и конца отпуска, в соответствии с которыми создается новое замещение.</value>
   </data>
-  <data name="Vacation_JsResources" xml:space="preserve">
+	<data name="Vacation_JsResources" xml:space="preserve">
     <value>"BtnSave": "Сохранить",
     "BtnCancel": "Отмена",
     "BtnDelete": "Удалить",
@@ -2894,115 +2894,115 @@
     "SubDeleteTitle": "Удалить замещение",
     "SubDeleteAlt": "Удалить"</value>
   </data>
-  <data name="Vacation_SubDocFrom" xml:space="preserve">
+	<data name="Vacation_SubDocFrom" xml:space="preserve">
     <value>документ от {0}</value>
   </data>
-  <data name="Vacation_ErrSubDates30" xml:space="preserve">
+	<data name="Vacation_ErrSubDates30" xml:space="preserve">
     <value>Время замещения должно быть в диапазоне от 1 до 30 дней.</value>
   </data>
-  <data name="Vacation_AddSubFormAlt" xml:space="preserve">
+	<data name="Vacation_AddSubFormAlt" xml:space="preserve">
     <value>Добавить</value>
   </data>
-  <data name="Vacation_AddSubFormTitle" xml:space="preserve">
+	<data name="Vacation_AddSubFormTitle" xml:space="preserve">
     <value>Добавить замещение</value>
   </data>
-  <data name="cmdAdd" xml:space="preserve">
+	<data name="cmdAdd" xml:space="preserve">
     <value>Добавить</value>
   </data>
-  <data name="cmdClearTitle" xml:space="preserve">
+	<data name="cmdClearTitle" xml:space="preserve">
     <value>Очистить фильтр и результат фильтрации</value>
   </data>
-  <data name="cmdCloseTitleApp" xml:space="preserve">
+	<data name="cmdCloseTitleApp" xml:space="preserve">
     <value>Закрыть приложение</value>
   </data>
-  <data name="cmdRefreshTitle" xml:space="preserve">
+	<data name="cmdRefreshTitle" xml:space="preserve">
     <value>Обновить список</value>
   </data>
-  <data name="ROLES_cmdAddTitle" xml:space="preserve">
+	<data name="ROLES_cmdAddTitle" xml:space="preserve">
     <value>Открыть форму добавления роли сотруднику</value>
   </data>
-  <data name="ROLES_TitleAddRole" xml:space="preserve">
+	<data name="ROLES_TitleAddRole" xml:space="preserve">
     <value>Добавление роли сотруднику</value>
   </data>
-  <data name="ROLES_AppTitle" xml:space="preserve">
+	<data name="ROLES_AppTitle" xml:space="preserve">
     <value>Администрирование ролей</value>
   </data>
-  <data name="ROLES_labelRole" xml:space="preserve">
+	<data name="ROLES_labelRole" xml:space="preserve">
     <value>Роль</value>
   </data>
-  <data name="ROLES_labelEmplInRole" xml:space="preserve">
+	<data name="ROLES_labelEmplInRole" xml:space="preserve">
     <value>Сотрудники в роли</value>
   </data>
-  <data name="ROLES_labelEmplPerson" xml:space="preserve">
+	<data name="ROLES_labelEmplPerson" xml:space="preserve">
     <value>Организации, доступные сотруднику</value>
   </data>
-  <data name="ROLES_labelDeleteEmplRole" xml:space="preserve">
+	<data name="ROLES_labelDeleteEmplRole" xml:space="preserve">
     <value>Удалить роль у сотрудника</value>
   </data>
-  <data name="cmdAddTitle" xml:space="preserve">
+	<data name="cmdAddTitle" xml:space="preserve">
     <value>Добавить запись</value>
   </data>
-  <data name="ROLES_msgNeedRole" xml:space="preserve">
+	<data name="ROLES_msgNeedRole" xml:space="preserve">
     <value>Укажите роль сотрудника!</value>
   </data>
-  <data name="ROLES_msgNeedEmpl" xml:space="preserve">
+	<data name="ROLES_msgNeedEmpl" xml:space="preserve">
     <value>Укажите сотрудника!</value>
   </data>
-  <data name="ROLES_msgConfirmAddAll" xml:space="preserve">
+	<data name="ROLES_msgConfirmAddAll" xml:space="preserve">
     <value>Вы уверены, что хотите дать роль этому сотруднику во всех компаниях?</value>
   </data>
-  <data name="_Msg_RequiredFields" xml:space="preserve">
+	<data name="_Msg_RequiredFields" xml:space="preserve">
     <value>Не заполнены обязательные поля</value>
   </data>
-  <data name="lblOrganization" xml:space="preserve">
+	<data name="lblOrganization" xml:space="preserve">
     <value>Организация</value>
   </data>
-  <data name="lblBProject" xml:space="preserve">
+	<data name="lblBProject" xml:space="preserve">
     <value>Бизнес-проект</value>
   </data>
-  <data name="ROLES_TitleEditRole" xml:space="preserve">
+	<data name="ROLES_TitleEditRole" xml:space="preserve">
     <value>Редактирование роли сотрудника</value>
   </data>
-  <data name="ROLES_msgSetRoleOrOrganization" xml:space="preserve">
+	<data name="ROLES_msgSetRoleOrOrganization" xml:space="preserve">
     <value>Укажите роль или организацию!</value>
   </data>
-  <data name="ROLES_RolesList" xml:space="preserve">
+	<data name="ROLES_RolesList" xml:space="preserve">
     <value>Список ролей</value>
   </data>
-  <data name="ROLES_FolderList" xml:space="preserve">
+	<data name="ROLES_FolderList" xml:space="preserve">
     <value>Список общих папок</value>
   </data>
-  <data name="ROLES_labelChooseFolders" xml:space="preserve">
+	<data name="ROLES_labelChooseFolders" xml:space="preserve">
     <value>Выбрать выделенные папки</value>
   </data>
-  <data name="cmdEdit" xml:space="preserve">
+	<data name="cmdEdit" xml:space="preserve">
     <value>Редактировать</value>
   </data>
-  <data name="lblEditable" xml:space="preserve">
+	<data name="lblEditable" xml:space="preserve">
     <value>редактирует</value>
   </data>
-  <data name="lblBrowse" xml:space="preserve">
+	<data name="lblBrowse" xml:space="preserve">
     <value>просматривает</value>
   </data>
-  <data name="COMET_Title" xml:space="preserve">
+	<data name="COMET_Title" xml:space="preserve">
     <value>Информация о совместной работе</value>
   </data>
-  <data name="lblNewMessage" xml:space="preserve">
+	<data name="lblNewMessage" xml:space="preserve">
     <value>Пришло новое сообщение</value>
   </data>
-  <data name="lblTogetherWork" xml:space="preserve">
+	<data name="lblTogetherWork" xml:space="preserve">
     <value>Совместно с Вами работают</value>
   </data>
-  <data name="cmdSendMessage" xml:space="preserve">
+	<data name="cmdSendMessage" xml:space="preserve">
     <value>Отправить сообщение</value>
   </data>
-  <data name="lblWriteMessage" xml:space="preserve">
+	<data name="lblWriteMessage" xml:space="preserve">
     <value>Напишите новое сообщение</value>
   </data>
-  <data name="_Msg_ДокументНетЭФ" xml:space="preserve">
+	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
     <value>Документ не имеет электронной формы</value>
   </data>
-  <data name="TTN_JsResources" xml:space="preserve">
+	<data name="TTN_JsResources" xml:space="preserve">
     <value>"BtnSave": "Сохранить",
         "BtnCancel": "Отмена",
         "BtnDelete": "Удалить",
@@ -3013,4 +3013,590 @@
         "GoToShipper": "Заменить все поля раздела Поставщик значениями из раздела Грузоотправитель?",
         "ReplaceValues": "Во все поля формы будут установлены значения из корректируемого документа. Продолжить?"</value>
   </data>
+	<data name="MWP_Title" xml:space="preserve">
+		<value>Рабочее место менеджера</value>
+	</data>
+	<data name="lblSettings" xml:space="preserve">
+		<value>Настройки</value>
+	</data>
+	<data name="lblRun" xml:space="preserve">
+		<value>Выполнить</value>
+	</data>
+	<data name="lblShipperStore" xml:space="preserve">
+		<value>Склад поставщика</value>
+	</data>
+	<data name="lblPayerStore" xml:space="preserve">
+		<value>Склад плательщика</value>
+	</data>
+	<data name="lblProduct" xml:space="preserve">
+		<value>Товар</value>
+	</data>
+	<data name="lblPosResourceNameRus" xml:space="preserve">
+		<value>Название ресурса (рус)</value>
+	</data>
+	<data name="lblAktsiz" xml:space="preserve">
+		<value>Акциз</value>
+	</data>
+	<data name="msgDeleteConfirm" xml:space="preserve">
+		<value>Вы уверены, что хотите удалить</value>
+	</data>
+	<data name="TTN_optTransactionBalance" xml:space="preserve">
+		<value>Остаток по транзакциям</value>
+	</data>
+	<data name="TTN_optBalanceCompletedDocuments" xml:space="preserve">
+		<value>Остаток по завершенным документам</value>
+	</data>
+	<data name="TTN_optBalanceSignedDocuments" xml:space="preserve">
+		<value>Остаток по подписанным документам</value>
+	</data>
+	<data name="errPrinting" xml:space="preserve">
+		<value>Ошибка печати</value>
+	</data>
+	<data name="errRetrievingPageObject" xml:space="preserve">
+		<value>Ошибка получения объекта страницы</value>
+	</data>
+	<data name="TTN_ ERRMoveStockInitialized" xml:space="preserve">
+		<value>Не инициализирован объект ДвижениеНаСкладе. Откройте редактируемую позицию повторно.</value>
+	</data>
+	<data name="TTN_ntfKeeperNotFound" xml:space="preserve">
+		<value>хранитель не найден</value>
+	</data>
+	<data name="TTN_ntfKeeperNotVerified" xml:space="preserve">
+		<value>хранитель не проверен</value>
+	</data>
+	<data name="TTN_ntfKeeperNoDataOn" xml:space="preserve">
+		<value>нет данных по хранителю на</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchSupplier" xml:space="preserve">
+		<value>склад не соответствует поставщику</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotAvailable" xml:space="preserve">
+		<value>склад не доступен</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchPayer" xml:space="preserve">
+		<value>склад не соответствует плательщику</value>
+	</data>
+	<data name="TTN_ntfRussianNameNotMatchProduct" xml:space="preserve">
+		<value>русское название не соответствует продукту</value>
+	</data>
+	<data name="msgIN" xml:space="preserve">
+		<value>в</value>
+	</data>
+	<data name="TTN_ntfNotMatchApplication" xml:space="preserve">
+		<value>не соответствует приложению</value>
+	</data>
+	<data name="TTN_ntfNotComplyContract" xml:space="preserve">
+		<value>не соответствует договору</value>
+	</data>
+	<data name="TTN_ntfLatinNameNotMatchProduct" xml:space="preserve">
+		<value>латинское название не соответствует продукту</value>
+	</data>
+	<data name="TTN_ntfDocumentNotAvailable" xml:space="preserve">
+		<value>документ не доступен</value>
+	</data>
+	<data name="TTN_errFailedGenerateButtons" xml:space="preserve">
+		<value>Не удалось сформировать кнопки формы</value>
+	</data>
+	<data name="TTN_msgDocumentCanNotBeSaved" xml:space="preserve">
+		<value>Cохранение документа невозможно.</value>
+	</data>
+	<data name="TTN_lblAtBeginningDay" xml:space="preserve">
+		<value>на начало дня</value>
+	</data>
+	<data name="TTN_lblAtEndDay" xml:space="preserve">
+		<value>на конец дня</value>
+	</data>
+	<data name="TTN_lblIncludeSubResources" xml:space="preserve">
+		<value>Включать подчиненные ресурсы</value>
+	</data>
+	<data name="lblCustomsDeclaration" xml:space="preserve">
+		<value>Таможенная декларация</value>
+	</data>
+	<data name="lblCountryOfOrigin" xml:space="preserve">
+		<value>Страна происхождения</value>
+	</data>
+	<data name="TTN_lblUnitsSelect" xml:space="preserve">
+		<value>Выбор ед. изм.</value>
+	</data>
+	<data name="lblEquivalent" xml:space="preserve">
+		<value>Эквивалент</value>
+	</data>
+	<data name="TTN_ntfNotShipperStore" xml:space="preserve">
+		<value>Не заполнено поле 'склад поставщика'</value>
+	</data>
+	<data name="TTN_ntfNotPayerStore" xml:space="preserve">
+		<value>Не заполнено поле 'склад плательщика' </value>
+	</data>
+	<data name="TTN_ntfNotProduct" xml:space="preserve">
+		<value>Не заполнено поле 'Продукт'</value>
+	</data>
+	<data name="TTN_ntfNotResourceRus" xml:space="preserve">
+		<value>Не заполнено поле 'русское название продукта'</value>
+	</data>
+	<data name="TTN_ntfNotCount" xml:space="preserve">
+		<value>Не заполнено поле 'Количество'</value>
+	</data>
+	<data name="TTN_ntfNotUnit" xml:space="preserve">
+		<value>Не заполнено поле 'Единица измерения'</value>
+	</data>
+	<data name="TTN_ntfNotCostOutNDS" xml:space="preserve">
+		<value>Не заполнено поле 'Цена без НДС'</value>
+	</data>
+	<data name="TTN_ntfNotSummaNDS" xml:space="preserve">
+		<value>Не заполнено поле 'Сумма НДС'</value>
+	</data>
+	<data name="TTN_ntfNotVsego" xml:space="preserve">
+		<value>Не заполнено поле 'Всего'</value>
+	</data>
+	<data name="TTN_ntfCostOutNDSIncorrect" xml:space="preserve">
+		<value>Цена без НДС должна быть больше или меньше 0</value>
+	</data>
+	<data name="TTN_ntfVsegoIncorrect" xml:space="preserve">
+		<value>Значение поля 'Всего' должно быть больше или меньше 0</value>
+	</data>
+	<data name="TTN_ntfNotGTD" xml:space="preserve">
+		<value>Необходимо указать таможенную декларацию</value>
+	</data>
+	<data name="TTN_msgNDSSUM" xml:space="preserve">
+		<value>Вы указали цену с НДС ?</value>
+	</data>
+	<data name="TTN_msgChoiceCalculationType" xml:space="preserve">
+		<value>Выбор вида расчета</value>
+	</data>
+	<data name="QSBtnRecalc" xml:space="preserve">
+		<value>Пересчет</value>
+	</data>
+	<data name="QSBtnChange" xml:space="preserve">
+		<value>Изменить</value>
+	</data>
+	<data name="TTN_msgOKInfo" xml:space="preserve">
+		<value>для изменения и пересчета связанных значений</value>
+	</data>
+	<data name="TTN_msgRecalcInfo" xml:space="preserve">
+		<value>для обратного пересчета данного значения</value>
+	</data>
+	<data name="TTN_msgCancel" xml:space="preserve">
+		<value>для отмены внесенных изменений</value>
+	</data>
+	<data name="TTN_msgChange" xml:space="preserve">
+		<value>для принудительного изменения значения без пересчета</value>
+	</data>
+	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
+		<value>Выбор типа перерасчета</value>
+	</data>
+	<data name="lblService" xml:space="preserve">
+		<value>Услуга</value>
+	</data>
+	<data name="TTN_ntfNotService" xml:space="preserve">
+		<value>Не заполнено поле 'Услуга'</value>
+	</data>
+	<data name="TTN_msgAgent" xml:space="preserve">
+		<value>агент</value>
+	</data>
+	<data name="lblPerson" xml:space="preserve">
+		<value>Лицо</value>
+	</data>
+	<data name="TTN_lblInvoiceDetail" xml:space="preserve">
+		<value>Реквизиты накладной</value>
+	</data>
+	<data name="TTN_lblMonthResource" xml:space="preserve">
+		<value>Месяц ресурсов</value>
+	</data>
+	<data name="lblItogoInvoice" xml:space="preserve">
+		<value>Итого по накладной</value>
+	</data>
+	<data name="lblProducts" xml:space="preserve">
+		<value>Товары</value>
+	</data>
+	<data name="lblServices" xml:space="preserve">
+		<value>Услуги</value>
+	</data>
+	<data name="lblWait" xml:space="preserve">
+		<value>Подождите</value>
+	</data>
+	<data name="TTN_MrisTitle" xml:space="preserve">
+		<value>Реализация / покупка товара</value>
+	</data>
+	<data name="TTN_FactUslTitle" xml:space="preserve">
+		<value>Выполненные работы / оказанные услуги</value>
+	</data>
+	<data name="TTN_errOpenEditForm" xml:space="preserve">
+		<value>Неправильно указаны параметры открытия формы редактирования!</value>
+	</data>
+	<data name="TTN_optImplementationByResources" xml:space="preserve">
+		<value>Реализация по товарам</value>
+	</data>
+	<data name="TTN_optRealizationResourcesByWagons" xml:space="preserve">
+		<value>Реализация товаров по вагонам</value>
+	</data>
+	<data name="TTN_optGroupByResource" xml:space="preserve">
+		<value>Сгруппировать по товару</value>
+	</data>
+	<data name="TTN_lblGOAddress" xml:space="preserve">
+		<value>Адрес грузоотправителя</value>
+	</data>
+	<data name="TTN_lblGPAddress" xml:space="preserve">
+		<value>Адрес грузополучателя</value>
+	</data>
+	<data name="TTN_lblSectionGeneral" xml:space="preserve">
+		<value>Данные накладной</value>
+	</data>
+	<data name="TTN_lblSectionSignersOfPaper" xml:space="preserve">
+		<value>Подписанты печатных форм</value>
+	</data>
+	<data name="TTN_lblSectionDocuments" xml:space="preserve">
+		<value>Документы</value>
+	</data>
+	<data name="TTN_lblSectionCurator" xml:space="preserve">
+		<value>Куратор</value>
+	</data>
+	<data name="TTN_lblSectionGO" xml:space="preserve">
+		<value>Грузоотправитель</value>
+	</data>
+	<data name="TTN_lblSectionGP" xml:space="preserve">
+		<value>Грузополучатель</value>
+	</data>
+	<data name="TTN_lblSectionShipper" xml:space="preserve">
+		<value>Поставщик</value>
+	</data>
+	<data name="TTN_lblSectionPayer" xml:space="preserve">
+		<value>Плательщик</value>
+	</data>
+	<data name="TTN_lblSectionGoToShipper" xml:space="preserve">
+		<value>Совпадает с грузоотправителем:</value>
+	</data>
+	<data name="TTN_lblSectionGpToPayer" xml:space="preserve">
+		<value>Совпадает с грузополучателем:</value>
+	</data>
+	<data name="TTN_lblSectionResource" xml:space="preserve">
+		<value>Товары</value>
+	</data>
+	<data name="TTN_lblSectionServices" xml:space="preserve">
+		<value>Услуги</value>
+	</data>
+	<data name="TTN_lblSectionTransport" xml:space="preserve">
+		<value>Транспорт</value>
+	</data>
+	<data name="TTN_lblSectionRequiredInfo" xml:space="preserve">
+		<value>Отсутствует</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
+		<value>адрес не соответствует грузоотправителю</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGp" xml:space="preserve">
+		<value>адрес не соответствует грузополучателю</value>
+	</data>
+	<data name="TTN_ntfPersonAddressShipper" xml:space="preserve">
+		<value>адрес не соответствует поставщику</value>
+	</data>
+	<data name="TTN_ntfPersonAddressPayer" xml:space="preserve">
+		<value>адрес не соответствует плательщику</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGo" xml:space="preserve">
+		<value>реквизиты не соответствуют грузоотправителю</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGp" xml:space="preserve">
+		<value>реквизиты не соответствуют грузополучателю</value>
+	</data>
+	<data name="TTN_ntfPersonInfoShipper" xml:space="preserve">
+		<value>название не соответствует поставщику</value>
+	</data>
+	<data name="TTN_ntfPersonInfoPayer" xml:space="preserve">
+		<value>название не соответствует плательщику</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGo" xml:space="preserve">
+		<value>ОКПО не соответствует грузоотправителю</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGp" xml:space="preserve">
+		<value>ОКПО не соответствует грузополучателю</value>
+	</data>
+	<data name="TTN_ntfPersonCodeShipper" xml:space="preserve">
+		<value>ОКПО не соответствует поставщику</value>
+	</data>
+	<data name="TTN_ntfPersonCodePayer" xml:space="preserve">
+		<value>ОКПО не соответствует плательщику</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGo" xml:space="preserve">
+		<value>у грузоотправителя отсутствует ОКПО</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGp" xml:space="preserve">
+		<value>у грузополучателя отсутствует ОКПО</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeShipper" xml:space="preserve">
+		<value>у поставщика отсутствует ОКПО</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodePayer" xml:space="preserve">
+		<value>у плательщика отсутствует ОКПО</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGo" xml:space="preserve">
+		<value>расчетный счет не соответствует грузоотправителю</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGp" xml:space="preserve">
+		<value>расчетный счет не соответствует грузополучателю</value>
+	</data>
+	<data name="TTN_ntfPersonStoreShipper" xml:space="preserve">
+		<value>расчетный счет не соответствует поставщику</value>
+	</data>
+	<data name="TTN_ntfPersonStorePayer" xml:space="preserve">
+		<value>расчетный счет не соответствует плательщику</value>
+	</data>
+	<data name="TTN_ntfAddressDate" xml:space="preserve">
+		<value>адрес не действует дату документа</value>
+	</data>
+	<data name="TTN_ntfBaseDocumentOnDate" xml:space="preserve">
+		<value>дата основания должна быть меньше или равна дате текущего документа</value>
+	</data>
+	<data name="TTN_ntfCurrencyDocument" xml:space="preserve">
+		<value>валюта банковского счета не соответствует валюте документа</value>
+	</data>
+	<data name="TTN_ntfInfoStore" xml:space="preserve">
+		<value>реквизиты не соответствуют расчетному счёту</value>
+	</data>
+	<data name="TTN_ntfEnclosureContract" xml:space="preserve">
+		<value>приложения не связаны с документом</value>
+	</data>
+	<data name="TTN_ntfDocumentForm" xml:space="preserve">
+		<value>документ не имеет электронной формы</value>
+	</data>
+	<data name="TTN_ntfPersonDate" xml:space="preserve">
+		<value>у лица отсутствует реквизиты на дату документа</value>
+	</data>
+	<data name="TTN_ntfStoreAccountDate" xml:space="preserve">
+		<value>расчетный счет не действует дату документа</value>
+	</data>
+	<data name="TTN_ntfPersonPosition" xml:space="preserve">
+		<value>должность не соответствует лицу</value>
+	</data>
+	<data name="TTN_ntfPostingOnDate" xml:space="preserve">
+		<value>дата проводки должна быть больше или равна дате текущего документа</value>
+	</data>
+	<data name="TTN_ntfPersonDocument" xml:space="preserve">
+		<value>лица документа не соответствуют поставщику и плательщику</value>
+	</data>
+	<data name="TTN_ntfPaymentInvoice" xml:space="preserve">
+		<value>платежные документы не имеют оснований</value>
+	</data>
+	<data name="TTN_bntAddResource" xml:space="preserve">
+		<value>Добавить товар</value>
+	</data>
+	<data name="TTN_btnAddService" xml:space="preserve">
+		<value>Добавить услугу</value>
+	</data>
+	<data name="lblPosCol11" xml:space="preserve">
+		<value>Ресурс</value>
+	</data>
+	<data name="lblPosCol12" xml:space="preserve">
+		<value>Отправка</value>
+	</data>
+	<data name="lblPosCol13" xml:space="preserve">
+		<value>Страна происхождения</value>
+	</data>
+	<data name="lblPosCol14" xml:space="preserve">
+		<value>ТД</value>
+	</data>
+	<data name="TTN_btnDeletePosition" xml:space="preserve">
+		<value>удалить позицию</value>
+	</data>
+	<data name="TTN_btnCopyPosition" xml:space="preserve">
+		<value>копировать позицию</value>
+	</data>
+	<data name="TTN_btnEditPosition" xml:space="preserve">
+		<value>редактировать позицию</value>
+	</data>
+	<data name="lblPosCol15" xml:space="preserve">
+		<value>Агент Поставщик</value>
+	</data>
+	<data name="lblPosCol16" xml:space="preserve">
+		<value>Агент Плательщик</value>
+	</data>
+	<data name="lblSetFilter" xml:space="preserve">
+		<value>Установлен фильтр</value>
+	</data>
+	<data name="TTN_lblProductNameRus" xml:space="preserve">
+		<value>Название товара (рус)</value>
+	</data>
+	<data name="TTN_lblProductNameLat" xml:space="preserve">
+		<value>Название товара (лат)</value>
+	</data>
+	<data name="TTN_lblServiceNameRus" xml:space="preserve">
+		<value>Название услуги (рус)</value>
+	</data>
+	<data name="TTN_lblServiceNameLat" xml:space="preserve">
+		<value>Название услуги (лат)</value>
+	</data>
+	<data name="lblEditFilter" xml:space="preserve">
+		<value>Редактировать фильтр</value>
+	</data>
+	<data name="lblFieldValue" xml:space="preserve">
+		<value>Значение поля</value>
+	</data>
+	<data name="lAnd" xml:space="preserve">
+		<value>и</value>
+	</data>
+	<data name="TTN_FFrom" xml:space="preserve">
+		<value>с</value>
+	</data>
+	<data name="lblSelectAll" xml:space="preserve">
+		<value>Выделить все</value>
+	</data>
+	<data name="msgGridUniqError" xml:space="preserve">
+		<value>Отобразить список уникальных значений невозможно, т.к. количество таких значений превышает установленный лимит!</value>
+	</data>
+	<data name="msgGridUseFilterFieldType" xml:space="preserve">
+		<value>Воспользуйтесь фильтром по типу поля!</value>
+	</data>
+	<data name="msgOpenSettingFilter" xml:space="preserve">
+		<value>Открыть настройки фильтрации и сортировки колонки.</value>
+	</data>
+	<data name="lblSortedBy" xml:space="preserve">
+		<value>Отсортировано по</value>
+	</data>
+	<data name="msgGrigSordBackOrder" xml:space="preserve">
+		<value>Нажмите на иконку, чтобы отсортировать в обратном направлении.</value>
+	</data>
+	<data name="lblAscendingSort" xml:space="preserve">
+		<value>возрастанию</value>
+	</data>
+	<data name="lblDescendingSort" xml:space="preserve">
+		<value>убыванию</value>
+	</data>
+	<data name="lblColumnSortOrder" xml:space="preserve">
+		<value>Указывает в каком порядке сортируются колонки.</value>
+	</data>
+	<data name="lblFilterAndSort" xml:space="preserve">
+		<value>Фильтрация и сортировка</value>
+	</data>
+	<data name="msgSortOrderAZ" xml:space="preserve">
+		<value>Сортировка от А до Я</value>
+	</data>
+	<data name="msgSortOrderMinMax" xml:space="preserve">
+		<value>Сортировка от минимального к максимальному</value>
+	</data>
+	<data name="msgSortOrderMaxMin" xml:space="preserve">
+		<value>Сортировка от максимального к минимальному</value>
+	</data>
+	<data name="msgSortOrderZA" xml:space="preserve">
+		<value>Сортировка от Я до А</value>
+	</data>
+	<data name="msgGrigNoSort" xml:space="preserve">
+		<value>Не сортировать</value>
+	</data>
+	<data name="msgGrigNoFilter" xml:space="preserve">
+		<value>Не фильтровать</value>
+	</data>
+	<data name="lNo" xml:space="preserve">
+		<value>не</value>
+	</data>
+	<data name="lblEqually" xml:space="preserve">
+		<value>равно</value>
+	</data>
+	<data name="lblGridSetNumericFilter" xml:space="preserve">
+		<value>Установить числовой фильтр</value>
+	</data>
+	<data name="lblGridSetDateFilter" xml:space="preserve">
+		<value>Установить фильтр по дате</value>
+	</data>
+	<data name="lblGridSetTextFilter" xml:space="preserve">
+		<value>Установить текстовый фильтр</value>
+	</data>
+	<data name="msgErrorIdColumn" xml:space="preserve">
+		<value>Ошибка определения идентификатора колонки</value>
+	</data>
+	<data name="lblGridRecordCount" xml:space="preserve">
+		<value>Всего записей</value>
+	</data>
+	<data name="msgPrintCount" xml:space="preserve">
+		<value>Внимание! На печать выведено только</value>
+	</data>
+	<data name="lOf" xml:space="preserve">
+		<value>из</value>
+	</data>
+	<data name="lblGridRecords" xml:space="preserve">
+		<value>записей</value>
+	</data>
+	<data name="msgErrorIdColumnFound" xml:space="preserve">
+		<value>Не удалось найти колонку по индентификатору.</value>
+	</data>
+	<data name="lblGridEdit" xml:space="preserve">
+		<value>редактировать</value>
+	</data>
+	<data name="lblGridDelete" xml:space="preserve">
+		<value>удалить</value>
+	</data>
+	<data name="lblGridCopy" xml:space="preserve">
+		<value>копировать</value>
+	</data>
+	<data name="lblNotEqual" xml:space="preserve">
+		<value>не равно</value>
+	</data>
+	<data name="lblEmptyString" xml:space="preserve">
+		<value>пустая строка</value>
+	</data>
+	<data name="lblNoValue" xml:space="preserve">
+		<value>не указано ни какое значение</value>
+	</data>
+	<data name="lblNoEmptyString" xml:space="preserve">
+		<value>не пустая строка</value>
+	</data>
+	<data name="lblAnyValueSpecified" xml:space="preserve">
+		<value>указано какое-либо значение</value>
+	</data>
+	<data name="lblBetween" xml:space="preserve">
+		<value>между</value>
+	</data>
+	<data name="lblInInterval" xml:space="preserve">
+		<value>находится в интервале</value>
+	</data>
+	<data name="lblBeginWith" xml:space="preserve">
+		<value>начинается с</value>
+	</data>
+	<data name="lblEndsWith" xml:space="preserve">
+		<value>заканчивается на</value>
+	</data>
+	<data name="lblContains" xml:space="preserve">
+		<value>содержит</value>
+	</data>
+	<data name="lblNoContains" xml:space="preserve">
+		<value>не содержит</value>
+	</data>
+	<data name="lblMore" xml:space="preserve">
+		<value>больше</value>
+	</data>
+	<data name="lblMoreOrEqual" xml:space="preserve">
+		<value>больше или равно</value>
+	</data>
+	<data name="lblLess" xml:space="preserve">
+		<value>меньше</value>
+	</data>
+	<data name="lblLessOrEqual" xml:space="preserve">
+		<value>меньше или равно</value>
+	</data>
+	<data name="lORUp" xml:space="preserve">
+		<value>ИЛИ</value>
+	</data>
+	<data name="lANDUp" xml:space="preserve">
+		<value>И</value>
+	</data>
+	<data name="lEmpty" xml:space="preserve">
+		<value>пустые</value>
+	</data>
+	<data name="lblSettingFilter" xml:space="preserve">
+		<value>Задайте фильтр</value>
+	</data>
+	<data name="cmdApply" xml:space="preserve">
+		<value>Применить</value>
+	</data>
+	<data name="msgEmptyFilterValue" xml:space="preserve">
+		<value>Не указано значение для фильтра!</value>
+	</data>
+	<data name="TTN_msgFakturaExist" xml:space="preserve">
+		<value>Невозможно изменять связь с корректируемым документом реализации при наличии вытекающего счета-фактуры.
+Сперва удалите вытекающий счет-фактуру.</value>
+	</data>
+	<data name="TTN_lblShipmentAmounts" xml:space="preserve">
+		<value>Суммы по отправкам</value>
+	</data>
+	<data name="lblCost" xml:space="preserve">
+		<value>Цена</value>
+	</data>
 </root>

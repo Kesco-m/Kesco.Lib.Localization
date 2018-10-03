@@ -2039,7 +2039,7 @@ Sur ce document, il y a des opérations financières.</value>
 		<value>Note:</value>
 	</data>
 	<data name="lblPosCol1" xml:space="preserve">
-		<value>Produit/Service</value>
+		<value>Produit / Service</value>
 	</data>
 	<data name="lblPosCol8" xml:space="preserve">
 		<value>Revendication</value>
@@ -2119,19 +2119,16 @@ Impossible d'obtenir des données à copier!</value>
 		<value>La date de la facture pour le prépaiement n'est pas indiquée.</value>
 	</data>
 	<data name="errWrongParametrs" xml:space="preserve">
-		<value>
-Les paramètres sont transmis de manière incorrecte.</value>
+		<value>Les paramètres sont transmis de manière incorrecte.</value>
 	</data>
 	<data name="iPTypeWeek" xml:space="preserve">
-		<value>
-Semaine</value>
+		<value>Semaine</value>
 	</data>
 	<data name="lAbsCaption" xml:space="preserve">
 		<value>Pas dans le lieu de travail</value>
 	</data>
 	<data name="lblBaseName" xml:space="preserve">
-		<value>
-Fondation</value>
+		<value>Fondation</value>
 	</data>
 	<data name="lblBtnGoToPerson" xml:space="preserve">
 		<value>Aller au visage</value>
@@ -2164,12 +2161,10 @@ Fondation</value>
 		<value>Non spécifié</value>
 	</data>
 	<data name="lblPayAcc" xml:space="preserve">
-		<value>
-Paiement pour l'hébergement</value>
+		<value>Paiement pour l'hébergement</value>
 	</data>
 	<data name="lblPayment" xml:space="preserve">
-		<value>
-Paiement</value>
+		<value>Paiement</value>
 	</data>
 	<data name="lblPaymentDocuments" xml:space="preserve">
 		<value>Documents de paiement</value>
@@ -2330,19 +2325,16 @@ Non spécifié</value>
 		<value>Aucun vendeur spécifié.</value>
 	</data>
 	<data name="lblDoisserNotChecked" xml:space="preserve">
-		<value>
-Non vérifié</value>
+		<value>Non vérifié</value>
 	</data>
 	<data name="lblNotIndicated" xml:space="preserve">
 		<value>Non spécifié</value>
 	</data>
 	<data name="lblNotIndicateda" xml:space="preserve">
-		<value>
-Non spécifié</value>
+		<value>Non spécifié</value>
 	</data>
 	<data name="lblPosНеРеализовано" xml:space="preserve">
-		<value>
-pas implémenté</value>
+		<value>pas implémenté</value>
 	</data>
 	<data name="lFlagCaption" xml:space="preserve">
 		<value>Ne pas afficher les entrées vides</value>
@@ -2351,8 +2343,7 @@ pas implémenté</value>
 		<value>pas signé</value>
 	</data>
 	<data name="lNoFixed" xml:space="preserve">
-		<value>
-Non défini</value>
+		<value>Non défini</value>
 	</data>
 	<data name="msgConfirm1" xml:space="preserve">
 		<value>pas comme le numéro de document!</value>
@@ -2396,19 +2387,16 @@ Le début de la pause</value>
 		<value>Nom du type d'attribut</value>
 	</data>
 	<data name="lblDocName" xml:space="preserve">
-		<value>
-Titre du document</value>
+		<value>Titre du document</value>
 	</data>
 	<data name="lblDoisserAssign" xml:space="preserve">
-		<value>
-Attribuer</value>
+		<value>Attribuer</value>
 	</data>
 	<data name="lblJuridicalFormCompanyName" xml:space="preserve">
 		<value>Nom de l'entreprise</value>
 	</data>
 	<data name="lblJuridicalFormParentCompanyName" xml:space="preserve">
-		<value>
-Le titre du document d'origine ne correspond pas au type de document spécifié</value>
+		<value>Le titre du document d'origine ne correspond pas au type de document spécifié</value>
 	</data>
 	<data name="lblLanguageLat" xml:space="preserve">
 		<value>Nom latin</value>
@@ -2426,12 +2414,10 @@ Le titre du document d'origine ne correspond pas au type de document spécifié<
 		<value>Le titre du document d'origine ne correspond pas au type de document spécifié</value>
 	</data>
 	<data name="lblNDS" xml:space="preserve">
-		<value>
-TVA</value>
+		<value>TVA</value>
 	</data>
 	<data name="lblPosCol6" xml:space="preserve">
-		<value>
-TVA</value>
+		<value>TVA</value>
 	</data>
 	<data name="lblPosResourceName" xml:space="preserve">
 		<value>Nom de la ressource</value>
@@ -2469,8 +2455,7 @@ pas disponible.</value>
 Messenger</value>
 	</data>
 	<data name="iPTypeMounth" xml:space="preserve">
-		<value>
-Mois</value>
+		<value>Mois</value>
 	</data>
 	<data name="lBack" xml:space="preserve">
 		<value>avec le</value>
@@ -2482,54 +2467,43 @@ Mois</value>
 		<value>avec le</value>
 	</data>
 	<data name="lblBillLading" xml:space="preserve">
-		<value>
-Connaissement</value>
+		<value>Connaissement</value>
 	</data>
 	<data name="lblColumn" xml:space="preserve">
-		<value>
-Colonne de table</value>
+		<value>Colonne de table</value>
 	</data>
 	<data name="lblContact" xml:space="preserve">
-		<value>
-Contactez-nous</value>
+		<value>Contactez-nous</value>
 	</data>
 	<data name="lblCountryCode" xml:space="preserve">
-		<value>
-Nombre de</value>
+		<value>Nombre de</value>
 	</data>
 	<data name="lblJuridicalFormLatCompanyName" xml:space="preserve">
 		<value>Nom de l'entreprise internationale</value>
 	</data>
 	<data name="lblJuridicalFormShortCompanyName" xml:space="preserve">
-		<value>
-Nom de la société courte</value>
+		<value>Nom de la société courte</value>
 	</data>
 	<data name="lblKurator" xml:space="preserve">
-		<value>
-Conservateur</value>
+		<value>Conservateur</value>
 	</data>
 	<data name="lblLocalNumber" xml:space="preserve">
-		<value>
-Numéro local</value>
+		<value>Numéro local</value>
 	</data>
 	<data name="lblNaturalSexM" xml:space="preserve">
-		<value>
-Homme Femme</value>
+		<value>Homme Femme</value>
 	</data>
 	<data name="lblNaturalWorkPlaces" xml:space="preserve">
 		<value>Lieux de travail</value>
 	</data>
 	<data name="lblPosCol2" xml:space="preserve">
-		<value>
-Nombre de</value>
+		<value>Nombre de</value>
 	</data>
 	<data name="lblPosKol" xml:space="preserve">
-		<value>
-Nombre de</value>
+		<value>Nombre de</value>
 	</data>
 	<data name="lblQuantity" xml:space="preserve">
-		<value>
-Nombre de</value>
+		<value>Nombre de</value>
 	</data>
 	<data name="lFilterCompany" xml:space="preserve">
 		<value>L'entreprise</value>
@@ -2570,12 +2544,10 @@ Nom du format d'attribut 3 en russe</value>
 jusqu'à</value>
 	</data>
 	<data name="cpWorkPlace" xml:space="preserve">
-		<value>
-Position</value>
+		<value>Position</value>
 	</data>
 	<data name="DossierEmployeeInfo_Position" xml:space="preserve">
-		<value>
-Position</value>
+		<value>Position</value>
 	</data>
 	<data name="EmployeeStatus_Guest" xml:space="preserve">
 		<value>
@@ -2597,52 +2569,40 @@ L'appel ne peut pas être établi à partir de ce téléphone.</value>
 La date C ne doit pas être supérieure à la date.</value>
 	</data>
 	<data name="errValidateAttrubuteValue" xml:space="preserve">
-		<value>
-doit être rempli</value>
+		<value>doit être rempli</value>
 	</data>
 	<data name="errValidNaturalEmployeesCount" xml:space="preserve">
-		<value>
-Il doit y avoir au moins un responsable</value>
+		<value>Il doit y avoir au moins un responsable</value>
 	</data>
 	<data name="errValidNaturalTypesCount" xml:space="preserve">
-		<value>
-Au moins un type de visage doit être sélectionné</value>
+		<value>Au moins un type de visage doit être sélectionné</value>
 	</data>
 	<data name="EUR_S1" xml:space="preserve">
-		<value>
-euros</value>
+		<value>euros</value>
 	</data>
 	<data name="EUR_S2" xml:space="preserve">
-		<value>
-euros</value>
+		<value>euros</value>
 	</data>
 	<data name="EUR_S5" xml:space="preserve">
-		<value>
-euros</value>
+		<value>euros</value>
 	</data>
 	<data name="exDocUnavailable" xml:space="preserve">
-		<value>
-Le document avec le code {0} n'est pas disponible.</value>
+		<value>Le document avec le code {0} n'est pas disponible.</value>
 	</data>
 	<data name="hPageDetailsTitle" xml:space="preserve">
-		<value>
-Forage par jours</value>
+		<value>Forage par jours</value>
 	</data>
 	<data name="hPageSubTitleDetails2" xml:space="preserve">
-		<value>
-Spécification de temps de travail</value>
+		<value>Spécification de temps de travail</value>
 	</data>
 	<data name="iPTypeDay" xml:space="preserve">
-		<value>
-Jour</value>
+		<value>Jour</value>
 	</data>
 	<data name="iPTypeQuarter" xml:space="preserve">
-		<value>
-Quartier</value>
+		<value>Quartier</value>
 	</data>
 	<data name="lbChenged" xml:space="preserve">
-		<value>
-Changé</value>
+		<value>Changé</value>
 	</data>
 	<data name="lblAdd" xml:space="preserve">
 		<value>
@@ -2657,16 +2617,13 @@ Ajouter</value>
 Supplémentaire</value>
 	</data>
 	<data name="lblAddToPerson" xml:space="preserve">
-		<value>
-Ajouter une personne</value>
+		<value>Ajouter une personne</value>
 	</data>
 	<data name="lblCatalogs" xml:space="preserve">
-		<value>
-Catalogue (s)</value>
+		<value>Catalogue (s)</value>
 	</data>
 	<data name="lblChanged" xml:space="preserve">
-		<value>
-Changé</value>
+		<value>Changé</value>
 	</data>
 	<data name="lblCityCode" xml:space="preserve">
 		<value>Code Champ de document</value>
@@ -2681,19 +2638,16 @@ Changé</value>
 		<value>Date de séjour de</value>
 	</data>
 	<data name="lblDateTo" xml:space="preserve">
-		<value>
-Date de séjour</value>
+		<value>Date de séjour</value>
 	</data>
 	<data name="lblDetailsNaturalPerson" xml:space="preserve">
 		<value>Données d'un individu</value>
 	</data>
 	<data name="lblDoisserTo" xml:space="preserve">
-		<value>
-jusqu'à</value>
+		<value>jusqu'à</value>
 	</data>
 	<data name="lblDueData" xml:space="preserve">
-		<value>
-La date de paiement n'est pas spécifiée</value>
+		<value>La date de paiement n'est pas spécifiée</value>
 	</data>
 	<data name="lblFindPersonDocument" xml:space="preserve">
 		<value>Rechercher des documents d'une personne dans les archives</value>
@@ -2702,8 +2656,7 @@ La date de paiement n'est pas spécifiée</value>
 		<value>Rechercher des personnes</value>
 	</data>
 	<data name="lblForPosition" xml:space="preserve">
-		<value>
-Position</value>
+		<value>Position</value>
 	</data>
 	<data name="lblGO" xml:space="preserve">
 		<value>Expéditeur</value>
@@ -2712,16 +2665,13 @@ Position</value>
 		<value>Destinataire</value>
 	</data>
 	<data name="lblIndex" xml:space="preserve">
-		<value>
-Indice</value>
+		<value>Indice</value>
 	</data>
 	<data name="lblItogo" xml:space="preserve">
-		<value>
-Total</value>
+		<value>Total</value>
 	</data>
 	<data name="lblItogoClaim" xml:space="preserve">
-		<value>
-Total pour pritenziyam</value>
+		<value>Total pour pritenziyam</value>
 	</data>
 	<data name="lblItogoProduct" xml:space="preserve">
 		<value>Total par produits</value>
@@ -2733,66 +2683,52 @@ Total pour pritenziyam</value>
 		<value>Organisation d'État</value>
 	</data>
 	<data name="lblJuridicalRegistrationDate" xml:space="preserve">
-		<value>
-Date d'inscription</value>
+		<value>Date d'inscription</value>
 	</data>
 	<data name="lblNaturalSexF" xml:space="preserve">
-		<value>
-Femmes</value>
+		<value>Femmes</value>
 	</data>
 	<data name="lblNotValue" xml:space="preserve">
 		<value>Valeur non spécifiée</value>
 	</data>
 	<data name="lblPosCol3" xml:space="preserve">
-		<value>
-Unité.</value>
+		<value>Unité.</value>
 	</data>
 	<data name="lblPrnDescription" xml:space="preserve">
-		<value>
-pour imprimer des formulaires</value>
+		<value>pour imprimer des formulaires</value>
 	</data>
 	<data name="lblUnit" xml:space="preserve">
-		<value>
-Unité de mesure</value>
+		<value>Unité de mesure</value>
 	</data>
 	<data name="lblUnitShort" xml:space="preserve">
-		<value>
-Unité. modifier.</value>
+		<value>Unité. modifier.</value>
 	</data>
 	<data name="lblVariablePartDoc" xml:space="preserve">
 		<value>Partie variable du document:</value>
 	</data>
 	<data name="lEnd" xml:space="preserve">
-		<value>
-Fin de l'appel</value>
+		<value>Fin de l'appel</value>
 	</data>
 	<data name="lFilterPost" xml:space="preserve">
-		<value>
-Position de l'employé</value>
+		<value>Position de l'employé</value>
 	</data>
 	<data name="lFor" xml:space="preserve">
-		<value>
-pour le</value>
+		<value>pour le</value>
 	</data>
 	<data name="listComplete" xml:space="preserve">
-		<value>
-terminé</value>
+		<value>terminé</value>
 	</data>
 	<data name="lNeedRefresh" xml:space="preserve">
-		<value>
-Pour afficher la liste, effectuez une recherche</value>
+		<value>Pour afficher la liste, effectuez une recherche</value>
 	</data>
 	<data name="LnotinOnce" xml:space="preserve">
-		<value>
-À l'exception de</value>
+		<value>À l'exception de</value>
 	</data>
 	<data name="lPlaces" xml:space="preserve">
-		<value>
-à.</value>
+		<value>à.</value>
 	</data>
 	<data name="lRefresh" xml:space="preserve">
-		<value>
-Chercher</value>
+		<value>Chercher</value>
 	</data>
 	<data name="lRefreshAdd" xml:space="preserve">
 		<value>Rechercher des employés avec un filtre</value>
@@ -2813,12 +2749,10 @@ Fin de l'appel</value>
 Corriger le numéro de document</value>
 	</data>
 	<data name="msgDoc" xml:space="preserve">
-		<value>
-Le document</value>
+		<value>Le document</value>
 	</data>
 	<data name="msgDocs" xml:space="preserve">
-		<value>
-Documents</value>
+		<value>Documents</value>
 	</data>
 	<data name="msgEditAttributeConfirm" xml:space="preserve">
 		<value>Modifier cet attribut va changer la date de fin de l'attribut suivant de</value>
@@ -2828,16 +2762,13 @@ Documents</value>
 plus d'une annexe au contrat.</value>
 	</data>
 	<data name="msgNoBProject" xml:space="preserve">
-		<value>
-Le document ne concerne pas les projets de l'exploitation</value>
+		<value>Le document ne concerne pas les projets de l'exploitation</value>
 	</data>
 	<data name="msgNoForm" xml:space="preserve">
-		<value>
-Le document n'a pas de forme ectectronique. Visualiser une image dans une archive de document n'est pas possible</value>
+		<value>Le document n'a pas de forme ectectronique. Visualiser une image dans une archive de document n'est pas possible</value>
 	</data>
 	<data name="msgOldTitle" xml:space="preserve">
-		<value>
-Document dans l'ancienne version</value>
+		<value>Document dans l'ancienne version</value>
 	</data>
 	<data name="MsgSchetOsnovanieData" xml:space="preserve">
 		<value>
@@ -2848,8 +2779,7 @@ Le document de la base est plus long que la date de la facture</value>
 Le document téléchargé ne correspond pas au type requis pour ce formulaire.</value>
 	</data>
 	<data name="MSG_CorrectedWith" xml:space="preserve">
-		<value>
-Le document est corrigé avec</value>
+		<value>Le document est corrigé avec</value>
 	</data>
 	<data name="NtfDataChanged" xml:space="preserve">
 		<value>La date du changement de document est plus longue que la date du changement du document en cours! Le texte du document peut ne pas correspondre aux données!</value>
@@ -2859,8 +2789,7 @@ Le document est corrigé avec</value>
 La date de paiement est plus courte que la date du document</value>
 	</data>
 	<data name="ntfDocNotSign" xml:space="preserve">
-		<value>
-document non signé</value>
+		<value>document non signé</value>
 	</data>
 	<data name="NTF_DateBaseDoc" xml:space="preserve">
 		<value>
@@ -2973,12 +2902,7 @@ Les caractères ne sont pas autorisés sur le terrain, sauf pour le trait d'unio
 		<value>(décroissant)</value>
 	</data>
 	<data name="lErrorDesc" xml:space="preserve">
-		<value>
-
-
-
-
-* - Violations de la bande passante</value>
+		<value>* - Violations de la bande passante</value>
 	</data>
 	<data name="lFilterSubEmpl" xml:space="preserve">
 		<value>Y compris les employés subalternes</value>
@@ -3002,8 +2926,7 @@ Les caractères ne sont pas autorisés sur le terrain, sauf pour le trait d'unio
 		<value>La sortie n'est pas fixe.</value>
 	</data>
 	<data name="lPrimaryComp" xml:space="preserve">
-		<value>
-en faveur de l'entreprise</value>
+		<value>en faveur de l'entreprise</value>
 	</data>
 	<data name="lPrimaryEmpl" xml:space="preserve">
 		<value>en faveur d'un employé</value>
@@ -3108,5 +3031,591 @@ sera aligné sur le document en cours de correction.
 	</data>
 	<data name="lblDetailsJuridicalPerson" xml:space="preserve">
 		<value>Données de l'entité légale</value>
+	</data>
+	<data name="MWP_Title" xml:space="preserve">
+		<value>Le lieu de travail du manager</value>
+	</data>
+	<data name="lblSettings" xml:space="preserve">
+		<value>Paramètres</value>
+	</data>
+	<data name="lblRun" xml:space="preserve">
+		<value>Courir</value>
+	</data>
+	<data name="lblShipperStore" xml:space="preserve">
+		<value>Entrepôt du fournisseur</value>
+	</data>
+	<data name="lblPayerStore" xml:space="preserve">
+		<value>L'entrepôt du payeur</value>
+	</data>
+	<data name="lblProduct" xml:space="preserve">
+		<value>Article</value>
+	</data>
+	<data name="lblPosResourceNameRus" xml:space="preserve">
+		<value>Nom de la ressource (rus)</value>
+	</data>
+	<data name="lblAktsiz" xml:space="preserve">
+		<value>Taxe d'accise</value>
+	</data>
+	<data name="msgDeleteConfirm" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir supprimer</value>
+	</data>
+	<data name="TTN_optTransactionBalance" xml:space="preserve">
+		<value>Solde de transaction</value>
+	</data>
+	<data name="TTN_optBalanceCompletedDocuments" xml:space="preserve">
+		<value>Solde sur les documents complétés</value>
+	</data>
+	<data name="TTN_optBalanceSignedDocuments" xml:space="preserve">
+		<value>Solde sur les documents signés</value>
+	</data>
+	<data name="errPrinting" xml:space="preserve">
+		<value>Erreur d'impression</value>
+	</data>
+	<data name="errRetrievingPageObject" xml:space="preserve">
+		<value>Erreur lors de la récupération de l'objet page</value>
+	</data>
+	<data name="TTN_ ERRMoveStockInitialized" xml:space="preserve">
+		<value>L'objet Move to Stock n'a pas été initialisé. Ouvrez à nouveau l'élément modifié.</value>
+	</data>
+	<data name="TTN_ntfKeeperNotFound" xml:space="preserve">
+		<value>gardien non trouvé</value>
+	</data>
+	<data name="TTN_ntfKeeperNotVerified" xml:space="preserve">
+		<value>dépositaire non vérifié</value>
+	</data>
+	<data name="TTN_ntfKeeperNoDataOn" xml:space="preserve">
+		<value>il n'y a pas de données sur le dépositaire à</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchSupplier" xml:space="preserve">
+		<value>l'entrepôt ne correspond pas au fournisseur</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotAvailable" xml:space="preserve">
+		<value>entrepôt non disponible</value>
+	</data>
+	<data name="TTN_ntfWarehouseNotMatchPayer" xml:space="preserve">
+		<value>l'entrepôt ne correspond pas au payeur</value>
+	</data>
+	<data name="TTN_ntfRussianNameNotMatchProduct" xml:space="preserve">
+		<value>Le nom russe ne correspond pas au produit</value>
+	</data>
+	<data name="msgIN" xml:space="preserve">
+		<value>en</value>
+	</data>
+	<data name="TTN_ntfNotMatchApplication" xml:space="preserve">
+		<value>ne correspond pas à l'application</value>
+	</data>
+	<data name="TTN_ntfNotComplyContract" xml:space="preserve">
+		<value>ne respecte pas le contrat</value>
+	</data>
+	<data name="TTN_ntfLatinNameNotMatchProduct" xml:space="preserve">
+		<value>le nom latin ne correspond pas au produit</value>
+	</data>
+	<data name="TTN_ntfDocumentNotAvailable" xml:space="preserve">
+		<value>document non disponible</value>
+	</data>
+	<data name="TTN_errFailedGenerateButtons" xml:space="preserve">
+		<value>Échec de la génération des boutons de formulaire</value>
+	</data>
+	<data name="TTN_msgDocumentCanNotBeSaved" xml:space="preserve">
+		<value>Le document ne peut pas être enregistré.</value>
+	</data>
+	<data name="TTN_lblAtBeginningDay" xml:space="preserve">
+		<value>au début de la journée</value>
+	</data>
+	<data name="TTN_lblAtEndDay" xml:space="preserve">
+		<value>à la fin de la journée</value>
+	</data>
+	<data name="TTN_lblIncludeSubResources" xml:space="preserve">
+		<value>Inclure les ressources subordonnées</value>
+	</data>
+	<data name="lblCustomsDeclaration" xml:space="preserve">
+		<value>Déclaration en douane</value>
+	</data>
+	<data name="lblCountryOfOrigin" xml:space="preserve">
+		<value>Pays d'origine</value>
+	</data>
+	<data name="lblEquivalent" xml:space="preserve">
+		<value>Équivalent</value>
+	</data>
+	<data name="TTN_lblUnitsSelect" xml:space="preserve">
+		<value>Sélectionnez les unités. modifier</value>
+	</data>
+	<data name="TTN_ntfNotShipperStore" xml:space="preserve">
+		<value>Le champ "Entrepôt du fournisseur" est vide</value>
+	</data>
+	<data name="TTN_ntfNotPayerStore" xml:space="preserve">
+		<value>Le champ 'Entrepôt du payeur' est vide</value>
+	</data>
+	<data name="TTN_ntfNotProduct" xml:space="preserve">
+		<value>Le champ "Produit" est vide</value>
+	</data>
+	<data name="TTN_ntfNotResourceRus" xml:space="preserve">
+		<value>Le champ "Nom du produit russe" est vide</value>
+	</data>
+	<data name="TTN_ntfNotCount" xml:space="preserve">
+		<value>Le champ "Quantité" est vide</value>
+	</data>
+	<data name="TTN_ntfNotUnit" xml:space="preserve">
+		<value>Le champ "Unité de mesure" n'est pas renseigné</value>
+	</data>
+	<data name="TTN_ntfNotCostOutNDS" xml:space="preserve">
+		<value>Le champ est vide "Prix sans TVA"</value>
+	</data>
+	<data name="TTN_ntfCostOutNDSIncorrect" xml:space="preserve">
+		<value>Le prix sans TVA doit être supérieur ou inférieur à 0</value>
+	</data>
+	<data name="TTN_ntfNotSummaNDS" xml:space="preserve">
+		<value>Le champ 'VAT Amount' est vide</value>
+	</data>
+	<data name="TTN_ntfNotVsego" xml:space="preserve">
+		<value>Le champ 'Total' est vide</value>
+	</data>
+	<data name="TTN_ntfVsegoIncorrect" xml:space="preserve">
+		<value>La valeur du champ 'Total' doit être supérieure ou inférieure à 0</value>
+	</data>
+	<data name="TTN_ntfNotGTD" xml:space="preserve">
+		<value>Vous devez spécifier une déclaration en douane</value>
+	</data>
+	<data name="TTN_msgNDSSUM" xml:space="preserve">
+		<value>Avez-vous spécifié le prix incluant la TVA?</value>
+	</data>
+	<data name="TTN_msgChoiceCalculationType" xml:space="preserve">
+		<value>Choix du type de calcul</value>
+	</data>
+	<data name="QSBtnRecalc" xml:space="preserve">
+		<value>Recalcul</value>
+	</data>
+	<data name="QSBtnChange" xml:space="preserve">
+		<value>Ändern</value>
+	</data>
+	<data name="TTN_msgOKInfo" xml:space="preserve">
+		<value>modifier et recalculer les valeurs associées</value>
+	</data>
+	<data name="TTN_msgRecalcInfo" xml:space="preserve">
+		<value>pour recalculer inversement cette valeur</value>
+	</data>
+	<data name="TTN_msgCancel" xml:space="preserve">
+		<value>annuler les modifications</value>
+	</data>
+	<data name="TTN_msgChange" xml:space="preserve">
+		<value>pour forcer un changement de valeur sans recomptage</value>
+	</data>
+	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
+		<value>Sélectionnez un type d'allocation</value>
+	</data>
+	<data name="lblService" xml:space="preserve">
+		<value>Service</value>
+	</data>
+	<data name="TTN_ntfNotService" xml:space="preserve">
+		<value>Le champ 'Service' n'est pas renseigné</value>
+	</data>
+	<data name="TTN_msgAgent" xml:space="preserve">
+		<value>agent</value>
+	</data>
+	<data name="lblPerson" xml:space="preserve">
+		<value>Personne</value>
+	</data>
+	<data name="TTN_lblInvoiceDetail" xml:space="preserve">
+		<value>Requis de lettre de voiture</value>
+	</data>
+	<data name="TTN_lblMonthResource" xml:space="preserve">
+		<value>Mois des ressources</value>
+	</data>
+	<data name="lblItogoInvoice" xml:space="preserve">
+		<value>Total pour la lettre de voiture</value>
+	</data>
+	<data name="lblProducts" xml:space="preserve">
+		<value>Marchandises</value>
+	</data>
+	<data name="lblWait" xml:space="preserve">
+		<value>Attendre</value>
+	</data>
+	<data name="lblServices" xml:space="preserve">
+		<value>Les services</value>
+	</data>
+	<data name="TTN_MrisTitle" xml:space="preserve">
+		<value>Réalisation / achat de biens</value>
+	</data>
+	<data name="TTN_FactUslTitle" xml:space="preserve">
+		<value>Travail effectué / services fournis</value>
+	</data>
+	<data name="TTN_errOpenEditForm" xml:space="preserve">
+		<value>Les paramètres d'ouverture du formulaire d'édition sont incorrects!</value>
+	</data>
+	<data name="TTN_optImplementationByResources" xml:space="preserve">
+		<value>Ventes par marchandises</value>
+	</data>
+	<data name="TTN_optRealizationResourcesByWagons" xml:space="preserve">
+		<value>Réalisation de marchandises par wagons</value>
+	</data>
+	<data name="TTN_optGroupByResource" xml:space="preserve">
+		<value>Groupe par article</value>
+	</data>
+	<data name="TTN_lblGOAddress" xml:space="preserve">
+		<value>Adresse de l'expéditeur</value>
+	</data>
+	<data name="TTN_lblGPAddress" xml:space="preserve">
+		<value>Adresse du destinataire</value>
+	</data>
+	<data name="TTN_lblSectionGeneral" xml:space="preserve">
+		<value>L'information de la lettre de voiture</value>
+	</data>
+	<data name="TTN_lblSectionSignersOfPaper" xml:space="preserve">
+		<value>Signatures de formulaires imprimés</value>
+	</data>
+	<data name="TTN_lblSectionDocuments" xml:space="preserve">
+		<value>Documents</value>
+	</data>
+	<data name="TTN_lblSectionCurator" xml:space="preserve">
+		<value>Conservateur</value>
+	</data>
+	<data name="TTN_lblSectionGO" xml:space="preserve">
+		<value>Expéditeur</value>
+	</data>
+	<data name="TTN_lblSectionGP" xml:space="preserve">
+		<value>Destinataire</value>
+	</data>
+	<data name="TTN_lblSectionShipper" xml:space="preserve">
+		<value>Fournisseur</value>
+	</data>
+	<data name="TTN_lblSectionPayer" xml:space="preserve">
+		<value>Payeur</value>
+	</data>
+	<data name="TTN_lblSectionGoToShipper" xml:space="preserve">
+		<value>Coïncident avec l'expéditeur:</value>
+	</data>
+	<data name="TTN_lblSectionGpToPayer" xml:space="preserve">
+		<value>Il coïncide avec le destinataire:</value>
+	</data>
+	<data name="TTN_lblSectionResource" xml:space="preserve">
+		<value>Marchandises</value>
+	</data>
+	<data name="TTN_lblSectionServices" xml:space="preserve">
+		<value>Les services</value>
+	</data>
+	<data name="TTN_lblSectionTransport" xml:space="preserve">
+		<value>Services de transport</value>
+	</data>
+	<data name="TTN_lblSectionRequiredInfo" xml:space="preserve">
+		<value>Manquant</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
+		<value>l'adresse ne correspond pas à l'expéditeur</value>
+	</data>
+	<data name="TTN_ntfPersonAddressGp" xml:space="preserve">
+		<value>l'adresse ne correspond pas au destinataire</value>
+	</data>
+	<data name="TTN_ntfPersonAddressShipper" xml:space="preserve">
+		<value>l'adresse ne correspond pas au fournisseur</value>
+	</data>
+	<data name="TTN_ntfPersonAddressPayer" xml:space="preserve">
+		<value>l'adresse ne correspond pas au payeur</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGo" xml:space="preserve">
+		<value>les articles ne correspondent pas à l'expéditeur</value>
+	</data>
+	<data name="TTN_ntfPersonInfoGp" xml:space="preserve">
+		<value>les articles ne correspondent pas au destinataire</value>
+	</data>
+	<data name="TTN_ntfPersonInfoShipper" xml:space="preserve">
+		<value>le nom ne correspond pas au fournisseur</value>
+	</data>
+	<data name="TTN_ntfPersonInfoPayer" xml:space="preserve">
+		<value>le nom ne correspond pas au payeur</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGo" xml:space="preserve">
+		<value>OKPO ne correspond pas à l'expéditeur</value>
+	</data>
+	<data name="TTN_ntfPersonCodeGp" xml:space="preserve">
+		<value>OKPO ne correspond pas au destinataire</value>
+	</data>
+	<data name="TTN_ntfPersonCodeShipper" xml:space="preserve">
+		<value>OKPO ne correspond pas au fournisseur</value>
+	</data>
+	<data name="TTN_ntfPersonCodePayer" xml:space="preserve">
+		<value>OKPO ne correspond pas au payeur</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGo" xml:space="preserve">
+		<value>l'expéditeur n'a pas OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeGp" xml:space="preserve">
+		<value>le destinataire n'a pas OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodeShipper" xml:space="preserve">
+		<value>le fournisseur n'a pas OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonNoCodePayer" xml:space="preserve">
+		<value>le payeur n'a pas OKPO</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGo" xml:space="preserve">
+		<value>le compte ne correspond pas à l'expéditeur</value>
+	</data>
+	<data name="TTN_ntfPersonStoreGp" xml:space="preserve">
+		<value>le compte de règlement ne correspond pas au destinataire</value>
+	</data>
+	<data name="TTN_ntfPersonStoreShipper" xml:space="preserve">
+		<value>le compte de règlement ne correspond pas au fournisseur</value>
+	</data>
+	<data name="TTN_ntfPersonStorePayer" xml:space="preserve">
+		<value>le compte de règlement ne correspond pas au payeur</value>
+	</data>
+	<data name="TTN_ntfAddressDate" xml:space="preserve">
+		<value>l'adresse n'est pas valide date du document</value>
+	</data>
+	<data name="TTN_ntfBaseDocumentOnDate" xml:space="preserve">
+		<value>asutamiskuupäev peab olema väiksem kui praeguse dokumendi kuupäev või sellega võrdne...</value>
+	</data>
+	<data name="TTN_ntfCurrencyDocument" xml:space="preserve">
+		<value>la devise du compte bancaire ne correspond pas à la devise du document</value>
+	</data>
+	<data name="TTN_ntfInfoStore" xml:space="preserve">
+		<value>les conditions requises ne correspondent pas au compte de règlement</value>
+	</data>
+	<data name="TTN_ntfEnclosureContract" xml:space="preserve">
+		<value>les applications ne sont pas associées au document</value>
+	</data>
+	<data name="TTN_ntfDocumentForm" xml:space="preserve">
+		<value>le document n'a pas de formulaire électronique</value>
+	</data>
+	<data name="TTN_ntfPersonDate" xml:space="preserve">
+		<value>la personne n'a pas les conditions requises pour la date du document</value>
+	</data>
+	<data name="TTN_ntfStoreAccountDate" xml:space="preserve">
+		<value>compte de règlement n'est pas valide.</value>
+	</data>
+	<data name="TTN_ntfPersonPosition" xml:space="preserve">
+		<value>la position ne correspond pas à la personne</value>
+	</data>
+	<data name="TTN_ntfPostingOnDate" xml:space="preserve">
+		<value>la date de comptabilisation doit être supérieure ou égale à la date du document en cours</value>
+	</data>
+	<data name="TTN_ntfPersonDocument" xml:space="preserve">
+		<value>les personnes du document ne correspondent pas au fournisseur et au payeur</value>
+	</data>
+	<data name="TTN_ntfPaymentInvoice" xml:space="preserve">
+		<value>les documents de paiement n'ont aucun fondement</value>
+	</data>
+	<data name="TTN_bntAddResource" xml:space="preserve">
+		<value>Ajouter un article</value>
+	</data>
+	<data name="TTN_btnAddService" xml:space="preserve">
+		<value>Ajouter un service</value>
+	</data>
+	<data name="lblPosCol11" xml:space="preserve">
+		<value>Ressource</value>
+	</data>
+	<data name="lblPosCol13" xml:space="preserve">
+		<value>Pays d'origine</value>
+	</data>
+	<data name="lblPosCol12" xml:space="preserve">
+		<value>Envoi</value>
+	</data>
+	<data name="lblPosCol14" xml:space="preserve">
+		<value>Déclaration douanière</value>
+	</data>
+	<data name="TTN_btnDeletePosition" xml:space="preserve">
+		<value>supprimer la position</value>
+	</data>
+	<data name="TTN_btnCopyPosition" xml:space="preserve">
+		<value>position de copie</value>
+	</data>
+	<data name="TTN_btnEditPosition" xml:space="preserve">
+		<value>modifier la position</value>
+	</data>
+	<data name="lblPosCol15" xml:space="preserve">
+		<value>Agent Provider</value>
+	</data>
+	<data name="lblPosCol16" xml:space="preserve">
+		<value>Agent payeur</value>
+	</data>
+	<data name="lblSetFilter" xml:space="preserve">
+		<value>Le filtre est installé:</value>
+	</data>
+	<data name="TTN_lblProductNameRus" xml:space="preserve">
+		<value>Nom du produit (rus)</value>
+	</data>
+	<data name="TTN_lblProductNameLat" xml:space="preserve">
+		<value>Nom du produit (lat)</value>
+	</data>
+	<data name="TTN_lblServiceNameRus" xml:space="preserve">
+		<value>Nom du service (rus)</value>
+	</data>
+	<data name="TTN_lblServiceNameLat" xml:space="preserve">
+		<value>Nom du service (lat)</value>
+	</data>
+	<data name="lblEditFilter" xml:space="preserve">
+		<value>Modifier le filtre</value>
+	</data>
+	<data name="lblFieldValue" xml:space="preserve">
+		<value>Valeur du champ</value>
+	</data>
+	<data name="lAnd" xml:space="preserve">
+		<value>et</value>
+	</data>
+	<data name="TTN_FFrom" xml:space="preserve">
+		<value>de</value>
+	</data>
+	<data name="lblSelectAll" xml:space="preserve">
+		<value>Sélectionner tout</value>
+	</data>
+	<data name="msgGridUniqError" xml:space="preserve">
+		<value>Il n'est pas possible d'afficher une liste de valeurs uniques, car le nombre de ces valeurs dépasse la limite établie!</value>
+	</data>
+	<data name="msgGridUseFilterFieldType" xml:space="preserve">
+		<value>Utilisez le filtre par type de champ!</value>
+	</data>
+	<data name="msgOpenSettingFilter" xml:space="preserve">
+		<value>Ouvrez les paramètres de colonne de filtrage et de tri.</value>
+	</data>
+	<data name="lblSortedBy" xml:space="preserve">
+		<value>Trié par</value>
+	</data>
+	<data name="msgGrigSordBackOrder" xml:space="preserve">
+		<value>Cliquez sur l'icône pour trier dans la direction opposée.</value>
+	</data>
+	<data name="lblAscendingSort" xml:space="preserve">
+		<value>croissant</value>
+	</data>
+	<data name="lblDescendingSort" xml:space="preserve">
+		<value>descendant</value>
+	</data>
+	<data name="lblColumnSortOrder" xml:space="preserve">
+		<value>Indique l'ordre dans lequel les colonnes sont triées.</value>
+	</data>
+	<data name="lblFilterAndSort" xml:space="preserve">
+		<value>Filtrage et tri</value>
+	</data>
+	<data name="msgSortOrderAZ" xml:space="preserve">
+		<value>Tri de A à Z</value>
+	</data>
+	<data name="msgSortOrderZA" xml:space="preserve">
+		<value>Tri de Z à A</value>
+	</data>
+	<data name="msgSortOrderMinMax" xml:space="preserve">
+		<value>Tri du minimum au maximum</value>
+	</data>
+	<data name="msgGrigNoSort" xml:space="preserve">
+		<value>Ne pas trier</value>
+	</data>
+	<data name="msgGrigNoFilter" xml:space="preserve">
+		<value>Ne pas filtrer</value>
+	</data>
+	<data name="lNo" xml:space="preserve">
+		<value>pas</value>
+	</data>
+	<data name="msgSortOrderMaxMin" xml:space="preserve">
+		<value>Tri du maximum au minimum</value>
+	</data>
+	<data name="lblEqually" xml:space="preserve">
+		<value>est égal à</value>
+	</data>
+	<data name="lblGridSetNumericFilter" xml:space="preserve">
+		<value>Définir le filtre numérique</value>
+	</data>
+	<data name="lblGridSetDateFilter" xml:space="preserve">
+		<value>Définir le filtre par date</value>
+	</data>
+	<data name="lblGridSetTextFilter" xml:space="preserve">
+		<value>Installer le filtre de texte</value>
+	</data>
+	<data name="msgErrorIdColumn" xml:space="preserve">
+		<value>Erreur lors de la détermination de l'ID de colonne</value>
+	</data>
+	<data name="lblGridRecordCount" xml:space="preserve">
+		<value>Total des enregistrements</value>
+	</data>
+	<data name="msgPrintCount" xml:space="preserve">
+		<value>Attention s'il vous plaît! Imprimé seulement</value>
+	</data>
+	<data name="lOf" xml:space="preserve">
+		<value>de la</value>
+	</data>
+	<data name="lblGridRecords" xml:space="preserve">
+		<value>des enregistrements</value>
+	</data>
+	<data name="msgErrorIdColumnFound" xml:space="preserve">
+		<value>Impossible de trouver la colonne par ID.</value>
+	</data>
+	<data name="lblGridEdit" xml:space="preserve">
+		<value>modifier</value>
+	</data>
+	<data name="lblGridCopy" xml:space="preserve">
+		<value>copier</value>
+	</data>
+	<data name="lblGridDelete" xml:space="preserve">
+		<value>enlever</value>
+	</data>
+	<data name="lblNotEqual" xml:space="preserve">
+		<value>n'est pas égal à</value>
+	</data>
+	<data name="lblEmptyString" xml:space="preserve">
+		<value>chaîne vide</value>
+	</data>
+	<data name="lblNoValue" xml:space="preserve">
+		<value>aucune valeur spécifiée</value>
+	</data>
+	<data name="lblNoEmptyString" xml:space="preserve">
+		<value>pas une chaîne vide</value>
+	</data>
+	<data name="lblAnyValueSpecified" xml:space="preserve">
+		<value>toute valeur est spécifiée</value>
+	</data>
+	<data name="lblInInterval" xml:space="preserve">
+		<value>est dans l'intervalle</value>
+	</data>
+	<data name="lblBetween" xml:space="preserve">
+		<value>entre le</value>
+	</data>
+	<data name="lblBeginWith" xml:space="preserve">
+		<value>commence par</value>
+	</data>
+	<data name="lblEndsWith" xml:space="preserve">
+		<value>se termine par</value>
+	</data>
+	<data name="lblContains" xml:space="preserve">
+		<value>contient</value>
+	</data>
+	<data name="lblNoContains" xml:space="preserve">
+		<value>ne contient pas</value>
+	</data>
+	<data name="lblMore" xml:space="preserve">
+		<value>plus que</value>
+	</data>
+	<data name="lblMoreOrEqual" xml:space="preserve">
+		<value>supérieur ou égal à</value>
+	</data>
+	<data name="lblLess" xml:space="preserve">
+		<value>moins</value>
+	</data>
+	<data name="lblLessOrEqual" xml:space="preserve">
+		<value>inférieur ou égal à</value>
+	</data>
+	<data name="lORUp" xml:space="preserve">
+		<value>OU</value>
+	</data>
+	<data name="lANDUp" xml:space="preserve">
+		<value>Et</value>
+	</data>
+	<data name="lEmpty" xml:space="preserve">
+		<value>vide</value>
+	</data>
+	<data name="lblSettingFilter" xml:space="preserve">
+		<value>Définir le filtre</value>
+	</data>
+	<data name="msgEmptyFilterValue" xml:space="preserve">
+		<value>Pas de valeur pour le filtre!</value>
+	</data>
+	<data name="cmdApply" xml:space="preserve">
+		<value>Appliquer</value>
+	</data>
+	<data name="TTN_msgFakturaExist" xml:space="preserve">
+		<value>Il est impossible de modifier la relation avec le document de vente corrigé en présence d'une facture résultante.
+Tout d'abord, supprimez la facture résultante.</value>
+	</data>
+	<data name="TTN_lblShipmentAmounts" xml:space="preserve">
+		<value>Montants de l'expédition</value>
+	</data>
+	<data name="lblCost" xml:space="preserve">
+		<value>Prix</value>
 	</data>
 </root>

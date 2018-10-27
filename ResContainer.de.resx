@@ -3587,4 +3587,118 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 	<data name="lblCost" xml:space="preserve">
 		<value>Preis</value>
 	</data>
+	<data name="TTN_lblProductKits" xml:space="preserve">
+		<value>produkt-kits</value>
+	</data>
+	<data name="TTN_lblSetCost" xml:space="preserve">
+		<value>Eine Reihe von Kosten ab Lager</value>
+	</data>
+	<data name="TTN_lblSetArrival" xml:space="preserve">
+		<value>Set von Ankünften zum Lagerhaus</value>
+	</data>
+	<data name="TTN_lblResourceConsumption" xml:space="preserve">
+		<value>für den Ressourcenverbrauch</value>
+	</data>
+	<data name="TTN_lblChoiceTypeSets" xml:space="preserve">
+		<value>Wahl der Art der Sets</value>
+	</data>
+	<data name="TTN_lblOwherResource" xml:space="preserve">
+		<value>Ressourcenbesitzer</value>
+	</data>
+	<data name="lblResource" xml:space="preserve">
+		<value>Ressource</value>
+	</data>
+	<data name="lblPlace" xml:space="preserve">
+		<value>Standort</value>
+	</data>
+	<data name="lblStore" xml:space="preserve">
+		<value>Lagerhaus</value>
+	</data>
+	<data name="TTN_ntfNotStavkaNDS" xml:space="preserve">
+		<value>Das Feld "Mehrwertsteuersatz" ist nicht ausgefüllt</value>
+	</data>
+	<data name="TTN_lblCheckRest" xml:space="preserve">
+		<value>Überprüfen Sie das Guthaben</value>
+	</data>
+	<data name="TTN_lblRest" xml:space="preserve">
+		<value>Der Rest</value>
+	</data>
+	<data name="lblPayerAgent" xml:space="preserve">
+		<value>Payer ist ein Agent</value>
+	</data>
+	<data name="lblShipperAgent" xml:space="preserve">
+		<value>Lieferant ist Agent</value>
+	</data>
+	<data name="TTN_lblShowAllRest" xml:space="preserve">
+		<value>Alle Salden anzeigen</value>
+	</data>
+	<data name="TTN_lblVagonFilter" xml:space="preserve">
+		<value>Filtern nach Auto-Nummer</value>
+	</data>
+	<data name="TTN_lblDisplaySetsDocument" xml:space="preserve">
+		<value>Anzeigesets dieses Dokuments</value>
+	</data>
+	<data name="TTN_lblFilterInvoiceNumber" xml:space="preserve">
+		<value>Nach Rechnungsnummer filtern</value>
+	</data>
+	<data name="TTN_lblRests" xml:space="preserve">
+		<value>Reste</value>
+	</data>
+	<data name="lblMove" xml:space="preserve">
+		<value>Bewegen</value>
+	</data>
+	<data name="TTN_lblPurchase" xml:space="preserve">
+		<value>Kaufen</value>
+	</data>
+	<data name="TTN_lblProduction" xml:space="preserve">
+		<value>Produktion</value>
+	</data>
+	<data name="TTN_msgWorkDocumentNotCompleted" xml:space="preserve">
+		<value>Die Arbeit mit dem Dokument ist nicht abgeschlossen!</value>
+	</data>
+	<data name="TTN_lblConsumption" xml:space="preserve">
+		<value>Verbrauch</value>
+	</data>
+	<data name="TTN_lblReceipt" xml:space="preserve">
+		<value>Eingänge</value>
+	</data>
+	<data name="TTN_lblCalculeted" xml:space="preserve">
+		<value>Berechnung</value>
+	</data>
+	<data name="TTN_lblFact" xml:space="preserve">
+		<value>Das tatsächliche</value>
+	</data>
+	<data name="TTN_lblRestSkladOn" xml:space="preserve">
+		<value>Aktienbilanz bei</value>
+	</data>
+	<data name="TTN_lblNoSet" xml:space="preserve">
+		<value>ohne Rekrutierung</value>
+	</data>
+	<data name="TTN_lblSet" xml:space="preserve">
+		<value>Stellen Sie ein</value>
+	</data>
+	<data name="TTN_lblAllSet" xml:space="preserve">
+		<value>Gesamtwahl</value>
+	</data>
+	<data name="TTN_lblDistributeByDocuments" xml:space="preserve">
+		<value>Nach Dokumenten verteilen</value>
+	</data>
+	<data name="lblMaxValue" xml:space="preserve">
+		<value>Maximalwert</value>
+	</data>
+	<data name="TTN_lblStockCode" xml:space="preserve">
+		<value>Stock-Code</value>
+	</data>
+	<data name="TTN_lblFillAreasWagonShipments" xml:space="preserve">
+		<value>Füllen Sie die Bereiche der Wagenladungen aus</value>
+	</data>
+	<data name="TTN_lblSelectAreasWagonShipments" xml:space="preserve">
+		<value>Wählen Sie die Bereiche der Wagenladungen aus</value>
+	</data>
+	<data name="TTN_lblChoiceContact" xml:space="preserve">
+		<value>Kontaktauswahl</value>
+	</data>
+	<data name="TTN_lblChooseContact" xml:space="preserve">
+		<value>Wählen Sie einen Kontakt</value>
+	</data>
 </root>

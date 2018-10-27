@@ -3618,4 +3618,118 @@ Tout d'abord, supprimez la facture résultante.</value>
 	<data name="lblCost" xml:space="preserve">
 		<value>Prix</value>
 	</data>
+	<data name="TTN_lblProductKits" xml:space="preserve">
+		<value>kits de produits</value>
+	</data>
+	<data name="TTN_lblSetCost" xml:space="preserve">
+		<value>Un ensemble de coûts en stock</value>
+	</data>
+	<data name="TTN_lblSetArrival" xml:space="preserve">
+		<value>Ensemble d'arrivées à l'entrepôt</value>
+	</data>
+	<data name="TTN_lblResourceConsumption" xml:space="preserve">
+		<value>pour la consommation de ressources</value>
+	</data>
+	<data name="TTN_lblChoiceTypeSets" xml:space="preserve">
+		<value>Choix du type d'ensembles</value>
+	</data>
+	<data name="TTN_lblOwherResource" xml:space="preserve">
+		<value>Propriétaire de la ressource</value>
+	</data>
+	<data name="lblResource" xml:space="preserve">
+		<value>Ressource</value>
+	</data>
+	<data name="lblPlace" xml:space="preserve">
+		<value>Emplacement</value>
+	</data>
+	<data name="lblStore" xml:space="preserve">
+		<value>Entrepôt</value>
+	</data>
+	<data name="TTN_ntfNotStavkaNDS" xml:space="preserve">
+		<value>Le champ "Taux de TVA" n'est pas renseigné</value>
+	</data>
+	<data name="TTN_lblCheckRest" xml:space="preserve">
+		<value>Vérifier le solde</value>
+	</data>
+	<data name="TTN_lblRest" xml:space="preserve">
+		<value>Le reste</value>
+	</data>
+	<data name="lblPayerAgent" xml:space="preserve">
+		<value>Le payeur est un agent</value>
+	</data>
+	<data name="lblShipperAgent" xml:space="preserve">
+		<value>Le fournisseur est un agent</value>
+	</data>
+	<data name="TTN_lblShowAllRest" xml:space="preserve">
+		<value>Afficher tous les soldes</value>
+	</data>
+	<data name="TTN_lblVagonFilter" xml:space="preserve">
+		<value>Filtrer par numéro de voiture</value>
+	</data>
+	<data name="TTN_lblDisplaySetsDocument" xml:space="preserve">
+		<value>Afficher les ensembles de ce document</value>
+	</data>
+	<data name="TTN_lblFilterInvoiceNumber" xml:space="preserve">
+		<value>Filtrer par numéro de facture</value>
+	</data>
+	<data name="TTN_lblRests" xml:space="preserve">
+		<value>Les restes</value>
+	</data>
+	<data name="lblMove" xml:space="preserve">
+		<value>Déplacer</value>
+	</data>
+	<data name="TTN_lblPurchase" xml:space="preserve">
+		<value>Achat</value>
+	</data>
+	<data name="TTN_lblProduction" xml:space="preserve">
+		<value>La production</value>
+	</data>
+	<data name="TTN_msgWorkDocumentNotCompleted" xml:space="preserve">
+		<value>Le travail avec le document n'est pas terminé!</value>
+	</data>
+	<data name="TTN_lblConsumption" xml:space="preserve">
+		<value>La consommation</value>
+	</data>
+	<data name="TTN_lblReceipt" xml:space="preserve">
+		<value>Bénéfice</value>
+	</data>
+	<data name="TTN_lblFact" xml:space="preserve">
+		<value>Le réel</value>
+	</data>
+	<data name="TTN_lblCalculeted" xml:space="preserve">
+		<value>Calcul</value>
+	</data>
+	<data name="TTN_lblSet" xml:space="preserve">
+		<value>Ensemble</value>
+	</data>
+	<data name="TTN_lblRestSkladOn" xml:space="preserve">
+		<value>Solde des stocks à</value>
+	</data>
+	<data name="TTN_lblNoSet" xml:space="preserve">
+		<value>sans recrutement</value>
+	</data>
+	<data name="TTN_lblAllSet" xml:space="preserve">
+		<value>Nombre total</value>
+	</data>
+	<data name="TTN_lblDistributeByDocuments" xml:space="preserve">
+		<value>Distribuer par documents</value>
+	</data>
+	<data name="TTN_lblStockCode" xml:space="preserve">
+		<value>Code de stock</value>
+	</data>
+	<data name="lblMaxValue" xml:space="preserve">
+		<value>Valeur maximale</value>
+	</data>
+	<data name="TTN_lblFillAreasWagonShipments" xml:space="preserve">
+		<value>Remplissez les zones d'expédition de wagons</value>
+	</data>
+	<data name="TTN_lblSelectAreasWagonShipments" xml:space="preserve">
+		<value>Sélectionnez les zones d'expédition de wagons</value>
+	</data>
+	<data name="TTN_lblChoiceContact" xml:space="preserve">
+		<value>Sélection de contact</value>
+	</data>
+	<data name="TTN_lblChooseContact" xml:space="preserve">
+		<value>Choisissez un contact</value>
+	</data>
 </root>

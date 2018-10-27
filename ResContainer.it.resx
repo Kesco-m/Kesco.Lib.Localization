@@ -3588,4 +3588,118 @@ Innanzitutto, elimina la fattura risultante.</value>
 	<data name="lblCost" xml:space="preserve">
 		<value>Prezzo</value>
 	</data>
+	<data name="TTN_lblProductKits" xml:space="preserve">
+		<value>kit di prodotti</value>
+	</data>
+	<data name="TTN_lblSetCost" xml:space="preserve">
+		<value>Un insieme di costi a magazzino</value>
+	</data>
+	<data name="TTN_lblSetArrival" xml:space="preserve">
+		<value>Set di arrivi al magazzino</value>
+	</data>
+	<data name="TTN_lblResourceConsumption" xml:space="preserve">
+		<value>per il consumo di risorse</value>
+	</data>
+	<data name="TTN_lblChoiceTypeSets" xml:space="preserve">
+		<value>Scelta del tipo di set</value>
+	</data>
+	<data name="TTN_lblOwherResource" xml:space="preserve">
+		<value>Propriétaire de la ressource</value>
+	</data>
+	<data name="lblResource" xml:space="preserve">
+		<value>Risorsa</value>
+	</data>
+	<data name="lblPlace" xml:space="preserve">
+		<value>Posizione</value>
+	</data>
+	<data name="lblStore" xml:space="preserve">
+		<value>Magazzino</value>
+	</data>
+	<data name="TTN_ntfNotStavkaNDS" xml:space="preserve">
+		<value>Il campo "IVA" non è compilato</value>
+	</data>
+	<data name="TTN_lblCheckRest" xml:space="preserve">
+		<value>Controlla il saldo</value>
+	</data>
+	<data name="TTN_lblRest" xml:space="preserve">
+		<value>Il resto</value>
+	</data>
+	<data name="lblPayerAgent" xml:space="preserve">
+		<value>Payer è un agente</value>
+	</data>
+	<data name="lblShipperAgent" xml:space="preserve">
+		<value>Il fornitore è agente</value>
+	</data>
+	<data name="TTN_lblShowAllRest" xml:space="preserve">
+		<value>Mostra tutti i saldi</value>
+	</data>
+	<data name="TTN_lblVagonFilter" xml:space="preserve">
+		<value>Filtra per numero di auto</value>
+	</data>
+	<data name="TTN_lblDisplaySetsDocument" xml:space="preserve">
+		<value>Visualizza set di questo documento</value>
+	</data>
+	<data name="TTN_lblFilterInvoiceNumber" xml:space="preserve">
+		<value>Filtra per numero di fattura</value>
+	</data>
+	<data name="TTN_lblRests" xml:space="preserve">
+		<value>Saldi</value>
+	</data>
+	<data name="lblMove" xml:space="preserve">
+		<value>Moving</value>
+	</data>
+	<data name="TTN_lblPurchase" xml:space="preserve">
+		<value>Acquisto</value>
+	</data>
+	<data name="TTN_msgWorkDocumentNotCompleted" xml:space="preserve">
+		<value>Il lavoro con il documento non è completato!</value>
+	</data>
+	<data name="TTN_lblConsumption" xml:space="preserve">
+		<value>Consumo</value>
+	</data>
+	<data name="TTN_lblReceipt" xml:space="preserve">
+		<value>Arrivo</value>
+	</data>
+	<data name="TTN_lblFact" xml:space="preserve">
+		<value>Il reale</value>
+	</data>
+	<data name="TTN_lblProduction" xml:space="preserve">
+		<value>Produzione</value>
+	</data>
+	<data name="TTN_lblCalculeted" xml:space="preserve">
+		<value>Calcolo</value>
+	</data>
+	<data name="TTN_lblSet" xml:space="preserve">
+		<value>Set</value>
+	</data>
+	<data name="TTN_lblRestSkladOn" xml:space="preserve">
+		<value>Bilancio azionario a</value>
+	</data>
+	<data name="TTN_lblAllSet" xml:space="preserve">
+		<value>Quadrante totale</value>
+	</data>
+	<data name="TTN_lblNoSet" xml:space="preserve">
+		<value>senza assunzione</value>
+	</data>
+	<data name="TTN_lblDistributeByDocuments" xml:space="preserve">
+		<value>Distribuisci per documenti</value>
+	</data>
+	<data name="TTN_lblStockCode" xml:space="preserve">
+		<value>Codice azionario</value>
+	</data>
+	<data name="lblMaxValue" xml:space="preserve">
+		<value>Valore massimo</value>
+	</data>
+	<data name="TTN_lblFillAreasWagonShipments" xml:space="preserve">
+		<value>Compila le aree delle spedizioni di carri</value>
+	</data>
+	<data name="TTN_lblSelectAreasWagonShipments" xml:space="preserve">
+		<value>Seleziona le aree delle spedizioni di carri</value>
+	</data>
+	<data name="TTN_lblChoiceContact" xml:space="preserve">
+		<value>Selezione dei contatti</value>
+	</data>
+	<data name="TTN_lblChooseContact" xml:space="preserve">
+		<value>Scegli un contatto</value>
+	</data>
 </root>

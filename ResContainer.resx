@@ -3589,4 +3589,118 @@ First, delete the resulting invoice.</value>
 	<data name="lblCost" xml:space="preserve">
 		<value>Cost</value>
 	</data>
+	<data name="TTN_lblProductKits" xml:space="preserve">
+		<value>product kits</value>
+	</data>
+	<data name="TTN_lblSetCost" xml:space="preserve">
+		<value>A set of costs from stock</value>
+	</data>
+	<data name="TTN_lblSetArrival" xml:space="preserve">
+		<value>Set of arrivals to the warehouse</value>
+	</data>
+	<data name="TTN_lblResourceConsumption" xml:space="preserve">
+		<value>for resource consumption</value>
+	</data>
+	<data name="TTN_lblChoiceTypeSets" xml:space="preserve">
+		<value>Choice of type of sets</value>
+	</data>
+	<data name="TTN_lblOwherResource" xml:space="preserve">
+		<value>Resource owner</value>
+	</data>
+	<data name="lblResource" xml:space="preserve">
+		<value>Resource</value>
+	</data>
+	<data name="lblPlace" xml:space="preserve">
+		<value>Location</value>
+	</data>
+	<data name="lblStore" xml:space="preserve">
+		<value>Store</value>
+	</data>
+	<data name="TTN_ntfNotStavkaNDS" xml:space="preserve">
+		<value>The 'VAT rate' field is not filled</value>
+	</data>
+	<data name="TTN_lblCheckRest" xml:space="preserve">
+		<value>Check balance</value>
+	</data>
+	<data name="TTN_lblRest" xml:space="preserve">
+		<value>The remainder</value>
+	</data>
+	<data name="lblPayerAgent" xml:space="preserve">
+		<value>Payer is an agent</value>
+	</data>
+	<data name="lblShipperAgent" xml:space="preserve">
+		<value>Supplier is agent</value>
+	</data>
+	<data name="TTN_lblShowAllRest" xml:space="preserve">
+		<value>Show all balances</value>
+	</data>
+	<data name="TTN_lblVagonFilter" xml:space="preserve">
+		<value>Filter by car number</value>
+	</data>
+	<data name="TTN_lblDisplaySetsDocument" xml:space="preserve">
+		<value>Display sets of this document</value>
+	</data>
+	<data name="TTN_lblFilterInvoiceNumber" xml:space="preserve">
+		<value>Filter by invoice number</value>
+	</data>
+	<data name="TTN_lblRests" xml:space="preserve">
+		<value>Remains</value>
+	</data>
+	<data name="lblMove" xml:space="preserve">
+		<value>Move</value>
+	</data>
+	<data name="TTN_lblPurchase" xml:space="preserve">
+		<value>Purchase</value>
+	</data>
+	<data name="TTN_lblProduction" xml:space="preserve">
+		<value>Production</value>
+	</data>
+	<data name="TTN_msgWorkDocumentNotCompleted" xml:space="preserve">
+		<value>Work with the document is not completed!</value>
+	</data>
+	<data name="TTN_lblConsumption" xml:space="preserve">
+		<value>Consumption</value>
+	</data>
+	<data name="TTN_lblReceipt" xml:space="preserve">
+		<value>Coming</value>
+	</data>
+	<data name="TTN_lblFact" xml:space="preserve">
+		<value>Actual</value>
+	</data>
+	<data name="TTN_lblSet" xml:space="preserve">
+		<value>Set</value>
+	</data>
+	<data name="TTN_lblCalculeted" xml:space="preserve">
+		<value>Payment</value>
+	</data>
+	<data name="TTN_lblRestSkladOn" xml:space="preserve">
+		<value>Stock balance at</value>
+	</data>
+	<data name="TTN_lblNoSet" xml:space="preserve">
+		<value>without recruitment</value>
+	</data>
+	<data name="TTN_lblDistributeByDocuments" xml:space="preserve">
+		<value>Distribute by documents</value>
+	</data>
+	<data name="TTN_lblStockCode" xml:space="preserve">
+		<value>Stock code</value>
+	</data>
+	<data name="TTN_lblAllSet" xml:space="preserve">
+		<value>Total dial</value>
+	</data>
+	<data name="lblMaxValue" xml:space="preserve">
+		<value>Maximum value</value>
+	</data>
+	<data name="TTN_lblFillAreasWagonShipments" xml:space="preserve">
+		<value>Fill in the areas of wagon shipments</value>
+	</data>
+	<data name="TTN_lblSelectAreasWagonShipments" xml:space="preserve">
+		<value>Select areas of wagon shipments</value>
+	</data>
+	<data name="TTN_lblChoiceContact" xml:space="preserve">
+		<value>Contact selection</value>
+	</data>
+	<data name="TTN_lblChooseContact" xml:space="preserve">
+		<value>Choose a contact</value>
+	</data>
 </root>

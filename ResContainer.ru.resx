@@ -3122,16 +3122,16 @@
 		<value>Эквивалент</value>
 	</data>
 	<data name="TTN_ntfNotShipperStore" xml:space="preserve">
-		<value>Не заполнено поле 'склад поставщика'</value>
+		<value>Не заполнено поле 'Склад поставщика'</value>
 	</data>
 	<data name="TTN_ntfNotPayerStore" xml:space="preserve">
-		<value>Не заполнено поле 'склад плательщика' </value>
+		<value>Не заполнено поле 'Склад плательщика' </value>
 	</data>
 	<data name="TTN_ntfNotProduct" xml:space="preserve">
-		<value>Не заполнено поле 'Продукт'</value>
+		<value>Не заполнено поле 'Товар'</value>
 	</data>
 	<data name="TTN_ntfNotResourceRus" xml:space="preserve">
-		<value>Не заполнено поле 'русское название продукта'</value>
+		<value>Не заполнено поле 'Название товара (рус)'</value>
 	</data>
 	<data name="TTN_ntfNotCount" xml:space="preserve">
 		<value>Не заполнено поле 'Количество'</value>
@@ -3404,10 +3404,10 @@
 		<value>редактировать позицию</value>
 	</data>
 	<data name="lblPosCol15" xml:space="preserve">
-		<value>Агент Поставщик</value>
+		<value>П.А.</value>
 	</data>
 	<data name="lblPosCol16" xml:space="preserve">
-		<value>Агент Плательщик</value>
+		<value>Пл.А.</value>
 	</data>
 	<data name="lblSetFilter" xml:space="preserve">
 		<value>Установлен фильтр</value>
@@ -3598,5 +3598,119 @@
 	</data>
 	<data name="lblCost" xml:space="preserve">
 		<value>Цена</value>
+	</data>
+	<data name="TTN_lblProductKits" xml:space="preserve">
+		<value>наборы продукта</value>
+	</data>
+	<data name="TTN_lblSetCost" xml:space="preserve">
+		<value>Набор расходов со склада</value>
+	</data>
+	<data name="TTN_lblSetArrival" xml:space="preserve">
+		<value>Набор приходов на склад</value>
+	</data>
+	<data name="TTN_lblResourceConsumption" xml:space="preserve">
+		<value>для расхода ресурса</value>
+	</data>
+	<data name="TTN_lblChoiceTypeSets" xml:space="preserve">
+		<value>Выбор типа наборов</value>
+	</data>
+	<data name="TTN_lblOwherResource" xml:space="preserve">
+		<value>Владелец ресурса</value>
+	</data>
+	<data name="lblResource" xml:space="preserve">
+		<value>Ресурс</value>
+	</data>
+	<data name="lblPlace" xml:space="preserve">
+		<value>Местоположение</value>
+	</data>
+	<data name="lblStore" xml:space="preserve">
+		<value>Склад</value>
+	</data>
+	<data name="TTN_ntfNotStavkaNDS" xml:space="preserve">
+		<value>Не заполнено поле 'Cтавка НДС'</value>
+	</data>
+	<data name="TTN_lblCheckRest" xml:space="preserve">
+		<value>Проверить остаток</value>
+	</data>
+	<data name="TTN_lblRest" xml:space="preserve">
+		<value>Остаток</value>
+	</data>
+	<data name="lblPayerAgent" xml:space="preserve">
+		<value>Плательщик является агентом</value>
+	</data>
+	<data name="lblShipperAgent" xml:space="preserve">
+		<value>Поставщик является агентом</value>
+	</data>
+	<data name="TTN_lblShowAllRest" xml:space="preserve">
+		<value>Отображать все остатки</value>
+	</data>
+	<data name="TTN_lblVagonFilter" xml:space="preserve">
+		<value>Фильтр по номеру вагона</value>
+	</data>
+	<data name="TTN_lblDisplaySetsDocument" xml:space="preserve">
+		<value>Отображать наборы данного документа</value>
+	</data>
+	<data name="TTN_lblFilterInvoiceNumber" xml:space="preserve">
+		<value>Фильтр по номеру накладной</value>
+	</data>
+	<data name="TTN_lblRests" xml:space="preserve">
+		<value>Остатки</value>
+	</data>
+	<data name="lblMove" xml:space="preserve">
+		<value>Перемещение</value>
+	</data>
+	<data name="TTN_lblPurchase" xml:space="preserve">
+		<value>Покупка</value>
+	</data>
+	<data name="TTN_lblProduction" xml:space="preserve">
+		<value>Производство</value>
+	</data>
+	<data name="TTN_msgWorkDocumentNotCompleted" xml:space="preserve">
+		<value>Работа с документом не завершена!</value>
+	</data>
+	<data name="TTN_lblConsumption" xml:space="preserve">
+		<value>Расход</value>
+	</data>
+	<data name="TTN_lblReceipt" xml:space="preserve">
+		<value>Приход</value>
+	</data>
+	<data name="TTN_lblFact" xml:space="preserve">
+		<value>Факт.</value>
+	</data>
+	<data name="TTN_lblCalculeted" xml:space="preserve">
+		<value>Расчет</value>
+	</data>
+	<data name="TTN_lblSet" xml:space="preserve">
+		<value>Набор</value>
+	</data>
+	<data name="TTN_lblRestSkladOn" xml:space="preserve">
+		<value>Остаток на складе на</value>
+	</data>
+	<data name="TTN_lblNoSet" xml:space="preserve">
+		<value>без набора</value>
+	</data>
+	<data name="TTN_lblAllSet" xml:space="preserve">
+		<value>Всего набрать</value>
+	</data>
+	<data name="TTN_lblDistributeByDocuments" xml:space="preserve">
+		<value>Распределить по документам</value>
+	</data>
+	<data name="TTN_lblStockCode" xml:space="preserve">
+		<value>Код движения на складе</value>
+	</data>
+	<data name="lblMaxValue" xml:space="preserve">
+		<value>Максимальное значение</value>
+	</data>
+	<data name="TTN_lblFillAreasWagonShipments" xml:space="preserve">
+		<value>Заполнить участки отправок вагонов</value>
+	</data>
+	<data name="TTN_lblSelectAreasWagonShipments" xml:space="preserve">
+		<value>Выбрать участки отправок вагонов</value>
+	</data>
+	<data name="TTN_lblChoiceContact" xml:space="preserve">
+		<value>Выбор контакта</value>
+	</data>
+	<data name="TTN_lblChooseContact" xml:space="preserve">
+		<value>Выберите контакт</value>
 	</data>
 </root>

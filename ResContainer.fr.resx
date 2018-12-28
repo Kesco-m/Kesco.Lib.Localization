@@ -145,7 +145,7 @@
 <value>Note</value>
 </data>
 	<data name="Vacation_SubEmployee" xml:space="preserve">
-<value>Employé</value>
+<value>Sélectionnez l'employé de substitution</value>
 </data>
 	<data name="Vacation_SubFrom" xml:space="preserve">
 <value>avec</value>
@@ -2096,8 +2096,7 @@ Sur ce document, il y a des opérations financières.</value>
 		<value>Bureau de travail</value>
 	</data>
 	<data name="DossierEmployeeInfo_Organization" xml:space="preserve">
-		<value>
-Organisation</value>
+		<value>Organisation</value>
 	</data>
 	<data name="elFirstSign" xml:space="preserve">
 		<value>Première signature</value>
@@ -2255,8 +2254,7 @@ unités</value>
 		<value>Les positions de la facture et du document de base sont GENERAL!</value>
 	</data>
 	<data name="msgPPNoDate" xml:space="preserve">
-		<value>
-Date de facturation non spécifiée</value>
+		<value>Date de facturation non spécifiée</value>
 	</data>
 	<data name="msgPPNoVal" xml:space="preserve">
 		<value>La devise n'est pas spécifiée</value>
@@ -2268,8 +2266,7 @@ Date de facturation non spécifiée</value>
 		<value>Erreur! Le document sélectionné est corrigé simultanément à l'aide de plusieurs documents.</value>
 	</data>
 	<data name="msgUnableAppendix" xml:space="preserve">
-		<value>
-Impossible de vérifier l'application</value>
+		<value>Impossible de vérifier l'application</value>
 	</data>
 	<data name="msgVidVz" xml:space="preserve">
 		<value>Vous devez spécifier l'application, car le contrat spécifie: le détail des règlements mutuels - "par application"</value>
@@ -2305,12 +2302,10 @@ Impossible de vérifier l'application</value>
 		<value>Annuler</value>
 	</data>
 	<data name="cUnlike" xml:space="preserve">
-		<value>
-Contrairement à</value>
+		<value>Contrairement à</value>
 	</data>
 	<data name="dNull" xml:space="preserve">
-		<value>
-Non spécifié</value>
+		<value>Non spécifié</value>
 	</data>
 	<data name="DocDateNotExist" xml:space="preserve">
 		<value>La date du document n'est pas remplie!</value>
@@ -2373,12 +2368,10 @@ Non spécifié</value>
 		<value>pas par application</value>
 	</data>
 	<data name="cStartTime" xml:space="preserve">
-		<value>
-Commencer</value>
+		<value>Commencer</value>
 	</data>
 	<data name="cStartTimeAbs" xml:space="preserve">
-		<value>
-Le début de la pause</value>
+		<value>Le début de la pause</value>
 	</data>
 	<data name="DocNumberNotExist" xml:space="preserve">
 		<value>Le numéro de document n'est pas rempli!</value>
@@ -2438,8 +2431,7 @@ Le début de la pause</value>
 		<value>Était sur le lieu de travail</value>
 	</data>
 	<data name="msgNotAvailable" xml:space="preserve">
-		<value>
-pas disponible.</value>
+		<value>pas disponible.</value>
 	</data>
 	<data name="cpNaturalPersonMale" xml:space="preserve">
 		<value>M</value>
@@ -2451,8 +2443,7 @@ pas disponible.</value>
 		<value>Moins ou égal à</value>
 	</data>
 	<data name="DossierEmployeeInfo_Contacts_Messanger" xml:space="preserve">
-		<value>
-Messenger</value>
+		<value>Messenger</value>
 	</data>
 	<data name="iPTypeMounth" xml:space="preserve">
 		<value>Mois</value>
@@ -2512,22 +2503,19 @@ Messenger</value>
 		<value>moins</value>
 	</data>
 	<data name="msgOnDate" xml:space="preserve">
-		<value>
-À la date</value>
+		<value>À la date</value>
 	</data>
 	<data name="msgTo" xml:space="preserve">
 		<value>sur le</value>
 	</data>
 	<data name="Msg_КопироватьПозицию" xml:space="preserve">
-		<value>
-Copier la position</value>
+		<value>Copier la position</value>
 	</data>
 	<data name="ntf_PersonIsNotAvailable" xml:space="preserve">
 		<value>La personne est indisponible</value>
 	</data>
 	<data name="cpNaturalPersonFemale" xml:space="preserve">
-		<value>
-F</value>
+		<value>F</value>
 	</data>
 	<data name="cptFormatNameRus1" xml:space="preserve">
 		<value>Nom du format d'attribut 1 en russe</value>
@@ -2536,12 +2524,10 @@ F</value>
 		<value>Nom du format d'attribut 2 en russe</value>
 	</data>
 	<data name="cptFormatNameRus3" xml:space="preserve">
-		<value>
-Nom du format d'attribut 3 en russe</value>
+		<value>Nom du format d'attribut 3 en russe</value>
 	</data>
 	<data name="cpTo" xml:space="preserve">
-		<value>
-jusqu'à</value>
+		<value>jusqu'à</value>
 	</data>
 	<data name="cpWorkPlace" xml:space="preserve">
 		<value>Position</value>
@@ -2550,23 +2536,19 @@ jusqu'à</value>
 		<value>Position</value>
 	</data>
 	<data name="EmployeeStatus_Guest" xml:space="preserve">
-		<value>
-invité sur la carte d'hôte</value>
+		<value>invité sur la carte d'hôte</value>
 	</data>
 	<data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
-		<value>
-décret</value>
+		<value>décret</value>
 	</data>
 	<data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
 		<value>invité personnel</value>
 	</data>
 	<data name="errContacts1" xml:space="preserve">
-		<value>
-L'appel ne peut pas être établi à partir de ce téléphone.</value>
+		<value>L'appel ne peut pas être établi à partir de ce téléphone.</value>
 	</data>
 	<data name="errDatesEx" xml:space="preserve">
-		<value>
-La date C ne doit pas être supérieure à la date.</value>
+		<value>La date C ne doit pas être supérieure à la date.</value>
 	</data>
 	<data name="errValidateAttrubuteValue" xml:space="preserve">
 		<value>doit être rempli</value>
@@ -2605,16 +2587,13 @@ La date C ne doit pas être supérieure à la date.</value>
 		<value>Changé</value>
 	</data>
 	<data name="lblAdd" xml:space="preserve">
-		<value>
-Télécharger</value>
+		<value>Télécharger</value>
 	</data>
 	<data name="lblAddition" xml:space="preserve">
-		<value>
-Ajouter</value>
+		<value>Ajouter</value>
 	</data>
 	<data name="lblAdditional" xml:space="preserve">
-		<value>
-Supplémentaire</value>
+		<value>Supplémentaire</value>
 	</data>
 	<data name="lblAddToPerson" xml:space="preserve">
 		<value>Ajouter une personne</value>
@@ -2734,19 +2713,16 @@ Supplémentaire</value>
 		<value>Rechercher des employés avec un filtre</value>
 	</data>
 	<data name="msgAs" xml:space="preserve">
-		<value>
-comme</value>
+		<value>comme</value>
 	</data>
 	<data name="msgBreakCall" xml:space="preserve">
-		<value>
-Fin de l'appel</value>
+		<value>Fin de l'appel</value>
 	</data>
 	<data name="msgBtn2" xml:space="preserve">
 		<value>Oui! Numéro de document:</value>
 	</data>
 	<data name="msgBtn3" xml:space="preserve">
-		<value>
-Corriger le numéro de document</value>
+		<value>Corriger le numéro de document</value>
 	</data>
 	<data name="msgDoc" xml:space="preserve">
 		<value>Le document</value>
@@ -2758,8 +2734,7 @@ Corriger le numéro de document</value>
 		<value>Modifier cet attribut va changer la date de fin de l'attribut suivant de</value>
 	</data>
 	<data name="msgMoreOneApp" xml:space="preserve">
-		<value>
-plus d'une annexe au contrat.</value>
+		<value>plus d'une annexe au contrat.</value>
 	</data>
 	<data name="msgNoBProject" xml:space="preserve">
 		<value>Le document ne concerne pas les projets de l'exploitation</value>
@@ -2771,12 +2746,10 @@ plus d'une annexe au contrat.</value>
 		<value>Document dans l'ancienne version</value>
 	</data>
 	<data name="MsgSchetOsnovanieData" xml:space="preserve">
-		<value>
-Le document de la base est plus long que la date de la facture</value>
+		<value>Le document de la base est plus long que la date de la facture</value>
 	</data>
 	<data name="msgWrongType" xml:space="preserve">
-		<value>
-Le document téléchargé ne correspond pas au type requis pour ce formulaire.</value>
+		<value>Le document téléchargé ne correspond pas au type requis pour ce formulaire.</value>
 	</data>
 	<data name="MSG_CorrectedWith" xml:space="preserve">
 		<value>Le document est corrigé avec</value>
@@ -2785,15 +2758,13 @@ Le document téléchargé ne correspond pas au type requis pour ce formulaire.</
 		<value>La date du changement de document est plus longue que la date du changement du document en cours! Le texte du document peut ne pas correspondre aux données!</value>
 	</data>
 	<data name="ntfDateDueData" xml:space="preserve">
-		<value>
-La date de paiement est plus courte que la date du document</value>
+		<value>La date de paiement est plus courte que la date du document</value>
 	</data>
 	<data name="ntfDocNotSign" xml:space="preserve">
 		<value>document non signé</value>
 	</data>
 	<data name="NTF_DateBaseDoc" xml:space="preserve">
-		<value>
-la date de fondation doit être inférieure ou égale à la date du document en cours</value>
+		<value>la date de fondation doit être inférieure ou égale à la date du document en cours</value>
 	</data>
 	<data name="cpOwner" xml:space="preserve">
 		<value>Propriétaire</value>
@@ -2835,8 +2806,7 @@ la date de fondation doit être inférieure ou égale à la date du document en 
 		<value>Seulement # et -</value>
 	</data>
 	<data name="errValidExDef" xml:space="preserve">
-		<value>
-Les caractères ne sont pas autorisés sur le terrain, sauf pour le trait d'union</value>
+		<value>Les caractères ne sont pas autorisés sur le terrain, sauf pour le trait d'union</value>
 	</data>
 	<data name="errValidLatNum" xml:space="preserve">
 		<value>Sur le terrain, seules les lettres latines, les chiffres et un trait d'union sont autorisés</value>
@@ -3012,8 +2982,7 @@ Voulez-vous continuer?</value>
 		<value>Êtes-vous sûr de vouloir effacer le lien vers le document corrigé?</value>
 	</data>
 	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
-		<value>A la suite de cette opération, TOUTES les données du document en cours
-sera aligné sur le document en cours de correction.
+		<value>A la suite de cette opération, TOUTES les données du document en cours sera aligné sur le document en cours de correction.
 
 Êtes-vous sûr de vouloir effectuer cette opération?</value>
 	</data>
@@ -3264,7 +3233,7 @@ sera aligné sur le document en cours de correction.
 		<value>Signatures de formulaires imprimés</value>
 	</data>
 	<data name="TTN_lblSectionDocuments" xml:space="preserve">
-		<value>Documents</value>
+		<value>Documents fondateurs</value>
 	</data>
 	<data name="TTN_lblSectionCurator" xml:space="preserve">
 		<value>Conservateur</value>
@@ -3731,5 +3700,122 @@ Tout d'abord, supprimez la facture résultante.</value>
 	</data>
 	<data name="TTN_lblChooseContact" xml:space="preserve">
 		<value>Choisissez un contact</value>
+	</data>
+	<data name="TTN_lblChoiceEmployee" xml:space="preserve">
+		<value>Sélection des employés</value>
+	</data>
+	<data name="Vacation_ErrSubDateSubstitution" xml:space="preserve">
+		<value>Les dates de remplacement ne correspondent pas aux dates de vacances.</value>
+	</data>
+	<data name="Vacation_SubEmployeeLbl" xml:space="preserve">
+		<value>Employé substitut</value>
+	</data>
+	<data name="TTN_mgsReplaceValues" xml:space="preserve">
+		<value>Les valeurs du document corrigé seront définies dans tous les champs du formulaire. Continuer?</value>
+	</data>
+	<data name="TTN_lblSaveDocument" xml:space="preserve">
+		<value>Sauvegarder le document</value>
+	</data>
+	<data name="TTN_msgNeedSaveDocument" xml:space="preserve">
+		<value>Pour éditer, sauvegardez le document</value>
+	</data>
+	<data name="TTN_lblOpenInDocumentsArchive" xml:space="preserve">
+		<value>ouvert dans les archives de documentsdocuments</value>
+	</data>
+	<data name="TTN_lblContinueEditing" xml:space="preserve">
+		<value>continuer l'édition</value>
+	</data>
+	<data name="TTN_lblType" xml:space="preserve">
+		<value>Type</value>
+	</data>
+	<data name="TTN_lblSteward" xml:space="preserve">
+		<value>Steward</value>
+	</data>
+	<data name="TTN_lblCreateContact" xml:space="preserve">
+		<value>Créer un nouveau contact</value>
+	</data>
+	<data name="lblGridGroupingPanelEmptyText" xml:space="preserve">
+		<value>Faites glisser un en-tête de colonne ici pour grouper par cette colonne</value>
+	</data>
+	<data name="TTN_msgNoMris" xml:space="preserve">
+		<value>Aucun produit spécifié.</value>
+	</data>
+	<data name="TTN_msgTaxInflated" xml:space="preserve">
+		<value>En raison des arrondis, les taxes ont été légèrement gonflées.</value>
+	</data>
+	<data name="TTN_msgVsegoChanged" xml:space="preserve">
+		<value>En raison de l'arrondissement, la valeur totale a été modifiée.</value>
+	</data>
+	<data name="TTN_msgRoundingNotSuccessful." xml:space="preserve">
+		<value>Arrondir n'est pas réussi.</value>
+	</data>
+	<data name="TTN_msgAccountNotAvailable" xml:space="preserve">
+		<value>compte courant non disponible</value>
+	</data>
+	<data name="TTN_ntfPersonStoreDocument" xml:space="preserve">
+		<value>compte de règlement ne correspond pas au compte dans le contrat</value>
+	</data>
+	<data name="TTN_ntfPersonStoreEnclosure" xml:space="preserve">
+		<value>compte actuel ne correspond pas au compte dans l'application</value>
+	</data>
+	<data name="TTN_ntfPersonNotTested" xml:space="preserve">
+		<value>personne non vérifiée</value>
+	</data>
+	<data name="TTN_ntfPersonNotOKPO" xml:space="preserve">
+		<value>la personne n'a pas OKPO</value>
+	</data>
+	<data name="TTN_nntfPersonNotMatchContract" xml:space="preserve">
+		<value>la personne ne correspond à aucune personne dans le contrat</value>
+	</data>
+	<data name="TTN_nntfPersonNotMatchEnclosure" xml:space="preserve">
+		<value>la personne ne correspond à personne dans la demande</value>
+	</data>
+	<data name="TTN_ntfNoLinkContractAnfEnclosure" xml:space="preserve">
+		<value>Il n'y a pas de lien entre l'application et le contrat! Code d'application: </value>
+	</data>
+	<data name="TTN_ntfGetTypeByContractNoForm" xml:space="preserve">
+		<value>Essayez d'obtenir le type de règlement du contrat sans formulaire électronique! Code du contrat: </value>
+	</data>
+	<data name="TTN_msgChosenCorrectedSelf" xml:space="preserve">
+		<value>Le document actuel est sélectionné comme document corrigé. Sélectionnez un document autre que le document actuel.</value>
+	</data>
+	<data name="TTN_ntfNoCorrectedDocument" xml:space="preserve">
+		<value>Sélectionnez un document de correction.</value>
+	</data>
+	<data name="TTN_msg_Больше1Корректирующего" xml:space="preserve">
+		<value>Erreur! Le document sélectionné est corrigé simultanément à l'aide de plusieurs documents.</value>
+	</data>
+	<data name="_Msg_РазныеСвойства" xml:space="preserve">
+		<value>Les valeurs du champ {0} dans les parcelles d'envoi sélectionnées sont différentes. Ajout de services rendus au certificat d'achèvement</value>
+	</data>
+	<data name="_Msg_НеСовпадаютСвойства" xml:space="preserve">
+		<value>Les champs {0} des parcelles sélectionnées ne correspondent pas à ceux spécifiés dans l'acte. L'ajout des services rendus au certificat d'achèvement est impossible.</value>
+	</data>
+	<data name="btnOldVersion" xml:space="preserve">
+		<value>Ancienne version</value>
+	</data>
+	<data name="btnNewVersion" xml:space="preserve">
+		<value>Nouvelle version</value>
+	</data>
+	<data name="TTN_lblSectionShipperToGo" xml:space="preserve">
+		<value>Identique au fournisseur:</value>
+	</data>
+	<data name="TTN_lblSectionPayerToGp" xml:space="preserve">
+		<value>Identique au payeur:</value>
+	</data>
+	<data name="TTN_msgGridNoUsl" xml:space="preserve">
+		<value>Cet élément n'est spécifié aucune position avec le service. Pour ajouter un service, cliquez sur le bouton "Ajouter un service" ou "Insert" du clavier.</value>
+	</data>
+	<data name="TTN_msgGridNoMris" xml:space="preserve">
+		<value>Cet article n'est pas spécifié aucun article avec les marchandises. Pour ajouter un produit, cliquez sur le bouton "Ajouter un produit" ou "Insert" du clavier.</value>
+	</data>
+	<data name="TTN_lblGoAndShipper" xml:space="preserve">
+		<value>Faites correspondre l'expéditeur et le fournisseur</value>
+	</data>
+	<data name="TTN_lblGpAndPayer" xml:space="preserve">
+		<value>Faites correspondre le destinataire et le payeur</value>
+	</data>
+	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
+		<value>La lettre de voiture n'est pas signée par le conservateur du contrat</value>
 	</data>
 </root>

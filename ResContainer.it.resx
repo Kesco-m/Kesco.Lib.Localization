@@ -145,7 +145,7 @@
     <value>Nota</value>
   </data>
 	<data name="Vacation_SubEmployee" xml:space="preserve">
-    <value>Dipendente</value>
+    <value>Seleziona il dipendente di sostituzione</value>
   </data>
 	<data name="Vacation_SubFrom" xml:space="preserve">
     <value>con</value>
@@ -593,8 +593,7 @@
 		<value>è importante:</value>
 	</data>
 	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
-		<value>Come risultato di questa operazione TUTTI i dati del documento corrente
-sarà allineato con il documento corretti.
+		<value>Come risultato di questa operazione TUTTI i dati del documento corrente sarà allineato con il documento corretti.
 
 Sei sicuro di voler eseguire questa operazione?</value>
 	</data>
@@ -3234,7 +3233,7 @@ Vuoi continuare?</value>
 		<value>Firme di moduli stampati</value>
 	</data>
 	<data name="TTN_lblSectionDocuments" xml:space="preserve">
-		<value>documentazione</value>
+		<value>Documenti di fondazione</value>
 	</data>
 	<data name="TTN_lblSectionCurator" xml:space="preserve">
 		<value>curatore</value>
@@ -3701,5 +3700,122 @@ Innanzitutto, elimina la fattura risultante.</value>
 	</data>
 	<data name="TTN_lblChooseContact" xml:space="preserve">
 		<value>Scegli un contatto</value>
+	</data>
+	<data name="TTN_lblChoiceEmployee" xml:space="preserve">
+		<value>Selezione dei dipendenti</value>
+	</data>
+	<data name="Vacation_ErrSubDateSubstitution" xml:space="preserve">
+		<value>Le date di sostituzione non corrispondono alle date delle vacanze.</value>
+	</data>
+	<data name="Vacation_SubEmployeeLbl" xml:space="preserve">
+		<value>Sostituto ufficiale</value>
+	</data>
+	<data name="TTN_mgsReplaceValues" xml:space="preserve">
+		<value>I valori del documento corretto verranno impostati in tutti i campi del modulo. Continuare?</value>
+	</data>
+	<data name="TTN_lblSaveDocument" xml:space="preserve">
+		<value>Salvataggio del documento</value>
+	</data>
+	<data name="TTN_msgNeedSaveDocument" xml:space="preserve">
+		<value>Per modificare, salva il documento</value>
+	</data>
+	<data name="TTN_lblOpenInDocumentsArchive" xml:space="preserve">
+		<value>aperto nell'archivio documenti</value>
+	</data>
+	<data name="TTN_lblContinueEditing" xml:space="preserve">
+		<value>continua a modificare</value>
+	</data>
+	<data name="TTN_lblType" xml:space="preserve">
+		<value>tipo</value>
+	</data>
+	<data name="TTN_lblSteward" xml:space="preserve">
+		<value>Direttore</value>
+	</data>
+	<data name="TTN_lblCreateContact" xml:space="preserve">
+		<value>Crea un nuovo contatto</value>
+	</data>
+	<data name="lblGridGroupingPanelEmptyText" xml:space="preserve">
+		<value>Trascina qui un'intestazione di colonna per raggruppare per quella colonna</value>
+	</data>
+	<data name="TTN_msgNoMris" xml:space="preserve">
+		<value>Nessun prodotto specificato.</value>
+	</data>
+	<data name="TTN_msgTaxInflated" xml:space="preserve">
+		<value>A seguito dell'arrotondamento, le tasse sono state leggermente gonfiate.</value>
+	</data>
+	<data name="TTN_msgVsegoChanged" xml:space="preserve">
+		<value>Come risultato dell'arrotondamento, il valore totale è stato modificato.</value>
+	</data>
+	<data name="TTN_msgRoundingNotSuccessful." xml:space="preserve">
+		<value>L'arrotondamento non ha successo.</value>
+	</data>
+	<data name="TTN_msgAccountNotAvailable" xml:space="preserve">
+		<value>conto corrente non disponibile</value>
+	</data>
+	<data name="TTN_ntfPersonStoreDocument" xml:space="preserve">
+		<value>conto di regolamento non corrisponde all'account nel contratto</value>
+	</data>
+	<data name="TTN_ntfPersonStoreEnclosure" xml:space="preserve">
+		<value>l'account corrente non corrisponde all'account nell'applicazione</value>
+	</data>
+	<data name="TTN_ntfPersonNotTested" xml:space="preserve">
+		<value>persona non verificata</value>
+	</data>
+	<data name="TTN_ntfPersonNotOKPO" xml:space="preserve">
+		<value>la persona non ha OKPO</value>
+	</data>
+	<data name="TTN_nntfPersonNotMatchContract" xml:space="preserve">
+		<value>la persona non corrisponde a nessuna persona nel contratto</value>
+	</data>
+	<data name="TTN_nntfPersonNotMatchEnclosure" xml:space="preserve">
+		<value>la persona non corrisponde a nessuna persona nell'applicazione</value>
+	</data>
+	<data name="TTN_ntfNoLinkContractAnfEnclosure" xml:space="preserve">
+		<value>Non c'è connessione dell'applicazione con il contratto! Codice dell'applicazione: </value>
+	</data>
+	<data name="TTN_ntfGetTypeByContractNoForm" xml:space="preserve">
+		<value>Tentativo di ottenere il tipo di regolamento dal contratto senza un modulo elettronico! Codice contratto: </value>
+	</data>
+	<data name="TTN_msgChosenCorrectedSelf" xml:space="preserve">
+		<value>Il documento corrente è selezionato come documento corretto. Seleziona un documento diverso da quello corrente.</value>
+	</data>
+	<data name="TTN_ntfNoCorrectedDocument" xml:space="preserve">
+		<value>Seleziona un documento di correzione.</value>
+	</data>
+	<data name="TTN_msg_Больше1Корректирующего" xml:space="preserve">
+		<value>Errore! Il documento selezionato viene corretto simultaneamente utilizzando più documenti.</value>
+	</data>
+	<data name="_Msg_РазныеСвойства" xml:space="preserve">
+		<value>I valori del campo {0} nei pacchi di invio selezionati sono diversi. Aggiunta di servizi resi al certificato di completamento</value>
+	</data>
+	<data name="_Msg_НеСовпадаютСвойства" xml:space="preserve">
+		<value>I campi {0} nei pacchi selezionati non corrispondono a quelli specificati nell'atto. Aggiungere i servizi resi al certificato di completamento è impossibile.</value>
+	</data>
+	<data name="btnOldVersion" xml:space="preserve">
+		<value>Vecchia versione</value>
+	</data>
+	<data name="btnNewVersion" xml:space="preserve">
+		<value>Nuova versione</value>
+	</data>
+	<data name="TTN_lblSectionShipperToGo" xml:space="preserve">
+		<value>Come il fornitore:</value>
+	</data>
+	<data name="TTN_lblSectionPayerToGp" xml:space="preserve">
+		<value>Come per il pagatore:</value>
+	</data>
+	<data name="TTN_msgGridNoUsl" xml:space="preserve">
+		<value>Questo articolo non è specificato alcuna posizione con il servizio. Per aggiungere un servizio, fai clic sul pulsante "Aggiungi servizio" o "Insert" sulla tastiera.</value>
+	</data>
+	<data name="TTN_msgGridNoMris" xml:space="preserve">
+		<value>Questo articolo non è specificato alcun articolo con le merci. Per aggiungere un prodotto, fare clic sul pulsante "Aggiungi prodotto" o "Insert" sulla tastiera.</value>
+	</data>
+	<data name="TTN_lblGoAndShipper" xml:space="preserve">
+		<value>Abbina il mittente e il fornitore</value>
+	</data>
+	<data name="TTN_lblGpAndPayer" xml:space="preserve">
+		<value>Abbina il destinatario e il pagatore</value>
+	</data>
+	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
+		<value>La lettera di vettura non è firmata dal curatore del contratto</value>
 	</data>
 </root>

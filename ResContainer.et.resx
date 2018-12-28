@@ -2536,7 +2536,7 @@ Avab dokumendid siduvad dialoogi</value>
     <value>Märkus</value>
   </data>
 	<data name="Vacation_SubEmployee" xml:space="preserve">
-    <value>Töötaja</value>
+    <value>Valige asendustööline</value>
   </data>
 	<data name="Vacation_SubFrom" xml:space="preserve">
     <value>koos</value>
@@ -2828,8 +2828,7 @@ Avab dokumendid siduvad dialoogi</value>
 		<value>Dokument on parandatud</value>
 	</data>
 	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
-		<value>Selle operatsiooni tulemuseks on KÕIK andmed praegusest dokumendist
-viiakse vastavusse parandatud dokumendiga.
+		<value>Selle operatsiooni tulemuseks on KÕIK andmed praegusest dokumendist viiakse vastavusse parandatud dokumendiga.
 
 Kas olete kindel, et soovite seda operatsiooni teha?</value>
 	</data>
@@ -3229,7 +3228,7 @@ Kas olete kindel, et soovite seda operatsiooni teha?</value>
 		<value>Trükitud vormide allkirjad</value>
 	</data>
 	<data name="TTN_lblSectionDocuments" xml:space="preserve">
-		<value>Dokumendid</value>
+		<value>Asutamisdokumendid</value>
 	</data>
 	<data name="TTN_lblSectionCurator" xml:space="preserve">
 		<value>Kuraator</value>
@@ -3696,5 +3695,122 @@ Esiteks kustutage saadud arve.</value>
 	</data>
 	<data name="TTN_lblChooseContact" xml:space="preserve">
 		<value>Valige kontakt</value>
+	</data>
+	<data name="TTN_lblChoiceEmployee" xml:space="preserve">
+		<value>Töötaja valik</value>
+	</data>
+	<data name="Vacation_ErrSubDateSubstitution" xml:space="preserve">
+		<value>Asendamise kuupäevad ei vasta puhkuse kuupäevadele.</value>
+	</data>
+	<data name="Vacation_SubEmployeeLbl" xml:space="preserve">
+		<value>Asendusliige</value>
+	</data>
+	<data name="TTN_mgsReplaceValues" xml:space="preserve">
+		<value>Parandatud dokumendi väärtused määratakse vormi kõikides väljades. Jätkake?</value>
+	</data>
+	<data name="TTN_lblSaveDocument" xml:space="preserve">
+		<value>Dokumendi salvestamine</value>
+	</data>
+	<data name="TTN_msgNeedSaveDocument" xml:space="preserve">
+		<value>Dokumendi muutmiseks salvestage</value>
+	</data>
+	<data name="TTN_lblOpenInDocumentsArchive" xml:space="preserve">
+		<value>avaneb dokumentide arhiivis</value>
+	</data>
+	<data name="TTN_lblContinueEditing" xml:space="preserve">
+		<value>jätkake redigeerimist</value>
+	</data>
+	<data name="TTN_lblType" xml:space="preserve">
+		<value>Tüüp</value>
+	</data>
+	<data name="TTN_lblSteward" xml:space="preserve">
+		<value>Steward</value>
+	</data>
+	<data name="TTN_lblCreateContact" xml:space="preserve">
+		<value>Loo uus kontakt</value>
+	</data>
+	<data name="lblGridGroupingPanelEmptyText" xml:space="preserve">
+		<value>Selle veeru rühmitamiseks lohistage veeru päis siia</value>
+	</data>
+	<data name="TTN_msgNoMris" xml:space="preserve">
+		<value>Ükski toode ei ole täpsustatud.</value>
+	</data>
+	<data name="TTN_msgTaxInflated" xml:space="preserve">
+		<value>Ümardamise tulemusena olid maksud veidi pumbatud.</value>
+	</data>
+	<data name="TTN_msgVsegoChanged" xml:space="preserve">
+		<value>Ümardamise tulemusena on muudetud koguväärtust.</value>
+	</data>
+	<data name="TTN_msgRoundingNotSuccessful." xml:space="preserve">
+		<value>Ümardamine ei ole edukas.</value>
+	</data>
+	<data name="TTN_msgAccountNotAvailable" xml:space="preserve">
+		<value>jooksevkonto pole saadaval</value>
+	</data>
+	<data name="TTN_ntfPersonStoreDocument" xml:space="preserve">
+		<value>arvelduskonto ei vasta lepingus sisalduvale kontole</value>
+	</data>
+	<data name="TTN_ntfPersonStoreEnclosure" xml:space="preserve">
+		<value>jooksevkonto ei vasta rakenduses olevale kontole</value>
+	</data>
+	<data name="TTN_ntfPersonNotTested" xml:space="preserve">
+		<value>isik ei ole kontrollitud</value>
+	</data>
+	<data name="TTN_ntfPersonNotOKPO" xml:space="preserve">
+		<value>isikul pole OKPO</value>
+	</data>
+	<data name="TTN_nntfPersonNotMatchContract" xml:space="preserve">
+		<value>isik ei ühti lepingus oleva isikuga</value>
+	</data>
+	<data name="TTN_nntfPersonNotMatchEnclosure" xml:space="preserve">
+		<value>isik ei ühti taotlusega ühtegi isikut</value>
+	</data>
+	<data name="TTN_ntfNoLinkContractAnfEnclosure" xml:space="preserve">
+		<value>Taotlus ei ole seotud lepinguga! Rakenduse kood: </value>
+	</data>
+	<data name="TTN_ntfGetTypeByContractNoForm" xml:space="preserve">
+		<value>Püüand kokkuleppeliikluse saamiseks elektroonilisel kujul! Lepingu kood: </value>
+	</data>
+	<data name="TTN_msgChosenCorrectedSelf" xml:space="preserve">
+		<value>Parandatud dokumendina valitakse käesolev dokument. Valige muu dokument kui praegune.</value>
+	</data>
+	<data name="TTN_ntfNoCorrectedDocument" xml:space="preserve">
+		<value>Valige parandusdokument.</value>
+	</data>
+	<data name="TTN_msg_Больше1Корректирующего" xml:space="preserve">
+		<value>Viga! Valitud dokument on samaaegselt korrigeeritud mitme dokumendi abil.</value>
+	</data>
+	<data name="_Msg_НеСовпадаютСвойства" xml:space="preserve">
+		<value>Valitud pakkides olevad väljad {0} ei ühti toimingutega määratud väärtustega. Lõppseadisele osutatud teenuste lisamine on võimatu.</value>
+	</data>
+	<data name="_Msg_РазныеСвойства" xml:space="preserve">
+		<value>Valitud saatmispakkide väljale {0} väärtused on erinevad. Täitmisele sertifikaadile lisatud teenuste lisamine</value>
+	</data>
+	<data name="btnOldVersion" xml:space="preserve">
+		<value>Vana versioon</value>
+	</data>
+	<data name="btnNewVersion" xml:space="preserve">
+		<value>Uus versioon</value>
+	</data>
+	<data name="TTN_lblSectionShipperToGo" xml:space="preserve">
+		<value>Sama nagu tarnija:</value>
+	</data>
+	<data name="TTN_lblSectionPayerToGp" xml:space="preserve">
+		<value>Sama nagu maksja:</value>
+	</data>
+	<data name="TTN_msgGridNoUsl" xml:space="preserve">
+		<value>See üksus pole teenusega mingisugust asukohta määratud. Teenuse lisamiseks klõpsake klaviatuuril nuppu "Lisa teenus" või "Insert".</value>
+	</data>
+	<data name="TTN_msgGridNoMris" xml:space="preserve">
+		<value>See toode ei ole kaubaga ühelegi elemendile märgitud. Toote lisamiseks klõpsa klaviatuuril nupule "Lisa toode" või "Insert".</value>
+	</data>
+	<data name="TTN_lblGoAndShipper" xml:space="preserve">
+		<value>Sobitage saatja ja tarnijaga</value>
+	</data>
+	<data name="TTN_lblGpAndPayer" xml:space="preserve">
+		<value>Sobita saaja ja maksjaga</value>
+	</data>
+	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
+		<value>Lepingu kuraator ei allkirjasta saatelehte</value>
 	</data>
 </root>

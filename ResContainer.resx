@@ -3817,6 +3817,6 @@ First, delete the resulting invoice.</value>
 		<value>Passen Sie den Empfänger und den Zahler an</value>
 	</data>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
-		<value>The waybill is not signed by the curator of the contract</value>
+		<value>not signed by the contract manager</value>
 	</data>
 </root>

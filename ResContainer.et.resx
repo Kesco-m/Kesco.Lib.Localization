@@ -3811,6 +3811,6 @@ Esiteks kustutage saadud arve.</value>
 		<value>Sobita saaja ja maksjaga</value>
 	</data>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
-		<value>Lepingu kuraator ei allkirjasta saatelehte</value>
+		<value>lepingulise juhi poolt allkirjastamata</value>
 	</data>
 </root>

@@ -3816,6 +3816,6 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Abbina il destinatario e il pagatore</value>
 	</data>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
-		<value>La lettera di vettura non è firmata dal curatore del contratto</value>
+		<value>non firmato dal responsabile del contratto</value>
 	</data>
 </root>

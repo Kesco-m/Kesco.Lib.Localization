@@ -3816,6 +3816,6 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Faites correspondre le destinataire et le payeur</value>
 	</data>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
-		<value>La lettre de voiture n'est pas signée par le conservateur du contrat</value>
+		<value>non signé par le responsable du contrat</value>
 	</data>
 </root>

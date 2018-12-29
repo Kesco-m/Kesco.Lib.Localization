@@ -3815,6 +3815,6 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Passen Sie den Empfänger und den Zahler an</value>
 	</data>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
-		<value>Der Frachtbrief wird nicht vom Vertragsverwalter unterschrieben</value>
+		<value>nicht vom Vertragsmanager unterschrieben</value>
 	</data>
 </root>

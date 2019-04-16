@@ -3002,830 +3002,1709 @@
   </data>
 	<data name="TTN_JsResources" xml:space="preserve">
     <value>"BtnSave": "Сохранить",
-        "BtnCancel": "Отмена",
-        "BtnDelete": "Удалить",
-        "BtnYes": "Да",
-        "BtnNo": "Нет",
-        "Title": "ТТН",
-        "GpToPayer": "Заменить все поля раздела Плательщик значениями из раздела Грузополучатель?",
-        "GoToShipper": "Заменить все поля раздела Поставщик значениями из раздела Грузоотправитель?",
-        "ReplaceValues": "Во все поля формы будут установлены значения из корректируемого документа. Продолжить?"</value>
+"BtnCancel": "Отмена",
+"BtnDelete": "Удалить",
+"BtnYes": "Да",
+"BtnNo": "Нет",
+"Title": "ТТН",
+"GpToPayer": "Заменить все поля раздела Плательщик значениями из раздела Грузополучатель?",
+"GoToShipper": "Заменить все поля раздела Поставщик значениями из раздела Грузоотправитель?",
+"ReplaceValues": "Во все поля формы будут установлены значения из корректируемого документа. Продолжить?"</value>
   </data>
 	<data name="MWP_Title" xml:space="preserve">
-		<value>Рабочее место менеджера</value>
-	</data>
+    <value>Рабочее место менеджера</value>
+  </data>
 	<data name="lblSettings" xml:space="preserve">
-		<value>Настройки</value>
-	</data>
+    <value>Настройки</value>
+  </data>
 	<data name="lblRun" xml:space="preserve">
-		<value>Выполнить</value>
-	</data>
+    <value>Выполнить</value>
+  </data>
 	<data name="lblShipperStore" xml:space="preserve">
-		<value>Склад поставщика</value>
-	</data>
+    <value>Склад поставщика</value>
+  </data>
 	<data name="lblPayerStore" xml:space="preserve">
-		<value>Склад плательщика</value>
-	</data>
+    <value>Склад плательщика</value>
+  </data>
 	<data name="lblProduct" xml:space="preserve">
-		<value>Товар</value>
-	</data>
+    <value>Товар</value>
+  </data>
 	<data name="lblPosResourceNameRus" xml:space="preserve">
-		<value>Название ресурса (рус)</value>
-	</data>
+    <value>Название ресурса (рус)</value>
+  </data>
 	<data name="lblAktsiz" xml:space="preserve">
-		<value>Акциз</value>
-	</data>
+    <value>Акциз</value>
+  </data>
 	<data name="msgDeleteConfirm" xml:space="preserve">
-		<value>Вы уверены, что хотите удалить</value>
-	</data>
+    <value>Вы уверены, что хотите удалить</value>
+  </data>
 	<data name="TTN_optTransactionBalance" xml:space="preserve">
-		<value>Остаток по транзакциям</value>
-	</data>
+    <value>Остаток по транзакциям</value>
+  </data>
 	<data name="TTN_optBalanceCompletedDocuments" xml:space="preserve">
-		<value>Остаток по завершенным документам</value>
-	</data>
+    <value>Остаток по завершенным документам</value>
+  </data>
 	<data name="TTN_optBalanceSignedDocuments" xml:space="preserve">
-		<value>Остаток по подписанным документам</value>
-	</data>
+    <value>Остаток по подписанным документам</value>
+  </data>
 	<data name="errPrinting" xml:space="preserve">
-		<value>Ошибка печати</value>
-	</data>
+    <value>Ошибка печати</value>
+  </data>
 	<data name="errRetrievingPageObject" xml:space="preserve">
-		<value>Ошибка получения объекта страницы</value>
-	</data>
+    <value>Ошибка получения объекта страницы</value>
+  </data>
 	<data name="TTN_ ERRMoveStockInitialized" xml:space="preserve">
-		<value>Не инициализирован объект ДвижениеНаСкладе. Откройте редактируемую позицию повторно.</value>
-	</data>
+    <value>Не инициализирован объект ДвижениеНаСкладе. Откройте редактируемую позицию повторно.</value>
+  </data>
 	<data name="TTN_ntfKeeperNotFound" xml:space="preserve">
-		<value>хранитель не найден</value>
-	</data>
+    <value>хранитель не найден</value>
+  </data>
 	<data name="TTN_ntfKeeperNotVerified" xml:space="preserve">
-		<value>хранитель не проверен</value>
-	</data>
+    <value>хранитель не проверен</value>
+  </data>
 	<data name="TTN_ntfKeeperNoDataOn" xml:space="preserve">
-		<value>нет данных по хранителю на</value>
-	</data>
+    <value>нет данных по хранителю на</value>
+  </data>
 	<data name="TTN_ntfWarehouseNotMatchSupplier" xml:space="preserve">
-		<value>склад не соответствует поставщику</value>
-	</data>
+    <value>склад не соответствует поставщику</value>
+  </data>
 	<data name="TTN_ntfWarehouseNotAvailable" xml:space="preserve">
-		<value>склад не доступен</value>
-	</data>
+    <value>склад не доступен</value>
+  </data>
 	<data name="TTN_ntfWarehouseNotMatchPayer" xml:space="preserve">
-		<value>склад не соответствует плательщику</value>
-	</data>
+    <value>склад не соответствует плательщику</value>
+  </data>
 	<data name="TTN_ntfRussianNameNotMatchProduct" xml:space="preserve">
-		<value>русское название не соответствует товару</value>
-	</data>
+    <value>русское название не соответствует товару</value>
+  </data>
 	<data name="msgIN" xml:space="preserve">
-		<value>в</value>
-	</data>
+    <value>в</value>
+  </data>
 	<data name="TTN_ntfNotMatchApplication" xml:space="preserve">
-		<value>не соответствует приложению</value>
-	</data>
+    <value>не соответствует приложению</value>
+  </data>
 	<data name="TTN_ntfNotComplyContract" xml:space="preserve">
-		<value>не соответствует договору</value>
-	</data>
+    <value>не соответствует договору</value>
+  </data>
 	<data name="TTN_ntfLatinNameNotMatchProduct" xml:space="preserve">
-		<value>латинское название не соответствует товару</value>
-	</data>
+    <value>латинское название не соответствует товару</value>
+  </data>
 	<data name="TTN_ntfDocumentNotAvailable" xml:space="preserve">
-		<value>документ не доступен</value>
-	</data>
+    <value>документ не доступен</value>
+  </data>
 	<data name="TTN_errFailedGenerateButtons" xml:space="preserve">
-		<value>Не удалось сформировать кнопки формы</value>
-	</data>
+    <value>Не удалось сформировать кнопки формы</value>
+  </data>
 	<data name="TTN_msgDocumentCanNotBeSaved" xml:space="preserve">
-		<value>Cохранение документа невозможно.</value>
-	</data>
+    <value>Cохранение документа невозможно.</value>
+  </data>
 	<data name="TTN_lblAtBeginningDay" xml:space="preserve">
-		<value>на начало дня</value>
-	</data>
+    <value>на начало дня</value>
+  </data>
 	<data name="TTN_lblAtEndDay" xml:space="preserve">
-		<value>на конец дня</value>
-	</data>
+    <value>на конец дня</value>
+  </data>
 	<data name="TTN_lblIncludeSubResources" xml:space="preserve">
-		<value>Включать подчиненные ресурсы</value>
-	</data>
+    <value>Включать подчиненные ресурсы</value>
+  </data>
 	<data name="lblCustomsDeclaration" xml:space="preserve">
-		<value>Таможенная декларация</value>
-	</data>
+    <value>Таможенная декларация</value>
+  </data>
 	<data name="lblCountryOfOrigin" xml:space="preserve">
-		<value>Страна происхождения</value>
-	</data>
+    <value>Страна происхождения</value>
+  </data>
 	<data name="TTN_lblUnitsSelect" xml:space="preserve">
-		<value>Выбор ед. изм.</value>
-	</data>
+    <value>Выбор ед. изм.</value>
+  </data>
 	<data name="lblEquivalent" xml:space="preserve">
-		<value>Эквивалент</value>
-	</data>
+    <value>Эквивалент</value>
+  </data>
 	<data name="TTN_ntfNotShipperStore" xml:space="preserve">
-		<value>Не заполнено поле 'Склад поставщика'</value>
-	</data>
+    <value>Не заполнено поле 'Склад поставщика'</value>
+  </data>
 	<data name="TTN_ntfNotPayerStore" xml:space="preserve">
-		<value>Не заполнено поле 'Склад плательщика' </value>
-	</data>
+    <value>Не заполнено поле 'Склад плательщика' </value>
+  </data>
 	<data name="TTN_ntfNotProduct" xml:space="preserve">
-		<value>Не заполнено поле 'Товар'</value>
-	</data>
+    <value>Не заполнено поле 'Товар'</value>
+  </data>
 	<data name="TTN_ntfNotResourceRus" xml:space="preserve">
-		<value>Не заполнено поле 'Название товара (рус)'</value>
-	</data>
+    <value>Не заполнено поле 'Название товара (рус)'</value>
+  </data>
 	<data name="TTN_ntfNotCount" xml:space="preserve">
-		<value>Не заполнено поле 'Количество'</value>
-	</data>
+    <value>Не заполнено поле 'Количество'</value>
+  </data>
 	<data name="TTN_ntfNotUnit" xml:space="preserve">
-		<value>Не заполнено поле 'Единица измерения'</value>
-	</data>
+    <value>Не заполнено поле 'Единица измерения'</value>
+  </data>
 	<data name="TTN_ntfNotCostOutNDS" xml:space="preserve">
-		<value>Не заполнено поле 'Цена без НДС'</value>
-	</data>
+    <value>Не заполнено поле 'Цена без НДС'</value>
+  </data>
 	<data name="TTN_ntfNotSummaNDS" xml:space="preserve">
-		<value>Не заполнено поле 'Сумма НДС'</value>
-	</data>
+    <value>Не заполнено поле 'Сумма НДС'</value>
+  </data>
 	<data name="TTN_ntfNotVsego" xml:space="preserve">
-		<value>Не заполнено поле 'Всего'</value>
-	</data>
+    <value>Не заполнено поле 'Всего'</value>
+  </data>
 	<data name="TTN_ntfCostOutNDSIncorrect" xml:space="preserve">
-		<value>Цена без НДС должна быть больше или меньше 0</value>
-	</data>
+    <value>Цена без НДС должна быть больше или меньше 0</value>
+  </data>
 	<data name="TTN_ntfVsegoIncorrect" xml:space="preserve">
-		<value>Значение поля 'Всего' должно быть больше или меньше 0</value>
-	</data>
+    <value>Значение поля 'Всего' должно быть больше или меньше 0</value>
+  </data>
 	<data name="TTN_ntfNotGTD" xml:space="preserve">
-		<value>Необходимо указать таможенную декларацию</value>
-	</data>
+    <value>Необходимо указать таможенную декларацию</value>
+  </data>
 	<data name="TTN_msgNDSSUM" xml:space="preserve">
-		<value>Вы указали цену с НДС ?</value>
-	</data>
+    <value>Вы указали цену с НДС ?</value>
+  </data>
 	<data name="TTN_msgChoiceCalculationType" xml:space="preserve">
-		<value>Выбор вида расчета</value>
-	</data>
+    <value>Выбор вида расчета</value>
+  </data>
 	<data name="QSBtnRecalc" xml:space="preserve">
-		<value>Пересчет</value>
-	</data>
+    <value>Пересчет</value>
+  </data>
 	<data name="QSBtnChange" xml:space="preserve">
-		<value>Изменить</value>
-	</data>
+    <value>Изменить</value>
+  </data>
 	<data name="TTN_msgOKInfo" xml:space="preserve">
-		<value>для изменения и пересчета связанных значений</value>
-	</data>
+    <value>для изменения и пересчета связанных значений</value>
+  </data>
 	<data name="TTN_msgRecalcInfo" xml:space="preserve">
-		<value>для обратного пересчета данного значения</value>
-	</data>
+    <value>для обратного пересчета данного значения</value>
+  </data>
 	<data name="TTN_msgCancel" xml:space="preserve">
-		<value>для отмены внесенных изменений</value>
-	</data>
+    <value>для отмены внесенных изменений</value>
+  </data>
 	<data name="TTN_msgChange" xml:space="preserve">
-		<value>для принудительного изменения значения без пересчета</value>
-	</data>
+    <value>для принудительного изменения значения без пересчета</value>
+  </data>
 	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
-		<value>Выбор типа перерасчета</value>
-	</data>
+    <value>Выбор типа перерасчета</value>
+  </data>
 	<data name="lblService" xml:space="preserve">
-		<value>Услуга</value>
-	</data>
+    <value>Услуга</value>
+  </data>
 	<data name="TTN_ntfNotService" xml:space="preserve">
-		<value>Не заполнено поле 'Услуга'</value>
-	</data>
+    <value>Не заполнено поле 'Услуга'</value>
+  </data>
 	<data name="TTN_msgAgent" xml:space="preserve">
-		<value>агент</value>
-	</data>
+    <value>агент</value>
+  </data>
 	<data name="lblPerson" xml:space="preserve">
-		<value>Лицо</value>
-	</data>
+    <value>Лицо</value>
+  </data>
 	<data name="TTN_lblInvoiceDetail" xml:space="preserve">
-		<value>Реквизиты накладной</value>
-	</data>
+    <value>Реквизиты накладной</value>
+  </data>
 	<data name="TTN_lblMonthResource" xml:space="preserve">
-		<value>Месяц ресурсов</value>
-	</data>
+    <value>Месяц ресурсов</value>
+  </data>
 	<data name="lblItogoInvoice" xml:space="preserve">
-		<value>Итого по накладной</value>
-	</data>
+    <value>Итого по накладной</value>
+  </data>
 	<data name="lblProducts" xml:space="preserve">
-		<value>Товары</value>
-	</data>
+    <value>Товары</value>
+  </data>
 	<data name="lblServices" xml:space="preserve">
-		<value>Услуги</value>
-	</data>
+    <value>Услуги</value>
+  </data>
 	<data name="lblWait" xml:space="preserve">
-		<value>Подождите</value>
-	</data>
+    <value>Подождите</value>
+  </data>
 	<data name="TTN_MrisTitle" xml:space="preserve">
-		<value>Реализация / покупка товара</value>
-	</data>
+    <value>Реализация / покупка товара</value>
+  </data>
 	<data name="TTN_FactUslTitle" xml:space="preserve">
-		<value>Выполненные работы / оказанные услуги</value>
-	</data>
+    <value>Выполненные работы / оказанные услуги</value>
+  </data>
 	<data name="TTN_errOpenEditForm" xml:space="preserve">
-		<value>Неправильно указаны параметры открытия формы редактирования!</value>
-	</data>
+    <value>Неправильно указаны параметры открытия формы редактирования!</value>
+  </data>
 	<data name="TTN_optImplementationByResources" xml:space="preserve">
-		<value>Реализация по товарам</value>
-	</data>
+    <value>Реализация по товарам</value>
+  </data>
 	<data name="TTN_optRealizationResourcesByWagons" xml:space="preserve">
-		<value>Реализация товаров по вагонам</value>
-	</data>
+    <value>Реализация товаров по вагонам</value>
+  </data>
 	<data name="TTN_optGroupByResource" xml:space="preserve">
-		<value>Сгруппировать по товару</value>
-	</data>
+    <value>Сгруппировать по товару</value>
+  </data>
 	<data name="TTN_lblGOAddress" xml:space="preserve">
-		<value>Адрес грузоотправителя</value>
-	</data>
+    <value>Адрес грузоотправителя</value>
+  </data>
 	<data name="TTN_lblGPAddress" xml:space="preserve">
-		<value>Адрес грузополучателя</value>
-	</data>
+    <value>Адрес грузополучателя</value>
+  </data>
 	<data name="TTN_lblSectionGeneral" xml:space="preserve">
-		<value>Данные накладной</value>
-	</data>
+    <value>Данные накладной</value>
+  </data>
 	<data name="TTN_lblSectionSignersOfPaper" xml:space="preserve">
-		<value>Подписанты печатных форм</value>
-	</data>
+    <value>Подписанты печатных форм</value>
+  </data>
 	<data name="TTN_lblSectionDocuments" xml:space="preserve">
-		<value>Документы-основания</value>
-	</data>
+    <value>Документы-основания</value>
+  </data>
 	<data name="TTN_lblSectionCurator" xml:space="preserve">
-		<value>Куратор</value>
-	</data>
+    <value>Куратор</value>
+  </data>
 	<data name="TTN_lblSectionGO" xml:space="preserve">
-		<value>Грузоотправитель</value>
-	</data>
+    <value>Грузоотправитель</value>
+  </data>
 	<data name="TTN_lblSectionGP" xml:space="preserve">
-		<value>Грузополучатель</value>
-	</data>
+    <value>Грузополучатель</value>
+  </data>
 	<data name="TTN_lblSectionShipper" xml:space="preserve">
-		<value>Поставщик</value>
-	</data>
+    <value>Поставщик</value>
+  </data>
 	<data name="TTN_lblSectionPayer" xml:space="preserve">
-		<value>Плательщик</value>
-	</data>
+    <value>Плательщик</value>
+  </data>
 	<data name="TTN_lblSectionGoToShipper" xml:space="preserve">
-		<value>Совпадает с грузоотправителем:</value>
-	</data>
+    <value>Совпадает с грузоотправителем:</value>
+  </data>
 	<data name="TTN_lblSectionGpToPayer" xml:space="preserve">
-		<value>Совпадает с грузополучателем:</value>
-	</data>
+    <value>Совпадает с грузополучателем:</value>
+  </data>
 	<data name="TTN_lblSectionResource" xml:space="preserve">
-		<value>Товары</value>
-	</data>
+    <value>Товары</value>
+  </data>
 	<data name="TTN_lblSectionServices" xml:space="preserve">
-		<value>Услуги</value>
-	</data>
+    <value>Услуги</value>
+  </data>
 	<data name="TTN_lblSectionTransport" xml:space="preserve">
-		<value>Транспорт</value>
-	</data>
+    <value>Транспорт</value>
+  </data>
 	<data name="TTN_lblSectionRequiredInfo" xml:space="preserve">
-		<value>Отсутствует</value>
-	</data>
+    <value>Отсутствует</value>
+  </data>
 	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
-		<value>адрес не соответствует грузоотправителю</value>
-	</data>
+    <value>адрес не соответствует грузоотправителю</value>
+  </data>
 	<data name="TTN_ntfPersonAddressGp" xml:space="preserve">
-		<value>адрес не соответствует грузополучателю</value>
-	</data>
+    <value>адрес не соответствует грузополучателю</value>
+  </data>
 	<data name="TTN_ntfPersonAddressShipper" xml:space="preserve">
-		<value>адрес не соответствует поставщику</value>
-	</data>
+    <value>адрес не соответствует поставщику</value>
+  </data>
 	<data name="TTN_ntfPersonAddressPayer" xml:space="preserve">
-		<value>адрес не соответствует плательщику</value>
-	</data>
+    <value>адрес не соответствует плательщику</value>
+  </data>
 	<data name="TTN_ntfPersonInfoGo" xml:space="preserve">
-		<value>реквизиты не соответствуют грузоотправителю</value>
-	</data>
+    <value>реквизиты не соответствуют грузоотправителю</value>
+  </data>
 	<data name="TTN_ntfPersonInfoGp" xml:space="preserve">
-		<value>реквизиты не соответствуют грузополучателю</value>
-	</data>
+    <value>реквизиты не соответствуют грузополучателю</value>
+  </data>
 	<data name="TTN_ntfPersonInfoShipper" xml:space="preserve">
-		<value>название не соответствует поставщику</value>
-	</data>
+    <value>название не соответствует поставщику</value>
+  </data>
 	<data name="TTN_ntfPersonInfoPayer" xml:space="preserve">
-		<value>название не соответствует плательщику</value>
-	</data>
+    <value>название не соответствует плательщику</value>
+  </data>
 	<data name="TTN_ntfPersonCodeGo" xml:space="preserve">
-		<value>ОКПО не соответствует грузоотправителю</value>
-	</data>
+    <value>ОКПО не соответствует грузоотправителю</value>
+  </data>
 	<data name="TTN_ntfPersonCodeGp" xml:space="preserve">
-		<value>ОКПО не соответствует грузополучателю</value>
-	</data>
+    <value>ОКПО не соответствует грузополучателю</value>
+  </data>
 	<data name="TTN_ntfPersonCodeShipper" xml:space="preserve">
-		<value>ОКПО не соответствует поставщику</value>
-	</data>
+    <value>ОКПО не соответствует поставщику</value>
+  </data>
 	<data name="TTN_ntfPersonCodePayer" xml:space="preserve">
-		<value>ОКПО не соответствует плательщику</value>
-	</data>
+    <value>ОКПО не соответствует плательщику</value>
+  </data>
 	<data name="TTN_ntfPersonNoCodeGo" xml:space="preserve">
-		<value>у грузоотправителя отсутствует ОКПО</value>
-	</data>
+    <value>у грузоотправителя отсутствует ОКПО</value>
+  </data>
 	<data name="TTN_ntfPersonNoCodeGp" xml:space="preserve">
-		<value>у грузополучателя отсутствует ОКПО</value>
-	</data>
+    <value>у грузополучателя отсутствует ОКПО</value>
+  </data>
 	<data name="TTN_ntfPersonNoCodeShipper" xml:space="preserve">
-		<value>у поставщика отсутствует ОКПО</value>
-	</data>
+    <value>у поставщика отсутствует ОКПО</value>
+  </data>
 	<data name="TTN_ntfPersonNoCodePayer" xml:space="preserve">
-		<value>у плательщика отсутствует ОКПО</value>
-	</data>
+    <value>у плательщика отсутствует ОКПО</value>
+  </data>
 	<data name="TTN_ntfPersonStoreGo" xml:space="preserve">
-		<value>расчетный счет не соответствует грузоотправителю</value>
-	</data>
+    <value>расчетный счет не соответствует грузоотправителю</value>
+  </data>
 	<data name="TTN_ntfPersonStoreGp" xml:space="preserve">
-		<value>расчетный счет не соответствует грузополучателю</value>
-	</data>
+    <value>расчетный счет не соответствует грузополучателю</value>
+  </data>
 	<data name="TTN_ntfPersonStoreShipper" xml:space="preserve">
-		<value>расчетный счет не соответствует поставщику</value>
-	</data>
+    <value>расчетный счет не соответствует поставщику</value>
+  </data>
 	<data name="TTN_ntfPersonStorePayer" xml:space="preserve">
-		<value>расчетный счет не соответствует плательщику</value>
-	</data>
+    <value>расчетный счет не соответствует плательщику</value>
+  </data>
 	<data name="TTN_ntfAddressDate" xml:space="preserve">
-		<value>адрес не действует дату документа</value>
-	</data>
+    <value>адрес не действует дату документа</value>
+  </data>
 	<data name="TTN_ntfBaseDocumentOnDate" xml:space="preserve">
-		<value>дата основания должна быть меньше или равна дате текущего документа</value>
-	</data>
+    <value>дата основания должна быть меньше или равна дате текущего документа</value>
+  </data>
 	<data name="TTN_ntfCurrencyDocument" xml:space="preserve">
-		<value>валюта банковского счета не соответствует валюте документа</value>
-	</data>
+    <value>валюта банковского счета не соответствует валюте документа</value>
+  </data>
 	<data name="TTN_ntfInfoStore" xml:space="preserve">
-		<value>реквизиты не соответствуют расчетному счёту</value>
-	</data>
+    <value>реквизиты не соответствуют расчетному счёту</value>
+  </data>
 	<data name="TTN_ntfEnclosureContract" xml:space="preserve">
-		<value>приложения не связаны с документом</value>
-	</data>
+    <value>приложения не связаны с документом</value>
+  </data>
 	<data name="TTN_ntfDocumentForm" xml:space="preserve">
-		<value>документ не имеет электронной формы</value>
-	</data>
+    <value>документ не имеет электронной формы</value>
+  </data>
 	<data name="TTN_ntfPersonDate" xml:space="preserve">
-		<value>у лица отсутствует реквизиты на дату документа</value>
-	</data>
+    <value>у лица отсутствует реквизиты на дату документа</value>
+  </data>
 	<data name="TTN_ntfStoreAccountDate" xml:space="preserve">
-		<value>расчетный счет не действует на дату документа</value>
-	</data>
+    <value>расчетный счет не действует на дату документа</value>
+  </data>
 	<data name="TTN_ntfPersonPosition" xml:space="preserve">
-		<value>должность не соответствует лицу</value>
-	</data>
+    <value>должность не соответствует лицу</value>
+  </data>
 	<data name="TTN_ntfPostingOnDate" xml:space="preserve">
-		<value>дата проводки должна быть больше или равна дате текущего документа</value>
-	</data>
+    <value>дата проводки должна быть больше или равна дате текущего документа</value>
+  </data>
 	<data name="TTN_ntfPersonDocument" xml:space="preserve">
-		<value>лица документа не соответствуют поставщику и плательщику</value>
-	</data>
+    <value>лица документа не соответствуют поставщику и плательщику</value>
+  </data>
 	<data name="TTN_ntfPaymentInvoice" xml:space="preserve">
-		<value>платежные документы не имеют оснований</value>
-	</data>
+    <value>платежные документы не имеют оснований</value>
+  </data>
 	<data name="TTN_bntAddResource" xml:space="preserve">
-		<value>Добавить товар</value>
-	</data>
+    <value>Добавить товар</value>
+  </data>
 	<data name="TTN_btnAddService" xml:space="preserve">
-		<value>Добавить услугу</value>
-	</data>
+    <value>Добавить услугу</value>
+  </data>
 	<data name="lblPosCol11" xml:space="preserve">
-		<value>Ресурс</value>
-	</data>
+    <value>Ресурс</value>
+  </data>
 	<data name="lblPosCol12" xml:space="preserve">
-		<value>Отправка</value>
-	</data>
+    <value>Отправка</value>
+  </data>
 	<data name="lblPosCol13" xml:space="preserve">
-		<value>Страна происхождения</value>
-	</data>
+    <value>Страна происхождения</value>
+  </data>
 	<data name="lblPosCol14" xml:space="preserve">
-		<value>ТД</value>
-	</data>
+    <value>ТД</value>
+  </data>
 	<data name="TTN_btnDeletePosition" xml:space="preserve">
-		<value>удалить позицию</value>
-	</data>
+    <value>удалить позицию</value>
+  </data>
 	<data name="TTN_btnCopyPosition" xml:space="preserve">
-		<value>копировать позицию</value>
-	</data>
+    <value>копировать позицию</value>
+  </data>
 	<data name="TTN_btnEditPosition" xml:space="preserve">
-		<value>редактировать позицию</value>
-	</data>
+    <value>редактировать позицию</value>
+  </data>
 	<data name="lblPosCol15" xml:space="preserve">
-		<value>П.А.</value>
-	</data>
+    <value>П.А.</value>
+  </data>
 	<data name="lblPosCol16" xml:space="preserve">
-		<value>Пл.А.</value>
-	</data>
+    <value>Пл.А.</value>
+  </data>
 	<data name="lblSetFilter" xml:space="preserve">
-		<value>Установлен фильтр</value>
-	</data>
+    <value>Установлен фильтр</value>
+  </data>
 	<data name="TTN_lblProductNameRus" xml:space="preserve">
-		<value>Название товара (рус)</value>
-	</data>
+    <value>Название товара (рус)</value>
+  </data>
 	<data name="TTN_lblProductNameLat" xml:space="preserve">
-		<value>Название товара (лат)</value>
-	</data>
+    <value>Название товара (лат)</value>
+  </data>
 	<data name="TTN_lblServiceNameRus" xml:space="preserve">
-		<value>Название услуги (рус)</value>
-	</data>
+    <value>Название услуги (рус)</value>
+  </data>
 	<data name="TTN_lblServiceNameLat" xml:space="preserve">
-		<value>Название услуги (лат)</value>
-	</data>
+    <value>Название услуги (лат)</value>
+  </data>
 	<data name="lblEditFilter" xml:space="preserve">
-		<value>Редактировать фильтр</value>
-	</data>
+    <value>Редактировать фильтр</value>
+  </data>
 	<data name="lblFieldValue" xml:space="preserve">
-		<value>Значение поля</value>
-	</data>
+    <value>Значение поля</value>
+  </data>
 	<data name="lAnd" xml:space="preserve">
-		<value>и</value>
-	</data>
+    <value>и</value>
+  </data>
 	<data name="TTN_FFrom" xml:space="preserve">
-		<value>с</value>
-	</data>
+    <value>с</value>
+  </data>
 	<data name="lblSelectAll" xml:space="preserve">
-		<value>Выделить все</value>
-	</data>
+    <value>Выделить все</value>
+  </data>
 	<data name="msgGridUniqError" xml:space="preserve">
-		<value>Отобразить список уникальных значений невозможно, т.к. количество таких значений превышает установленный лимит!</value>
-	</data>
+    <value>Отобразить список уникальных значений невозможно, т.к. количество таких значений превышает установленный лимит!</value>
+  </data>
 	<data name="msgGridUseFilterFieldType" xml:space="preserve">
-		<value>Воспользуйтесь фильтром по типу поля!</value>
-	</data>
+    <value>Воспользуйтесь фильтром по типу поля!</value>
+  </data>
 	<data name="msgOpenSettingFilter" xml:space="preserve">
-		<value>Открыть настройки фильтрации и сортировки колонки.</value>
-	</data>
+    <value>Открыть настройки фильтрации и сортировки колонки.</value>
+  </data>
 	<data name="lblSortedBy" xml:space="preserve">
-		<value>Отсортировано по</value>
-	</data>
+    <value>Отсортировано по</value>
+  </data>
 	<data name="msgGrigSordBackOrder" xml:space="preserve">
-		<value>Нажмите на иконку, чтобы отсортировать в обратном направлении.</value>
-	</data>
+    <value>Нажмите на иконку, чтобы отсортировать в обратном направлении.</value>
+  </data>
 	<data name="lblAscendingSort" xml:space="preserve">
-		<value>возрастанию</value>
-	</data>
+    <value>возрастанию</value>
+  </data>
 	<data name="lblDescendingSort" xml:space="preserve">
-		<value>убыванию</value>
-	</data>
+    <value>убыванию</value>
+  </data>
 	<data name="lblColumnSortOrder" xml:space="preserve">
-		<value>Указывает в каком порядке сортируются колонки.</value>
-	</data>
+    <value>Указывает в каком порядке сортируются колонки.</value>
+  </data>
 	<data name="lblFilterAndSort" xml:space="preserve">
-		<value>Фильтрация и сортировка</value>
-	</data>
+    <value>Фильтрация и сортировка</value>
+  </data>
 	<data name="msgSortOrderAZ" xml:space="preserve">
-		<value>Сортировка от А до Я</value>
-	</data>
+    <value>Сортировка от А до Я</value>
+  </data>
 	<data name="msgSortOrderMinMax" xml:space="preserve">
-		<value>Сортировка от минимального к максимальному</value>
-	</data>
+    <value>Сортировка от минимального к максимальному</value>
+  </data>
 	<data name="msgSortOrderMaxMin" xml:space="preserve">
-		<value>Сортировка от максимального к минимальному</value>
-	</data>
+    <value>Сортировка от максимального к минимальному</value>
+  </data>
 	<data name="msgSortOrderZA" xml:space="preserve">
-		<value>Сортировка от Я до А</value>
-	</data>
+    <value>Сортировка от Я до А</value>
+  </data>
 	<data name="msgGrigNoSort" xml:space="preserve">
-		<value>Не сортировать</value>
-	</data>
+    <value>Не сортировать</value>
+  </data>
 	<data name="msgGrigNoFilter" xml:space="preserve">
-		<value>Не фильтровать</value>
-	</data>
+    <value>Не фильтровать</value>
+  </data>
 	<data name="lNo" xml:space="preserve">
-		<value>не</value>
-	</data>
+    <value>не</value>
+  </data>
 	<data name="lblEqually" xml:space="preserve">
-		<value>равно</value>
-	</data>
+    <value>равно</value>
+  </data>
 	<data name="lblGridSetNumericFilter" xml:space="preserve">
-		<value>Установить числовой фильтр</value>
-	</data>
+    <value>Установить числовой фильтр</value>
+  </data>
 	<data name="lblGridSetDateFilter" xml:space="preserve">
-		<value>Установить фильтр по дате</value>
-	</data>
+    <value>Установить фильтр по дате</value>
+  </data>
 	<data name="lblGridSetTextFilter" xml:space="preserve">
-		<value>Установить текстовый фильтр</value>
-	</data>
+    <value>Установить текстовый фильтр</value>
+  </data>
 	<data name="msgErrorIdColumn" xml:space="preserve">
-		<value>Ошибка определения идентификатора колонки</value>
-	</data>
+    <value>Ошибка определения идентификатора колонки</value>
+  </data>
 	<data name="lblGridRecordCount" xml:space="preserve">
-		<value>Всего записей</value>
-	</data>
+    <value>Всего записей</value>
+  </data>
 	<data name="msgPrintCount" xml:space="preserve">
-		<value>Внимание! На печать выведено только</value>
-	</data>
+    <value>Внимание! На печать выведено только</value>
+  </data>
 	<data name="lOf" xml:space="preserve">
-		<value>из</value>
-	</data>
+    <value>из</value>
+  </data>
 	<data name="lblGridRecords" xml:space="preserve">
-		<value>записей</value>
-	</data>
+    <value>записей</value>
+  </data>
 	<data name="msgErrorIdColumnFound" xml:space="preserve">
-		<value>Не удалось найти колонку по индентификатору.</value>
-	</data>
+    <value>Не удалось найти колонку по индентификатору.</value>
+  </data>
 	<data name="lblGridEdit" xml:space="preserve">
-		<value>редактировать</value>
-	</data>
+    <value>редактировать</value>
+  </data>
 	<data name="lblGridDelete" xml:space="preserve">
-		<value>удалить</value>
-	</data>
+    <value>удалить</value>
+  </data>
 	<data name="lblGridCopy" xml:space="preserve">
-		<value>копировать</value>
-	</data>
+    <value>копировать</value>
+  </data>
 	<data name="lblNotEqual" xml:space="preserve">
-		<value>не равно</value>
-	</data>
+    <value>не равно</value>
+  </data>
 	<data name="lblEmptyString" xml:space="preserve">
-		<value>пустая строка</value>
-	</data>
+    <value>пустая строка</value>
+  </data>
 	<data name="lblNoValue" xml:space="preserve">
-		<value>не указано ни какое значение</value>
-	</data>
+    <value>не указано ни какое значение</value>
+  </data>
 	<data name="lblNoEmptyString" xml:space="preserve">
-		<value>не пустая строка</value>
-	</data>
+    <value>не пустая строка</value>
+  </data>
 	<data name="lblAnyValueSpecified" xml:space="preserve">
-		<value>указано какое-либо значение</value>
-	</data>
+    <value>указано какое-либо значение</value>
+  </data>
 	<data name="lblBetween" xml:space="preserve">
-		<value>между</value>
-	</data>
+    <value>между</value>
+  </data>
 	<data name="lblInInterval" xml:space="preserve">
-		<value>находится в интервале</value>
-	</data>
+    <value>находится в интервале</value>
+  </data>
 	<data name="lblBeginWith" xml:space="preserve">
-		<value>начинается с</value>
-	</data>
+    <value>начинается с</value>
+  </data>
 	<data name="lblEndsWith" xml:space="preserve">
-		<value>заканчивается на</value>
-	</data>
+    <value>заканчивается на</value>
+  </data>
 	<data name="lblContains" xml:space="preserve">
-		<value>содержит</value>
-	</data>
+    <value>содержит</value>
+  </data>
 	<data name="lblNoContains" xml:space="preserve">
-		<value>не содержит</value>
-	</data>
+    <value>не содержит</value>
+  </data>
 	<data name="lblMore" xml:space="preserve">
-		<value>больше</value>
-	</data>
+    <value>больше</value>
+  </data>
 	<data name="lblMoreOrEqual" xml:space="preserve">
-		<value>больше или равно</value>
-	</data>
+    <value>больше или равно</value>
+  </data>
 	<data name="lblLess" xml:space="preserve">
-		<value>меньше</value>
-	</data>
+    <value>меньше</value>
+  </data>
 	<data name="lblLessOrEqual" xml:space="preserve">
-		<value>меньше или равно</value>
-	</data>
+    <value>меньше или равно</value>
+  </data>
 	<data name="lORUp" xml:space="preserve">
-		<value>ИЛИ</value>
-	</data>
+    <value>ИЛИ</value>
+  </data>
 	<data name="lANDUp" xml:space="preserve">
-		<value>И</value>
-	</data>
+    <value>И</value>
+  </data>
 	<data name="lEmpty" xml:space="preserve">
-		<value>пустые</value>
-	</data>
+    <value>пустые</value>
+  </data>
 	<data name="lblSettingFilter" xml:space="preserve">
-		<value>Задайте фильтр</value>
-	</data>
+    <value>Задайте фильтр</value>
+  </data>
 	<data name="cmdApply" xml:space="preserve">
-		<value>Применить</value>
-	</data>
+    <value>Применить</value>
+  </data>
 	<data name="msgEmptyFilterValue" xml:space="preserve">
-		<value>Не указано значение для фильтра!</value>
-	</data>
+    <value>Не указано значение для фильтра!</value>
+  </data>
 	<data name="TTN_msgFakturaExist" xml:space="preserve">
-		<value>Невозможно изменять связь с корректируемым документом реализации при наличии вытекающего счета-фактуры.
+    <value>Невозможно изменять связь с корректируемым документом реализации при наличии вытекающего счета-фактуры.
 Сперва удалите вытекающий счет-фактуру.</value>
-	</data>
+  </data>
 	<data name="TTN_lblShipmentAmounts" xml:space="preserve">
-		<value>Суммы по отправкам</value>
-	</data>
+    <value>Суммы по отправкам</value>
+  </data>
 	<data name="lblCost" xml:space="preserve">
-		<value>Цена</value>
-	</data>
+    <value>Цена</value>
+  </data>
 	<data name="TTN_lblProductKits" xml:space="preserve">
-		<value>наборы товара</value>
-	</data>
+    <value>наборы товара</value>
+  </data>
 	<data name="TTN_lblSetCost" xml:space="preserve">
-		<value>Набор расходов со склада</value>
-	</data>
+    <value>Набор расходов со склада</value>
+  </data>
 	<data name="TTN_lblSetArrival" xml:space="preserve">
-		<value>Набор приходов на склад</value>
-	</data>
+    <value>Набор приходов на склад</value>
+  </data>
 	<data name="TTN_lblResourceConsumption" xml:space="preserve">
-		<value>для расхода ресурса</value>
-	</data>
+    <value>для расхода ресурса</value>
+  </data>
 	<data name="TTN_lblChoiceTypeSets" xml:space="preserve">
-		<value>Выбор типа наборов</value>
-	</data>
+    <value>Выбор типа наборов</value>
+  </data>
 	<data name="TTN_lblOwherResource" xml:space="preserve">
-		<value>Владелец ресурса</value>
-	</data>
+    <value>Владелец ресурса</value>
+  </data>
 	<data name="lblResource" xml:space="preserve">
-		<value>Ресурс</value>
-	</data>
+    <value>Ресурс</value>
+  </data>
 	<data name="lblPlace" xml:space="preserve">
-		<value>Местоположение</value>
-	</data>
+    <value>Местоположение</value>
+  </data>
 	<data name="lblStore" xml:space="preserve">
-		<value>Склад</value>
-	</data>
+    <value>Склад</value>
+  </data>
 	<data name="TTN_ntfNotStavkaNDS" xml:space="preserve">
-		<value>Не заполнено поле 'Cтавка НДС'</value>
-	</data>
+    <value>Не заполнено поле 'Cтавка НДС'</value>
+  </data>
 	<data name="TTN_lblCheckRest" xml:space="preserve">
-		<value>Проверить остаток</value>
-	</data>
+    <value>Проверить остаток</value>
+  </data>
 	<data name="TTN_lblRest" xml:space="preserve">
-		<value>Остаток</value>
-	</data>
+    <value>Остаток</value>
+  </data>
 	<data name="lblPayerAgent" xml:space="preserve">
-		<value>Плательщик является агентом</value>
-	</data>
+    <value>Плательщик является агентом</value>
+  </data>
 	<data name="lblShipperAgent" xml:space="preserve">
-		<value>Поставщик является агентом</value>
-	</data>
+    <value>Поставщик является агентом</value>
+  </data>
 	<data name="TTN_lblShowAllRest" xml:space="preserve">
-		<value>Отображать все остатки</value>
-	</data>
+    <value>Отображать все остатки</value>
+  </data>
 	<data name="TTN_lblVagonFilter" xml:space="preserve">
-		<value>Фильтр по номеру вагона</value>
-	</data>
+    <value>Фильтр по номеру вагона</value>
+  </data>
 	<data name="TTN_lblDisplaySetsDocument" xml:space="preserve">
-		<value>Отображать наборы данного документа</value>
-	</data>
+    <value>Отображать наборы данного документа</value>
+  </data>
 	<data name="TTN_lblFilterInvoiceNumber" xml:space="preserve">
-		<value>Фильтр по номеру накладной</value>
-	</data>
+    <value>Фильтр по номеру накладной</value>
+  </data>
 	<data name="TTN_lblRests" xml:space="preserve">
-		<value>Остатки</value>
-	</data>
+    <value>Остатки</value>
+  </data>
 	<data name="lblMove" xml:space="preserve">
-		<value>Перемещение</value>
-	</data>
+    <value>Перемещение</value>
+  </data>
 	<data name="TTN_lblPurchase" xml:space="preserve">
-		<value>Покупка</value>
-	</data>
+    <value>Покупка</value>
+  </data>
 	<data name="TTN_lblProduction" xml:space="preserve">
-		<value>Производство</value>
-	</data>
+    <value>Производство</value>
+  </data>
 	<data name="TTN_msgWorkDocumentNotCompleted" xml:space="preserve">
-		<value>Работа с документом не завершена!</value>
-	</data>
+    <value>Работа с документом не завершена!</value>
+  </data>
 	<data name="TTN_lblConsumption" xml:space="preserve">
-		<value>Расход</value>
-	</data>
+    <value>Расход</value>
+  </data>
 	<data name="TTN_lblReceipt" xml:space="preserve">
-		<value>Приход</value>
-	</data>
+    <value>Приход</value>
+  </data>
 	<data name="TTN_lblFact" xml:space="preserve">
-		<value>Факт.</value>
-	</data>
+    <value>Факт.</value>
+  </data>
 	<data name="TTN_lblCalculeted" xml:space="preserve">
-		<value>Расчет</value>
-	</data>
+    <value>Расчет</value>
+  </data>
 	<data name="TTN_lblSet" xml:space="preserve">
-		<value>Набор</value>
-	</data>
+    <value>Набор</value>
+  </data>
 	<data name="TTN_lblRestSkladOn" xml:space="preserve">
-		<value>Остаток на складе на</value>
-	</data>
+    <value>Остаток на складе на</value>
+  </data>
 	<data name="TTN_lblNoSet" xml:space="preserve">
-		<value>без набора</value>
-	</data>
+    <value>без набора</value>
+  </data>
 	<data name="TTN_lblAllSet" xml:space="preserve">
-		<value>Всего набрать</value>
-	</data>
+    <value>Всего набрать</value>
+  </data>
 	<data name="TTN_lblDistributeByDocuments" xml:space="preserve">
-		<value>Распределить по документам</value>
-	</data>
+    <value>Распределить по документам</value>
+  </data>
 	<data name="TTN_lblStockCode" xml:space="preserve">
-		<value>Код движения на складе</value>
-	</data>
+    <value>Код движения на складе</value>
+  </data>
 	<data name="lblMaxValue" xml:space="preserve">
-		<value>Максимальное значение</value>
-	</data>
+    <value>Максимальное значение</value>
+  </data>
 	<data name="TTN_lblFillAreasWagonShipments" xml:space="preserve">
-		<value>Заполнить участки отправок вагонов</value>
-	</data>
+    <value>Заполнить участки отправок вагонов</value>
+  </data>
 	<data name="TTN_lblSelectAreasWagonShipments" xml:space="preserve">
-		<value>Выбрать участки отправок вагонов</value>
-	</data>
+    <value>Выбрать участки отправок вагонов</value>
+  </data>
 	<data name="TTN_lblChoiceContact" xml:space="preserve">
-		<value>Выбор контакта</value>
-	</data>
+    <value>Выбор контакта</value>
+  </data>
 	<data name="TTN_lblChooseContact" xml:space="preserve">
-		<value>Выберите контакт</value>
-	</data>
+    <value>Выберите контакт</value>
+  </data>
 	<data name="TTN_lblChoiceEmployee" xml:space="preserve">
-		<value>Выбор сотрудника</value>
-	</data>
+    <value>Выбор сотрудника</value>
+  </data>
 	<data name="Vacation_ErrSubDateSubstitution" xml:space="preserve">
-		<value>Даты замещения не соответствуют датам отпуска.</value>
-	</data>
+    <value>Даты замещения не соответствуют датам отпуска.</value>
+  </data>
 	<data name="Vacation_SubEmployeeLbl" xml:space="preserve">
-		<value>Замещающий сотрудник</value>
-	</data>
+    <value>Замещающий сотрудник</value>
+  </data>
 	<data name="TTN_mgsReplaceValues" xml:space="preserve">
-		<value>Во все поля формы будут установлены значения из корректируемого документа. Продолжить?</value>
-	</data>
+    <value>Во все поля формы будут установлены значения из корректируемого документа. Продолжить?</value>
+  </data>
 	<data name="TTN_lblSaveDocument" xml:space="preserve">
-		<value>Сохранение документа</value>
-	</data>
+    <value>Сохранение документа</value>
+  </data>
 	<data name="TTN_msgNeedSaveDocument" xml:space="preserve">
-		<value>Для редактирования сохраните документ</value>
-	</data>
+    <value>Для редактирования сохраните документ</value>
+  </data>
 	<data name="TTN_lblOpenInDocumentsArchive" xml:space="preserve">
-		<value>открыть в Архиве Документов</value>
-	</data>
+    <value>открыть в Архиве Документов</value>
+  </data>
 	<data name="TTN_lblContinueEditing" xml:space="preserve">
-		<value>продолжить редактирование</value>
-	</data>
+    <value>продолжить редактирование</value>
+  </data>
 	<data name="TTN_lblType" xml:space="preserve">
-		<value>Тип</value>
-	</data>
+    <value>Тип</value>
+  </data>
 	<data name="TTN_lblSteward" xml:space="preserve">
-		<value>Распорядитель</value>
-	</data>
+    <value>Распорядитель</value>
+  </data>
 	<data name="TTN_lblCreateContact" xml:space="preserve">
-		<value>Создать новый контакт</value>
-	</data>
+    <value>Создать новый контакт</value>
+  </data>
 	<data name="lblGridGroupingPanelEmptyText" xml:space="preserve">
-		<value>Перетащите заголовок столбца сюда, чтобы сгруппировать по этому столбцу</value>
-	</data>
+    <value>Перетащите заголовок столбца сюда, чтобы сгруппировать по этому столбцу</value>
+  </data>
 	<data name="TTN_msgNoMris" xml:space="preserve">
-		<value>Не указано ни одного товара.</value>
-	</data>
+    <value>Не указано ни одного товара.</value>
+  </data>
 	<data name="TTN_msgTaxInflated" xml:space="preserve">
-		<value>В результате округления были слегка завышены налоги.</value>
-	</data>
+    <value>В результате округления были слегка завышены налоги.</value>
+  </data>
 	<data name="TTN_msgVsegoChanged" xml:space="preserve">
-		<value>В результате округления было изменено значение Всего.</value>
-	</data>
+    <value>В результате округления было изменено значение Всего.</value>
+  </data>
 	<data name="TTN_msgRoundingNotSuccessful." xml:space="preserve">
-		<value>Округление прошло не удачно.</value>
-	</data>
+    <value>Округление прошло не удачно.</value>
+  </data>
 	<data name="TTN_msgAccountNotAvailable" xml:space="preserve">
-		<value>расчетный счет не доступен</value>
-	</data>
+    <value>расчетный счет не доступен</value>
+  </data>
 	<data name="TTN_ntfPersonStoreDocument" xml:space="preserve">
-		<value>расчетный счет не соответствует счету в договоре</value>
-	</data>
+    <value>расчетный счет не соответствует счету в договоре</value>
+  </data>
 	<data name="TTN_ntfPersonStoreEnclosure" xml:space="preserve">
-		<value>расчетный счет не соответствует счету в приложении</value>
-	</data>
+    <value>расчетный счет не соответствует счету в приложении</value>
+  </data>
 	<data name="TTN_ntfPersonNotTested" xml:space="preserve">
-		<value>лицо не проверено</value>
-	</data>
+    <value>лицо не проверено</value>
+  </data>
 	<data name="TTN_ntfPersonNotOKPO" xml:space="preserve">
-		<value>у лица отсутствует ОКПО</value>
-	</data>
+    <value>у лица отсутствует ОКПО</value>
+  </data>
 	<data name="TTN_nntfPersonNotMatchContract" xml:space="preserve">
-		<value>лицо не соответствует ни одному лицу в договоре</value>
-	</data>
+    <value>лицо не соответствует ни одному лицу в договоре</value>
+  </data>
 	<data name="TTN_nntfPersonNotMatchEnclosure" xml:space="preserve">
-		<value>лицо не соответствует ни одному лицу в приложении</value>
-	</data>
+    <value>лицо не соответствует ни одному лицу в приложении</value>
+  </data>
 	<data name="TTN_ntfNoLinkContractAnfEnclosure" xml:space="preserve">
-		<value>Отсутствует связь приложения с договором! Код приложения: </value>
-	</data>
+    <value>Отсутствует связь приложения с договором! Код приложения: </value>
+  </data>
 	<data name="TTN_ntfGetTypeByContractNoForm" xml:space="preserve">
-		<value>Попытка получить вид взаиморасчета у договора без электронной формы! Код договора: </value>
-	</data>
+    <value>Попытка получить вид взаиморасчета у договора без электронной формы! Код договора: </value>
+  </data>
 	<data name="TTN_msgChosenCorrectedSelf" xml:space="preserve">
-		<value>В качестве корректируемого документа выбран текущий документ. Выберите документ, отличный от текущего.</value>
-	</data>
+    <value>В качестве корректируемого документа выбран текущий документ. Выберите документ, отличный от текущего.</value>
+  </data>
 	<data name="TTN_ntfNoCorrectedDocument" xml:space="preserve">
-		<value>Выберите корректировочный документ.</value>
-	</data>
+    <value>Выберите корректировочный документ.</value>
+  </data>
 	<data name="TTN_msg_Больше1Корректирующего" xml:space="preserve">
-		<value>Ошибка! Выбранный документ одновременно скорректирован с помощью нескольких документов.</value>
-	</data>
+    <value>Ошибка! Выбранный документ одновременно скорректирован с помощью нескольких документов.</value>
+  </data>
 	<data name="_Msg_РазныеСвойства" xml:space="preserve">
-		<value>Значения поля {0} в выбранных участах отправок различно. Добавление оказанных услуг в акт выполненных работ невозможно.</value>
-	</data>
+    <value>Значения поля {0} в выбранных участах отправок различно. Добавление оказанных услуг в акт выполненных работ невозможно.</value>
+  </data>
 	<data name="_Msg_НеСовпадаютСвойства" xml:space="preserve">
-		<value>Поля {0} в выбранных участах отправок не совпадают с указанными в акте. Добавление оказанных услуг в акт выполненных работ невозможно.</value>
-	</data>
+    <value>Поля {0} в выбранных участах отправок не совпадают с указанными в акте. Добавление оказанных услуг в акт выполненных работ невозможно.</value>
+  </data>
 	<data name="btnOldVersion" xml:space="preserve">
-		<value>Старая версия</value>
-	</data>
+    <value>Старая версия</value>
+  </data>
 	<data name="btnNewVersion" xml:space="preserve">
-		<value>Новая версия</value>
-	</data>
+    <value>Новая версия</value>
+  </data>
 	<data name="TTN_lblSectionShipperToGo" xml:space="preserve">
-		<value>Совпадает с поставщиком:</value>
-	</data>
+    <value>Совпадает с поставщиком:</value>
+  </data>
 	<data name="TTN_lblSectionPayerToGp" xml:space="preserve">
-		<value>Совпадает с плательщиком:</value>
-	</data>
+    <value>Совпадает с плательщиком:</value>
+  </data>
 	<data name="TTN_msgGridNoUsl" xml:space="preserve">
-		<value>В данной ТТН не задана ни одна позиция с услугой. Для добавления услуги нажмите на кнопку «Добавить услугу» или «Insert» на клавиатуре.</value>
-	</data>
+    <value>В данной ТТН не задана ни одна позиция с услугой. Для добавления услуги нажмите на кнопку «Добавить услугу» или «Insert» на клавиатуре.</value>
+  </data>
 	<data name="TTN_msgGridNoMris" xml:space="preserve">
-		<value>В данной ТТН не задана ни одна позиция с товаром. Для добавления товара нажмите на кнопку «Добавить товар» или «Insert» на клавиатуре.</value>
-	</data>
+    <value>В данной ТТН не задана ни одна позиция с товаром. Для добавления товара нажмите на кнопку «Добавить товар» или «Insert» на клавиатуре.</value>
+  </data>
 	<data name="TTN_lblGoAndShipper" xml:space="preserve">
-		<value>Привести в соответствие грузоотправителя и поставщика</value>
-	</data>
+    <value>Привести в соответствие грузоотправителя и поставщика</value>
+  </data>
 	<data name="TTN_lblGpAndPayer" xml:space="preserve">
-		<value>Привести в соответствие грузополучателя и плательщика</value>
-	</data>
+    <value>Привести в соответствие грузополучателя и плательщика</value>
+  </data>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
-		<value>не подписана куратором договора</value>
+    <value>не подписана куратором договора</value>
+  </data>
+	<data name="TTN_msgNoStorage" xml:space="preserve">
+    <value>Не заполнено обязательное поле склада.</value>
+  </data>
+	<data name="TTN_msgEditingNoPossible" xml:space="preserve">
+    <value>Редактирование позиции документа не возможно.</value>
+  </data>
+	<data name="lblGridDeleteCulumnGrouping" xml:space="preserve">
+    <value>Не группировать по данному столбцу</value>
+  </data>
+	<data name="TTN_msgLastMrisDelete" xml:space="preserve">
+    <value>Нельзя удалять последний товар в ТТН.</value>
+  </data>
+	<data name="lblGridRecordCountGroup" xml:space="preserve">
+    <value>записей в группе</value>
+  </data>
+	<data name="lblGridColumnValueBooleanTrue" xml:space="preserve">
+    <value>Истина</value>
+  </data>
+	<data name="lblGridColumnValueBooleanFalse" xml:space="preserve">
+    <value>Ложь</value>
+  </data>
+	<data name="lblGridGroupExpand" xml:space="preserve">
+    <value>Развернуть/Свернуть группу</value>
+  </data>
+	<data name="Inv_lblLocationsAndSockets" xml:space="preserve">
+    <value>Расположения и розетки</value>
+  </data>
+	<data name="Inv_lblSpecifications" xml:space="preserve">
+    <value>Характеристики</value>
+  </data>
+	<data name="Inv_lblSockets" xml:space="preserve">
+    <value>Розетки</value>
+  </data>
+	<data name="Inv_lblEmployees" xml:space="preserve">
+    <value>Сотрудники</value>
+  </data>
+	<data name="Inv_lblEquipment" xml:space="preserve">
+    <value>Оборудование</value>
+  </data>
+	<data name="Inv_lblLocation" xml:space="preserve">
+    <value>Расположение</value>
+  </data>
+	<data name="Inv_lblSocket" xml:space="preserve">
+    <value>Розетка</value>
+  </data>
+	<data name="Inv_lblWorks" xml:space="preserve">
+    <value>Работает</value>
+  </data>
+	<data name="Inv_lblNote" xml:space="preserve">
+    <value>Примечание</value>
+  </data>
+	<data name="Inv_lblAddSocket" xml:space="preserve">
+    <value>Добавить розетку</value>
+  </data>
+	<data name="Inv_lblAddingSocket" xml:space="preserve">
+    <value>Добавление розетки</value>
+  </data>
+	<data name="Inv_lblSocketEditing" xml:space="preserve">
+    <value>Редактирование розетки</value>
+  </data>
+	<data name="_Msg_НеСохраняется" xml:space="preserve">
+    <value>Сохранение невозможно.</value>
+  </data>
+	<data name="Inv_msgLocation" xml:space="preserve">
+    <value>расположения</value>
+  </data>
+	<data name="Inv_lblWorkplace" xml:space="preserve">
+    <value>Рабочее место</value>
+  </data>
+	<data name="Inv_lblGuestWorkplaceShiftWork" xml:space="preserve">
+    <value>Гостевое рабочее место, посменная работа</value>
+  </data>
+	<data name="Inv_lblHotelRoom" xml:space="preserve">
+    <value>Номер гостинницы</value>
+  </data>
+	<data name="Inv_lblEquipmentWarehouse" xml:space="preserve">
+    <value>Склад оборудования</value>
+  </data>
+	<data name="Inv_lblEquipmentLocated" xml:space="preserve">
+    <value>В расположении может находиться оборудование</value>
+  </data>
+	<data name="Inv_lblOffice" xml:space="preserve">
+    <value>Офис</value>
+  </data>
+	<data name="Inv_lblLocationServer" xml:space="preserve">
+    <value>Расположение с отдельной серверной</value>
+  </data>
+	<data name="Inv_lblNearestPrinter" xml:space="preserve">
+    <value>Ближайший принтер</value>
+  </data>
+	<data name="Inv_msgNoSocketsAtLocation" xml:space="preserve">
+    <value>На данном расположении нет розеток</value>
+  </data>
+	<data name="Inv_msgNoEmployeesAtLocation" xml:space="preserve">
+    <value>На данном расположении нет сотрудников</value>
+  </data>
+	<data name="Inv_msgNoEquipmentAtLocation" xml:space="preserve">
+    <value>На данном расположении нет оборудования</value>
+  </data>
+	<data name="Inv_msgNoLocationName" xml:space="preserve">
+    <value>не заполнено название расположения</value>
+  </data>
+	<data name="Inv_msgNoSocketName" xml:space="preserve">
+    <value>не заполнено название розетки</value>
+  </data>
+	<data name="Inv_msgChangeOrderTreeView" xml:space="preserve">
+    <value>Вы уверены что хотите изменить порядок расположений в рамках одной группы</value>
+  </data>
+	<data name="Inv_msgMoveItemTreeView1" xml:space="preserve">
+    <value>Вы уверены что хотите сделать расположение</value>
+  </data>
+	<data name="Inv_msgMoveItemTreeView2" xml:space="preserve">
+    <value>дочерним по отношению к расположению</value>
+  </data>
+	<data name="Inv_lblUnorganizedComputerizedWorkplace" xml:space="preserve">
+    <value>Не организованное компьютеризированное рабочее место</value>
+  </data>
+	<data name="Inv_ComputerizedWorkplace" xml:space="preserve">
+    <value>Компьютеризированное рабочее место</value>
+  </data>
+	<data name="Inv_lblGuestWorkplace" xml:space="preserve">
+    <value>Гостевое рабочее место</value>
+  </data>
+	<data name="DIRECTIONS_FORM_ADVINFO_Title" xml:space="preserve">
+    <value>Дополнительная информация</value>
+  </data>
+	<data name="Cfi_lblItem" xml:space="preserve">
+    <value>Статья</value>
+  </data>
+	<data name="Cfi_lblType" xml:space="preserve">
+    <value>Вид</value>
+  </data>
+	<data name="Cfi_msgCashFlowArticles" xml:space="preserve">
+    <value>статьи движения денежных средств</value>
+  </data>
+	<data name="Cfi_msgCashFlowItemNotFilled" xml:space="preserve">
+    <value>не заполнена статья движения денежных средств</value>
+  </data>
+	<data name="Cfi_lblSortTreeLocation" xml:space="preserve">
+    <value>расположению в дереве</value>
+  </data>
+	<data name="Cfi_lblSortAlphabet" xml:space="preserve">
+    <value>алфавиту</value>
+  </data>
+	<data name="Cfi_lblSortBy" xml:space="preserve">
+    <value>Сортировка по</value>
+  </data>
+	<data name="Cfi_lblCode" xml:space="preserve">
+    <value>Код</value>
+  </data>
+	<data name="Cfi_lblName" xml:space="preserve">
+    <value>Название</value>
+  </data>
+	<data name="Cfi_msgNotFilledField" xml:space="preserve">
+    <value>Не заполнено поле</value>
+  </data>
+	<data name="Cfi_msgRecordCannotBeSaved" xml:space="preserve">
+    <value>Запись не может быть сохранена.</value>
+  </data>
+	<data name="Cfi_lblTypeCashFlow" xml:space="preserve">
+    <value>Вид движения денежных средств </value>
+  </data>
+	<data name="Cfi_ ERRMoveCashInitialized" xml:space="preserve">
+    <value>Не инициализирован объект "Вид Движений Денежных Средств". Откройте редактируемую позицию повторно.</value>
+  </data>
+	<data name="Cfi_lblNameIn1C" xml:space="preserve">
+    <value>Название в 1С</value>
+  </data>
+	<data name="lblGridAdd" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+	<data name="Cfi_msgIdDubl" xml:space="preserve">
+    <value>Уже существует запись с таким кодом.</value>
+  </data>
+	<data name="Cfi_lblCashFlowItems" xml:space="preserve">
+    <value>Статьи движения денежных средств</value>
+  </data>
+	<data name="Bp_lblBusinesProjects" xml:space="preserve">
+    <value>Бизнес-проекты</value>
+  </data>
+	<data name="Bp_btnSave" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+	<data name="Bp_btnCancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+	<data name="Cfi_lblSave" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+	<data name="Cfi_lblCancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+	<data name="Cfi_msgTypeCashFlow" xml:space="preserve">
+    <value>вида движения денежных средств</value>
+  </data>
+	<data name="Cfi_msgCashFlowTypeNotFilled" xml:space="preserve">
+    <value>не заполнен вид движения денежных средств</value>
+  </data>
+	<data name="Cfi_lblModesMovement" xml:space="preserve">
+    <value>Виды движения</value>
+  </data>
+	<data name="lblSearch" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+	<data name="BProject_errFailedGenerateButtons" xml:space="preserve">
+    <value>Не удалось сформировать кнопки формы</value>
+  </data>
+	<data name="Cfi_lblSearch" xml:space="preserve">
+    <value>Найти</value>
+  </data>
+	<data name="lblFiltered" xml:space="preserve">
+    <value>отфильтровано</value>
+  </data>
+	<data name="lblOver100" xml:space="preserve">
+    <value>Найдено более {0} записей.  Отображаются только {0}, уточните критерии поиска.</value>
+  </data>
+	<data name="ExRate_lblExRates" xml:space="preserve">
+    <value>Курсы валют</value>
+  </data>
+	<data name="ExRate_lblExRateDetail" xml:space="preserve">
+    <value>Курсы валют</value>
+  </data>
+	<data name="ExRate_lblExRateAverage" xml:space="preserve">
+    <value>Средние курсы</value>
+  </data>
+	<data name="ExRate_errFailedGenerateButtons" xml:space="preserve">
+    <value>Не удалось сформировать кнопки формы</value>
+  </data>
+	<data name="ExRate_msgEmptyData" xml:space="preserve">
+    <value>За выбранный период не найдено курса валют</value>
+  </data>
+	<data name="ExRate_btnDeletePosition" xml:space="preserve">
+    <value>Удалить курс</value>
+  </data>
+	<data name="ExRate_btnEditPosition" xml:space="preserve">
+    <value>Редактировать курс</value>
+  </data>
+	<data name="ExRate_lblSelect" xml:space="preserve">
+    <value>Отобразить</value>
+  </data>
+	<data name="ExRate_btnAddPosition" xml:space="preserve">
+    <value>Добавить курс</value>
+  </data>
+	<data name="ExRate_lblAddingRate" xml:space="preserve">
+    <value>Добавление курса</value>
+  </data>
+	<data name="ExRate_lblCurrency" xml:space="preserve">
+    <value>Валюта</value>
+  </data>
+	<data name="ExRate_lblRateDate" xml:space="preserve">
+    <value>Дата торгов</value>
+  </data>
+	<data name="ExRate_lblRateValueRub" xml:space="preserve">
+    <value>Сумма, руб.</value>
+  </data>
+	<data name="ExRate_lblRateUnits" xml:space="preserve">
+    <value>За сколько</value>
+  </data>
+	<data name="ExRate_lblRateChangedPerson" xml:space="preserve">
+    <value>ФИО</value>
+  </data>
+	<data name="ExRate_lblRateChangedDate" xml:space="preserve">
+    <value>Изменено</value>
+  </data>
+	<data name="ExRate_lblExRateRub" xml:space="preserve">
+    <value>Курс, руб.</value>
+  </data>
+	<data name="ExRate_lblExRateCross" xml:space="preserve">
+    <value>Кросс-курсы</value>
+  </data>
+	<data name="STORE_SP_Btn_Report" xml:space="preserve">
+    <value>Сформировать отчет</value>
+  </data>
+	<data name="STORE_SP_Btn_Clear" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+	<data name="STORE_SP_Btn_Close" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+	<data name="STORE_SP_Lbl_Requisites" xml:space="preserve">
+    <value>Реквизиты</value>
+  </data>
+	<data name="STORE_SP_Lbl_Lang" xml:space="preserve">
+    <value>Выберите язык, на котором будет сформирован отчет</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data" xml:space="preserve">
+    <value>Выберите реквизиты компании, которые хотите включить в отчет</value>
+  </data>
+	<data name="STORE_SP_Lbl_LangEn" xml:space="preserve">
+    <value>На английском</value>
+  </data>
+	<data name="STORE_SP_Lbl_LangRu" xml:space="preserve">
+    <value>На языке страны регистрации компании</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Name" xml:space="preserve">
+    <value>Название</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Inn" xml:space="preserve">
+    <value>ИНН</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Kpp" xml:space="preserve">
+    <value>КПП</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Address" xml:space="preserve">
+    <value>Адрес</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_RS" xml:space="preserve">
+    <value>Расчетый счет(руб.) </value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_ValS" xml:space="preserve">
+    <value>Валютный счет</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Currency" xml:space="preserve">
+    <value>Валюта</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Account" xml:space="preserve">
+    <value>Счет</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Director" xml:space="preserve">
+    <value>Директор</value>
+  </data>
+	<data name="STORE_SP_Btn_Clear_Title" xml:space="preserve">
+    <value>Очистить выбранные значения</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Bank" xml:space="preserve">
+    <value>Банк</value>
+  </data>
+	<data name="STORE_SP_Msg_Error" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+	<data name="STORE_SP_Msg_1" xml:space="preserve">
+    <value>Для формирования отчета необходимо выбрать хотя бы один реквизит</value>
+  </data>
+	<data name="STORE_SP_Msg_2" xml:space="preserve">
+    <value>Для формирования отчета необходимо указать расчетный счет</value>
+  </data>
+	<data name="STORE_SP_Msg_3" xml:space="preserve">
+    <value>Для формирования отчета необходимо указать валюту</value>
+  </data>
+	<data name="STORE_SP_Msg_4" xml:space="preserve">
+    <value>Для формирования отчета необходимо указать валютный счет</value>
+  </data>
+	<data name="STORE_SP_Msg_5" xml:space="preserve">
+    <value>Для формирования отчета необходимо указать директора</value>
+  </data>
+	<data name="ExRate_msgCurrencyNotSelected" xml:space="preserve">
+    <value>Не выбрана валюта</value>
+  </data>
+	<data name="ExRate_msgRateDateNotSelected" xml:space="preserve">
+    <value>Не выбрана дата торгов</value>
+  </data>
+	<data name="ExRate_msgRateValueNotEntered" xml:space="preserve">
+    <value>Не заполнена сумма</value>
+  </data>
+	<data name="ExRate_msgRateUnitsNotEntered" xml:space="preserve">
+    <value>Не заполнено количество единиц</value>
+  </data>
+	<data name="ExRate_errFailedGenerateCurrencyList" xml:space="preserve">
+    <value>Не удалось сформировать список валют</value>
+  </data>
+	<data name="ExRate_lblChange" xml:space="preserve">
+    <value>Изменение</value>
+  </data>
+	<data name="ExRate_lblDate" xml:space="preserve">
+    <value>Дата</value>
+  </data>
+	<data name="ExRate_errFailedGettingRateAvg" xml:space="preserve">
+    <value>Не удалось получить средние курсы</value>
+  </data>
+	<data name="ExRate_lblCurrencies" xml:space="preserve">
+    <value>Валюты</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_Spec" xml:space="preserve">
+    <value>Специальный счёт(руб.)</value>
+  </data>
+	<data name="STORE_SP_Msg_6" xml:space="preserve">
+    <value>Для формирования отчета необходимо указать специальный счет</value>
+  </data>
+	<data name="ExRate_lblEditingRate" xml:space="preserve">
+    <value>Редактирование курса</value>
+  </data>
+	<data name="Inv_lblPhoneCodes" xml:space="preserve">
+    <value>Телефонные коды</value>
+  </data>
+	<data name="Inv_lblTerritories" xml:space="preserve">
+    <value>Территория</value>
+  </data>
+	<data name="Inv_msgNoTerritories" xml:space="preserve">
+    <value>Нет территорий для отображения</value>
+  </data>
+	<data name="Inv_lblConnected" xml:space="preserve">
+    <value>Подключено</value>
+  </data>
+	<data name="Inv_lblEmployee" xml:space="preserve">
+    <value>Сотрудник</value>
+  </data>
+	<data name="Inv_lblCompany" xml:space="preserve">
+    <value>Компания</value>
+  </data>
+	<data name="errAccessDenied" xml:space="preserve">
+    <value>У Вас нет прав для данной операции!</value>
+  </data>
+	<data name="STORE_SP_Lbl_Data_OGRN" xml:space="preserve">
+    <value>ОГРН</value>
+  </data>
+	<data name="ExRate_msgRateExists" xml:space="preserve">
+    <value>Курс на указанную дату уже существует</value>
+  </data>
+	<data name="DIRECTIONS_btnGO" xml:space="preserve">
+    <value>Выполнить</value>
+  </data>
+	<data name="DIRECTIONS_btnOldVersion" xml:space="preserve">
+    <value>Старая версия</value>
+  </data>
+	<data name="DIRECTIONS_hAccessEml" xml:space="preserve">
+    <value>Доступ к данным, необходимый сотруднику для работы</value>
+  </data>
+	<data name="DIRECTIONS_hDadaEml" xml:space="preserve">
+    <value>Данные по сотруднику</value>
+  </data>
+	<data name="DIRECTIONS_hEquipEml" xml:space="preserve">
+    <value>Оборудование и коммуникации, необходимые сотруднику для работы</value>
+  </data>
+	<data name="DIRECTIONS_lAEOfiice" xml:space="preserve">
+    <value>из офиса</value>
+  </data>
+	<data name="DIRECTIONS_lAEVpn" xml:space="preserve">
+    <value>удаленный (через VPN)</value>
+  </data>
+	<data name="DIRECTIONS_lAIMobile" xml:space="preserve">
+    <value>мобильный (SkyLink, 3G)</value>
+  </data>
+	<data name="DIRECTIONS_lAIModem" xml:space="preserve">
+    <value>из дома через модем</value>
+  </data>
+	<data name="DIRECTIONS_lAIOffice" xml:space="preserve">
+    <value>из офиса</value>
+  </data>
+	<data name="DIRECTIONS_lbl_ОтветственнаяКомпания" xml:space="preserve">
+    <value>Ответственная компания</value>
+  </data>
+	<data name="DIRECTIONS_lComplete" xml:space="preserve">
+    <value>Выполнено</value>
+  </data>
+	<data name="DIRECTIONS_lCompN" xml:space="preserve">
+    <value>ноутбук</value>
+  </data>
+	<data name="DIRECTIONS_lCompP" xml:space="preserve">
+    <value>персональный</value>
+  </data>
+	<data name="DIRECTIONS_lCompT" xml:space="preserve">
+    <value>тонкий клиент</value>
+  </data>
+	<data name="DIRECTIONS_lMin" xml:space="preserve">
+    <value>мин.</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneDect" xml:space="preserve">
+    <value>трубка</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneDesk" xml:space="preserve">
+    <value>на столе</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneIP" xml:space="preserve">
+    <value>IP-телефон</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneIPCam" xml:space="preserve">
+    <value>IP-камера</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneSim" xml:space="preserve">
+    <value>SIM-карта для моб. тел.</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitInSide" xml:space="preserve">
+    <value>только внутри холдинга</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitOutCountry" xml:space="preserve">
+    <value>+ международная</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitOutTown" xml:space="preserve">
+    <value>+ внутри страны</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitTown" xml:space="preserve">
+    <value>+ местная городская</value>
+  </data>
+	<data name="DIRECTIONS_lRequire" xml:space="preserve">
+    <value>Требуется</value>
+  </data>
+	<data name="DIRECTIONS_lSotrudnikParent1" xml:space="preserve">
+    <value>как у сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_lSotrudnikParent2" xml:space="preserve">
+    <value>вместо сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_lTrack" xml:space="preserve">
+    <value>Отслеживать опоздания сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_Msg_CopyBuffer" xml:space="preserve">
+    <value>скопировать в буфер обмена</value>
+  </data>
+	<data name="DIRECTIONS_Msg_Delete" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эту запись?</value>
+  </data>
+	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
+    <value>е-mail указан некорректно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
+    <value>для данного сотрудника на данное рабочее место уже существует</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ExistsPhone" xml:space="preserve">
+    <value>номер использует</value>
+  </data>
+	<data name="DIRECTIONS_Msg_FillFormByEmpl" xml:space="preserve">
+    <value>Внимание! Заполнить форму на основании данных сотрудника: </value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoAccessEthernet" xml:space="preserve">
+    <value>не входит в корпоративную сеть</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoAccessInternet" xml:space="preserve">
+    <value>нет доступа к сети Internet</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoData" xml:space="preserve">
+    <value>&amp;nbsp;</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoRequired" xml:space="preserve">
+    <value>не требуется </value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoSignSupervisor" xml:space="preserve">
+    <value>Указание не подписано непосредственным руководителем</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoSpecified" xml:space="preserve">
+    <value>не указано</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoThisDoc" xml:space="preserve">
+    <value>Невозможно указать в качестве документа основания этот же самый документ!</value>
+  </data>
+	<data name="DIRECTIONS_Msg_OpenEquip" xml:space="preserve">
+    <value>открыть форму оборудования</value>
+  </data>
+	<data name="DIRECTIONS_Msg_OpenEquipNotResp" xml:space="preserve">
+    <value>Нет ответственного за оборудование</value>
+  </data>
+	<data name="DIRECTIONS_Msg_OpenEquipResp" xml:space="preserve">
+    <value>Ответственный за оборудование</value>
+  </data>
+	<data name="DIRECTIONS_Msg_SimGive" xml:space="preserve">
+    <value>Будет выдана SIM-карта</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ВыданаSim" xml:space="preserve">
+    <value>Выдана SIM-карта</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ДокументНеДоступен" xml:space="preserve">
+    <value>документ не доступен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ЛицоБезБП" xml:space="preserve">
+    <value>лицо не работает по бизнес-проекту</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ЛогинНеКорректен" xml:space="preserve">
+    <value>логин указан некорректно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ЛогинСуществует" xml:space="preserve">
+    <value>логин занят</value>
+  </data>
+	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто" xml:space="preserve">
+    <value>на этом рабочем месте не может быть установлен компьютер</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ОписаниеКаталога" xml:space="preserve">
+    <value>Набор типов лиц, используемых компаниями, работающими по данному проекту</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ОтсутствуетПодчиненность" xml:space="preserve">
+    <value>отсутствует подчиненность в штатном расписании</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе" xml:space="preserve">
+    <value>рабочее место не в офисе</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
+    <value>рабочее место не соответствует рабочим местам в карточке сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
+    <value>рабочее место не доступно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РасположениеЗакрыто" xml:space="preserve">
+    <value>расположение закрыто</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РасположениеНеДоступно" xml:space="preserve">
+    <value>расположение не доступно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНеДоступен" xml:space="preserve">
+    <value>сотрудник не доступен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина" xml:space="preserve">
+    <value>сотрудник не имеет логина</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛица" xml:space="preserve">
+    <value>у сотдника отсутствует запись в справочнике лиц</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика" xml:space="preserve">
+    <value>у сотрудника не указана компания, отвечающая за фин. регулирование</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
+    <value>у сотрудника нет рабочего места. Укажите его в карточке сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
+    <value>сотрудник еще не уволен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние1" xml:space="preserve">
+    <value>декрет(отпуск)</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние2" xml:space="preserve">
+    <value>гость персональный</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние3" xml:space="preserve">
+    <value>уволен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние4" xml:space="preserve">
+    <value>гость по гостевой карточке</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние5" xml:space="preserve">
+    <value>посторонний</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ФотоНет" xml:space="preserve">
+    <value>у сотрудника отсутствует фотография</value>
+  </data>
+	<data name="DIRECTIONS_NTF_CadrNoCompany" xml:space="preserve">
+    <value>В штатном расписании у сотрудника не указана компания,\nотвечающая за финансовое регулирование.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_DelayMustEmail" xml:space="preserve">
+    <value>Для отслеживания опозданий необходимо указать\nруководителей, которым необходимо отсылать e-mail об опоздании данного сотрудника!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_DocInCorrect" xml:space="preserve">
+    <value>Документ был сохранен некорректно</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
+    <value>e-mail указан некорректно.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
+    <value>такой e-mail уже существует; e-mail должен быть уникальным.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
+    <value>Cотрудник не синхронизирован со справочником лиц.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_LoginIncorrect" xml:space="preserve">
+    <value>Логин указан некорректно.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoDataDoc" xml:space="preserve">
+    <value>Не указана дата документа.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoDomain" xml:space="preserve">
+    <value>Не указан домен.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoEmail" xml:space="preserve">
+    <value>Не указан e-mail.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoEmployee" xml:space="preserve">
+    <value>Не указан сотрудник.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoLider" xml:space="preserve">
+    <value>Не указан руководитель.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoLogin" xml:space="preserve">
+    <value>Не указан логин.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoSender" xml:space="preserve">
+    <value>Не указано имя отпраивтеля почты.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoWorkGo" xml:space="preserve">
+    <value>Не указано время прихода сотрудника на работу!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
+    <value>Не указано рабочее место сотрудника.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
+    <value>Не указано время опоздания-устная объяснительная руководителю!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_WriteCadr" xml:space="preserve">
+    <value>Не указано время опоздания-письменная объяснительная в отдел кадров!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_ГруппаПосменнойРаботы" xml:space="preserve">
+    <value>группа посменной работы</value>
+  </data>
+	<data name="DIRECTIONS_NTF_НеУказанМобильный" xml:space="preserve">
+    <value>Укажите мобильный телефон!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_ПосменнаяРабота" xml:space="preserve">
+    <value>посменная работа с</value>
+  </data>
+	<data name="DIRECTIONS_NTF_РабМестаВместе" xml:space="preserve">
+    <value>вместе с</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе" xml:space="preserve">
+    <value>Сохранить документ невозможно, т.к. указанный сотрудник входит в группу посменной работы!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе1" xml:space="preserve">
+    <value>Указанный сотрудник входит в группу посменной работы! Создать указание на орагнизацию работы на такого сотрудника невозможно!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе2" xml:space="preserve">
+    <value>Невозможно выбрать сотрудника, входящего в группу посменной работы!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникСовпадает" xml:space="preserve">
+    <value>Выбранный сотрудник совпадает с сотрудником, на которого делается указание</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnAccept" xml:space="preserve">
+    <value>Подтверждаю</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnCancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnDel" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnSave" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+	<data name="DIRECTIONS_Pos_Catalog" xml:space="preserve">
+    <value>Каталог:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_CatalogChange1" xml:space="preserve">
+    <value>Предупреждение: \n Вы изменили (добавили новую запись) доступ к типам лиц в каталоге</value>
+  </data>
+	<data name="DIRECTIONS_Pos_CatalogChange2" xml:space="preserve">
+    <value>В случае смены текущего каталога все добавленные записи будут удалены!\nСменить каталог? </value>
+  </data>
+	<data name="DIRECTIONS_Pos_ConfirmDel" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эту запись?</value>
+  </data>
+	<data name="DIRECTIONS_Pos_Empl" xml:space="preserve">
+    <value>Сотрудник:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_EmplTypes" xml:space="preserve">
+    <value>Доступ сотрудника к типам лиц</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ExecRole" xml:space="preserve">
+    <value>Выполняет роль:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_InCompany" xml:space="preserve">
+    <value>В компании:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_NoDocId" xml:space="preserve">
+    <value>Не удалось определить код документа!</value>
+  </data>
+	<data name="DIRECTIONS_Pos_PersonType" xml:space="preserve">
+    <value>Тип лица:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_PersonType1" xml:space="preserve">
+    <value>Типы лиц:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_PersonType2" xml:space="preserve">
+    <value>\nне могут быть выбраны, т.к Вы уже дали доступ сотруднику к подобным типам лиц.</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ReqCatalog" xml:space="preserve">
+    <value>Укажите каталог!</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ReqCatalog2" xml:space="preserve">
+    <value>Укажите или каталог или тип лица!</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ReqCatalog3" xml:space="preserve">
+    <value>Вы уверены, что хотите чтобы данный сотрудник получил доступ ко всем типам лиц в указанном каталоге, которые существуют сейчас или появятся в будущем?</value>
+  </data>
+	<data name="DIRECTIONS_Pos_RoleEmpl" xml:space="preserve">
+    <value>Роль сотрудника в компании</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_AllCatalog" xml:space="preserve">
+    <value>&lt;все каталоги&gt;</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_AllCompany" xml:space="preserve">
+    <value>&lt;все компании&gt;</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_AllTypePerson" xml:space="preserve">
+    <value>&lt;все типы&gt;</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
+    <value>Каталог</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_Company" xml:space="preserve">
+    <value>Компании</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_TypePerson" xml:space="preserve">
+    <value>Тип лица</value>
+  </data>
+	<data name="DIRECTIONS_Field_Phone" xml:space="preserve">
+		<value>Для работы требуется телефон</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer" xml:space="preserve">
+		<value>Для работы требуется компьютер</value>
+	</data>
+	<data name="DIRECTIONS_Field_AdvEq" xml:space="preserve">
+		<value>Для работы требуется дополнительное оборудование на рабочем месте</value>
+	</data>
+	<data name="DIRECTIONS_Field_AEAccess" xml:space="preserve">
+		<value>Для работы требуется доступ к корпоративной сети</value>
+	</data>
+	<data name="DIRECTIONS_Field_Lang" xml:space="preserve">
+		<value>Предпочитаемый язык</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Folders" xml:space="preserve">
+		<value>Доступ к общим папкам</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles" xml:space="preserve">
+		<value>Выполняемые роли</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Types" xml:space="preserve">
+		<value>Доступ к типам лиц</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Grants" xml:space="preserve">
+		<value>Дополнительные права</value>
+	</data>
+	<data name="DIRECTIONS_Field_MobilPhone" xml:space="preserve">
+		<value>Мобильный телефон сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType" xml:space="preserve">
+		<value>Организовать сотруднику</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_1" xml:space="preserve">
+		<value>рабочее место в офисе</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
+		<value>рабочее место вне офиса</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
+		<value>учетную запись без создания рабочего места</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
+		<value>сотруднику выдано оборудование, которое находится не на его рабочем месте</value>
+	</data>
+	<data name="DIRECTIONS_Title_ShowEq" xml:space="preserve">
+		<value>показать оборудование</value>
+	</data>
+	<data name="DIRECTIONS_Lbl_WpsEpl" xml:space="preserve">
+		<value>Рабочие места сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_lNoComplete" xml:space="preserve">
+		<value>не выполнено</value>
+	</data>
+	<data name="DIRECTIONS_Pos_CatalogNoName" xml:space="preserve">
+		<value>Не удалось получить название каталога!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_TypeNoName" xml:space="preserve">
+		<value>Не удалось получить название типа лица!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_TypeAllNoName" xml:space="preserve">
+		<value>Не удалось получить название всех типов лица!</value>
+	</data>
+	<data name="lb_Like" xml:space="preserve">
+		<value>Мне нравится внешний вид и функционал данной формы</value>
+	</data>
+	<data name="lb_NotLike" xml:space="preserve">
+		<value>Мне не нравится внешний вид и функционал данной формы</value>
+	</data>
+	<data name="lblSort" xml:space="preserve">
+		<value>Сортировка</value>
+	</data>
+	<data name="ExRate_lblCurrencyPair" xml:space="preserve">
+		<value>Валютная пара</value>
+	</data>
+	<data name="ExRate_lblSwapCurrencies" xml:space="preserve">
+		<value>Поменять валюты местами </value>
+	</data>
+	<data name="ExRate_msgPeriodNotSelected" xml:space="preserve">
+		<value>Не указан период</value>
+	</data>
+	<data name="ExRate_errFailedGettingRate" xml:space="preserve">
+		<value>Could not get cross rates</value>
+	</data>
+	<data name="ExRate_errFailedGettingRateCross" xml:space="preserve">
+		<value>Не удалось получить кросс-курсы</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CheckPhoneNumber" xml:space="preserve">
+		<value>Введенное Вами значение не соответствует формату телефонного номера!</value>
+	</data>
+	<data name="ExRate_lblBaseCurrency" xml:space="preserve">
+		<value>Базовая валюта</value>
+	</data>
+	<data name="ExRate_lblQuotedCurrency" xml:space="preserve">
+		<value>Валюта котировки</value>
+	</data>
+	<data name="ExRate_lblExRate" xml:space="preserve">
+		<value>Курс</value>
+	</data>
+	<data name="ExRate_lblShowRatesOnHomePage" xml:space="preserve">
+		<value>Отображать курсы выбранных валют на домашней странице</value>
 	</data>
 </root>

@@ -646,6 +646,24 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Fields {0} in the selected parcels do not match the ones specified in the act. Adding the services rendered to the certificate of completion is impossible..
+        /// </summary>
+        internal static string _Msg_НеСовпадаютСвойства {
+            get {
+                return ResourceManager.GetString("_Msg_НеСовпадаютСвойства", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Saving is not possible..
+        /// </summary>
+        internal static string _Msg_НеСохраняется {
+            get {
+                return ResourceManager.GetString("_Msg_НеСохраняется", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Not specified field &apos;Total&apos;.
         /// </summary>
         internal static string _Msg_НетВсего {
@@ -813,6 +831,15 @@ namespace Kesco.Lib.Localization {
         internal static string _Msg_ПриложениеВалюта {
             get {
                 return ResourceManager.GetString("_Msg_ПриложениеВалюта", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Values of the {0} field in the selected send parcels are different. Addition of services rendered to the certificate of completion.
+        /// </summary>
+        internal static string _Msg_РазныеСвойства {
+            get {
+                return ResourceManager.GetString("_Msg_РазныеСвойства", resourceCulture);
             }
         }
         
@@ -1125,6 +1152,42 @@ namespace Kesco.Lib.Localization {
         /// <summary>
         ///   Ищет локализованную строку, похожую на Cancel.
         /// </summary>
+        internal static string Bp_btnCancel {
+            get {
+                return ResourceManager.GetString("Bp_btnCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Save.
+        /// </summary>
+        internal static string Bp_btnSave {
+            get {
+                return ResourceManager.GetString("Bp_btnSave", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Busines projects.
+        /// </summary>
+        internal static string Bp_lblBusinesProjects {
+            get {
+                return ResourceManager.GetString("Bp_lblBusinesProjects", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Failed to generate form buttons.
+        /// </summary>
+        internal static string BProject_errFailedGenerateButtons {
+            get {
+                return ResourceManager.GetString("BProject_errFailedGenerateButtons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Cancel.
+        /// </summary>
         internal static string btnCancel {
             get {
                 return ResourceManager.GetString("btnCancel", resourceCulture);
@@ -1173,6 +1236,24 @@ namespace Kesco.Lib.Localization {
         internal static string btnHelp {
             get {
                 return ResourceManager.GetString("btnHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на New version.
+        /// </summary>
+        internal static string btnNewVersion {
+            get {
+                return ResourceManager.GetString("btnNewVersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Alte Version.
+        /// </summary>
+        internal static string btnOldVersion {
+            get {
+                return ResourceManager.GetString("btnOldVersion", resourceCulture);
             }
         }
         
@@ -1303,6 +1384,204 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на The Object &quot;Movement of Cash Funds&quot; has not been initialized. Reopen the edited position..
+        /// </summary>
+        internal static string Cfi__ERRMoveCashInitialized {
+            get {
+                return ResourceManager.GetString("Cfi_ ERRMoveCashInitialized", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Cancel.
+        /// </summary>
+        internal static string Cfi_lblCancel {
+            get {
+                return ResourceManager.GetString("Cfi_lblCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Cash flow items.
+        /// </summary>
+        internal static string Cfi_lblCashFlowItems {
+            get {
+                return ResourceManager.GetString("Cfi_lblCashFlowItems", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Code.
+        /// </summary>
+        internal static string Cfi_lblCode {
+            get {
+                return ResourceManager.GetString("Cfi_lblCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Article.
+        /// </summary>
+        internal static string Cfi_lblItem {
+            get {
+                return ResourceManager.GetString("Cfi_lblItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Modes of movement.
+        /// </summary>
+        internal static string Cfi_lblModesMovement {
+            get {
+                return ResourceManager.GetString("Cfi_lblModesMovement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Name.
+        /// </summary>
+        internal static string Cfi_lblName {
+            get {
+                return ResourceManager.GetString("Cfi_lblName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Name in 1C.
+        /// </summary>
+        internal static string Cfi_lblNameIn1C {
+            get {
+                return ResourceManager.GetString("Cfi_lblNameIn1C", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Save.
+        /// </summary>
+        internal static string Cfi_lblSave {
+            get {
+                return ResourceManager.GetString("Cfi_lblSave", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To find.
+        /// </summary>
+        internal static string Cfi_lblSearch {
+            get {
+                return ResourceManager.GetString("Cfi_lblSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на alphabet.
+        /// </summary>
+        internal static string Cfi_lblSortAlphabet {
+            get {
+                return ResourceManager.GetString("Cfi_lblSortAlphabet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sort by.
+        /// </summary>
+        internal static string Cfi_lblSortBy {
+            get {
+                return ResourceManager.GetString("Cfi_lblSortBy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на tree location.
+        /// </summary>
+        internal static string Cfi_lblSortTreeLocation {
+            get {
+                return ResourceManager.GetString("Cfi_lblSortTreeLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Type.
+        /// </summary>
+        internal static string Cfi_lblType {
+            get {
+                return ResourceManager.GetString("Cfi_lblType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Type of Cash Flow.
+        /// </summary>
+        internal static string Cfi_lblTypeCashFlow {
+            get {
+                return ResourceManager.GetString("Cfi_lblTypeCashFlow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на cash flow items.
+        /// </summary>
+        internal static string Cfi_msgCashFlowArticles {
+            get {
+                return ResourceManager.GetString("Cfi_msgCashFlowArticles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the cash flow item is not filled..
+        /// </summary>
+        internal static string Cfi_msgCashFlowItemNotFilled {
+            get {
+                return ResourceManager.GetString("Cfi_msgCashFlowItemNotFilled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на not filled type of cash flow.
+        /// </summary>
+        internal static string Cfi_msgCashFlowTypeNotFilled {
+            get {
+                return ResourceManager.GetString("Cfi_msgCashFlowTypeNotFilled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на There is already an entry with this code..
+        /// </summary>
+        internal static string Cfi_msgIdDubl {
+            get {
+                return ResourceManager.GetString("Cfi_msgIdDubl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Not filled field.
+        /// </summary>
+        internal static string Cfi_msgNotFilledField {
+            get {
+                return ResourceManager.GetString("Cfi_msgNotFilledField", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Record cannot be saved..
+        /// </summary>
+        internal static string Cfi_msgRecordCannotBeSaved {
+            get {
+                return ResourceManager.GetString("Cfi_msgRecordCannotBeSaved", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на type of cash flow.
+        /// </summary>
+        internal static string Cfi_msgTypeCashFlow {
+            get {
+                return ResourceManager.GetString("Cfi_msgTypeCashFlow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Number of orders for Internet access.
         /// </summary>
         internal static string cInternetAccessCount {
@@ -1398,6 +1677,15 @@ namespace Kesco.Lib.Localization {
         internal static string cmdAddToReport {
             get {
                 return ResourceManager.GetString("cmdAddToReport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Apply.
+        /// </summary>
+        internal static string cmdApply {
+            get {
+                return ResourceManager.GetString("cmdApply", resourceCulture);
             }
         }
         
@@ -2275,6 +2563,159 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Run.
+        /// </summary>
+        internal static string DIRECTIONS_btnGO {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_btnGO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Old version.
+        /// </summary>
+        internal static string DIRECTIONS_btnOldVersion {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_btnOldVersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Work requires additional equipment at the workplace.
+        /// </summary>
+        internal static string DIRECTIONS_Field_AdvEq {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_AdvEq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Work requires access to the corporate network.
+        /// </summary>
+        internal static string DIRECTIONS_Field_AEAccess {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_AEAccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Computer required for work.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Computer {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Computer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Preferred language.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Lang {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Lang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee mobile phone.
+        /// </summary>
+        internal static string DIRECTIONS_Field_MobilPhone {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_MobilPhone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Phone required for work.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Phone {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Phone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Access to shared folders.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Positions_Folders {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Positions_Folders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Additional rights.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Positions_Grants {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Positions_Grants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Roles performed.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Positions_Roles {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Positions_Roles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Access to person types.
+        /// </summary>
+        internal static string DIRECTIONS_Field_Positions_Types {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_Positions_Types", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Arrange employee.
+        /// </summary>
+        internal static string DIRECTIONS_Field_WpType {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_WpType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на office workplace.
+        /// </summary>
+        internal static string DIRECTIONS_Field_WpType_1 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_WpType_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на workplace outside the office.
+        /// </summary>
+        internal static string DIRECTIONS_Field_WpType_2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_WpType_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на account without creating a workplace.
+        /// </summary>
+        internal static string DIRECTIONS_Field_WpType_4 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Field_WpType_4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Additional Information.
+        /// </summary>
+        internal static string DIRECTIONS_FORM_ADVINFO_Title {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_FORM_ADVINFO_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Select additional rights:.
         /// </summary>
         internal static string DIRECTIONS_FORM_AG_Title {
@@ -2325,6 +2766,1160 @@ namespace Kesco.Lib.Localization {
         internal static string DIRECTIONS_FORM_WP_Title {
             get {
                 return ResourceManager.GetString("DIRECTIONS_FORM_WP_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Dostup k dannym, neobkhodimyy sotrudniku dlya raboty
+        ///50/5000
+        ///Access to the data necessary for the employee to work.
+        /// </summary>
+        internal static string DIRECTIONS_hAccessEml {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_hAccessEml", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee data.
+        /// </summary>
+        internal static string DIRECTIONS_hDadaEml {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_hDadaEml", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Equipment and communications necessary for the employee to work.
+        /// </summary>
+        internal static string DIRECTIONS_hEquipEml {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_hEquipEml", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на from the office.
+        /// </summary>
+        internal static string DIRECTIONS_lAEOfiice {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lAEOfiice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на remote (via VPN).
+        /// </summary>
+        internal static string DIRECTIONS_lAEVpn {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lAEVpn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на mobile (SkyLink, 3G).
+        /// </summary>
+        internal static string DIRECTIONS_lAIMobile {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lAIMobile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на from home via modem.
+        /// </summary>
+        internal static string DIRECTIONS_lAIModem {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lAIModem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на from the office.
+        /// </summary>
+        internal static string DIRECTIONS_lAIOffice {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lAIOffice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee workplaces.
+        /// </summary>
+        internal static string DIRECTIONS_Lbl_WpsEpl {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Lbl_WpsEpl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Responsible company.
+        /// </summary>
+        internal static string DIRECTIONS_lbl_ОтветственнаяКомпания {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lbl_ОтветственнаяКомпания", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Done.
+        /// </summary>
+        internal static string DIRECTIONS_lComplete {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lComplete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на a laptop.
+        /// </summary>
+        internal static string DIRECTIONS_lCompN {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lCompN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на personal.
+        /// </summary>
+        internal static string DIRECTIONS_lCompP {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lCompP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на thin client.
+        /// </summary>
+        internal static string DIRECTIONS_lCompT {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lCompT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на min.
+        /// </summary>
+        internal static string DIRECTIONS_lMin {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lMin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на not performed.
+        /// </summary>
+        internal static string DIRECTIONS_lNoComplete {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lNoComplete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на cellphone.
+        /// </summary>
+        internal static string DIRECTIONS_lPhoneDect {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPhoneDect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на on the table.
+        /// </summary>
+        internal static string DIRECTIONS_lPhoneDesk {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPhoneDesk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Ip phone.
+        /// </summary>
+        internal static string DIRECTIONS_lPhoneIP {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPhoneIP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Ip camera.
+        /// </summary>
+        internal static string DIRECTIONS_lPhoneIPCam {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPhoneIPCam", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на SIM card for mob. tel..
+        /// </summary>
+        internal static string DIRECTIONS_lPhoneSim {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPhoneSim", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на only inside the holding.
+        /// </summary>
+        internal static string DIRECTIONS_lPLExitInSide {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPLExitInSide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на + international.
+        /// </summary>
+        internal static string DIRECTIONS_lPLExitOutCountry {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPLExitOutCountry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на + riigis.
+        /// </summary>
+        internal static string DIRECTIONS_lPLExitOutTown {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPLExitOutTown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на + local city.
+        /// </summary>
+        internal static string DIRECTIONS_lPLExitTown {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lPLExitTown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Is required.
+        /// </summary>
+        internal static string DIRECTIONS_lRequire {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lRequire", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на like an employee.
+        /// </summary>
+        internal static string DIRECTIONS_lSotrudnikParent1 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lSotrudnikParent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на instead of employee.
+        /// </summary>
+        internal static string DIRECTIONS_lSotrudnikParent2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lSotrudnikParent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Track employee lateness.
+        /// </summary>
+        internal static string DIRECTIONS_lTrack {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_lTrack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на copy to clipboard.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_CopyBuffer {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_CopyBuffer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Are you sure you want to delete this entry?.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_Delete {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_Delete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Email is incorrect.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_EmailНеКорректен {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_EmailНеКорректен", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на for this employee for this job already exists.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ExistsDirection {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ExistsDirection", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на number uses.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ExistsPhone {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ExistsPhone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Attention! Fill out the form based on employee data:.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_FillFormByEmpl {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_FillFormByEmpl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на not part of the corporate network.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoAccessEthernet {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoAccessEthernet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на no internet access.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoAccessInternet {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoAccessInternet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на &amp;nbsp;.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoData {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на not required.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoRequired {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The instruction is not signed by the direct manager.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoSignSupervisor {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoSignSupervisor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на not specified.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoSpecified {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoSpecified", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на It is impossible to specify the same document as the document of the foundation!.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_NoThisDoc {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_NoThisDoc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на avatud seadmete vorm.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_OpenEquip {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_OpenEquip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No responsible for the equipment.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_OpenEquipNotResp {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_OpenEquipNotResp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Responsible for the equipment.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_OpenEquipResp {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_OpenEquipResp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на SIM card will be issued.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_SimGive {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_SimGive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на SIM card issued.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ВыданаSim {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ВыданаSim", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на document not available.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ДокументНеДоступен {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ДокументНеДоступен", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the person is not working on a business project.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ЛицоБезБП {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ЛицоБезБП", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на login is incorrect.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ЛогинНеКорректен {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ЛогинНеКорректен", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на login busy.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ЛогинСуществует {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ЛогинСуществует", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на a computer cannot be installed at this workplace.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на A set of types of persons used by companies working on this project.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ОписаниеКаталога {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ОписаниеКаталога", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на there is no subordination in the staffing table.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ОтсутствуетПодчиненность {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ОтсутствуетПодчиненность", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на workplace is not in the office.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_РабочееМестоНеВОфисе {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_РабочееМестоНеВОфисе", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the workplace does not match the jobs in the employee card.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_РабочееМестоНеСоответствует {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_РабочееМестоНеСоответствует", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на workplace not available.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_РабочееНеДоступно {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_РабочееНеДоступно", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на location closed.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_РасположениеЗакрыто {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_РасположениеЗакрыто", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на location is not available.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_РасположениеНеДоступно {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_РасположениеНеДоступно", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee not available.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникНеДоступен {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникНеДоступен", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee has no login.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникНеИмеетЛогина {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникНеИмеетЛогина", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the staff does not have an entry in the directory of persons.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникНетЛица {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникНетЛица", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the employee does not specify the company responsible for the fin. regulation.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the employee has no workplace. Specify it in the employee card.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникНетРабМеста {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникНетРабМеста", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee not fired yet.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникНеУволен {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникНеУволен", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee status - decree (vacation).
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникСостояние1 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникСостояние1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee status - guest personal.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникСостояние2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникСостояние2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee status - dismissed.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникСостояние3 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникСостояние3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee status - guest by guest card.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникСостояние4 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникСостояние4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee&apos;s status - stranger.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_СотрудникСостояние5 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_СотрудникСостояние5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на employee has no photo.
+        /// </summary>
+        internal static string DIRECTIONS_Msg_ФотоНет {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Msg_ФотоНет", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The staffing table of the employee does not indicate the company responsible for financial regulation..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_CadrNoCompany {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_CadrNoCompany", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To track delays, you must specify \ n managers who need to send an e-mail about the lateness of this employee!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_DelayMustEmail {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_DelayMustEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The document was saved incorrectly.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_DocInCorrect {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_DocInCorrect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на E-mail is incorrect..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_EmailIncorrect {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_EmailIncorrect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на such e-mail already exists; E-mail must be unique..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_EmailNotUnique {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_EmailNotUnique", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The employee is not synchronized with the directory of persons..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_EmployeeNoPerson {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_EmployeeNoPerson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на an employee is given equipment that is not at his workplace.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_ExcessEq {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_ExcessEq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Login is incorrect..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_LoginIncorrect {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_LoginIncorrect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The date of the document is not specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoDataDoc {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoDataDoc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No domain specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoDomain {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoDomain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No e-mail specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoEmail {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No employee specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoEmployee {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoEmployee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No head specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoLider {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoLider", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No login specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoLogin {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoLogin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The name of the mail sender is not specified..
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoSender {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoSender", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Not specified time of arrival of the employee to work!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoWorkGo {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoWorkGo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Not specified workplace.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_NoWorkPlace {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_NoWorkPlace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Late time is not indicated - verbal explanatory to the manager!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_VerbalVisit {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_VerbalVisit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No late time-written explanatory to the personnel department!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_WriteCadr {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_WriteCadr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на shift work group.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_ГруппаПосменнойРаботы {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_ГруппаПосменнойРаботы", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Specify a mobile phone!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_НеУказанМобильный {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_НеУказанМобильный", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на shift work with.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_ПосменнаяРабота {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_ПосменнаяРабота", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на together with.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_РабМестаВместе {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_РабМестаВместе", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на It is impossible to save the document, because The specified employee is a member of the shift work group!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_СотрудникВГруппе {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_СотрудникВГруппе", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The specified employee is a member of the shift work group! It is impossible to create a reference to the organization of work for such an employee!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_СотрудникВГруппе1 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_СотрудникВГруппе1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на It is impossible to choose an employee who belongs to the shift work group!.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_СотрудникВГруппе2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_СотрудникВГруппе2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The selected employee is the same as the employee being instructed.
+        /// </summary>
+        internal static string DIRECTIONS_NTF_СотрудникСовпадает {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_NTF_СотрудникСовпадает", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на I confirm.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_BtnAccept {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_BtnAccept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Cancel.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_BtnCancel {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_BtnCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Delete.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_BtnDel {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_BtnDel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Save.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_BtnSave {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_BtnSave", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Catalog:.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_Catalog {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_Catalog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Warning: \n You have changed (added a new entry) access to the types of persons in the directory.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_CatalogChange1 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_CatalogChange1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на If you change the current directory, all added entries will be deleted! \nChange Directory?.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_CatalogChange2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_CatalogChange2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not get directory name!.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_CatalogNoName {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_CatalogNoName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Are you sure you want to delete this entry?.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_ConfirmDel {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_ConfirmDel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee:.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_Empl {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_Empl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee access to person types.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_EmplTypes {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_EmplTypes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Performs the role of:.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_ExecRole {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_ExecRole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на In company:.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_InCompany {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_InCompany", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not determine document code!.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_NoDocId {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_NoDocId", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Person type:.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_PersonType {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_PersonType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Persons types:.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_PersonType1 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_PersonType1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на \ ncan not be selected, because you have already given an employee access to similar types of persons..
+        /// </summary>
+        internal static string DIRECTIONS_Pos_PersonType2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_PersonType2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Specify the catalog!.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_ReqCatalog {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_ReqCatalog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Specify either the catalog or the type of person!.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_ReqCatalog2 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_ReqCatalog2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Are you sure you want this employee to have access to all types of persons in the specified directory that exist now or will appear in the future?.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_ReqCatalog3 {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_ReqCatalog3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The role of the employee in the company.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_RoleEmpl {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_RoleEmpl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not get the name of all face types!.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_TypeAllNoName {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_TypeAllNoName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not get the name of the type of person!.
+        /// </summary>
+        internal static string DIRECTIONS_Pos_TypeNoName {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Pos_TypeNoName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на &lt;all catalogs&gt;.
+        /// </summary>
+        internal static string DIRECTIONS_Rnd_AllCatalog {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Rnd_AllCatalog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на &lt;all companies&gt;.
+        /// </summary>
+        internal static string DIRECTIONS_Rnd_AllCompany {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Rnd_AllCompany", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на &lt;all types&gt;.
+        /// </summary>
+        internal static string DIRECTIONS_Rnd_AllTypePerson {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Rnd_AllTypePerson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Catalog.
+        /// </summary>
+        internal static string DIRECTIONS_Rnd_Catalog {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Rnd_Catalog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Companies.
+        /// </summary>
+        internal static string DIRECTIONS_Rnd_Company {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Rnd_Company", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Person type.
+        /// </summary>
+        internal static string DIRECTIONS_Rnd_TypePerson {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Rnd_TypePerson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на show equipment.
+        /// </summary>
+        internal static string DIRECTIONS_Title_ShowEq {
+            get {
+                return ResourceManager.GetString("DIRECTIONS_Title_ShowEq", resourceCulture);
             }
         }
         
@@ -2577,6 +4172,15 @@ namespace Kesco.Lib.Localization {
         internal static string EmployeeStatus_PersonalGuest {
             get {
                 return ResourceManager.GetString("EmployeeStatus_PersonalGuest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на You are not authorized for this operation!.
+        /// </summary>
+        internal static string errAccessDenied {
+            get {
+                return ResourceManager.GetString("errAccessDenied", resourceCulture);
             }
         }
         
@@ -3050,6 +4654,312 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Add exchange rate.
+        /// </summary>
+        internal static string ExRate_btnAddPosition {
+            get {
+                return ResourceManager.GetString("ExRate_btnAddPosition", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Delete exchange rate.
+        /// </summary>
+        internal static string ExRate_btnDeletePosition {
+            get {
+                return ResourceManager.GetString("ExRate_btnDeletePosition", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Edit exchange rate.
+        /// </summary>
+        internal static string ExRate_btnEditPosition {
+            get {
+                return ResourceManager.GetString("ExRate_btnEditPosition", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Failed to generate form buttons.
+        /// </summary>
+        internal static string ExRate_errFailedGenerateButtons {
+            get {
+                return ResourceManager.GetString("ExRate_errFailedGenerateButtons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not generate currency list.
+        /// </summary>
+        internal static string ExRate_errFailedGenerateCurrencyList {
+            get {
+                return ResourceManager.GetString("ExRate_errFailedGenerateCurrencyList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not get currency rates.
+        /// </summary>
+        internal static string ExRate_errFailedGettingRate {
+            get {
+                return ResourceManager.GetString("ExRate_errFailedGettingRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not get average exchange rate.
+        /// </summary>
+        internal static string ExRate_errFailedGettingRateAvg {
+            get {
+                return ResourceManager.GetString("ExRate_errFailedGettingRateAvg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not get cross rates.
+        /// </summary>
+        internal static string ExRate_errFailedGettingRateCross {
+            get {
+                return ResourceManager.GetString("ExRate_errFailedGettingRateCross", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Adding exchange rate.
+        /// </summary>
+        internal static string ExRate_lblAddingRate {
+            get {
+                return ResourceManager.GetString("ExRate_lblAddingRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Change.
+        /// </summary>
+        internal static string ExRate_lblChange {
+            get {
+                return ResourceManager.GetString("ExRate_lblChange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Currencies.
+        /// </summary>
+        internal static string ExRate_lblCurrencies {
+            get {
+                return ResourceManager.GetString("ExRate_lblCurrencies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Currency.
+        /// </summary>
+        internal static string ExRate_lblCurrency {
+            get {
+                return ResourceManager.GetString("ExRate_lblCurrency", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Currency pair.
+        /// </summary>
+        internal static string ExRate_lblCurrencyPair {
+            get {
+                return ResourceManager.GetString("ExRate_lblCurrencyPair", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Date.
+        /// </summary>
+        internal static string ExRate_lblDate {
+            get {
+                return ResourceManager.GetString("ExRate_lblDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Editing exchange rate.
+        /// </summary>
+        internal static string ExRate_lblEditingRate {
+            get {
+                return ResourceManager.GetString("ExRate_lblEditingRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Exchange rate.
+        /// </summary>
+        internal static string ExRate_lblExRate {
+            get {
+                return ResourceManager.GetString("ExRate_lblExRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Average exchange rate.
+        /// </summary>
+        internal static string ExRate_lblExRateAverage {
+            get {
+                return ResourceManager.GetString("ExRate_lblExRateAverage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Cross exchange rate.
+        /// </summary>
+        internal static string ExRate_lblExRateCross {
+            get {
+                return ResourceManager.GetString("ExRate_lblExRateCross", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Exchange rates.
+        /// </summary>
+        internal static string ExRate_lblExRateDetail {
+            get {
+                return ResourceManager.GetString("ExRate_lblExRateDetail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Exchange rates.
+        /// </summary>
+        internal static string ExRate_lblExRates {
+            get {
+                return ResourceManager.GetString("ExRate_lblExRates", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Changed date.
+        /// </summary>
+        internal static string ExRate_lblRateChangedDate {
+            get {
+                return ResourceManager.GetString("ExRate_lblRateChangedDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Changed person.
+        /// </summary>
+        internal static string ExRate_lblRateChangedPerson {
+            get {
+                return ResourceManager.GetString("ExRate_lblRateChangedPerson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Exchange date.
+        /// </summary>
+        internal static string ExRate_lblRateDate {
+            get {
+                return ResourceManager.GetString("ExRate_lblRateDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Units.
+        /// </summary>
+        internal static string ExRate_lblRateUnits {
+            get {
+                return ResourceManager.GetString("ExRate_lblRateUnits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Value.
+        /// </summary>
+        internal static string ExRate_lblRateValue {
+            get {
+                return ResourceManager.GetString("ExRate_lblRateValue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Select.
+        /// </summary>
+        internal static string ExRate_lblSelect {
+            get {
+                return ResourceManager.GetString("ExRate_lblSelect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Swap currencies.
+        /// </summary>
+        internal static string ExRate_lblSwapCurrencies {
+            get {
+                return ResourceManager.GetString("ExRate_lblSwapCurrencies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Currency not selected.
+        /// </summary>
+        internal static string ExRate_msgCurrencyNotSelected {
+            get {
+                return ResourceManager.GetString("ExRate_msgCurrencyNotSelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No exchange rate found for the selected period.
+        /// </summary>
+        internal static string ExRate_msgEmptyData {
+            get {
+                return ResourceManager.GetString("ExRate_msgEmptyData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Period not selected.
+        /// </summary>
+        internal static string ExRate_msgPeriodNotSelected {
+            get {
+                return ResourceManager.GetString("ExRate_msgPeriodNotSelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Rate date not selected.
+        /// </summary>
+        internal static string ExRate_msgRateDateNotSelected {
+            get {
+                return ResourceManager.GetString("ExRate_msgRateDateNotSelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The exchange rate already exists on the specified date.
+        /// </summary>
+        internal static string ExRate_msgRateExists {
+            get {
+                return ResourceManager.GetString("ExRate_msgRateExists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Rate units not entered.
+        /// </summary>
+        internal static string ExRate_msgRateUnitsNotEntered {
+            get {
+                return ResourceManager.GetString("ExRate_msgRateUnitsNotEntered", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Rate value not entered.
+        /// </summary>
+        internal static string ExRate_msgRateValueNotEntered {
+            get {
+                return ResourceManager.GetString("ExRate_msgRateValueNotEntered", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на generate.
         /// </summary>
         internal static string generateNumberOfDocument {
@@ -3100,6 +5010,348 @@ namespace Kesco.Lib.Localization {
         internal static string hPageTitle {
             get {
                 return ResourceManager.GetString("hPageTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Computerized workplace.
+        /// </summary>
+        internal static string Inv_ComputerizedWorkplace {
+            get {
+                return ResourceManager.GetString("Inv_ComputerizedWorkplace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Add socket.
+        /// </summary>
+        internal static string Inv_lblAddingSocket {
+            get {
+                return ResourceManager.GetString("Inv_lblAddingSocket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Add socket.
+        /// </summary>
+        internal static string Inv_lblAddSocket {
+            get {
+                return ResourceManager.GetString("Inv_lblAddSocket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Company.
+        /// </summary>
+        internal static string Inv_lblCompany {
+            get {
+                return ResourceManager.GetString("Inv_lblCompany", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Connected.
+        /// </summary>
+        internal static string Inv_lblConnected {
+            get {
+                return ResourceManager.GetString("Inv_lblConnected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee.
+        /// </summary>
+        internal static string Inv_lblEmployee {
+            get {
+                return ResourceManager.GetString("Inv_lblEmployee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employees.
+        /// </summary>
+        internal static string Inv_lblEmployees {
+            get {
+                return ResourceManager.GetString("Inv_lblEmployees", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Equipment.
+        /// </summary>
+        internal static string Inv_lblEquipment {
+            get {
+                return ResourceManager.GetString("Inv_lblEquipment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Equipment may be located.
+        /// </summary>
+        internal static string Inv_lblEquipmentLocated {
+            get {
+                return ResourceManager.GetString("Inv_lblEquipmentLocated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Equipment warehouse.
+        /// </summary>
+        internal static string Inv_lblEquipmentWarehouse {
+            get {
+                return ResourceManager.GetString("Inv_lblEquipmentWarehouse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Guest workplace.
+        /// </summary>
+        internal static string Inv_lblGuestWorkplace {
+            get {
+                return ResourceManager.GetString("Inv_lblGuestWorkplace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Guest workplace, shift work.
+        /// </summary>
+        internal static string Inv_lblGuestWorkplaceShiftWork {
+            get {
+                return ResourceManager.GetString("Inv_lblGuestWorkplaceShiftWork", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Hotel Room.
+        /// </summary>
+        internal static string Inv_lblHotelRoom {
+            get {
+                return ResourceManager.GetString("Inv_lblHotelRoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Location.
+        /// </summary>
+        internal static string Inv_lblLocation {
+            get {
+                return ResourceManager.GetString("Inv_lblLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Locations and sockets.
+        /// </summary>
+        internal static string Inv_lblLocationsAndSockets {
+            get {
+                return ResourceManager.GetString("Inv_lblLocationsAndSockets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Location with a separate server.
+        /// </summary>
+        internal static string Inv_lblLocationServer {
+            get {
+                return ResourceManager.GetString("Inv_lblLocationServer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Nearest printer.
+        /// </summary>
+        internal static string Inv_lblNearestPrinter {
+            get {
+                return ResourceManager.GetString("Inv_lblNearestPrinter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Note.
+        /// </summary>
+        internal static string Inv_lblNote {
+            get {
+                return ResourceManager.GetString("Inv_lblNote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Office.
+        /// </summary>
+        internal static string Inv_lblOffice {
+            get {
+                return ResourceManager.GetString("Inv_lblOffice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Phone codes.
+        /// </summary>
+        internal static string Inv_lblPhoneCodes {
+            get {
+                return ResourceManager.GetString("Inv_lblPhoneCodes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Socket.
+        /// </summary>
+        internal static string Inv_lblSocket {
+            get {
+                return ResourceManager.GetString("Inv_lblSocket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Socket editing.
+        /// </summary>
+        internal static string Inv_lblSocketEditing {
+            get {
+                return ResourceManager.GetString("Inv_lblSocketEditing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sockets.
+        /// </summary>
+        internal static string Inv_lblSockets {
+            get {
+                return ResourceManager.GetString("Inv_lblSockets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Specifications.
+        /// </summary>
+        internal static string Inv_lblSpecifications {
+            get {
+                return ResourceManager.GetString("Inv_lblSpecifications", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Territories.
+        /// </summary>
+        internal static string Inv_lblTerritories {
+            get {
+                return ResourceManager.GetString("Inv_lblTerritories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Unorganized computerized workplace.
+        /// </summary>
+        internal static string Inv_lblUnorganizedComputerizedWorkplace {
+            get {
+                return ResourceManager.GetString("Inv_lblUnorganizedComputerizedWorkplace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Workplace.
+        /// </summary>
+        internal static string Inv_lblWorkplace {
+            get {
+                return ResourceManager.GetString("Inv_lblWorkplace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Works.
+        /// </summary>
+        internal static string Inv_lblWorks {
+            get {
+                return ResourceManager.GetString("Inv_lblWorks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Are you sure you want to change the order of the locations within the same group.
+        /// </summary>
+        internal static string Inv_msgChangeOrderTreeView {
+            get {
+                return ResourceManager.GetString("Inv_msgChangeOrderTreeView", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на location.
+        /// </summary>
+        internal static string Inv_msgLocation {
+            get {
+                return ResourceManager.GetString("Inv_msgLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Are you sure you want to make a location.
+        /// </summary>
+        internal static string Inv_msgMoveItemTreeView1 {
+            get {
+                return ResourceManager.GetString("Inv_msgMoveItemTreeView1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на child in relation to the location.
+        /// </summary>
+        internal static string Inv_msgMoveItemTreeView2 {
+            get {
+                return ResourceManager.GetString("Inv_msgMoveItemTreeView2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на There are no employees at this location.
+        /// </summary>
+        internal static string Inv_msgNoEmployeesAtLocation {
+            get {
+                return ResourceManager.GetString("Inv_msgNoEmployeesAtLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No equipment at this location.
+        /// </summary>
+        internal static string Inv_msgNoEquipmentAtLocation {
+            get {
+                return ResourceManager.GetString("Inv_msgNoEquipmentAtLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на location name is not filled.
+        /// </summary>
+        internal static string Inv_msgNoLocationName {
+            get {
+                return ResourceManager.GetString("Inv_msgNoLocationName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the name of the outlet is not filled.
+        /// </summary>
+        internal static string Inv_msgNoSocketName {
+            get {
+                return ResourceManager.GetString("Inv_msgNoSocketName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на There are no sockets at this location.
+        /// </summary>
+        internal static string Inv_msgNoSocketsAtLocation {
+            get {
+                return ResourceManager.GetString("Inv_msgNoSocketsAtLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No territories to display.
+        /// </summary>
+        internal static string Inv_msgNoTerritories {
+            get {
+                return ResourceManager.GetString("Inv_msgNoTerritories", resourceCulture);
             }
         }
         
@@ -3167,11 +5419,47 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на and.
+        /// </summary>
+        internal static string lAnd {
+            get {
+                return ResourceManager.GetString("lAnd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на AND.
+        /// </summary>
+        internal static string lANDUp {
+            get {
+                return ResourceManager.GetString("lANDUp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на (asc).
         /// </summary>
         internal static string lAsc {
             get {
                 return ResourceManager.GetString("lAsc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на I like the look and functionality of this form.
+        /// </summary>
+        internal static string lb_Like {
+            get {
+                return ResourceManager.GetString("lb_Like", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на I do not like the look and functionality of this form.
+        /// </summary>
+        internal static string lb_NotLike {
+            get {
+                return ResourceManager.GetString("lb_NotLike", resourceCulture);
             }
         }
         
@@ -3635,6 +5923,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Indicates the order in which the columns are sorted..
+        /// </summary>
+        internal static string lblColumnSortOrder {
+            get {
+                return ResourceManager.GetString("lblColumnSortOrder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Contact.
         /// </summary>
         internal static string lblContact {
@@ -3649,6 +5946,15 @@ namespace Kesco.Lib.Localization {
         internal static string lblContains {
             get {
                 return ResourceManager.GetString("lblContains", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Cost.
+        /// </summary>
+        internal static string lblCost {
+            get {
+                return ResourceManager.GetString("lblCost", resourceCulture);
             }
         }
         
@@ -3766,6 +6072,15 @@ namespace Kesco.Lib.Localization {
         internal static string lblDeleteReplacementsText {
             get {
                 return ResourceManager.GetString("lblDeleteReplacementsText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на descending.
+        /// </summary>
+        internal static string lblDescendingSort {
+            get {
+                return ResourceManager.GetString("lblDescendingSort", resourceCulture);
             }
         }
         
@@ -3923,6 +6238,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Edit filter.
+        /// </summary>
+        internal static string lblEditFilter {
+            get {
+                return ResourceManager.GetString("lblEditFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на empty line.
         /// </summary>
         internal static string lblEmptyString {
@@ -3995,6 +6319,33 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Field Value.
+        /// </summary>
+        internal static string lblFieldValue {
+            get {
+                return ResourceManager.GetString("lblFieldValue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Filtering and sorting.
+        /// </summary>
+        internal static string lblFilterAndSort {
+            get {
+                return ResourceManager.GetString("lblFilterAndSort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на filtered.
+        /// </summary>
+        internal static string lblFiltered {
+            get {
+                return ResourceManager.GetString("lblFiltered", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Search for person documents in the archive.
         /// </summary>
         internal static string lblFindPersonDocument {
@@ -4054,6 +6405,141 @@ namespace Kesco.Lib.Localization {
         internal static string lblGP {
             get {
                 return ResourceManager.GetString("lblGP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Add.
+        /// </summary>
+        internal static string lblGridAdd {
+            get {
+                return ResourceManager.GetString("lblGridAdd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на False.
+        /// </summary>
+        internal static string lblGridColumnValueBooleanFalse {
+            get {
+                return ResourceManager.GetString("lblGridColumnValueBooleanFalse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на True.
+        /// </summary>
+        internal static string lblGridColumnValueBooleanTrue {
+            get {
+                return ResourceManager.GetString("lblGridColumnValueBooleanTrue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на copy.
+        /// </summary>
+        internal static string lblGridCopy {
+            get {
+                return ResourceManager.GetString("lblGridCopy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на remove.
+        /// </summary>
+        internal static string lblGridDelete {
+            get {
+                return ResourceManager.GetString("lblGridDelete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Do not group by this column.
+        /// </summary>
+        internal static string lblGridDeleteCulumnGrouping {
+            get {
+                return ResourceManager.GetString("lblGridDeleteCulumnGrouping", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на edit.
+        /// </summary>
+        internal static string lblGridEdit {
+            get {
+                return ResourceManager.GetString("lblGridEdit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Expand/Collapse group.
+        /// </summary>
+        internal static string lblGridGroupExpand {
+            get {
+                return ResourceManager.GetString("lblGridGroupExpand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Drag a column header here to group by that column.
+        /// </summary>
+        internal static string lblGridGroupingPanelEmptyText {
+            get {
+                return ResourceManager.GetString("lblGridGroupingPanelEmptyText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Total records.
+        /// </summary>
+        internal static string lblGridRecordCount {
+            get {
+                return ResourceManager.GetString("lblGridRecordCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на records in the group.
+        /// </summary>
+        internal static string lblGridRecordCountGroup {
+            get {
+                return ResourceManager.GetString("lblGridRecordCountGroup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на records.
+        /// </summary>
+        internal static string lblGridRecords {
+            get {
+                return ResourceManager.GetString("lblGridRecords", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Set filter by date.
+        /// </summary>
+        internal static string lblGridSetDateFilter {
+            get {
+                return ResourceManager.GetString("lblGridSetDateFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Set numeric filter.
+        /// </summary>
+        internal static string lblGridSetNumericFilter {
+            get {
+                return ResourceManager.GetString("lblGridSetNumericFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Install Text Filter.
+        /// </summary>
+        internal static string lblGridSetTextFilter {
+            get {
+                return ResourceManager.GetString("lblGridSetTextFilter", resourceCulture);
             }
         }
         
@@ -4328,6 +6814,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Maximum value.
+        /// </summary>
+        internal static string lblMaxValue {
+            get {
+                return ResourceManager.GetString("lblMaxValue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на more.
         /// </summary>
         internal static string lblMore {
@@ -4342,6 +6837,15 @@ namespace Kesco.Lib.Localization {
         internal static string lblMoreOrEqual {
             get {
                 return ResourceManager.GetString("lblMoreOrEqual", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Move.
+        /// </summary>
+        internal static string lblMove {
+            get {
+                return ResourceManager.GetString("lblMove", resourceCulture);
             }
         }
         
@@ -4526,6 +7030,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Found more than {0} records. Only {0} are displayed, specify the search criteria..
+        /// </summary>
+        internal static string lblOver100 {
+            get {
+                return ResourceManager.GetString("lblOver100", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Partial pay.
         /// </summary>
         internal static string lblPartialPay {
@@ -4540,6 +7053,15 @@ namespace Kesco.Lib.Localization {
         internal static string lblPayAcc {
             get {
                 return ResourceManager.GetString("lblPayAcc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Payer is an agent.
+        /// </summary>
+        internal static string lblPayerAgent {
+            get {
+                return ResourceManager.GetString("lblPayerAgent", resourceCulture);
             }
         }
         
@@ -4585,6 +7107,15 @@ namespace Kesco.Lib.Localization {
         internal static string lblPerson {
             get {
                 return ResourceManager.GetString("lblPerson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Location.
+        /// </summary>
+        internal static string lblPlace {
+            get {
+                return ResourceManager.GetString("lblPlace", resourceCulture);
             }
         }
         
@@ -4904,11 +7435,38 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Resource.
+        /// </summary>
+        internal static string lblResource {
+            get {
+                return ResourceManager.GetString("lblResource", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Run.
         /// </summary>
         internal static string lblRun {
             get {
                 return ResourceManager.GetString("lblRun", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Search.
+        /// </summary>
+        internal static string lblSearch {
+            get {
+                return ResourceManager.GetString("lblSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Select all.
+        /// </summary>
+        internal static string lblSelectAll {
+            get {
+                return ResourceManager.GetString("lblSelectAll", resourceCulture);
             }
         }
         
@@ -4958,11 +7516,29 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Set the filter.
+        /// </summary>
+        internal static string lblSettingFilter {
+            get {
+                return ResourceManager.GetString("lblSettingFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Settings.
         /// </summary>
         internal static string lblSettings {
             get {
                 return ResourceManager.GetString("lblSettings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Supplier is agent.
+        /// </summary>
+        internal static string lblShipperAgent {
+            get {
+                return ResourceManager.GetString("lblShipperAgent", resourceCulture);
             }
         }
         
@@ -5012,6 +7588,24 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Sorting.
+        /// </summary>
+        internal static string lblSort {
+            get {
+                return ResourceManager.GetString("lblSort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sorted by.
+        /// </summary>
+        internal static string lblSortedBy {
+            get {
+                return ResourceManager.GetString("lblSortedBy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Specifications.
         /// </summary>
         internal static string lblSpecifications {
@@ -5035,6 +7629,15 @@ namespace Kesco.Lib.Localization {
         internal static string lblStatus {
             get {
                 return ResourceManager.GetString("lblStatus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Store.
+        /// </summary>
+        internal static string lblStore {
+            get {
+                return ResourceManager.GetString("lblStore", resourceCulture);
             }
         }
         
@@ -5197,6 +7800,15 @@ namespace Kesco.Lib.Localization {
         internal static string lDesc {
             get {
                 return ResourceManager.GetString("lDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на empty.
+        /// </summary>
+        internal static string lEmpty {
+            get {
+                return ResourceManager.GetString("lEmpty", resourceCulture);
             }
         }
         
@@ -5390,6 +8002,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на not.
+        /// </summary>
+        internal static string lNo {
+            get {
+                return ResourceManager.GetString("lNo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на No data.
         /// </summary>
         internal static string lNoData {
@@ -5458,6 +8079,24 @@ namespace Kesco.Lib.Localization {
         internal static string LnotinOnce {
             get {
                 return ResourceManager.GetString("LnotinOnce", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на of.
+        /// </summary>
+        internal static string lOf {
+            get {
+                return ResourceManager.GetString("lOf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на OR.
+        /// </summary>
+        internal static string lORUp {
+            get {
+                return ResourceManager.GetString("lORUp", resourceCulture);
             }
         }
         
@@ -5669,8 +8308,7 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на As a result of this operation ALL data of the current document
-        ///will be brought into line with the document being corrected.
+        ///   Ищет локализованную строку, похожую на As a result of this operation ALL data of the current document will be brought into line with the document being corrected.
         ///
         ///Are you sure you want to perform this operation ?.
         /// </summary>
@@ -6027,6 +8665,33 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на No value for filter!.
+        /// </summary>
+        internal static string msgEmptyFilterValue {
+            get {
+                return ResourceManager.GetString("msgEmptyFilterValue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Error determining column ID.
+        /// </summary>
+        internal static string msgErrorIdColumn {
+            get {
+                return ResourceManager.GetString("msgErrorIdColumn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Could not find the column by ID..
+        /// </summary>
+        internal static string msgErrorIdColumnFound {
+            get {
+                return ResourceManager.GetString("msgErrorIdColumnFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Unable to map the fields to the database (DokumentyDannye) with margins being..
         /// </summary>
         internal static string msgEx {
@@ -6045,6 +8710,51 @@ namespace Kesco.Lib.Localization {
         internal static string msgFinishSign {
             get {
                 return ResourceManager.GetString("msgFinishSign", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на It is not possible to display a list of unique values, because the number of such values exceeds the established limit!.
+        /// </summary>
+        internal static string msgGridUniqError {
+            get {
+                return ResourceManager.GetString("msgGridUniqError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Use the filter by field type!.
+        /// </summary>
+        internal static string msgGridUseFilterFieldType {
+            get {
+                return ResourceManager.GetString("msgGridUseFilterFieldType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Do not filter.
+        /// </summary>
+        internal static string msgGrigNoFilter {
+            get {
+                return ResourceManager.GetString("msgGrigNoFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Do not sort.
+        /// </summary>
+        internal static string msgGrigNoSort {
+            get {
+                return ResourceManager.GetString("msgGrigNoSort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Click on the icon to sort in the opposite direction..
+        /// </summary>
+        internal static string msgGrigSordBackOrder {
+            get {
+                return ResourceManager.GetString("msgGrigSordBackOrder", resourceCulture);
             }
         }
         
@@ -6194,6 +8904,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Open the filtering and sorting column settings..
+        /// </summary>
+        internal static string msgOpenSettingFilter {
+            get {
+                return ResourceManager.GetString("msgOpenSettingFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на WARNING!!!.
         /// </summary>
         internal static string msgOsnAttention0 {
@@ -6338,6 +9057,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Attention! Printed only.
+        /// </summary>
+        internal static string msgPrintCount {
+            get {
+                return ResourceManager.GetString("msgPrintCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Do you want to delete {0}?.
         /// </summary>
         internal static string msgQuestionDelete {
@@ -6388,6 +9116,42 @@ namespace Kesco.Lib.Localization {
         internal static string msgSimpleDelSign {
             get {
                 return ResourceManager.GetString("msgSimpleDelSign", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sorting from A to Z.
+        /// </summary>
+        internal static string msgSortOrderAZ {
+            get {
+                return ResourceManager.GetString("msgSortOrderAZ", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sorting from maximum to minimum.
+        /// </summary>
+        internal static string msgSortOrderMaxMin {
+            get {
+                return ResourceManager.GetString("msgSortOrderMaxMin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sorting from minimum to maximum.
+        /// </summary>
+        internal static string msgSortOrderMinMax {
+            get {
+                return ResourceManager.GetString("msgSortOrderMinMax", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Sorting from Z to A.
+        /// </summary>
+        internal static string msgSortOrderZA {
+            get {
+                return ResourceManager.GetString("msgSortOrderZA", resourceCulture);
             }
         }
         
@@ -7863,6 +10627,258 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Clear.
+        /// </summary>
+        internal static string STORE_SP_Btn_Clear {
+            get {
+                return ResourceManager.GetString("STORE_SP_Btn_Clear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Clear selected values.
+        /// </summary>
+        internal static string STORE_SP_Btn_Clear_Title {
+            get {
+                return ResourceManager.GetString("STORE_SP_Btn_Clear_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Close.
+        /// </summary>
+        internal static string STORE_SP_Btn_Close {
+            get {
+                return ResourceManager.GetString("STORE_SP_Btn_Close", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Generate a report.
+        /// </summary>
+        internal static string STORE_SP_Btn_Report {
+            get {
+                return ResourceManager.GetString("STORE_SP_Btn_Report", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Select company details you want to include in the report.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Account.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Account {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Account", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Address.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Address {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Address", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Bank.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Bank {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Bank", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Currency.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Currency {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Currency", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Director.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Director {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Director", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на TIN.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Inn {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Inn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на IEC.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Kpp {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Kpp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Title.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Name {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на SRN.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_OGRN {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_OGRN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Payment account(RUB) .
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_RS {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_RS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Special account (RUB).
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_Spec {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_Spec", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Currency account.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Data_ValS {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Data_ValS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Select the language in which the report will be generated.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Lang {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Lang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на In English.
+        /// </summary>
+        internal static string STORE_SP_Lbl_LangEn {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_LangEn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на In the language of the country of incorporation.
+        /// </summary>
+        internal static string STORE_SP_Lbl_LangRu {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_LangRu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Requisites.
+        /// </summary>
+        internal static string STORE_SP_Lbl_Requisites {
+            get {
+                return ResourceManager.GetString("STORE_SP_Lbl_Requisites", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To generate a report, you must select at least one props.
+        /// </summary>
+        internal static string STORE_SP_Msg_1 {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To generate a report, you must specify a current account.
+        /// </summary>
+        internal static string STORE_SP_Msg_2 {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To generate a report, you must specify the currency.
+        /// </summary>
+        internal static string STORE_SP_Msg_3 {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To generate a report, you must specify the currency account.
+        /// </summary>
+        internal static string STORE_SP_Msg_4 {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To generate a report, you must specify the director.
+        /// </summary>
+        internal static string STORE_SP_Msg_5 {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To generate a report, you must specify a special account..
+        /// </summary>
+        internal static string STORE_SP_Msg_6 {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Error.
+        /// </summary>
+        internal static string STORE_SP_Msg_Error {
+            get {
+                return ResourceManager.GetString("STORE_SP_Msg_Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Store.
         /// </summary>
         internal static string STORE_Store {
@@ -8718,15 +11734,6 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на and.
-        /// </summary>
-        internal static string TTN_FAnd {
-            get {
-                return ResourceManager.GetString("TTN_FAnd", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Ищет локализованную строку, похожую на from.
         /// </summary>
         internal static string TTN_FFrom {
@@ -8736,29 +11743,11 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на not.
+        ///   Ищет локализованную строку, похожую на Total dial.
         /// </summary>
-        internal static string TTN_FNo {
+        internal static string TTN_lblAllSet {
             get {
-                return ResourceManager.GetString("TTN_FNo", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на of.
-        /// </summary>
-        internal static string TTN_FOf {
-            get {
-                return ResourceManager.GetString("TTN_FOf", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на to.
-        /// </summary>
-        internal static string TTN_FTo {
-            get {
-                return ResourceManager.GetString("TTN_FTo", resourceCulture);
+                return ResourceManager.GetString("TTN_lblAllSet", resourceCulture);
             }
         }
         
@@ -8781,20 +11770,128 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Edit filter.
+        ///   Ищет локализованную строку, похожую на Payment.
         /// </summary>
-        internal static string TTN_lblEditFilter {
+        internal static string TTN_lblCalculeted {
             get {
-                return ResourceManager.GetString("TTN_lblEditFilter", resourceCulture);
+                return ResourceManager.GetString("TTN_lblCalculeted", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Field Value.
+        ///   Ищет локализованную строку, похожую на Check balance.
         /// </summary>
-        internal static string TTN_lblFieldValue {
+        internal static string TTN_lblCheckRest {
             get {
-                return ResourceManager.GetString("TTN_lblFieldValue", resourceCulture);
+                return ResourceManager.GetString("TTN_lblCheckRest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Contact selection.
+        /// </summary>
+        internal static string TTN_lblChoiceContact {
+            get {
+                return ResourceManager.GetString("TTN_lblChoiceContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Employee selection.
+        /// </summary>
+        internal static string TTN_lblChoiceEmployee {
+            get {
+                return ResourceManager.GetString("TTN_lblChoiceEmployee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Choice of type of sets.
+        /// </summary>
+        internal static string TTN_lblChoiceTypeSets {
+            get {
+                return ResourceManager.GetString("TTN_lblChoiceTypeSets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Choose a contact.
+        /// </summary>
+        internal static string TTN_lblChooseContact {
+            get {
+                return ResourceManager.GetString("TTN_lblChooseContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Consumption.
+        /// </summary>
+        internal static string TTN_lblConsumption {
+            get {
+                return ResourceManager.GetString("TTN_lblConsumption", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на continue editing.
+        /// </summary>
+        internal static string TTN_lblContinueEditing {
+            get {
+                return ResourceManager.GetString("TTN_lblContinueEditing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Create a new contact.
+        /// </summary>
+        internal static string TTN_lblCreateContact {
+            get {
+                return ResourceManager.GetString("TTN_lblCreateContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Display sets of this document.
+        /// </summary>
+        internal static string TTN_lblDisplaySetsDocument {
+            get {
+                return ResourceManager.GetString("TTN_lblDisplaySetsDocument", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Distribute by documents.
+        /// </summary>
+        internal static string TTN_lblDistributeByDocuments {
+            get {
+                return ResourceManager.GetString("TTN_lblDistributeByDocuments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Actual.
+        /// </summary>
+        internal static string TTN_lblFact {
+            get {
+                return ResourceManager.GetString("TTN_lblFact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Fill in the areas of wagon shipments.
+        /// </summary>
+        internal static string TTN_lblFillAreasWagonShipments {
+            get {
+                return ResourceManager.GetString("TTN_lblFillAreasWagonShipments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Filter by invoice number.
+        /// </summary>
+        internal static string TTN_lblFilterInvoiceNumber {
+            get {
+                return ResourceManager.GetString("TTN_lblFilterInvoiceNumber", resourceCulture);
             }
         }
         
@@ -8808,6 +11905,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Match the shipper and the supplier.
+        /// </summary>
+        internal static string TTN_lblGoAndShipper {
+            get {
+                return ResourceManager.GetString("TTN_lblGoAndShipper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Consignee address.
         /// </summary>
         internal static string TTN_lblGPAddress {
@@ -8817,74 +11923,11 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на copy.
+        ///   Ищет локализованную строку, похожую на Passen Sie den Empfänger und den Zahler an.
         /// </summary>
-        internal static string TTN_lblGridCopy {
+        internal static string TTN_lblGpAndPayer {
             get {
-                return ResourceManager.GetString("TTN_lblGridCopy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на remove.
-        /// </summary>
-        internal static string TTN_lblGridDelete {
-            get {
-                return ResourceManager.GetString("TTN_lblGridDelete", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на edit.
-        /// </summary>
-        internal static string TTN_lblGridEdit {
-            get {
-                return ResourceManager.GetString("TTN_lblGridEdit", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Total records.
-        /// </summary>
-        internal static string TTN_lblGridRecordCount {
-            get {
-                return ResourceManager.GetString("TTN_lblGridRecordCount", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на records.
-        /// </summary>
-        internal static string TTN_lblGridRecords {
-            get {
-                return ResourceManager.GetString("TTN_lblGridRecords", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Set filter by date.
-        /// </summary>
-        internal static string TTN_lblGridSetDateFilter {
-            get {
-                return ResourceManager.GetString("TTN_lblGridSetDateFilter", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Set numeric filter.
-        /// </summary>
-        internal static string TTN_lblGridSetNumericFilter {
-            get {
-                return ResourceManager.GetString("TTN_lblGridSetNumericFilter", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Install Text Filter.
-        /// </summary>
-        internal static string TTN_lblGridSetTextFilter {
-            get {
-                return ResourceManager.GetString("TTN_lblGridSetTextFilter", resourceCulture);
+                return ResourceManager.GetString("TTN_lblGpAndPayer", resourceCulture);
             }
         }
         
@@ -8916,6 +11959,51 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на without recruitment.
+        /// </summary>
+        internal static string TTN_lblNoSet {
+            get {
+                return ResourceManager.GetString("TTN_lblNoSet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на open in the Documents Archive.
+        /// </summary>
+        internal static string TTN_lblOpenInDocumentsArchive {
+            get {
+                return ResourceManager.GetString("TTN_lblOpenInDocumentsArchive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Resource owner.
+        /// </summary>
+        internal static string TTN_lblOwherResource {
+            get {
+                return ResourceManager.GetString("TTN_lblOwherResource", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Production.
+        /// </summary>
+        internal static string TTN_lblProduction {
+            get {
+                return ResourceManager.GetString("TTN_lblProduction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на product kits.
+        /// </summary>
+        internal static string TTN_lblProductKits {
+            get {
+                return ResourceManager.GetString("TTN_lblProductKits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Product name (lat).
         /// </summary>
         internal static string TTN_lblProductNameLat {
@@ -8934,6 +12022,69 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Purchase.
+        /// </summary>
+        internal static string TTN_lblPurchase {
+            get {
+                return ResourceManager.GetString("TTN_lblPurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Coming.
+        /// </summary>
+        internal static string TTN_lblReceipt {
+            get {
+                return ResourceManager.GetString("TTN_lblReceipt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на for resource consumption.
+        /// </summary>
+        internal static string TTN_lblResourceConsumption {
+            get {
+                return ResourceManager.GetString("TTN_lblResourceConsumption", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The remainder.
+        /// </summary>
+        internal static string TTN_lblRest {
+            get {
+                return ResourceManager.GetString("TTN_lblRest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Remains.
+        /// </summary>
+        internal static string TTN_lblRests {
+            get {
+                return ResourceManager.GetString("TTN_lblRests", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Stock balance at.
+        /// </summary>
+        internal static string TTN_lblRestSkladOn {
+            get {
+                return ResourceManager.GetString("TTN_lblRestSkladOn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Saving the document.
+        /// </summary>
+        internal static string TTN_lblSaveDocument {
+            get {
+                return ResourceManager.GetString("TTN_lblSaveDocument", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Curator.
         /// </summary>
         internal static string TTN_lblSectionCurator {
@@ -8943,7 +12094,7 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Documentation.
+        ///   Ищет локализованную строку, похожую на Founding documents.
         /// </summary>
         internal static string TTN_lblSectionDocuments {
             get {
@@ -9006,6 +12157,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Same as payer:.
+        /// </summary>
+        internal static string TTN_lblSectionPayerToGp {
+            get {
+                return ResourceManager.GetString("TTN_lblSectionPayerToGp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Absent.
         /// </summary>
         internal static string TTN_lblSectionRequiredInfo {
@@ -9042,6 +12202,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Same as supplier:.
+        /// </summary>
+        internal static string TTN_lblSectionShipperToGo {
+            get {
+                return ResourceManager.GetString("TTN_lblSectionShipperToGo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Signatures of printed forms.
         /// </summary>
         internal static string TTN_lblSectionSignersOfPaper {
@@ -9060,11 +12229,11 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Select all.
+        ///   Ищет локализованную строку, похожую на Select areas of wagon shipments.
         /// </summary>
-        internal static string TTN_lblSelectAll {
+        internal static string TTN_lblSelectAreasWagonShipments {
             get {
-                return ResourceManager.GetString("TTN_lblSelectAll", resourceCulture);
+                return ResourceManager.GetString("TTN_lblSelectAreasWagonShipments", resourceCulture);
             }
         }
         
@@ -9087,6 +12256,78 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Set.
+        /// </summary>
+        internal static string TTN_lblSet {
+            get {
+                return ResourceManager.GetString("TTN_lblSet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Set of arrivals to the warehouse.
+        /// </summary>
+        internal static string TTN_lblSetArrival {
+            get {
+                return ResourceManager.GetString("TTN_lblSetArrival", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на A set of costs from stock.
+        /// </summary>
+        internal static string TTN_lblSetCost {
+            get {
+                return ResourceManager.GetString("TTN_lblSetCost", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Shipment amounts.
+        /// </summary>
+        internal static string TTN_lblShipmentAmounts {
+            get {
+                return ResourceManager.GetString("TTN_lblShipmentAmounts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Show all balances.
+        /// </summary>
+        internal static string TTN_lblShowAllRest {
+            get {
+                return ResourceManager.GetString("TTN_lblShowAllRest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Steward.
+        /// </summary>
+        internal static string TTN_lblSteward {
+            get {
+                return ResourceManager.GetString("TTN_lblSteward", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Stock code.
+        /// </summary>
+        internal static string TTN_lblStockCode {
+            get {
+                return ResourceManager.GetString("TTN_lblStockCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Type.
+        /// </summary>
+        internal static string TTN_lblType {
+            get {
+                return ResourceManager.GetString("TTN_lblType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Select units. amend..
         /// </summary>
         internal static string TTN_lblUnitsSelect {
@@ -9096,11 +12337,47 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Realization / purchase of the product.
+        ///   Ищет локализованную строку, похожую на Filter by car number.
+        /// </summary>
+        internal static string TTN_lblVagonFilter {
+            get {
+                return ResourceManager.GetString("TTN_lblVagonFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Values from the corrected document will be set in all fields of the form. Continue?.
+        /// </summary>
+        internal static string TTN_mgsReplaceValues {
+            get {
+                return ResourceManager.GetString("TTN_mgsReplaceValues", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Realization / purchase of goods.
         /// </summary>
         internal static string TTN_MrisTitle {
             get {
                 return ResourceManager.GetString("TTN_MrisTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Error! Selected document has been corrected with more than 1 document at the same time..
+        /// </summary>
+        internal static string TTN_msg_Больше1Корректирующего {
+            get {
+                return ResourceManager.GetString("TTN_msg_Больше1Корректирующего", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на current account not available.
+        /// </summary>
+        internal static string TTN_msgAccountNotAvailable {
+            get {
+                return ResourceManager.GetString("TTN_msgAccountNotAvailable", resourceCulture);
             }
         }
         
@@ -9150,6 +12427,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на The current document is selected as the corrected document. Select a document other than the current one..
+        /// </summary>
+        internal static string TTN_msgChosenCorrectedSelf {
+            get {
+                return ResourceManager.GetString("TTN_msgChosenCorrectedSelf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Document can not be saved..
         /// </summary>
         internal static string TTN_msgDocumentCanNotBeSaved {
@@ -9159,119 +12445,48 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Indicates the order in which the columns are sorted..
+        ///   Ищет локализованную строку, похожую на Editing the position of the document is not possible..
         /// </summary>
-        internal static string TTN_msgGridColumnSortOrder {
+        internal static string TTN_msgEditingNoPossible {
             get {
-                return ResourceManager.GetString("TTN_msgGridColumnSortOrder", resourceCulture);
+                return ResourceManager.GetString("TTN_msgEditingNoPossible", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на descending.
+        ///   Ищет локализованную строку, похожую на It is impossible to change the relationship with the corrected sales document in the presence of a resulting invoice.
+        ///First, delete the resulting invoice..
         /// </summary>
-        internal static string TTN_msgGridDescendingSort {
+        internal static string TTN_msgFakturaExist {
             get {
-                return ResourceManager.GetString("TTN_msgGridDescendingSort", resourceCulture);
+                return ResourceManager.GetString("TTN_msgFakturaExist", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Error determining column ID.
+        ///   Ищет локализованную строку, похожую на This item is not specified any item with the goods. To add a product, click on the button &quot;Add product&quot; or &quot;Insert&quot; on the keyboard..
         /// </summary>
-        internal static string TTN_msgGridErrorIdColumn {
+        internal static string TTN_msgGridNoMris {
             get {
-                return ResourceManager.GetString("TTN_msgGridErrorIdColumn", resourceCulture);
+                return ResourceManager.GetString("TTN_msgGridNoMris", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Could not find the column by ID..
+        ///   Ищет локализованную строку, похожую на This item is not specified any position with the service. To add a service, click on the &quot;Add service&quot; or &quot;Insert&quot; button on the keyboard..
         /// </summary>
-        internal static string TTN_msgGridErrorIdColumnFound {
+        internal static string TTN_msgGridNoUsl {
             get {
-                return ResourceManager.GetString("TTN_msgGridErrorIdColumnFound", resourceCulture);
+                return ResourceManager.GetString("TTN_msgGridNoUsl", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Filtering and sorting.
+        ///   Ищет локализованную строку, похожую на You can not delete the last item in the consignment note..
         /// </summary>
-        internal static string TTN_msgGridFilterAndSort {
+        internal static string TTN_msgLastMrisDelete {
             get {
-                return ResourceManager.GetString("TTN_msgGridFilterAndSort", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Open the filtering and sorting column settings..
-        /// </summary>
-        internal static string TTN_msgGridOpenSettingFilter {
-            get {
-                return ResourceManager.GetString("TTN_msgGridOpenSettingFilter", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Attention! Printed only.
-        /// </summary>
-        internal static string TTN_msgGridPrintCount {
-            get {
-                return ResourceManager.GetString("TTN_msgGridPrintCount", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Sorted by.
-        /// </summary>
-        internal static string TTN_msgGridSortedBy {
-            get {
-                return ResourceManager.GetString("TTN_msgGridSortedBy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на It is not possible to display a list of unique values, because the number of such values exceeds the established limit!.
-        /// </summary>
-        internal static string TTN_msgGridUniqError {
-            get {
-                return ResourceManager.GetString("TTN_msgGridUniqError", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Use the filter by field type!.
-        /// </summary>
-        internal static string TTN_msgGridUseFilterFieldType {
-            get {
-                return ResourceManager.GetString("TTN_msgGridUseFilterFieldType", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Do not filter.
-        /// </summary>
-        internal static string TTN_msgGrigNoFilter {
-            get {
-                return ResourceManager.GetString("TTN_msgGrigNoFilter", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Do not sort.
-        /// </summary>
-        internal static string TTN_msgGrigNoSort {
-            get {
-                return ResourceManager.GetString("TTN_msgGrigNoSort", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на Click on the icon to sort in the opposite direction..
-        /// </summary>
-        internal static string TTN_msgGrigSordBackOrder {
-            get {
-                return ResourceManager.GetString("TTN_msgGrigSordBackOrder", resourceCulture);
+                return ResourceManager.GetString("TTN_msgLastMrisDelete", resourceCulture);
             }
         }
         
@@ -9281,6 +12496,42 @@ namespace Kesco.Lib.Localization {
         internal static string TTN_msgNDSSUM {
             get {
                 return ResourceManager.GetString("TTN_msgNDSSUM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на To edit, save the document.
+        /// </summary>
+        internal static string TTN_msgNeedSaveDocument {
+            get {
+                return ResourceManager.GetString("TTN_msgNeedSaveDocument", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на No product specified..
+        /// </summary>
+        internal static string TTN_msgNoMris {
+            get {
+                return ResourceManager.GetString("TTN_msgNoMris", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The required field of the warehouse is not filled..
+        /// </summary>
+        internal static string TTN_msgNoStorage {
+            get {
+                return ResourceManager.GetString("TTN_msgNoStorage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на not signed by the contract manager.
+        /// </summary>
+        internal static string TTN_msgNotSignedCurator {
+            get {
+                return ResourceManager.GetString("TTN_msgNotSignedCurator", resourceCulture);
             }
         }
         
@@ -9303,38 +12554,56 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Sorting from A to Z.
+        ///   Ищет локализованную строку, похожую на Rounding is not successful..
         /// </summary>
-        internal static string TTN_msgSortOrderAZ {
+        internal static string TTN_msgRoundingNotSuccessful_ {
             get {
-                return ResourceManager.GetString("TTN_msgSortOrderAZ", resourceCulture);
+                return ResourceManager.GetString("TTN_msgRoundingNotSuccessful.", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Sorting from maximum to minimum.
+        ///   Ищет локализованную строку, похожую на As a result of rounding, taxes were slightly inflated..
         /// </summary>
-        internal static string TTN_msgSortOrderMaxMin {
+        internal static string TTN_msgTaxInflated {
             get {
-                return ResourceManager.GetString("TTN_msgSortOrderMaxMin", resourceCulture);
+                return ResourceManager.GetString("TTN_msgTaxInflated", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Sorting from minimum to maximum.
+        ///   Ищет локализованную строку, похожую на As a result of rounding, the Total value has been changed..
         /// </summary>
-        internal static string TTN_msgSortOrderMinMax {
+        internal static string TTN_msgVsegoChanged {
             get {
-                return ResourceManager.GetString("TTN_msgSortOrderMinMax", resourceCulture);
+                return ResourceManager.GetString("TTN_msgVsegoChanged", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Sorting from Z to A.
+        ///   Ищет локализованную строку, похожую на Work with the document is not completed!.
         /// </summary>
-        internal static string TTN_msgSortOrderZA {
+        internal static string TTN_msgWorkDocumentNotCompleted {
             get {
-                return ResourceManager.GetString("TTN_msgSortOrderZA", resourceCulture);
+                return ResourceManager.GetString("TTN_msgWorkDocumentNotCompleted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the person does not match any person in the contract.
+        /// </summary>
+        internal static string TTN_nntfPersonNotMatchContract {
+            get {
+                return ResourceManager.GetString("TTN_nntfPersonNotMatchContract", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на the person does not match any person in the application.
+        /// </summary>
+        internal static string TTN_nntfPersonNotMatchEnclosure {
+            get {
+                return ResourceManager.GetString("TTN_nntfPersonNotMatchEnclosure", resourceCulture);
             }
         }
         
@@ -9402,6 +12671,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Attempt to get the type of settlement from the contract without an electronic form! Contract Code: .
+        /// </summary>
+        internal static string TTN_ntfGetTypeByContractNoForm {
+            get {
+                return ResourceManager.GetString("TTN_ntfGetTypeByContractNoForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на requisites do not correspond to the settlement account.
         /// </summary>
         internal static string TTN_ntfInfoStore {
@@ -9443,6 +12721,24 @@ namespace Kesco.Lib.Localization {
         internal static string TTN_ntfLatinNameNotMatchProduct {
             get {
                 return ResourceManager.GetString("TTN_ntfLatinNameNotMatchProduct", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Select a correction document..
+        /// </summary>
+        internal static string TTN_ntfNoCorrectedDocument {
+            get {
+                return ResourceManager.GetString("TTN_ntfNoCorrectedDocument", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на There is no connection of the application with the contract! Application code: .
+        /// </summary>
+        internal static string TTN_ntfNoLinkContractAnfEnclosure {
+            get {
+                return ResourceManager.GetString("TTN_ntfNoLinkContractAnfEnclosure", resourceCulture);
             }
         }
         
@@ -9533,6 +12829,15 @@ namespace Kesco.Lib.Localization {
         internal static string TTN_ntfNotShipperStore {
             get {
                 return ResourceManager.GetString("TTN_ntfNotShipperStore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на The &apos;VAT rate&apos; field is not filled.
+        /// </summary>
+        internal static string TTN_ntfNotStavkaNDS {
+            get {
+                return ResourceManager.GetString("TTN_ntfNotStavkaNDS", resourceCulture);
             }
         }
         
@@ -9735,11 +13040,47 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на the person has no OKPO.
+        /// </summary>
+        internal static string TTN_ntfPersonNotOKPO {
+            get {
+                return ResourceManager.GetString("TTN_ntfPersonNotOKPO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на person has not been tested.
+        /// </summary>
+        internal static string TTN_ntfPersonNotTested {
+            get {
+                return ResourceManager.GetString("TTN_ntfPersonNotTested", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на the position does not match the person.
         /// </summary>
         internal static string TTN_ntfPersonPosition {
             get {
                 return ResourceManager.GetString("TTN_ntfPersonPosition", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на settlement account does not match the account in the contract.
+        /// </summary>
+        internal static string TTN_ntfPersonStoreDocument {
+            get {
+                return ResourceManager.GetString("TTN_ntfPersonStoreDocument", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на current account does not match the account in the application.
+        /// </summary>
+        internal static string TTN_ntfPersonStoreEnclosure {
+            get {
+                return ResourceManager.GetString("TTN_ntfPersonStoreEnclosure", resourceCulture);
             }
         }
         
@@ -10042,6 +13383,15 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Replacement dates do not correspond to vacation dates..
+        /// </summary>
+        internal static string Vacation_ErrSubDateSubstitution {
+            get {
+                return ResourceManager.GetString("Vacation_ErrSubDateSubstitution", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Failed to save the substitution in the database..
         /// </summary>
         internal static string Vacation_ErrSubDb {
@@ -10259,11 +13609,20 @@ namespace Kesco.Lib.Localization {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Employee.
+        ///   Ищет локализованную строку, похожую на Select the substitution employee.
         /// </summary>
         internal static string Vacation_SubEmployee {
             get {
                 return ResourceManager.GetString("Vacation_SubEmployee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Substitute employee.
+        /// </summary>
+        internal static string Vacation_SubEmployeeLbl {
+            get {
+                return ResourceManager.GetString("Vacation_SubEmployeeLbl", resourceCulture);
             }
         }
         

@@ -3813,4 +3813,894 @@ Esiteks kustutage saadud arve.</value>
 	<data name="TTN_msgNotSignedCurator" xml:space="preserve">
 		<value>lepingulise juhi poolt allkirjastamata</value>
 	</data>
+	<data name="TTN_msgNoStorage" xml:space="preserve">
+		<value>Lao nõutav väli ei ole täidetud.</value>
+	</data>
+	<data name="TTN_msgEditingNoPossible" xml:space="preserve">
+		<value>Dokumendi asukoha muutmine ei ole võimalik.</value>
+	</data>
+	<data name="lblGridDeleteCulumnGrouping" xml:space="preserve">
+		<value>Ärge grupeerige seda veergu</value>
+	</data>
+	<data name="TTN_msgLastMrisDelete" xml:space="preserve">
+		<value>Sa ei saa kaubasaatja viimast üksust kustutada.</value>
+	</data>
+	<data name="lblGridRecordCountGroup" xml:space="preserve">
+		<value>grupis olevad kirjed</value>
+	</data>
+	<data name="lblGridColumnValueBooleanFalse" xml:space="preserve">
+		<value>Vale</value>
+	</data>
+	<data name="lblGridColumnValueBooleanTrue" xml:space="preserve">
+		<value>Tõde</value>
+	</data>
+	<data name="lblGridGroupExpand" xml:space="preserve">
+		<value>Grupi laiendamine/kokkuvarisemine</value>
+	</data>
+	<data name="Inv_lblLocationsAndSockets" xml:space="preserve">
+		<value>Asukohad ja pistikupesad</value>
+	</data>
+	<data name="Inv_lblSpecifications" xml:space="preserve">
+		<value>Omadused</value>
+	</data>
+	<data name="Inv_lblSockets" xml:space="preserve">
+		<value>Pistikud</value>
+	</data>
+	<data name="Inv_lblEmployees" xml:space="preserve">
+		<value>Töötajad</value>
+	</data>
+	<data name="Inv_lblEquipment" xml:space="preserve">
+		<value>Varustus</value>
+	</data>
+	<data name="Inv_lblLocation" xml:space="preserve">
+		<value>Asukoht</value>
+	</data>
+	<data name="Inv_lblSocket" xml:space="preserve">
+		<value>Pistikupesa</value>
+	</data>
+	<data name="Inv_lblWorks" xml:space="preserve">
+		<value>Töötab</value>
+	</data>
+	<data name="Inv_lblNote" xml:space="preserve">
+		<value>Märkus</value>
+	</data>
+	<data name="Inv_lblAddSocket" xml:space="preserve">
+		<value>Lisa pesa</value>
+	</data>
+	<data name="Inv_lblAddingSocket" xml:space="preserve">
+		<value>Lisa pesa</value>
+	</data>
+	<data name="Inv_lblSocketEditing" xml:space="preserve">
+		<value>Socket redigeerimine</value>
+	</data>
+	<data name="_Msg_НеСохраняется" xml:space="preserve">
+		<value>Salvestamine ei ole võimalik.</value>
+	</data>
+	<data name="Inv_msgLocation" xml:space="preserve">
+		<value>asukoht</value>
+	</data>
+	<data name="Inv_lblWorkplace" xml:space="preserve">
+		<value>Töökoht</value>
+	</data>
+	<data name="Inv_lblGuestWorkplaceShiftWork" xml:space="preserve">
+		<value>Külaline töökohad, vahetustega töö</value>
+	</data>
+	<data name="Inv_lblHotelRoom" xml:space="preserve">
+		<value>Hotelliruum</value>
+	</data>
+	<data name="Inv_lblEquipmentWarehouse" xml:space="preserve">
+		<value>Seadmete ladu</value>
+	</data>
+	<data name="Inv_lblEquipmentLocated" xml:space="preserve">
+		<value>Varustus võib paikneda</value>
+	</data>
+	<data name="Inv_lblOffice" xml:space="preserve">
+		<value>Kontor</value>
+	</data>
+	<data name="Inv_lblLocationServer" xml:space="preserve">
+		<value>Asukoht eraldi serveriga</value>
+	</data>
+	<data name="Inv_lblNearestPrinter" xml:space="preserve">
+		<value>Lähim printer</value>
+	</data>
+	<data name="Inv_msgNoSocketsAtLocation" xml:space="preserve">
+		<value>Selles asukohas pole pistikupesasid</value>
+	</data>
+	<data name="Inv_msgNoEmployeesAtLocation" xml:space="preserve">
+		<value>Selles asukohas pole töötajaid</value>
+	</data>
+	<data name="Inv_msgNoEquipmentAtLocation" xml:space="preserve">
+		<value>Selles kohas pole seadmeid</value>
+	</data>
+	<data name="Inv_msgNoLocationName" xml:space="preserve">
+		<value>asukoha nimi ei ole täidetud</value>
+	</data>
+	<data name="Inv_msgNoSocketName" xml:space="preserve">
+		<value>müügipunkti nimi ei ole täidetud</value>
+	</data>
+	<data name="Inv_msgChangeOrderTreeView" xml:space="preserve">
+		<value>Kas soovite kindlasti muuta sama grupi asukohtade järjekorda</value>
+	</data>
+	<data name="Inv_msgMoveItemTreeView1" xml:space="preserve">
+		<value>Kas olete kindel, et soovite asukohta teha</value>
+	</data>
+	<data name="Inv_msgMoveItemTreeView2" xml:space="preserve">
+		<value>lapse asukohta arvestades</value>
+	</data>
+	<data name="Inv_lblUnorganizedComputerizedWorkplace" xml:space="preserve">
+		<value>Organiseerimata arvutitöökoht</value>
+	</data>
+	<data name="Inv_ComputerizedWorkplace" xml:space="preserve">
+		<value>Arvutipõhine töökohad</value>
+	</data>
+	<data name="Inv_lblGuestWorkplace" xml:space="preserve">
+		<value>Külaline töökohad</value>
+	</data>
+	<data name="DIRECTIONS_FORM_ADVINFO_Title" xml:space="preserve">
+		<value>Lisateave</value>
+	</data>
+	<data name="Cfi_lblItem" xml:space="preserve">
+		<value>Artikkel</value>
+	</data>
+	<data name="Cfi_lblType" xml:space="preserve">
+		<value>Tüüp</value>
+	</data>
+	<data name="Cfi_msgCashFlowArticles" xml:space="preserve">
+		<value>rahavoogude kirjed</value>
+	</data>
+	<data name="Cfi_msgCashFlowItemNotFilled" xml:space="preserve">
+		<value>rahavoogude kirje ei ole täidetud.</value>
+	</data>
+	<data name="Cfi_lblSortTreeLocation" xml:space="preserve">
+		<value>puu asukoht</value>
+	</data>
+	<data name="Cfi_lblSortAlphabet" xml:space="preserve">
+		<value>tähestikku</value>
+	</data>
+	<data name="Cfi_lblSortBy" xml:space="preserve">
+		<value>Sorteeri</value>
+	</data>
+	<data name="Cfi_lblCode" xml:space="preserve">
+		<value>Kood</value>
+	</data>
+	<data name="Cfi_lblName" xml:space="preserve">
+		<value>Nimi</value>
+	</data>
+	<data name="Cfi_lblNameIn1C" xml:space="preserve">
+		<value>Nimi punktis 1C</value>
+	</data>
+	<data name="Cfi_msgNotFilledField" xml:space="preserve">
+		<value>Ei ole täidetud</value>
+	</data>
+	<data name="Cfi_msgRecordCannotBeSaved" xml:space="preserve">
+		<value>Salvestust ei saa salvestada.</value>
+	</data>
+	<data name="Cfi_lblTypeCashFlow" xml:space="preserve">
+		<value>Rahavoo liik</value>
+	</data>
+	<data name="Cfi_ ERRMoveCashInitialized" xml:space="preserve">
+		<value>Objekti "Rahaliste vahendite liikumine" ei ole alustatud. Avage muudetud asukoht uuesti.</value>
+	</data>
+	<data name="lblGridAdd" xml:space="preserve">
+		<value>Lisama</value>
+	</data>
+	<data name="Cfi_msgIdDubl" xml:space="preserve">
+		<value>Il y a déjà une entrée avec ce code.</value>
+	</data>
+	<data name="Cfi_lblCashFlowItems" xml:space="preserve">
+		<value>Rahavoogude kirjed</value>
+	</data>
+	<data name="Bp_lblBusinesProjects" xml:space="preserve">
+		<value>Äriprojektid</value>
+	</data>
+	<data name="Bp_btnSave" xml:space="preserve">
+		<value>Salvesta</value>
+	</data>
+	<data name="Bp_btnCancel" xml:space="preserve">
+		<value>Tühista</value>
+	</data>
+	<data name="Cfi_lblSave" xml:space="preserve">
+		<value>Salvesta</value>
+	</data>
+	<data name="Cfi_lblCancel" xml:space="preserve">
+		<value>Tühista</value>
+	</data>
+	<data name="Cfi_msgTypeCashFlow" xml:space="preserve">
+		<value>rahavoogude liik</value>
+	</data>
+	<data name="Cfi_msgCashFlowTypeNotFilled" xml:space="preserve">
+		<value>rahavoogude tüüp ei ole täidetud</value>
+	</data>
+	<data name="Cfi_lblModesMovement" xml:space="preserve">
+		<value>Liikumisviisid</value>
+	</data>
+	<data name="lblSearch" xml:space="preserve">
+		<value>Otsi</value>
+	</data>
+	<data name="BProject_errFailedGenerateButtons" xml:space="preserve">
+		<value>Vormi nuppude genereerimine ebaõnnestus</value>
+	</data>
+	<data name="Cfi_lblSearch" xml:space="preserve">
+		<value>Leidmiseks</value>
+	</data>
+	<data name="lblFiltered" xml:space="preserve">
+		<value>filtreeritakse</value>
+	</data>
+	<data name="lblOver100" xml:space="preserve">
+		<value>Leitud rohkem kui {0} kirjet. Kuvatakse ainult {0}, määrake otsingukriteeriumid.</value>
+	</data>
+	<data name="ExRate_lblExRates" xml:space="preserve">
+		<value>Vahetuskursid</value>
+	</data>
+	<data name="ExRate_lblExRateDetail" xml:space="preserve">
+		<value>Vahetuskursid</value>
+	</data>
+	<data name="ExRate_lblExRateAverage" xml:space="preserve">
+		<value>Keskmine vahetuskurss</value>
+	</data>
+	<data name="ExRate_errFailedGenerateButtons" xml:space="preserve">
+		<value>Vormi nuppude genereerimine ebaõnnestus</value>
+	</data>
+	<data name="ExRate_msgEmptyData" xml:space="preserve">
+		<value>Valitud perioodil ei leitud vahetuskurssi</value>
+	</data>
+	<data name="ExRate_btnDeletePosition" xml:space="preserve">
+		<value>Kustutage valuutakurss</value>
+	</data>
+	<data name="ExRate_btnEditPosition" xml:space="preserve">
+		<value>Valuutakurssi muutmine</value>
+	</data>
+	<data name="ExRate_lblSelect" xml:space="preserve">
+		<value>Valige </value>
+	</data>
+	<data name="ExRate_btnAddPosition" xml:space="preserve">
+		<value>Lisage vahetuskurss</value>
+	</data>
+	<data name="ExRate_lblAddingRate" xml:space="preserve">
+		<value>Vahetuskursi lisamine</value>
+	</data>
+	<data name="ExRate_lblCurrency" xml:space="preserve">
+		<value>Valuuta</value>
+	</data>
+	<data name="ExRate_lblRateDate" xml:space="preserve">
+		<value>Vahetuspäev</value>
+	</data>
+	<data name="ExRate_lblRateValueRub" xml:space="preserve">
+		<value>Summa, RUB</value>
+	</data>
+	<data name="ExRate_lblRateUnits" xml:space="preserve">
+		<value>Ühikud</value>
+	</data>
+	<data name="ExRate_lblRateChangedPerson" xml:space="preserve">
+		<value>Muutunud isik</value>
+	</data>
+	<data name="ExRate_lblRateChangedDate" xml:space="preserve">
+		<value>Muudetud kuupäev</value>
+	</data>
+	<data name="ExRate_lblExRateRub" xml:space="preserve">
+		<value>Vahetuskurss, RUB</value>
+	</data>
+	<data name="ExRate_lblExRateCross" xml:space="preserve">
+		<value>Risti vahetuskurss</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data" xml:space="preserve">
+		<value>Valige ettevõtte andmed, mida soovite aruandesse lisada.</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Inn" xml:space="preserve">
+		<value>TIN</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Kpp" xml:space="preserve">
+		<value>IEC</value>
+	</data>
+	<data name="STORE_SP_Btn_Report" xml:space="preserve">
+		<value>Loo aruanne</value>
+	</data>
+	<data name="STORE_SP_Btn_Clear" xml:space="preserve">
+		<value>Selge</value>
+	</data>
+	<data name="STORE_SP_Btn_Close" xml:space="preserve">
+		<value>Sulge</value>
+	</data>
+	<data name="STORE_SP_Lbl_Requisites" xml:space="preserve">
+		<value>Andmed</value>
+	</data>
+	<data name="STORE_SP_Lbl_Lang" xml:space="preserve">
+		<value>Valige keel, milles aruanne luuakse</value>
+	</data>
+	<data name="STORE_SP_Lbl_LangEn" xml:space="preserve">
+		<value>Inglise keeles</value>
+	</data>
+	<data name="STORE_SP_Lbl_LangRu" xml:space="preserve">
+		<value>Asukohariigi keeles</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Name" xml:space="preserve">
+		<value>Nimi</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Address" xml:space="preserve">
+		<value>Aadress</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_RS" xml:space="preserve">
+		<value>Konto(RUB) </value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_ValS" xml:space="preserve">
+		<value>Valuuta konto</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Currency" xml:space="preserve">
+		<value>Valuuta</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Account" xml:space="preserve">
+		<value>Konto</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Director" xml:space="preserve">
+		<value>Direktor</value>
+	</data>
+	<data name="STORE_SP_Btn_Clear_Title" xml:space="preserve">
+		<value>Tühjenda valitud väärtused</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Bank" xml:space="preserve">
+		<value>Pank</value>
+	</data>
+	<data name="STORE_SP_Msg_Error" xml:space="preserve">
+		<value>Viga</value>
+	</data>
+	<data name="STORE_SP_Msg_1" xml:space="preserve">
+		<value>Aruande koostamiseks tuleb valida vähemalt üks rekvisiidid</value>
+	</data>
+	<data name="STORE_SP_Msg_2" xml:space="preserve">
+		<value>Aruande koostamiseks peate määrama jooksva konto</value>
+	</data>
+	<data name="STORE_SP_Msg_3" xml:space="preserve">
+		<value>Aruande koostamiseks peate täpsustama valuuta</value>
+	</data>
+	<data name="STORE_SP_Msg_4" xml:space="preserve">
+		<value>Aruande koostamiseks peate täpsustama valuutakonto</value>
+	</data>
+	<data name="STORE_SP_Msg_5" xml:space="preserve">
+		<value>Aruande koostamiseks peate määrama direktori</value>
+	</data>
+	<data name="ExRate_msgCurrencyNotSelected" xml:space="preserve">
+		<value>Valuuta pole valitud</value>
+	</data>
+	<data name="ExRate_msgRateDateNotSelected" xml:space="preserve">
+		<value>Pakkumise kuupäeva pole valitud</value>
+	</data>
+	<data name="ExRate_msgRateValueNotEntered" xml:space="preserve">
+		<value>Sisestatud summat pole</value>
+	</data>
+	<data name="ExRate_msgRateUnitsNotEntered" xml:space="preserve">
+		<value>Sisestatud üksuste arv</value>
+	</data>
+	<data name="ExRate_errFailedGenerateCurrencyList" xml:space="preserve">
+		<value>Valuuta nimekirja ei õnnestunud luua</value>
+	</data>
+	<data name="ExRate_lblChange" xml:space="preserve">
+		<value>Muuda</value>
+	</data>
+	<data name="ExRate_lblDate" xml:space="preserve">
+		<value>Kuupäev</value>
+	</data>
+	<data name="ExRate_errFailedGettingRateAvg" xml:space="preserve">
+		<value>Keskmine vahetuskurss ei saanud</value>
+	</data>
+	<data name="ExRate_lblCurrencies" xml:space="preserve">
+		<value>Valuuta</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_Spec" xml:space="preserve">
+		<value>Erikonto (RUB)</value>
+	</data>
+	<data name="STORE_SP_Msg_6" xml:space="preserve">
+		<value>Aruande koostamiseks peate määrama spetsiaalse konto.</value>
+	</data>
+	<data name="ExRate_lblEditingRate" xml:space="preserve">
+		<value>Vahetuskursi muutmine</value>
+	</data>
+	<data name="Inv_lblPhoneCodes" xml:space="preserve">
+		<value>Telefoni koodid</value>
+	</data>
+	<data name="Inv_lblTerritories" xml:space="preserve">
+		<value>Territooriumid</value>
+	</data>
+	<data name="Inv_msgNoTerritories" xml:space="preserve">
+		<value>Territooriumid kuvamiseks puuduvad</value>
+	</data>
+	<data name="Inv_lblConnected" xml:space="preserve">
+		<value>Ühendatud</value>
+	</data>
+	<data name="Inv_lblEmployee" xml:space="preserve">
+		<value>Töötaja</value>
+	</data>
+	<data name="Inv_lblCompany" xml:space="preserve">
+		<value>Firma</value>
+	</data>
+	<data name="errAccessDenied" xml:space="preserve">
+		<value>Te ei ole selle toimingu jaoks volitatud!</value>
+	</data>
+	<data name="STORE_SP_Lbl_Data_OGRN" xml:space="preserve">
+		<value>SRN</value>
+	</data>
+	<data name="ExRate_msgRateExists" xml:space="preserve">
+		<value>Vahetuskurss on juba määratud kuupäeval olemas</value>
+	</data>
+	<data name="DIRECTIONS_btnGO" xml:space="preserve">
+		<value>Käivita</value>
+	</data>
+	<data name="DIRECTIONS_btnOldVersion" xml:space="preserve">
+		<value>Vana versioon</value>
+	</data>
+	<data name="DIRECTIONS_hAccessEml" xml:space="preserve">
+		<value>Juurdepääs töötajale töötamiseks vajalikele andmetele</value>
+	</data>
+	<data name="DIRECTIONS_hDadaEml" xml:space="preserve">
+		<value>Töötaja andmed</value>
+	</data>
+	<data name="DIRECTIONS_hEquipEml" xml:space="preserve">
+		<value>Töötajale tööks vajalikud seadmed ja side</value>
+	</data>
+	<data name="DIRECTIONS_lAEOfiice" xml:space="preserve">
+		<value>ametist</value>
+	</data>
+	<data name="DIRECTIONS_lAEVpn" xml:space="preserve">
+		<value>kaugjuhtimispult (VPN-i kaudu)</value>
+	</data>
+	<data name="DIRECTIONS_lAIMobile" xml:space="preserve">
+		<value>mobiil (SkyLink, 3G)</value>
+	</data>
+	<data name="DIRECTIONS_lAIModem" xml:space="preserve">
+		<value>kodust modemi kaudu</value>
+	</data>
+	<data name="DIRECTIONS_lAIOffice" xml:space="preserve">
+		<value>ametist</value>
+	</data>
+	<data name="DIRECTIONS_lbl_ОтветственнаяКомпания" xml:space="preserve">
+		<value>Vastutav ettevõte</value>
+	</data>
+	<data name="DIRECTIONS_lComplete" xml:space="preserve">
+		<value>Valmis</value>
+	</data>
+	<data name="DIRECTIONS_lCompN" xml:space="preserve">
+		<value>sülearvuti</value>
+	</data>
+	<data name="DIRECTIONS_lCompP" xml:space="preserve">
+		<value>isiklik</value>
+	</data>
+	<data name="DIRECTIONS_lCompT" xml:space="preserve">
+		<value>õhuke klient</value>
+	</data>
+	<data name="DIRECTIONS_lMin" xml:space="preserve">
+		<value>min</value>
+	</data>
+	<data name="DIRECTIONS_lPhoneDect" xml:space="preserve">
+		<value>toru</value>
+	</data>
+	<data name="DIRECTIONS_lPhoneDesk" xml:space="preserve">
+		<value>lauale</value>
+	</data>
+	<data name="DIRECTIONS_lPhoneIP" xml:space="preserve">
+		<value>IP telefon</value>
+	</data>
+	<data name="DIRECTIONS_lPhoneIPCam" xml:space="preserve">
+		<value>IP kaamera</value>
+	</data>
+	<data name="DIRECTIONS_lPhoneSim" xml:space="preserve">
+		<value>SIM-kaart mob. tel.</value>
+	</data>
+	<data name="DIRECTIONS_lPLExitInSide" xml:space="preserve">
+		<value>ainult ettevõttes</value>
+	</data>
+	<data name="DIRECTIONS_lPLExitOutCountry" xml:space="preserve">
+		<value>+ rahvusvaheline</value>
+	</data>
+	<data name="DIRECTIONS_lPLExitOutTown" xml:space="preserve">
+		<value>+ inside the country</value>
+	</data>
+	<data name="DIRECTIONS_lPLExitTown" xml:space="preserve">
+		<value>+ kohalik linn</value>
+	</data>
+	<data name="DIRECTIONS_lRequire" xml:space="preserve">
+		<value>Nõutav</value>
+	</data>
+	<data name="DIRECTIONS_lSotrudnikParent1" xml:space="preserve">
+		<value>nagu töötaja</value>
+	</data>
+	<data name="DIRECTIONS_lSotrudnikParent2" xml:space="preserve">
+		<value>töötaja asemel</value>
+	</data>
+	<data name="DIRECTIONS_lTrack" xml:space="preserve">
+		<value>Jälgige töötajate hilinemist</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CopyBuffer" xml:space="preserve">
+		<value>kopeeri lõikepuhvrisse</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Delete" xml:space="preserve">
+		<value>Kas soovite kindlasti selle kirje kustutada?</value>
+	</data>
+	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
+		<value>E-post on vale</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
+		<value>selle töötaja jaoks selle töö jaoks juba olemas</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistsPhone" xml:space="preserve">
+		<value>number kasutab</value>
+	</data>
+	<data name="DIRECTIONS_Msg_FillFormByEmpl" xml:space="preserve">
+		<value>Tähelepanu! Täitke vorm töötaja andmete põhjal:</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoAccessEthernet" xml:space="preserve">
+		<value>ei kuulu ettevõtte võrku</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoAccessInternet" xml:space="preserve">
+		<value>internetiühendus puudub</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoData" xml:space="preserve">
+		<value>&amp;nbsp;</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoRequired" xml:space="preserve">
+		<value>ei ole vaja</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSignSupervisor" xml:space="preserve">
+		<value>Juhendi ei kirjuta alla otsene juht</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSpecified" xml:space="preserve">
+		<value>pole täpsustatud</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoThisDoc" xml:space="preserve">
+		<value>Sama dokumenti kui sihtasutuse dokument on võimatu täpsustada!</value>
+	</data>
+	<data name="DIRECTIONS_Msg_OpenEquip" xml:space="preserve">
+		<value>avatud seadmete vorm</value>
+	</data>
+	<data name="DIRECTIONS_Msg_OpenEquipNotResp" xml:space="preserve">
+		<value>Ei vastuta seadmete eest</value>
+	</data>
+	<data name="DIRECTIONS_Msg_OpenEquipResp" xml:space="preserve">
+		<value>Vastutab seadmete eest</value>
+	</data>
+	<data name="DIRECTIONS_Msg_SimGive" xml:space="preserve">
+		<value>SIM-kaart väljastatakse</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВыданаSim" xml:space="preserve">
+		<value>Väljastatud SIM-kaart</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ДокументНеДоступен" xml:space="preserve">
+		<value>dokument pole saadaval</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛицоБезБП" xml:space="preserve">
+		<value>isik ei tee äriprojekti</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинНеКорректен" xml:space="preserve">
+		<value>kasutajanimi on vale</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинСуществует" xml:space="preserve">
+		<value>sisselogimine on hõivatud</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто" xml:space="preserve">
+		<value>arvutit ei saa sellel töökohal paigaldada</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ОписаниеКаталога" xml:space="preserve">
+		<value>Selle projektiga tegelevate ettevõtete poolt kasutatavate isikute liigid</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ОтсутствуетПодчиненность" xml:space="preserve">
+		<value>personali tabelis puudub alluvus</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе" xml:space="preserve">
+		<value>töökoht ei ole kontoris</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
+		<value>töökohal ei sobi töötaja kaardiga tehtud töökohti</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
+		<value>töökoht pole saadaval</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РасположениеЗакрыто" xml:space="preserve">
+		<value>asukoht suletud</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РасположениеНеДоступно" xml:space="preserve">
+		<value>asukoht ei ole saadaval</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеДоступен" xml:space="preserve">
+		<value>töötaja ei ole kättesaadav</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина" xml:space="preserve">
+		<value>töötaja ei ole sisse loginud</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛица" xml:space="preserve">
+		<value>personalil ei ole inimeste kataloogi kannet</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика" xml:space="preserve">
+		<value>töötaja ei täpsusta ettevõtte eest vastutavat ettevõtet. reguleerimine</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
+		<value>töötaja ei ole töökohal. Täpsustage see töötaja kaardile</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
+		<value>töötaja ei ole veel vallandanud</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние1" xml:space="preserve">
+		<value>dekreet (puhkus)</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние2" xml:space="preserve">
+		<value>külaline isiklik</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние3" xml:space="preserve">
+		<value>jäeti rahuldamata</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние4" xml:space="preserve">
+		<value>külaline kaardiga</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние5" xml:space="preserve">
+		<value>võõras</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ФотоНет" xml:space="preserve">
+		<value>töötajal pole fotot</value>
+	</data>
+	<data name="DIRECTIONS_NTF_CadrNoCompany" xml:space="preserve">
+		<value>Töötajate tabelis ei ole märgitud finantsregulatsiooni eest vastutavat ettevõtet.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_DelayMustEmail" xml:space="preserve">
+		<value>Viivituste jälgimiseks peate täpsustama juhid, kes peavad saatma e-kirja selle töötaja hilinemise kohta!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_DocInCorrect" xml:space="preserve">
+		<value>Dokument salvestati valesti</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
+		<value>E-post on vale.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
+		<value>selline e-post on juba olemas; E-post peab olema unikaalne.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
+		<value>Töötajat ei sünkroniseerita isikute kataloogiga.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_LoginIncorrect" xml:space="preserve">
+		<value>Sisselogimine on vale.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoDataDoc" xml:space="preserve">
+		<value>Dokumendi kuupäeva pole täpsustatud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoDomain" xml:space="preserve">
+		<value>Domeeni pole määratud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoEmail" xml:space="preserve">
+		<value>E-posti ei ole määratud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoEmployee" xml:space="preserve">
+		<value>Ühtegi töötajat ei ole määratud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider" xml:space="preserve">
+		<value>Pead pole määratud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLogin" xml:space="preserve">
+		<value>Sisselogimist pole määratud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoSender" xml:space="preserve">
+		<value>E-posti saatja nime pole täpsustatud.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoWorkGo" xml:space="preserve">
+		<value>Töötaja saabumisaeg ei ole määratud!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
+		<value>Pole määratud töökoht</value>
+	</data>
+	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
+		<value>Hilinenud aega ei ole näidatud - suuline selgitus juhile!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_WriteCadr" xml:space="preserve">
+		<value>Personaliosakonnale ei ole hilinenud aega seletav!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ГруппаПосменнойРаботы" xml:space="preserve">
+		<value>vahetustega töögrupp</value>
+	</data>
+	<data name="DIRECTIONS_NTF_НеУказанМобильный" xml:space="preserve">
+		<value>Määrake mobiiltelefon!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ПосменнаяРабота" xml:space="preserve">
+		<value>vahetustega töö</value>
+	</data>
+	<data name="DIRECTIONS_NTF_РабМестаВместе" xml:space="preserve">
+		<value>koos</value>
+	</data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе" xml:space="preserve">
+		<value>Dokumenti ei ole võimalik salvestada, sest Määratud töötaja on vahetustega töögrupi liige!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе1" xml:space="preserve">
+		<value>Määratud töötaja on vahetustega töögrupi liige! Sellise töötaja töökorraldusele ei ole võimalik viidata!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе2" xml:space="preserve">
+		<value>Töötaja, kes kuulub vahetustega töögruppi, on võimatu valida!</value>
+	</data>
+	<data name="DIRECTIONS_NTF_СотрудникСовпадает" xml:space="preserve">
+		<value>Valitud töötaja on sama, mida töötaja juhendab</value>
+	</data>
+	<data name="DIRECTIONS_Pos_BtnAccept" xml:space="preserve">
+		<value>Kinnitan</value>
+	</data>
+	<data name="DIRECTIONS_Pos_BtnCancel" xml:space="preserve">
+		<value>Tühista</value>
+	</data>
+	<data name="DIRECTIONS_Pos_BtnDel" xml:space="preserve">
+		<value>Kustuta</value>
+	</data>
+	<data name="DIRECTIONS_Pos_BtnSave" xml:space="preserve">
+		<value>Salvesta</value>
+	</data>
+	<data name="DIRECTIONS_Pos_Catalog" xml:space="preserve">
+		<value>Kataloog:</value>
+	</data>
+	<data name="DIRECTIONS_Pos_CatalogChange1" xml:space="preserve">
+		<value>Hoiatus: olete muutnud (lisanud uue kirje) juurdepääsu kataloogi liikmetele</value>
+	</data>
+	<data name="DIRECTIONS_Pos_CatalogChange2" xml:space="preserve">
+		<value>Kui muudate praegust kataloogi, kustutatakse kõik lisatud kirjed!\nChange Directory?</value>
+	</data>
+	<data name="DIRECTIONS_Pos_ConfirmDel" xml:space="preserve">
+		<value>Kas soovite kindlasti selle kirje kustutada?</value>
+	</data>
+	<data name="DIRECTIONS_Pos_Empl" xml:space="preserve">
+		<value>Töötaja:</value>
+	</data>
+	<data name="DIRECTIONS_Pos_EmplTypes" xml:space="preserve">
+		<value>Töötajate juurdepääs isiku tüüpidele</value>
+	</data>
+	<data name="DIRECTIONS_Pos_ExecRole" xml:space="preserve">
+		<value>Teostab:</value>
+	</data>
+	<data name="DIRECTIONS_Pos_InCompany" xml:space="preserve">
+		<value>Ettevõttes:</value>
+	</data>
+	<data name="DIRECTIONS_Pos_NoDocId" xml:space="preserve">
+		<value>Dokumendi koodi ei saanud määrata!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_PersonType" xml:space="preserve">
+		<value>Näotüüp:</value>
+	</data>
+	<data name="DIRECTIONS_Pos_PersonType1" xml:space="preserve">
+		<value>Nägu tüübid:</value>
+	</data>
+	<data name="DIRECTIONS_Pos_PersonType2" xml:space="preserve">
+		<value>\nei saa valida, sest olete juba andnud töötajale juurdepääsu sarnastele isikutele.</value>
+	</data>
+	<data name="DIRECTIONS_Pos_ReqCatalog" xml:space="preserve">
+		<value>Määrake kataloog!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_ReqCatalog2" xml:space="preserve">
+		<value>Määrake kas kataloog või isiku tüüp!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_ReqCatalog3" xml:space="preserve">
+		<value>Kas olete kindel, et soovite, et see töötaja saaks juurdepääsu kõikidele inimestele, kes on määratud kataloogis, mis eksisteerib praegu või tulevikus?</value>
+	</data>
+	<data name="DIRECTIONS_Pos_RoleEmpl" xml:space="preserve">
+		<value>Töötaja roll ettevõttes</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_AllCatalog" xml:space="preserve">
+		<value>&lt;kõik kataloogid&gt;</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_AllCompany" xml:space="preserve">
+		<value>&lt;kõik ettevõtted&gt;</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_AllTypePerson" xml:space="preserve">
+		<value>&lt;kõik tüübid&gt;</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
+		<value>Kataloog</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_Company" xml:space="preserve">
+		<value>Ettevõtted</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_TypePerson" xml:space="preserve">
+		<value>Isiku tüüp</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone" xml:space="preserve">
+		<value>Telefon vajab tööd</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer" xml:space="preserve">
+		<value>Töötamiseks on vaja arvutit.</value>
+	</data>
+	<data name="DIRECTIONS_Field_AdvEq" xml:space="preserve">
+		<value>Töö nõuab töökohal lisavarustust</value>
+	</data>
+	<data name="DIRECTIONS_Field_AEAccess" xml:space="preserve">
+		<value>Töö nõuab juurdepääsu ettevõtte võrgule</value>
+	</data>
+	<data name="DIRECTIONS_Field_Lang" xml:space="preserve">
+		<value>Eelistatud keel</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Folders" xml:space="preserve">
+		<value>Juurdepääs jagatud kaustadele</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles" xml:space="preserve">
+		<value>Teostatud rollid</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Types" xml:space="preserve">
+		<value>Juurdepääs isikutüüpidele</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Grants" xml:space="preserve">
+		<value>Täiendavad õigused</value>
+	</data>
+	<data name="DIRECTIONS_Field_MobilPhone" xml:space="preserve">
+		<value>Töötaja mobiiltelefon</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType" xml:space="preserve">
+		<value>Korraldage töötaja</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_1" xml:space="preserve">
+		<value>büroo töökoht</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
+		<value>töökohal väljaspool kontorit</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
+		<value>kontot ilma töökoha loomiseta</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
+		<value>töötajale antakse seadmeid, mis ei ole tema töökohal</value>
+	</data>
+	<data name="DIRECTIONS_Title_ShowEq" xml:space="preserve">
+		<value>Näita seadmeid</value>
+	</data>
+	<data name="DIRECTIONS_Lbl_WpsEpl" xml:space="preserve">
+		<value>Töötajate töökohad</value>
+	</data>
+	<data name="DIRECTIONS_lNoComplete" xml:space="preserve">
+		<value>pole tehtud</value>
+	</data>
+	<data name="DIRECTIONS_Pos_CatalogNoName" xml:space="preserve">
+		<value>Kataloogi nime ei saanud!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_TypeNoName" xml:space="preserve">
+		<value>Isiku tüübi nime ei saanud!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_TypeAllNoName" xml:space="preserve">
+		<value>Kõigi näotüüpide nime ei saanud!</value>
+	</data>
+	<data name="lb_Like" xml:space="preserve">
+		<value>Mulle meeldib selle vormi välimus ja funktsionaalsus</value>
+	</data>
+	<data name="lb_NotLike" xml:space="preserve">
+		<value>Mulle ei meeldi selle vormi välimus ja funktsionaalsus</value>
+	</data>
+	<data name="lblSort" xml:space="preserve">
+		<value>Sortimine</value>
+	</data>
+	<data name="ExRate_lblCurrencyPair" xml:space="preserve">
+		<value>Valuutapaar</value>
+	</data>
+	<data name="ExRate_lblSwapCurrencies" xml:space="preserve">
+		<value>Vahetusvaluuta</value>
+	</data>
+	<data name="ExRate_msgPeriodNotSelected" xml:space="preserve">
+		<value>Perioodi ei ole valitud</value>
+	</data>
+	<data name="ExRate_errFailedGettingRate" xml:space="preserve">
+		<value>Valuutakursse ei saanud</value>
+	</data>
+	<data name="ExRate_errFailedGettingRateCross" xml:space="preserve">
+		<value>Risttariife ei saanud</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CheckPhoneNumber" xml:space="preserve">
+		<value>Sisestatud väärtus ei vasta telefoninumbri vormingule!</value>
+	</data>
+	<data name="TTN_JsResources" xml:space="preserve">
+		<value>"BtnSave": "Salvesta",
+"BtnCancel": "Tühista",
+"BtnDelete": "Kustuta",
+"BtnYes": "Jah",
+"BtnNo": "Ei",
+"Title": "TTN",
+"GpToPayer": "Vahetage maksja sektsiooni kõik väljad saaja sektsiooni väärtustega?",
+"GoToShipper": "Asendage jaotise Tarnija kõik väljad väärtustega, mis on jaotises saatja?",
+"ReplaceValues": "Parandatud dokumendi väärtused määratakse vormi kõigis valdkondades. Jätka?"</value>
+	</data>
+	<data name="ExRate_lblBaseCurrency" xml:space="preserve">
+		<value>Baasvaluuta</value>
+	</data>
+	<data name="ExRate_lblQuotedCurrency" xml:space="preserve">
+		<value>Noteeritud valuuta.</value>
+	</data>
+	<data name="ExRate_lblExRate" xml:space="preserve">
+		<value>Vahetuskurss</value>
+	</data>
+	<data name="ExRate_lblShowRatesOnHomePage" xml:space="preserve">
+		<value>Kuvage valitud valuutade määrad avalehel</value>
+	</data>
 </root>

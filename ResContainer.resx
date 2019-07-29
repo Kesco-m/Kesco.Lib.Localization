@@ -268,22 +268,22 @@
     <value>Message</value>
   </data>
 	<data name="alertWarning" xml:space="preserve">
-    <value>warning</value>
+    <value>Warning</value>
   </data>
 	<data name="BtnClose" xml:space="preserve">
-    <value>   Close</value>
+    <value>Close</value>
   </data>
 	<data name="BtnConfirm" xml:space="preserve">
-    <value>  Confirm</value>
+    <value>Confirm</value>
   </data>
 	<data name="btnDelete" xml:space="preserve">
-    <value>  Delete</value>
+    <value>Delete</value>
   </data>
 	<data name="BtnFormAgain" xml:space="preserve">
-    <value>  Rebuild text</value>
+    <value>Rebuild text</value>
   </data>
 	<data name="btnHelp" xml:space="preserve">
-    <value>  Help</value>
+    <value>Help</value>
   </data>
 	<data name="BtnRebuild" xml:space="preserve">
     <value>Completely rebuild</value>
@@ -313,7 +313,7 @@
     <value>Refresh</value>
   </data>
 	<data name="cmdRefreshDescription" xml:space="preserve">
-    <value>Updated the look of the document are recalculated under the warning fields. The data is not updated.</value>
+    <value>Completely reload the form, load the actual data.</value>
   </data>
 	<data name="cmdSave" xml:space="preserve">
     <value>Save</value>
@@ -651,11 +651,9 @@ Resume?</value>
     <value>Unable to map the fields to the database (DokumentyDannye) with margins being.</value>
   </data>
 	<data name="msgFinishSign" xml:space="preserve">
-    <value>You sign the document as "Executed - Work is completed". &amp;lt;br&amp;gt; &amp;lt;br&amp;gt;
-This signature can not be removed in the future. &amp;lt;br&amp;gt; &amp;lt;br&amp;gt;
-Are you sure&amp;lt;b&amp;gt; work on the document is complete &amp;lt;/b&amp;gt;, the data in the eform
-entered correctly and do not need them
-change? &amp;lt;br&amp;gt; &amp;lt;br&amp;gt;</value>
+    <value>You sign the electronic form of the document as 'performed, the work is completed'.
+This signature cannot be removed later.
+Are you sure that the work on the document is completed, data in email form entered correctly and do not need to change them?</value>
   </data>
 	<data name="msgMoreOneApp" xml:space="preserve">
     <value>of more than one application to the contract</value>
@@ -2433,7 +2431,7 @@ unit</value>
     <value>Partial pay</value>
   </data>
 	<data name="msgWrongType" xml:space="preserve">
-    <value>Downloadable document does not correspond to the desired type of the shape.</value>
+    <value>The downloadable document is of a type that is not supported by this form.</value>
   </data>
 	<data name="ttAddShetDog" xml:space="preserve">
     <value>Opens the document binding dialog</value>
@@ -3958,7 +3956,7 @@ First, delete the resulting invoice.</value>
 		<value>the cash flow item is not filled.</value>
 	</data>
 	<data name="Cfi_lblSortTreeLocation" xml:space="preserve">
-		<value>tree location</value>
+		<value>by location in a tree</value>
 	</data>
 	<data name="Cfi_lblSortAlphabet" xml:space="preserve">
 		<value>alphabet</value>
@@ -4230,8 +4228,8 @@ First, delete the resulting invoice.</value>
 	<data name="DIRECTIONS_btnGO" xml:space="preserve">
 		<value>Run</value>
 	</data>
-	<data name="DIRECTIONS_btnOldVersion" xml:space="preserve">
-		<value>Old version</value>
+	<data name="btnOldVersion_Title" xml:space="preserve">
+		<value>Open the document in the old version of the application</value>
 	</data>
 	<data name="DIRECTIONS_hAccessEml" xml:space="preserve">
 		<value>Dostup k dannym, neobkhodimyy sotrudniku dlya raboty
@@ -4266,7 +4264,7 @@ Access to the data necessary for the employee to work</value>
 		<value>Done</value>
 	</data>
 	<data name="DIRECTIONS_lCompN" xml:space="preserve">
-		<value>a laptop</value>
+		<value>laptop</value>
 	</data>
 	<data name="DIRECTIONS_lCompP" xml:space="preserve">
 		<value>personal</value>
@@ -4395,7 +4393,7 @@ Access to the data necessary for the employee to work</value>
 		<value>workplace is not in the office</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
-		<value>the workplace does not match the jobs in the employee card</value>
+		<value>the work is not organized in the workplace of the employee, a new workplace will be created</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
 		<value>workplace not available</value>
@@ -4419,7 +4417,7 @@ Access to the data necessary for the employee to work</value>
 		<value>the employee does not specify the company responsible for the fin. regulation</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
-		<value>the employee has no workplace. Specify it in the employee card</value>
+		<value>The employee has no workplace. Specify it in the employee card</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
 		<value>employee not fired yet</value>
@@ -4488,7 +4486,7 @@ Access to the data necessary for the employee to work</value>
 		<value>Not specified time of arrival of the employee to work!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
-		<value>Not specified workplace</value>
+		<value>not specified workplace</value>
 	</data>
 	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
 		<value>Late time is not indicated - verbal explanatory to the manager!</value>
@@ -4497,7 +4495,7 @@ Access to the data necessary for the employee to work</value>
 		<value>No late time-written explanatory to the personnel department!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_ГруппаПосменнойРаботы" xml:space="preserve">
-		<value>shift work group</value>
+		<value>Shift work group</value>
 	</data>
 	<data name="DIRECTIONS_NTF_НеУказанМобильный" xml:space="preserve">
 		<value>Specify a mobile phone!</value>
@@ -4554,7 +4552,7 @@ Access to the data necessary for the employee to work</value>
 		<value>Performs the role of:</value>
 	</data>
 	<data name="DIRECTIONS_Pos_InCompany" xml:space="preserve">
-		<value>In company:</value>
+		<value>In company</value>
 	</data>
 	<data name="DIRECTIONS_Pos_NoDocId" xml:space="preserve">
 		<value>Could not determine document code!</value>
@@ -4581,13 +4579,13 @@ Access to the data necessary for the employee to work</value>
 		<value>The role of the employee in the company</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_AllCatalog" xml:space="preserve">
-		<value>&lt;all catalogs&gt;</value>
+		<value>--all catalogs--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_AllCompany" xml:space="preserve">
-		<value>&lt;all companies&gt;</value>
+		<value>--all companies--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_AllTypePerson" xml:space="preserve">
-		<value>&lt;all types&gt;</value>
+		<value>--all types persons--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
 		<value>Catalog</value>
@@ -4605,10 +4603,10 @@ Access to the data necessary for the employee to work</value>
 		<value>Computer required for work</value>
 	</data>
 	<data name="DIRECTIONS_Field_AdvEq" xml:space="preserve">
-		<value>Work requires additional equipment at the workplace</value>
+		<value>Work requires additional equipment</value>
 	</data>
 	<data name="DIRECTIONS_Field_AEAccess" xml:space="preserve">
-		<value>Work requires access to the corporate network</value>
+		<value>Access to the corporate network</value>
 	</data>
 	<data name="DIRECTIONS_Field_Lang" xml:space="preserve">
 		<value>Preferred language</value>
@@ -4632,13 +4630,13 @@ Access to the data necessary for the employee to work</value>
 		<value>Arrange employee</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_1" xml:space="preserve">
-		<value>office workplace</value>
+		<value>work at the workplace in the office</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
-		<value>workplace outside the office</value>
+		<value>work outside the office</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
-		<value>account without creating a workplace</value>
+		<value>account</value>
 	</data>
 	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
 		<value>an employee is given equipment that is not at his workplace</value>
@@ -4710,5 +4708,570 @@ Access to the data necessary for the employee to work</value>
 	</data>
 	<data name="ExRate_lblShowRatesOnHomePage" xml:space="preserve">
 		<value>Display rates of selected currencies on the home page</value>
+	</data>
+	<data name="TreeView_lblName" xml:space="preserve">
+		<value>Name</value>
+	</data>
+	<data name="lblEmptySearchString" xml:space="preserve">
+		<value>Search string is empty</value>
+	</data>
+	<data name="msgChildNodesWillBeMoved" xml:space="preserve">
+		<value>All child nodes will be moved to a higher level.</value>
+	</data>
+	<data name="lblLastModify" xml:space="preserve">
+		<value>Last modify</value>
+	</data>
+	<data name="cmdAddChild" xml:space="preserve">
+		<value>Add child</value>
+	</data>
+	<data name="Users_MoveTo1C" xml:space="preserve">
+		<value>Move to 1C</value>
+	</data>
+	<data name="cmdEditDescription" xml:space="preserve">
+		<value>Open the document for editing in a separate window</value>
+	</data>
+	<data name="Users_msgDoesNotMatchPerson" xml:space="preserve">
+		<value>does not match the person</value>
+	</data>
+	<data name="Users_msgNoValidDetails" xml:space="preserve">
+		<value>An individual has no valid details</value>
+	</data>
+	<data name="Users_fldWorks" xml:space="preserve">
+		<value>works</value>
+	</data>
+	<data name="Users_fldDecreeHoliday" xml:space="preserve">
+		<value>decree Holiday</value>
+	</data>
+	<data name="Users_fldGuestPersonal" xml:space="preserve">
+		<value>guest personal</value>
+	</data>
+	<data name="Users_fldFired" xml:space="preserve">
+		<value>fired</value>
+	</data>
+	<data name="Users_fldGuestCardGuest" xml:space="preserve">
+		<value>guest card guest</value>
+	</data>
+	<data name="Users_fldOutsider" xml:space="preserve">
+		<value>outsider</value>
+	</data>
+	<data name="Users_cmdSaveDescription" xml:space="preserve">
+		<value>Save employee card</value>
+	</data>
+	<data name="Users_msgAccountStatusMustLogin." xml:space="preserve">
+		<value>When specifying the account status, you must specify a login.</value>
+	</data>
+	<data name="Users_msgNoLastName" xml:space="preserve">
+		<value>The field "Last Name" is not filled.</value>
+	</data>
+	<data name="Users_msgNoFirstName" xml:space="preserve">
+		<value>The field "First Name" is not filled.</value>
+	</data>
+	<data name="Users_msgNoMiddleName" xml:space="preserve">
+		<value>The field "Middle Name" is not filled.</value>
+	</data>
+	<data name="Users_msgFieldAsNationalPassport" xml:space="preserve">
+		<value>Fields must be filled in as in the national passport</value>
+	</data>
+	<data name="Users_msgFieldInEnglish" xml:space="preserve">
+		<value>Fields must be filled in English</value>
+	</data>
+	<data name="Users_lblSurName" xml:space="preserve">
+		<value>Surname</value>
+	</data>
+	<data name="Users_lblName" xml:space="preserve">
+		<value>Name</value>
+	</data>
+	<data name="Users_lblMiddleName" xml:space="preserve">
+		<value>Middle name</value>
+	</data>
+	<data name="Users_lblEquipment" xml:space="preserve">
+		<value>Equipment</value>
+	</data>
+	<data name="Users_lblPhoto" xml:space="preserve">
+		<value>Photo</value>
+	</data>
+	<data name="Users_lblCountryOfRegistration" xml:space="preserve">
+		<value>Country of registration</value>
+	</data>
+	<data name="Users_lblBirthDate" xml:space="preserve">
+		<value>Date of Birth</value>
+	</data>
+	<data name="Users_lblOpenDossierOfIndividuals" xml:space="preserve">
+		<value>Open dossier of individuals</value>
+	</data>
+	<data name="Users_ntfNoCountryOfRegistration" xml:space="preserve">
+		<value>The person does not specify the country of registration</value>
+	</data>
+	<data name="Users_ntfNoBirthDate" xml:space="preserve">
+		<value>The person does not have a date of birth.</value>
+	</data>
+	<data name="Users_ntfNoINN" xml:space="preserve">
+		<value>The person does not have a TIN.</value>
+	</data>
+	<data name="Users_msgEmployeeNotSynchronized" xml:space="preserve">
+		<value>Employee data is not synchronized with the physical. face</value>
+	</data>
+	<data name="Users_lblINN" xml:space="preserve">
+		<value>TIN</value>
+	</data>
+	<data name="Users_lblCondition" xml:space="preserve">
+		<value>Condition</value>
+	</data>
+	<data name="Users_lblLanguage" xml:space="preserve">
+		<value>Language</value>
+	</data>
+	<data name="Users_lblPersonalFolder" xml:space="preserve">
+		<value>Personal folder</value>
+	</data>
+	<data name="Users_lblCustomerOrganization" xml:space="preserve">
+		<value>Customer Organization</value>
+	</data>
+	<data name="Users_lblNotes" xml:space="preserve">
+		<value>Notes</value>
+	</data>
+	<data name="Users_cmdCancelDescription" xml:space="preserve">
+		<value>Cancel all changes and close the window</value>
+	</data>
+	<data name="Users_cmdApplyDescription" xml:space="preserve">
+		<value>Save all changes to the form in the database</value>
+	</data>
+	<data name="Users_lblCountry" xml:space="preserve">
+		<value>country</value>
+	</data>
+	<data name="lblChangeDocumentDescription" xml:space="preserve">
+		<value>change document description</value>
+	</data>
+	<data name="lblSaveDocumentDescription" xml:space="preserve">
+		<value>save document description</value>
+	</data>
+	<data name="lblCancelDocumentDescription" xml:space="preserve">
+		<value>cancel document description change</value>
+	</data>
+	<data name="cmdCheck" xml:space="preserve">
+		<value>Check</value>
+	</data>
+	<data name="cmdCheckDescription" xml:space="preserve">
+		<value>Check data</value>
+	</data>
+	<data name="Users_cmdEquipmentDesription" xml:space="preserve">
+		<value>Open receipt of receipt of inventory</value>
+	</data>
+	<data name="Users_cmdPhotoDescription" xml:space="preserve">
+		<value>Open employee photo editing form</value>
+	</data>
+	<data name="cmdReCheck" xml:space="preserve">
+		<value>Recheck</value>
+	</data>
+	<data name="cmdReCheckDescription" xml:space="preserve">
+		<value>Recheck all entered data on the form</value>
+	</data>
+	<data name="cmdReload" xml:space="preserve">
+		<value>Refresh</value>
+	</data>
+	<data name="cmdReloadDescription" xml:space="preserve">
+		<value>Download data from the database and update the form fields</value>
+	</data>
+	<data name="msgNoAccess" xml:space="preserve">
+		<value>No rights to change data</value>
+	</data>
+	<data name="Confirm_msgRefreshNoSave" xml:space="preserve">
+		<value>Changes not saved! Do you really want to reload the data?</value>
+	</data>
+	<data name="Confirm_msgRefreshNoSaveUsers" xml:space="preserve">
+		<value>This form is currently edited by employees: {0}. As a result of re-loading data, all changes made by them on their forms will be canceled. Update form data?</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique1" xml:space="preserve">
+		<value>e-mail must be unique</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_Table" xml:space="preserve">
+		<value>stationary</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_Dect" xml:space="preserve">
+		<value>office handset</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_WebCam" xml:space="preserve">
+		<value>WEB camera</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer_Desktop" xml:space="preserve">
+		<value>desktop</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer_Laptop" xml:space="preserve">
+		<value>laptop</value>
+	</data>
+	<data name="DIRECTIONS_Field_AEAccess_Login" xml:space="preserve">
+		<value>Login</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData" xml:space="preserve">
+		<value>Access to the data necessary for the employee to work</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData_How" xml:space="preserve">
+		<value>like an employee</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData_Instead" xml:space="preserve">
+		<value>instead of employee</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Folders_Title" xml:space="preserve">
+		<value>select shared folders that the employee will have access to</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles_Title" xml:space="preserve">
+		<value>choose the role that the employee performs in the company</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Types_Title" xml:space="preserve">
+		<value>select the types of persons to whom the employee has access</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Grants_Title" xml:space="preserve">
+		<value>select additional rights</value>
+	</data>
+	<data name="DIRECTIONS_Field_AdvInfo" xml:space="preserve">
+		<value>Add. information on work organization</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles_Select" xml:space="preserve">
+		<value>Fulfills the role</value>
+	</data>
+	<data name="DIRECTIONS_Field_WP_Link" xml:space="preserve">
+		<value>Choose a workplace</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoCadr" xml:space="preserve">
+		<value>the employee does not have a position in the staff list</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider1" xml:space="preserve">
+		<value>the employee has no direct manager</value>
+	</data>
+	<data name="DIRECTIONS_Field_Lider" xml:space="preserve">
+		<value>Immediate supervisor</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoPost" xml:space="preserve">
+		<value>the employee does not specify the position</value>
+	</data>
+	<data name="DIRECTIONS_NTF_PostNoEqualsCadr" xml:space="preserve">
+		<value>position of the employee does not match the position in the staffing</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentInLocation" xml:space="preserve">
+		<value>Equipment on location</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation1" xml:space="preserve">
+		<value>Employee equipment</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation2" xml:space="preserve">
+		<value>, is not at his workplace</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation3" xml:space="preserve">
+		<value>no equipment data on other people's workplaces</value>
+	</data>
+	<data name="DIRECTIONS_Title_ShowEq1" xml:space="preserve">
+		<value>open equipment form</value>
+	</data>
+	<data name="DIRECTIONS_Msg_UnbleSave" xml:space="preserve">
+		<value>Saving is impossible!</value>
+	</data>
+	<data name="DIRECTIONS_MSG_ЗаписьСуществует" xml:space="preserve">
+		<value>This entry already exists.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеУказанаРоль" xml:space="preserve">
+		<value>Not specified employee role</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЧтоДанныйСотрудник" xml:space="preserve">
+		<value>Are you sure you want this employee</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях1" xml:space="preserve">
+		<value>performed the specified role in all existing holding companies</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях2" xml:space="preserve">
+		<value>and companies that will join the holding in the future</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НетУказанКаталог" xml:space="preserve">
+		<value>You must specify a directory</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НетУказанКаталог1" xml:space="preserve">
+		<value>You must specify either the directory or the type of person</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеКаталоги" xml:space="preserve">
+		<value>accessed in all directories</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеКаталоги1" xml:space="preserve">
+		<value>that exist now or will appear in the future, to the specified type of face</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеТипы" xml:space="preserve">
+		<value>got access to all types of persons in the specified directory</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеТипы1" xml:space="preserve">
+		<value>that exist now or will appear in the future</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_AllCompany1" xml:space="preserve">
+		<value>--in all companies--</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ЧтоТребуется" xml:space="preserve">
+		<value>Not specified to be organized by the employee</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_РабМестоВОфисе" xml:space="preserve">
+		<value>Not specified office workplace</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ТребуетсяДляРаботы" xml:space="preserve">
+		<value>It is not indicated that an employee will be required to work</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Сеть" xml:space="preserve">
+		<value>No access to corporate network</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_МобТелефон" xml:space="preserve">
+		<value>Employee’s mobile phone is not specified</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Как" xml:space="preserve">
+		<value>Not filled field as employee</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Вместо" xml:space="preserve">
+		<value>Not filled field 'instead of employee'</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ВместоУчетки" xml:space="preserve">
+		<value>It is impossible to save the instruction, and the employee to whom the indication is made and the employee "instead" have various accounts</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_НетСотрудника" xml:space="preserve">
+		<value>Identify employee</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_НетЗаписи" xml:space="preserve">
+		<value>Record not found</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_MailBox" xml:space="preserve">
+		<value>Error retrieving possible mailbox names</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ГруппаНаРасположении" xml:space="preserve">
+		<value>A shift work group is already working at the specified workplace.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired" xml:space="preserve">
+		<value>employee position</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired1" xml:space="preserve">
+		<value>no mobile connection required</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired2" xml:space="preserve">
+		<value>mobile prepaid internet connection required</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired3" xml:space="preserve">
+		<value>mobile connection with megabyte charging is required</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoIssued" xml:space="preserve">
+		<value>not issued</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoEquipment" xml:space="preserve">
+		<value>IT equipment is not available at this location or you do not have permission to view it</value>
+	</data>
+	<data name="DIRECTIONS_btnGO_Title" xml:space="preserve">
+		<value>Follow instructions to organize work</value>
+	</data>
+	<data name="DIRECTIONS_Title_GroupMembers" xml:space="preserve">
+		<value>show group work in shifts</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmptyGroup" xml:space="preserve">
+		<value>there are no employees in the shift group</value>
+	</data>
+	<data name="DIRECTIONS_Title_GroupMembers1" xml:space="preserve">
+		<value>The composition of the group shift work</value>
+	</data>
+	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто" xml:space="preserve">
+		<value>the employee has a computerized unorganized workplace in the office</value>
+	</data>
+	<data name="msgSendMsg" xml:space="preserve">
+		<value>Send message</value>
+	</data>
+	<data name="DOCUMENT_Sign_Title" xml:space="preserve">
+		<value>Select signature method</value>
+	</data>
+	<data name="msgSignInsteadOf" xml:space="preserve">
+		<value>Sign as</value>
+	</data>
+	<data name="ntf_DocIsSigned" xml:space="preserve">
+		<value>The electronic form of the document is signed.</value>
+	</data>
+	<data name="ntf_DocIsCompleted" xml:space="preserve">
+		<value>The work is completed.</value>
+	</data>
+	<data name="msgDelSignAll" xml:space="preserve">
+		<value>Unable to delete signatures on the document!</value>
+	</data>
+	<data name="ENUM_РабочееМесто_1" xml:space="preserve">
+		<value>Computerized workplace</value>
+	</data>
+	<data name="ENUM_РабочееМесто_2" xml:space="preserve">
+		<value>Hotel Room</value>
+	</data>
+	<data name="ENUM_РабочееМесто_3" xml:space="preserve">
+		<value>Equipment may be located</value>
+	</data>
+	<data name="ENUM_РабочееМесто_4" xml:space="preserve">
+		<value>Equipment warehouse</value>
+	</data>
+	<data name="ENUM_РабочееМесто_5" xml:space="preserve">
+		<value>Guest workplace, shift work</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаОрганизована" xml:space="preserve">
+		<value>work is organized</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаНеОрганизована" xml:space="preserve">
+		<value>work not organized</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаУжеОрганизована" xml:space="preserve">
+		<value>Work at workplace {0} is already organized. Choose another workplace!</value>
+	</data>
+	<data name="TTN_lblBaseRemoval" xml:space="preserve">
+		<value>Base removal</value>
+	</data>
+	<data name="LinkedDocs_lbl_ТипВытекающего" xml:space="preserve">
+		<value>Type of document flowing</value>
+	</data>
+	<data name="LinkedDocs_lbl_НовыйВытекающий" xml:space="preserve">
+		<value>Create a new document</value>
+	</data>
+	<data name="LinkedDocs_lbl_Существующий" xml:space="preserve">
+		<value>Add existing</value>
+	</data>
+	<data name="LinkedDocs_lbl_УкажитеТип" xml:space="preserve">
+		<value>Specify the type of document flowing!</value>
+	</data>
+	<data name="titleSaveAndClose" xml:space="preserve">
+		<value>Save the document and close this form</value>
+	</data>
+	<data name="TTN_lblOrder" xml:space="preserve">
+		<value>Post after</value>
+	</data>
+	<data name="TTN_lblPutOnFirstPosition" xml:space="preserve">
+		<value>put on the first position</value>
+	</data>
+	<data name="TTN_ntfNotSummaOutNDS" xml:space="preserve">
+		<value>The 'Amount without VAT' field is not filled</value>
+	</data>
+	<data name="TTN_ntfSummaOutNDSIncorrect" xml:space="preserve">
+		<value>Amount without VAT must be greater than or less than 0</value>
+	</data>
+	<data name="Cfi_lblCashFlowTypeList" xml:space="preserve">
+		<value>Types of cash flow</value>
+	</data>
+	<data name="Cfi_lblOkTooltip" xml:space="preserve">
+		<value>Save the article and close the form</value>
+	</data>
+	<data name="Cfi_lblSaveTooltip" xml:space="preserve">
+		<value>Save article</value>
+	</data>
+	<data name="Cfi_lblDeleteTooltip" xml:space="preserve">
+		<value>Delete article and close the form</value>
+	</data>
+	<data name="Cfi_lblOkTooltipCft" xml:space="preserve">
+		<value>Save type and close form</value>
+	</data>
+	<data name="Cfi_lblSaveTooltipCft" xml:space="preserve">
+		<value>Save type</value>
+	</data>
+	<data name="Cfi_lblDeleteTooltipType" xml:space="preserve">
+		<value>Delete type and close form</value>
+	</data>
+	<data name="Cfi_lblAddCashFlowType" xml:space="preserve">
+		<value>Add type</value>
+	</data>
+	<data name="Cfi_lblEditCashFlowType" xml:space="preserve">
+		<value>Edit type</value>
+	</data>
+	<data name="Cfi_lblDeleteCashFlowType" xml:space="preserve">
+		<value>Delete type</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ФотоНет_Title" xml:space="preserve">
+		<value>Contact the personnel department to photograph an employee</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛица_Title" xml:space="preserve">
+		<value>Contact the personnel department to synchronize staffing and directory of persons</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинНеКорректен_Title" xml:space="preserve">
+		<value>Login must consist only of: Latin letters, numbers and signs [.-]. A login can only begin and end with a letter or number. Correct the login.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинСуществует_Title" xml:space="preserve">
+		<value>You must specify a different username</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoWorkPlace_Title" xml:space="preserve">
+		<value>You must specify the workplace for the organization of work</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_MailBox_Title" xml:space="preserve">
+		<value>Contact support to fix the error.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSpecified_Title" xml:space="preserve">
+		<value>You must specify the missing data</value>
+	</data>
+	<data name="DIRECTIONS_Msg_EmailНеКорректен_Title" xml:space="preserve">
+		<value>Еmail can consist only of Latin letters, numbers and signs [.-]. The name of the mailbox can only begin and end with a letter or number. Make the necessary corrections</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique_Title" xml:space="preserve">
+		<value>You must specify a different mailbox name.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoCadr_Title" xml:space="preserve">
+		<value>Contact the personnel department to take the employee to the position</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ExcessEq_Title" xml:space="preserve">
+		<value>Contact Support</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider1_Title" xml:space="preserve">
+		<value>Contact the personnel department to accept an employee for the position or add administrative subordination to the employee.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееНеДоступно_Title" xml:space="preserve">
+		<value>Contact Support</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistsDirection_Title" xml:space="preserve">
+		<value>Check these instructions, make changes if necessary. If the requirements in the previously created instructions coincide with the current ones, it is not necessary to create a new instruction.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ПосменнаяРабота_Title" xml:space="preserve">
+		<value>At the specified workplace another employee is already working. You must either choose another workplace or create a group of shift work (contact support)</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует_Title" xml:space="preserve">
+		<value>Contact the personnel department to add the specified workplace to the employee.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто_Title" xml:space="preserve">
+		<value>You must first organize the work (in the absence of create or execute an existing instruction) in an unorganized workplace.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе_Title" xml:space="preserve">
+		<value>Contact Support</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто_Title" xml:space="preserve">
+		<value>Contact Support</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина_Title" xml:space="preserve">
+		<value>You must select another employee, because the specified employee does not have a login and his access to the data has already been deleted or he was not</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние_Title" xml:space="preserve">
+		<value>Contact HR to change employee status</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеУволен_Title" xml:space="preserve">
+		<value>As a result of the execution of the instruction, the account and all access rights to the data will be transferred to the employee to whom the instruction is made. The employee "instead of" after the execution of the instructions will not be able to work.
+You must select another employee or contact the personnel department to dismiss the employee "instead."</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние3_Title" xml:space="preserve">
+		<value>The employee “as” is already dismissed, his rights to access data may already be deleted. You must select another employee</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSignSupervisor_Title" xml:space="preserve">
+		<value>An indication of the organization of work of the employee should be done or signed by his immediate supervisor</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpiresNo" xml:space="preserve">
+		<value>not set AccountExpires</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpiresNo_Title" xml:space="preserve">
+		<value>You must set the date on which the account is valid, because employee already fired</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpires_Title" xml:space="preserve">
+		<value>It is necessary to remove the restriction on the account action, since employee is not fired yet</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Disabled_Title" xml:space="preserve">
+		<value>You must enable the account, because employee is not fired yet</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
+		<value>login does not match the employee's name</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
+		<value>Login must contain employee name</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
+		<value>E-mail does not match the name of the employee</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
+		<value>The name of the mailbox must consist of a combination of the name and surname of the employee</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailDomain" xml:space="preserve">
+		<value>e-mail does not match the company</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
+		<value>Mailbox domain does not match the employee’s company domain. You must select a different domain.</value>
 	</data>
 </root>

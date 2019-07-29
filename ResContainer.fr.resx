@@ -947,19 +947,19 @@
 		<value>Annuler</value>
 	</data>
 	<data name="BtnClose" xml:space="preserve">
-		<value> Fermer</value>
+		<value>Fermer</value>
 	</data>
 	<data name="BtnConfirm" xml:space="preserve">
-		<value> Je confirme</value>
+		<value>Je confirme</value>
 	</data>
 	<data name="btnDelete" xml:space="preserve">
-		<value> Supprimer</value>
+		<value>Supprimer</value>
 	</data>
 	<data name="BtnFormAgain" xml:space="preserve">
-		<value>   Recréer</value>
+		<value>Recréer</value>
 	</data>
 	<data name="btnHelp" xml:space="preserve">
-		<value> Aide</value>
+		<value>Aide</value>
 	</data>
 	<data name="BtnRebuild" xml:space="preserve">
 		<value>Complètement reconstruire</value>
@@ -1082,7 +1082,7 @@
 		<value>ouvrir dans l'archive des documents</value>
 	</data>
 	<data name="cmdRefreshDescription" xml:space="preserve">
-		<value>L'apparence du document est mise à jour, les avertissements sous les champs sont recalculés. Les données ne sont pas mises à jour.</value>
+		<value>Rechargez complètement le formulaire, chargez les données réelles.</value>
 	</data>
 	<data name="cmdSaveDelSign" xml:space="preserve">
 		<value>, enlever des signatures</value>
@@ -2749,7 +2749,7 @@ unités</value>
 		<value>Le document de la base est plus long que la date de la facture</value>
 	</data>
 	<data name="msgWrongType" xml:space="preserve">
-		<value>Le document téléchargé ne correspond pas au type requis pour ce formulaire.</value>
+		<value>Le document téléchargeable est d'un type qui n'est pas pris en charge par ce formulaire.</value>
 	</data>
 	<data name="MSG_CorrectedWith" xml:space="preserve">
 		<value>Le document est corrigé avec</value>
@@ -2929,11 +2929,9 @@ Voulez-vous continuer?</value>
 		<value>Êtes-vous sûr de vouloir nommer un employé pour travailler en équipe avec</value>
 	</data>
 	<data name="msgFinishSign" xml:space="preserve">
-		<value>Vous signez le formulaire électronique du document en tant que «Fait-travail accompli».&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
-			Cette signature ne peut pas être supprimée à l'avenir.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
-			Vous êtes sûr que&amp;lt;b&amp;gt;le travail sur le document est terminé&amp;lt;/b&amp;gt;, données dans l'e-forme
-			sont correctement entrés et vous n'en avez pas besoin
-			changer?&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;</value>
+		<value>Vous signez le formulaire électronique du document en tant que 'effectué, le travail est terminé'.
+Cette signature ne peut être enlevée plus tard.
+Êtes-vous sûr que le travail sur le document est terminé, données dans l'email formulaire entré correctement et n'avez pas besoin de les changer?</value>
 	</data>
 	<data name="msgOsnAttention0" xml:space="preserve">
 		<value>ATTENTION !!!</value>
@@ -3957,7 +3955,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>le poste de flux de trésorerie n'est pas rempli.</value>
 	</data>
 	<data name="Cfi_lblSortTreeLocation" xml:space="preserve">
-		<value>emplacement de l'arbre</value>
+		<value>par emplacement dans un arbre</value>
 	</data>
 	<data name="Cfi_lblSortAlphabet" xml:space="preserve">
 		<value>alphabet</value>
@@ -4230,10 +4228,10 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>&amp;nbsp;</value>
 	</data>
 	<data name="DIRECTIONS_btnGO" xml:space="preserve">
-		<value>Run</value>
+		<value>Courir</value>
 	</data>
-	<data name="DIRECTIONS_btnOldVersion" xml:space="preserve">
-		<value>Ancienne version</value>
+	<data name="btnOldVersion_Title" xml:space="preserve">
+		<value>Ouvrez le document dans l'ancienne version de l'application</value>
 	</data>
 	<data name="DIRECTIONS_hAccessEml" xml:space="preserve">
 		<value>Accès aux données nécessaires au travail de l'employé</value>
@@ -4392,7 +4390,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>le lieu de travail n'est pas au bureau</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
-		<value>le lieu de travail ne correspond pas aux emplois de la carte d'employé</value>
+		<value>le travail n'est pas organisé sur le lieu de travail de l'employé, un nouveau lieu de travail sera créé</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
 		<value>lieu de travail non disponible</value>
@@ -4416,7 +4414,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>l'employé ne précise pas la société responsable de l'aileron. règlement</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
-		<value>l'employé n'a pas de lieu de travail. Spécifiez-le dans la carte d'employé</value>
+		<value>L'employé n'a pas de lieu de travail. Spécifiez-le dans la carte d'employé</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
 		<value>employé pas encore viré</value>
@@ -4452,7 +4450,10 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Le courrier électronique est incorrect.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
-		<value>ce courrier existe déjà; Le courrier électronique doit être unique.</value>
+		<value>ce courrier existe déjà.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique1" xml:space="preserve">
+		<value>Le courrier électronique doit être unique.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
 		<value>L'employé n'est pas synchronisé avec le répertoire des personnes.</value>
@@ -4494,7 +4495,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Pas d'explication tardive au service du personnel!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_ГруппаПосменнойРаботы" xml:space="preserve">
-		<value>groupe de travail posté</value>
+		<value>Groupe de travail posté</value>
 	</data>
 	<data name="DIRECTIONS_NTF_НеУказанМобильный" xml:space="preserve">
 		<value>Spécifiez un téléphone portable!</value>
@@ -4551,7 +4552,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Joue le rôle de:</value>
 	</data>
 	<data name="DIRECTIONS_Pos_InCompany" xml:space="preserve">
-		<value>Dans l'entreprise:</value>
+		<value>Dans l'entreprise</value>
 	</data>
 	<data name="DIRECTIONS_Pos_NoDocId" xml:space="preserve">
 		<value>Impossible de déterminer le code du document!</value>
@@ -4578,13 +4579,13 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Le rôle de l'employé dans l'entreprise</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_AllCatalog" xml:space="preserve">
-		<value>&lt;tous les répertoires&gt;</value>
+		<value>--tous les répertoires--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_AllCompany" xml:space="preserve">
-		<value>&lt;toutes les entreprises&gt;</value>
+		<value>--toutes les entreprises--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_AllTypePerson" xml:space="preserve">
-		<value>&lt;tous types&gt;</value>
+		<value>--tous types--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
 		<value>Catalogue</value>
@@ -4605,7 +4606,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Le travail nécessite du matériel supplémentaire sur le lieu de travail</value>
 	</data>
 	<data name="DIRECTIONS_Field_AEAccess" xml:space="preserve">
-		<value>Le travail nécessite un accès au réseau de l'entreprise</value>
+		<value>Accès au réseau d'entreprise</value>
 	</data>
 	<data name="DIRECTIONS_Field_Lang" xml:space="preserve">
 		<value>Langue préférée</value>
@@ -4629,13 +4630,13 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Organiser l'employé</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_1" xml:space="preserve">
-		<value>lieu de travail de bureau</value>
+		<value>le travail sur le lieu de travail au bureau</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
-		<value>lieu de travail en dehors du bureau</value>
+		<value>le travail en dehors du bureau</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
-		<value>compte sans créer de lieu de travail</value>
+		<value>le compte</value>
 	</data>
 	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
 		<value>un employé reçoit un équipement qui n'est pas sur son lieu de travail</value>
@@ -4707,5 +4708,567 @@ Tout d'abord, supprimez la facture résultante.</value>
 	</data>
 	<data name="ExRate_lblShowRatesOnHomePage" xml:space="preserve">
 		<value>Afficher les taux des devises sélectionnées sur la page d'accueil</value>
+	</data>
+	<data name="TreeView_lblName" xml:space="preserve">
+		<value>Nom</value>
+	</data>
+	<data name="cmdAddChild" xml:space="preserve">
+		<value>Ajouter un enfant</value>
+	</data>
+	<data name="lblEmptySearchString" xml:space="preserve">
+		<value>Chaîne de recherche non renseignée</value>
+	</data>
+	<data name="msgChildNodesWillBeMoved" xml:space="preserve">
+		<value>Tous les nœuds enfants seront déplacés vers un niveau supérieur.</value>
+	</data>
+	<data name="lblLastModify" xml:space="preserve">
+		<value>Dernier changement</value>
+	</data>
+	<data name="Users_MoveTo1C" xml:space="preserve">
+		<value>Déplacer à 1C</value>
+	</data>
+	<data name="cmdEditDescription" xml:space="preserve">
+		<value>Ouvrez le document pour le modifier dans une fenêtre séparée</value>
+	</data>
+	<data name="Users_msgDoesNotMatchPerson" xml:space="preserve">
+		<value>Le champ "Nom" n'est pas renseigné.</value>
+	</data>
+	<data name="Users_msgNoValidDetails" xml:space="preserve">
+		<value>Un individu n'a pas de détails valides</value>
+	</data>
+	<data name="Users_fldWorks" xml:space="preserve">
+		<value>travaille</value>
+	</data>
+	<data name="Users_fldDecreeHoliday" xml:space="preserve">
+		<value>décret de vacances</value>
+	</data>
+	<data name="Users_fldGuestPersonal" xml:space="preserve">
+		<value>invité personnel</value>
+	</data>
+	<data name="Users_fldFired" xml:space="preserve">
+		<value>viré</value>
+	</data>
+	<data name="Users_fldGuestCardGuest" xml:space="preserve">
+		<value>carte d'invité</value>
+	</data>
+	<data name="Users_fldOutsider" xml:space="preserve">
+		<value>outsider</value>
+	</data>
+	<data name="Users_cmdSaveDescription" xml:space="preserve">
+		<value>Sauvegarder la carte d'employé</value>
+	</data>
+	<data name="Users_msgAccountStatusMustLogin." xml:space="preserve">
+		<value>Lorsque vous spécifiez le statut du compte, vous devez spécifier un identifiant.</value>
+	</data>
+	<data name="Users_msgNoLastName" xml:space="preserve">
+		<value>Le champ "Last Name" n'est pas renseigné.</value>
+	</data>
+	<data name="Users_msgNoFirstName" xml:space="preserve">
+		<value>Le champ "First Name" n'est pas renseigné.</value>
+	</data>
+	<data name="Users_msgNoMiddleName" xml:space="preserve">
+		<value>Le champ "Middle Name" n'est pas renseigné.</value>
+	</data>
+	<data name="Users_msgFieldAsNationalPassport" xml:space="preserve">
+		<value>Les champs doivent être remplis comme dans le passeport national</value>
+	</data>
+	<data name="Users_msgFieldInEnglish" xml:space="preserve">
+		<value>Les champs doivent être remplis en anglais</value>
+	</data>
+	<data name="Users_lblSurName" xml:space="preserve">
+		<value>Nom de famille</value>
+	</data>
+	<data name="Users_lblName" xml:space="preserve">
+		<value>Prénom</value>
+	</data>
+	<data name="Users_lblMiddleName" xml:space="preserve">
+		<value>Deuxième prénom</value>
+	</data>
+	<data name="Users_lblEquipment" xml:space="preserve">
+		<value>Équipement</value>
+	</data>
+	<data name="Users_lblPhoto" xml:space="preserve">
+		<value>Des photos</value>
+	</data>
+	<data name="Users_lblCountryOfRegistration" xml:space="preserve">
+		<value>Pays d'enregistrement</value>
+	</data>
+	<data name="Users_lblBirthDate" xml:space="preserve">
+		<value>Date de naissance</value>
+	</data>
+	<data name="Users_lblOpenDossierOfIndividuals" xml:space="preserve">
+		<value>Dossier ouvert d'individus</value>
+	</data>
+	<data name="Users_ntfNoCountryOfRegistration" xml:space="preserve">
+		<value>La personne ne précise pas le pays d'enregistrement</value>
+	</data>
+	<data name="Users_ntfNoBirthDate" xml:space="preserve">
+		<value>La personne n'a pas de date de naissance.</value>
+	</data>
+	<data name="Users_ntfNoINN" xml:space="preserve">
+		<value>La personne n'a pas de TIN.</value>
+	</data>
+	<data name="Users_msgEmployeeNotSynchronized" xml:space="preserve">
+		<value>Les données des employés ne sont pas synchronisées avec le physique. le visage</value>
+	</data>
+	<data name="Users_lblINN" xml:space="preserve">
+		<value>TIN</value>
+	</data>
+	<data name="Users_lblCondition" xml:space="preserve">
+		<value>Condition</value>
+	</data>
+	<data name="Users_lblLanguage" xml:space="preserve">
+		<value>Langue</value>
+	</data>
+	<data name="Users_lblPersonalFolder" xml:space="preserve">
+		<value>Dossier personnel</value>
+	</data>
+	<data name="Users_lblCustomerOrganization" xml:space="preserve">
+		<value>Organisation client</value>
+	</data>
+	<data name="Users_lblNotes" xml:space="preserve">
+		<value>Les notes</value>
+	</data>
+	<data name="Users_cmdCancelDescription" xml:space="preserve">
+		<value>Annuler toutes les modifications et fermer la fenêtre</value>
+	</data>
+	<data name="Users_cmdApplyDescription" xml:space="preserve">
+		<value>Enregistrer toutes les modifications apportées au formulaire dans la base de données</value>
+	</data>
+	<data name="Users_lblCountry" xml:space="preserve">
+		<value>pays</value>
+	</data>
+	<data name="lblChangeDocumentDescription" xml:space="preserve">
+		<value>changer la description du document</value>
+	</data>
+	<data name="lblSaveDocumentDescription" xml:space="preserve">
+		<value>enregistrer la description du document</value>
+	</data>
+	<data name="lblCancelDocumentDescription" xml:space="preserve">
+		<value>annuler le changement de description de document</value>
+	</data>
+	<data name="cmdCheck" xml:space="preserve">
+		<value>Chèque</value>
+	</data>
+	<data name="cmdCheckDescription" xml:space="preserve">
+		<value>Vérifier les données</value>
+	</data>
+	<data name="Users_cmdEquipmentDesription" xml:space="preserve">
+		<value>Ouvrir la réception de la réception de l'inventaire</value>
+	</data>
+	<data name="Users_cmdPhotoDescription" xml:space="preserve">
+		<value>Ouvrir le formulaire de retouche photo des employés</value>
+	</data>
+	<data name="cmdReCheck" xml:space="preserve">
+		<value>Revérifier</value>
+	</data>
+	<data name="cmdReCheckDescription" xml:space="preserve">
+		<value>Revérifier toutes les données saisies sur le formulaire</value>
+	</data>
+	<data name="cmdReload" xml:space="preserve">
+		<value>Rafraîchir</value>
+	</data>
+	<data name="cmdReloadDescription" xml:space="preserve">
+		<value>Télécharger les données de la base de données et mettre à jour les champs de formulaire</value>
+	</data>
+	<data name="msgNoAccess" xml:space="preserve">
+		<value>Aucun droit de modifier les données</value>
+	</data>
+	<data name="Confirm_msgRefreshNoSave" xml:space="preserve">
+		<value>Changements non enregistrés! Voulez-vous vraiment recharger les données?</value>
+	</data>
+	<data name="Confirm_msgRefreshNoSaveUsers" xml:space="preserve">
+		<value>Ce formulaire est actuellement modifié par les employés: {0}. À la suite du rechargement des données, toutes les modifications apportées par eux sur leurs formulaires seront annulées. Mettre à jour les données du formulaire?</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer_Laptop" xml:space="preserve">
+		<value>un ordinateur portable</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_Table" xml:space="preserve">
+		<value>stationnaire</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_Dect" xml:space="preserve">
+		<value>combiné de bureau</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_WebCam" xml:space="preserve">
+		<value>Caméra WEB</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer_Desktop" xml:space="preserve">
+		<value>dessus de table</value>
+	</data>
+	<data name="DIRECTIONS_Field_AEAccess_Login" xml:space="preserve">
+		<value>Connexion</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData" xml:space="preserve">
+		<value>Accès aux données nécessaires au travail de l'employé</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData_How" xml:space="preserve">
+		<value>comme un employé</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData_Instead" xml:space="preserve">
+		<value>au lieu d'employé</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Folders_Title" xml:space="preserve">
+		<value>sélectionner les dossiers partagés auxquels l'employé aura accès</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles_Title" xml:space="preserve">
+		<value>choisir le rôle que l'employé joue dans l'entreprise</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Types_Title" xml:space="preserve">
+		<value>sélectionner les types de personnes auxquelles l'employé a accès</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Grants_Title" xml:space="preserve">
+		<value>sélectionner des droits supplémentaires</value>
+	</data>
+	<data name="DIRECTIONS_Field_AdvInfo" xml:space="preserve">
+		<value>Ajouter informations sur l'organisation du travail</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles_Select" xml:space="preserve">
+		<value>Remplit le rôle</value>
+	</data>
+	<data name="DIRECTIONS_Field_WP_Link" xml:space="preserve">
+		<value>Choisissez un lieu de travail</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoCadr" xml:space="preserve">
+		<value>l'employé n'a pas de poste dans la liste du personnel</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider1" xml:space="preserve">
+		<value>l'employé n'a pas de gestionnaire direct</value>
+	</data>
+	<data name="DIRECTIONS_Field_Lider" xml:space="preserve">
+		<value>Superviseur immédiat</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoPost" xml:space="preserve">
+		<value>l'employé ne précise pas le poste</value>
+	</data>
+	<data name="DIRECTIONS_NTF_PostNoEqualsCadr" xml:space="preserve">
+		<value>la position de l'employé ne correspond pas à la position dans la dotation</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentInLocation" xml:space="preserve">
+		<value>Equipement sur place</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation1" xml:space="preserve">
+		<value>Équipement des employés</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation2" xml:space="preserve">
+		<value>, n'est pas sur son lieu de travail</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation3" xml:space="preserve">
+		<value>pas de données d'équipement sur les lieux de travail d'autres personnes</value>
+	</data>
+	<data name="DIRECTIONS_Title_ShowEq1" xml:space="preserve">
+		<value>formulaire d'équipement ouvert</value>
+	</data>
+	<data name="DIRECTIONS_Msg_UnbleSave" xml:space="preserve">
+		<value>Enregistrer est impossible!</value>
+	</data>
+	<data name="DIRECTIONS_MSG_ЗаписьСуществует" xml:space="preserve">
+		<value>Cette entrée existe déjà.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеУказанаРоль" xml:space="preserve">
+		<value>Rôle employé non spécifié</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЧтоДанныйСотрудник" xml:space="preserve">
+		<value>Êtes-vous sûr de vouloir cet employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях1" xml:space="preserve">
+		<value>joué le rôle spécifié dans toutes les sociétés de portefeuille existantes</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях2" xml:space="preserve">
+		<value>et les entreprises qui rejoindront la holding à l'avenir</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НетУказанКаталог" xml:space="preserve">
+		<value>Vous devez spécifier un répertoire</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НетУказанКаталог1" xml:space="preserve">
+		<value>Vous devez spécifier soit le répertoire ou le type de personne</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеКаталоги" xml:space="preserve">
+		<value>accessible dans tous les répertoires</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеКаталоги1" xml:space="preserve">
+		<value>qui existent maintenant ou qui apparaîtront dans le futur, pour le type de visage spécifié</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеТипы" xml:space="preserve">
+		<value>obtenu l'accès à tous les types de personnes dans le répertoire spécifié</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеТипы1" xml:space="preserve">
+		<value>qui existent maintenant ou apparaîtront à l'avenir</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_AllCompany1" xml:space="preserve">
+		<value>--dans toutes les entreprises--</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ЧтоТребуется" xml:space="preserve">
+		<value>Il n'est pas indiqué qu'un employé doit être organisé.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_РабМестоВОфисе" xml:space="preserve">
+		<value>Lieu de travail non spécifié</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ТребуетсяДляРаботы" xml:space="preserve">
+		<value>Il n'est pas indiqué qu'un employé sera obligé de travailler</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Сеть" xml:space="preserve">
+		<value>Pas d'accès au réseau d'entreprise</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_МобТелефон" xml:space="preserve">
+		<value>Le téléphone portable de l'employé n'est pas spécifié</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Как" xml:space="preserve">
+		<value>Non renseigné sur le terrain en tant qu'employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Вместо" xml:space="preserve">
+		<value>Champ non rempli 'au lieu d'employé'</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ВместоУчетки" xml:space="preserve">
+		<value>Il est impossible de sauvegarder l'instruction, car et l'employé à qui l'indication est faite et l'employé "au lieu" ont divers comptes</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_НетСотрудника" xml:space="preserve">
+		<value>Identifier un employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_НетЗаписи" xml:space="preserve">
+		<value>Enregistrement non trouvé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_MailBox" xml:space="preserve">
+		<value>Erreur lors de la récupération des noms de boîte aux lettres possibles</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ГруппаНаРасположении" xml:space="preserve">
+		<value>Un groupe de travail par quarts travaille déjà sur le lieu de travail spécifié</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired" xml:space="preserve">
+		<value>poste d'employé</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired1" xml:space="preserve">
+		<value>aucune connexion mobile requise</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired2" xml:space="preserve">
+		<value>connexion Internet prépayée mobile requise</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired3" xml:space="preserve">
+		<value>une connexion mobile avec chargement en mégaoctets est requise</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoIssued" xml:space="preserve">
+		<value>pas publié</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoEquipment" xml:space="preserve">
+		<value>L'équipement informatique n'est pas disponible à cet endroit ou vous n'avez pas la permission de le voir</value>
+	</data>
+	<data name="DIRECTIONS_btnGO_Title" xml:space="preserve">
+		<value>Suivez les instructions pour organiser le travail</value>
+	</data>
+	<data name="DIRECTIONS_Title_GroupMembers" xml:space="preserve">
+		<value>montrer le travail de groupe par équipes</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmptyGroup" xml:space="preserve">
+		<value>il n'y a pas d'employés dans le groupe de travail</value>
+	</data>
+	<data name="DIRECTIONS_Title_GroupMembers1" xml:space="preserve">
+		<value>La composition du travail posté</value>
+	</data>
+	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто" xml:space="preserve">
+		<value>l'employé a un lieu de travail informatisé non organisé dans le bureau</value>
+	</data>
+	<data name="msgSendMsg" xml:space="preserve">
+		<value>Envoyer un message</value>
+	</data>
+	<data name="DOCUMENT_Sign_Title" xml:space="preserve">
+		<value>Choisir la méthode de signature</value>
+	</data>
+	<data name="msgSignInsteadOf" xml:space="preserve">
+		<value>Signer comme</value>
+	</data>
+	<data name="ntf_DocIsSigned" xml:space="preserve">
+		<value>Le formulaire électronique du document est signé.</value>
+	</data>
+	<data name="ntf_DocIsCompleted" xml:space="preserve">
+		<value>Le travail est terminé.</value>
+	</data>
+	<data name="msgDelSignAll" xml:space="preserve">
+		<value>Impossible de supprimer les signatures sur le document!</value>
+	</data>
+	<data name="ENUM_РабочееМесто_1" xml:space="preserve">
+		<value>Lieu de travail informatisé</value>
+	</data>
+	<data name="ENUM_РабочееМесто_2" xml:space="preserve">
+		<value>Chambre d'hôtel</value>
+	</data>
+	<data name="ENUM_РабочееМесто_3" xml:space="preserve">
+		<value>L'équipement peut être situé</value>
+	</data>
+	<data name="ENUM_РабочееМесто_4" xml:space="preserve">
+		<value>Entrepôt d'équipement</value>
+	</data>
+	<data name="ENUM_РабочееМесто_5" xml:space="preserve">
+		<value>Lieu de travail invité, travail posté</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаОрганизована" xml:space="preserve">
+		<value>le travail est organisé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаНеОрганизована" xml:space="preserve">
+		<value>travail non organisé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаУжеОрганизована" xml:space="preserve">
+		<value>Le travail sur le lieu de travail {0} est déjà organisé. Choisissez un autre lieu de travail!</value>
+	</data>
+	<data name="TTN_lblBaseRemoval" xml:space="preserve">
+		<value>Retrait de la base</value>
+	</data>
+	<data name="LinkedDocs_lbl_ТипВытекающего" xml:space="preserve">
+		<value>Type de document qui coule</value>
+	</data>
+	<data name="LinkedDocs_lbl_НовыйВытекающий" xml:space="preserve">
+		<value>Créer un nouveau document</value>
+	</data>
+	<data name="LinkedDocs_lbl_Существующий" xml:space="preserve">
+		<value>Ajouter existant</value>
+	</data>
+	<data name="LinkedDocs_lbl_УкажитеТип" xml:space="preserve">
+		<value>Spécifiez le type du document résultant!</value>
+	</data>
+	<data name="titleSaveAndClose" xml:space="preserve">
+		<value>Save the document and close this form</value>
+	</data>
+	<data name="TTN_lblOrder" xml:space="preserve">
+		<value>Publier après</value>
+	</data>
+	<data name="TTN_lblPutOnFirstPosition" xml:space="preserve">
+		<value>mettre sur la première position</value>
+	</data>
+	<data name="TTN_ntfNotSummaOutNDS" xml:space="preserve">
+		<value>Le champ "Montant hors TVA" n'est pas renseigné</value>
+	</data>
+	<data name="TTN_ntfSummaOutNDSIncorrect" xml:space="preserve">
+		<value>Le montant hors TVA doit être supérieur ou inférieur à 0</value>
+	</data>
+	<data name="Cfi_lblCashFlowTypeList" xml:space="preserve">
+		<value>Types de flux de trésorerie</value>
+	</data>
+	<data name="Cfi_lblOkTooltip" xml:space="preserve">
+		<value>Enregistrez l'article et fermez le formulaire</value>
+	</data>
+	<data name="Cfi_lblSaveTooltip" xml:space="preserve">
+		<value>Enregistrer l'article</value>
+	</data>
+	<data name="Cfi_lblDeleteTooltip" xml:space="preserve">
+		<value>Supprimer l'article et fermer le formulaire</value>
+	</data>
+	<data name="Cfi_lblOkTooltipCft" xml:space="preserve">
+		<value>Enregistrer le type et fermer le formulaire</value>
+	</data>
+	<data name="Cfi_lblSaveTooltipCft" xml:space="preserve">
+		<value>Enregistrer le type</value>
+	</data>
+	<data name="Cfi_lblDeleteTooltipType" xml:space="preserve">
+		<value>Supprimer le type et fermer le formulaire</value>
+	</data>
+	<data name="Cfi_lblAddCashFlowType" xml:space="preserve">
+		<value>Ajouter un type</value>
+	</data>
+	<data name="Cfi_lblEditCashFlowType" xml:space="preserve">
+		<value>Modifier le type</value>
+	</data>
+	<data name="Cfi_lblDeleteCashFlowType" xml:space="preserve">
+		<value>Supprimer le type</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ФотоНет_Title" xml:space="preserve">
+		<value>Contacter le service du personnel pour photographier un employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛица_Title" xml:space="preserve">
+		<value>Contacter le service du personnel pour synchroniser la dotation en personnel et le répertoire des personnes</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинНеКорректен_Title" xml:space="preserve">
+		<value>Le login doit contenir uniquement: des lettres latines, des chiffres et des signes [.-]. Une connexion ne peut commencer et se terminer que par une lettre ou un chiffre. Corrigez le login.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинСуществует_Title" xml:space="preserve">
+		<value>Vous devez spécifier un nom d'utilisateur différent</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoWorkPlace_Title" xml:space="preserve">
+		<value>Vous devez spécifier le lieu de travail pour l'organisation du travail</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_MailBox_Title" xml:space="preserve">
+		<value>Contactez le support pour corriger l'erreur.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSpecified_Title" xml:space="preserve">
+		<value>Vous devez spécifier les données manquantes</value>
+	</data>
+	<data name="DIRECTIONS_Msg_EmailНеКорректен_Title" xml:space="preserve">
+		<value>Еmail ne peut contenir que des lettres latines, des chiffres et des signes [.-]. Le nom de la boîte aux lettres ne peut commencer et se terminer que par une lettre ou un chiffre. Faire les corrections nécessaires</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique_Title" xml:space="preserve">
+		<value>Vous devez spécifier un nom de boîte aux lettres différent.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoCadr_Title" xml:space="preserve">
+		<value>Contacter le service du personnel pour emmener l'employé au poste</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ExcessEq_Title" xml:space="preserve">
+		<value>Contacter le support</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider1_Title" xml:space="preserve">
+		<value>Contactez le service du personnel pour accepter un employé du poste ou ajoutez une subordination administrative à l'employé.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееНеДоступно_Title" xml:space="preserve">
+		<value>Contacter le support</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistsDirection_Title" xml:space="preserve">
+		<value>Vérifiez ces instructions, apportez des modifications si nécessaire. Si les exigences des instructions précédemment créées coïncident avec celles en cours, il n'est pas nécessaire de créer une nouvelle instruction.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ПосменнаяРабота_Title" xml:space="preserve">
+		<value>Un autre employé travaille déjà sur le lieu de travail spécifié. Vous devez choisir un autre lieu de travail ou créer un groupe de travail posté (support de contact)</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует_Title" xml:space="preserve">
+		<value>Contactez le service du personnel pour ajouter le lieu de travail spécifié à l'employé.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто_Title" xml:space="preserve">
+		<value>Vous devez d'abord organiser le travail (en l'absence de créer ou d'exécuter une instruction existante) dans un lieu de travail non organisé.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе_Title" xml:space="preserve">
+		<value>Contacter le support</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто_Title" xml:space="preserve">
+		<value>Contacter le support</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина_Title" xml:space="preserve">
+		<value>Vous devez sélectionner un autre employé, car celui-ci ne dispose pas d'un identifiant et que son accès aux données a déjà été supprimé ou qu'il ne l'était pas.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние_Title" xml:space="preserve">
+		<value>Contacter les ressources humaines pour changer le statut de l'employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеУволен_Title" xml:space="preserve">
+		<value>À la suite de l'exécution de l'instruction, le compte et tous les droits d'accès aux données seront transférés à l'employé à qui l'instruction est destinée. L'employé "au lieu de" après l'exécution des instructions ne pourra pas travailler.
+Vous devez sélectionner un autre employé ou contacter le service du personnel pour le licencier "à la place".</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние3_Title" xml:space="preserve">
+		<value>L'employé «en tant que» est déjà licencié, ses droits d'accès aux données peuvent déjà être supprimés. Vous devez sélectionner un autre employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSignSupervisor_Title" xml:space="preserve">
+		<value>Une indication de l'organisation du travail de l'employé doit être faite ou signée par son supérieur immédiat.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpiresNo" xml:space="preserve">
+		<value>non défini AccountExpires</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpiresNo_Title" xml:space="preserve">
+		<value>Vous devez définir la date à laquelle le compte est valide, car employé déjà congédié</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpires_Title" xml:space="preserve">
+		<value>Il est nécessaire de supprimer la restriction relative à l'action sur le compte, car employé n'est pas encore viré</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Disabled_Title" xml:space="preserve">
+		<value>Vous devez activer le compte, car employé n'est pas encore viré</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
+		<value>le login ne correspond pas au nom de l'employé</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
+		<value>Le login doit contenir le nom de l'employé</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
+		<value>E-mail ne correspond pas au nom de l'employé</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
+		<value>Le nom de la boîte aux lettres doit être composé du nom et du prénom de l'employé.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailDomain" xml:space="preserve">
+		<value>e-mail ne correspond pas à l'entreprise</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
+		<value>Le domaine de la boîte aux lettres ne correspond pas au domaine de l'entreprise de l'employé. Vous devez sélectionner un autre domaine.</value>
 	</data>
 </root>

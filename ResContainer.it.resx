@@ -590,7 +590,7 @@
 		<value>Come risultato di questa operazione, TUTTI i dati del documento attuale saranno resi conformi al documento dalla base.</value>
 	</data>
 	<data name="msgOsnAttention3" xml:space="preserve">
-		<value>è importante:</value>
+		<value>E importante:</value>
 	</data>
 	<data name="MSG_DataMergedWithCorrected" xml:space="preserve">
 		<value>Come risultato di questa operazione TUTTI i dati del documento corrente sarà allineato con il documento corretti.
@@ -805,7 +805,7 @@ Sei sicuro di voler eseguire questa operazione?</value>
 		<value>il documento non è disponibile</value>
 	</data>
 	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
-		<value>il documento non ha el. forma</value>
+		<value>Il documento non ha el. forma</value>
 	</data>
 	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
 		<value>Per i prodotti, l'unità di misura è obbligatoria</value>
@@ -1039,7 +1039,7 @@ Sei sicuro di voler eseguire questa operazione?</value>
 		<value>Esporta in 1C</value>
 	</data>
 	<data name="cpNaturalFIO" xml:space="preserve">
-		<value>nome completo</value>
+		<value>Nome completo</value>
 	</data>
 	<data name="cpNaturalSecondNameLat" xml:space="preserve">
 		<value>Cognome in alfabeto latino</value>
@@ -1116,10 +1116,10 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>La data di fine del magazzino non deve essere precedente alla data di inizio</value>
 	</data>
 	<data name="STORE_Department" xml:space="preserve">
-		<value>ufficio</value>
+		<value>Ufficio</value>
 	</data>
 	<data name="STORE_Description" xml:space="preserve">
-		<value>osservazione</value>
+		<value>Osservazione</value>
 	</data>
 	<data name="STORE_DoesNotMatter" xml:space="preserve">
 		<value>Non importa</value>
@@ -1149,7 +1149,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>La data non è ancora arrivata</value>
 	</data>
 	<data name="STORE_IsActual" xml:space="preserve">
-		<value>atti</value>
+		<value>Atti</value>
 	</data>
 	<data name="STORE_IsNotActual" xml:space="preserve">
 		<value>Non applicabile</value>
@@ -1188,13 +1188,13 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>Il magazzino non funzionava fino a quando</value>
 	</data>
 	<data name="STORE_PageSettings" xml:space="preserve">
-		<value>registrazione</value>
+		<value>Registrazione</value>
 	</data>
 	<data name="STORE_Queries" xml:space="preserve">
 		<value>Richiesta aggiuntiva</value>
 	</data>
 	<data name="STORE_queryFilterAnd" xml:space="preserve">
-		<value>e</value>
+		<value>E</value>
 	</data>
 	<data name="STORE_queryFilterOr" xml:space="preserve">
 		<value>OR</value>
@@ -1314,7 +1314,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>Crea / seleziona un documento di deflusso</value>
 	</data>
 	<data name="titleCancel" xml:space="preserve">
-		<value>cancellazione</value>
+		<value>Cancellazione</value>
 	</data>
 	<data name="titleHelp" xml:space="preserve">
 		<value>Aiutare</value>
@@ -1329,7 +1329,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>Contattaci</value>
 	</data>
 	<data name="TMD_Head1" xml:space="preserve">
-		<value>numero</value>
+		<value>Numero</value>
 	</data>
 	<data name="TMD_Head2" xml:space="preserve">
 		<value>periodo non chiuso</value>
@@ -1344,7 +1344,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>Data e ora</value>
 	</data>
 	<data name="TMD_TblColumn2" xml:space="preserve">
-		<value>tipo</value>
+		<value>Tipo</value>
 	</data>
 	<data name="TMD_TblColumn3" xml:space="preserve">
 		<value>Zona abbonati</value>
@@ -1353,7 +1353,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>direzione</value>
 	</data>
 	<data name="TMD_TblColumn5" xml:space="preserve">
-		<value>servizio</value>
+		<value>Servizio</value>
 	</data>
 	<data name="TMD_TblColumn6" xml:space="preserve">
 		<value>Durata</value>
@@ -1368,7 +1368,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>Somma</value>
 	</data>
 	<data name="TMD_TblFooter" xml:space="preserve">
-		<value>in totale</value>
+		<value>In totale</value>
 	</data>
 	<data name="TMD_Title" xml:space="preserve">
 		<value>Un rapporto dettagliato sulle chiamate telefoniche</value>
@@ -1461,7 +1461,7 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>Per favore aspetta Caricamento dati ...</value>
 	</data>
 	<data name="TM_Withdrawn" xml:space="preserve">
-		<value>ritirato</value>
+		<value>Ritirato</value>
 	</data>
 	<data name="ttAddShetDog" xml:space="preserve">
 		<value>Apre la finestra di dialogo di rilegatura del documento</value>
@@ -1491,13 +1491,13 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 		<value>centesimi</value>
 	</data>
 	<data name="USD_S1" xml:space="preserve">
-		<value>Dollaro USA</value>
+		<value>dollaro USA</value>
 	</data>
 	<data name="USD_S2" xml:space="preserve">
-		<value>Dollaro USA</value>
+		<value>dollaro USA</value>
 	</data>
 	<data name="USD_S5" xml:space="preserve">
-		<value>Dollaro USA</value>
+		<value>dollaro USA</value>
 	</data>
 	<data name="сAbsent" xml:space="preserve">
 		<value>Tempo totale di pause</value>
@@ -1627,7 +1627,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Dipendenti nel gruppo</value>
 	</data>
 	<data name="DossierEmployeeInfo_FullName_Label" xml:space="preserve">
-		<value>dipendente</value>
+		<value>Dipendente</value>
 	</data>
 	<data name="DossierEmployeeInfo_NotReplacement" xml:space="preserve">
 		<value>Il dipendente è assente. È sostituito da:</value>
@@ -1651,7 +1651,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Sistema di tracciamento del tempo degli impiegati</value>
 	</data>
 	<data name="lblAccounts" xml:space="preserve">
-		<value>conti</value>
+		<value>Conti</value>
 	</data>
 	<data name="lblAttributeFormatState" xml:space="preserve">
 		<value>Paese di attributo</value>
@@ -1705,7 +1705,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Importo senza IVA</value>
 	</data>
 	<data name="lFilterEmplName" xml:space="preserve">
-		<value>dipendente</value>
+		<value>Dipendente</value>
 	</data>
 	<data name="lFrom" xml:space="preserve">
 		<value>con il</value>
@@ -1795,7 +1795,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Corda vuota</value>
 	</data>
 	<data name="cEqually" xml:space="preserve">
-		<value>è</value>
+		<value>È</value>
 	</data>
 	<data name="cLike" xml:space="preserve">
 		<value>Sembra</value>
@@ -1810,7 +1810,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Modifica dell'attributo face</value>
 	</data>
 	<data name="cpDescription" xml:space="preserve">
-		<value>osservazione</value>
+		<value>Osservazione</value>
 	</data>
 	<data name="cpManager" xml:space="preserve">
 		<value>Capo di</value>
@@ -1825,16 +1825,16 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Il processo di creazione di una faccia</value>
 	</data>
 	<data name="cpRepresentative" xml:space="preserve">
-		<value>rappresentante</value>
+		<value>Rappresentante</value>
 	</data>
 	<data name="cpSignRole" xml:space="preserve">
 		<value>Firma a destra</value>
 	</data>
 	<data name="cpWorker" xml:space="preserve">
-		<value>dipendente</value>
+		<value>Dipendente</value>
 	</data>
 	<data name="cpWorkers" xml:space="preserve">
-		<value>dipendenti</value>
+		<value>Dipendenti</value>
 	</data>
 	<data name="DossierEmployeeInfo_Contacts_WorkPhone" xml:space="preserve">
 		<value>Telefono di lavoro</value>
@@ -1843,7 +1843,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>spostare il lavoro con:</value>
 	</data>
 	<data name="DossierEmployeeInfo_WorkPlace" xml:space="preserve">
-		<value>sul posto di lavoro</value>
+		<value>Sul posto di lavoro</value>
 	</data>
 	<data name="EmployeeStatus_Outlier" xml:space="preserve">
 		<value>estraneo</value>
@@ -1906,10 +1906,10 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Il campo Lavoro deve essere compilato</value>
 	</data>
 	<data name="iPCustom" xml:space="preserve">
-		<value>arbitrariamente</value>
+		<value>Arbitrariamente</value>
 	</data>
 	<data name="lblApplication" xml:space="preserve">
-		<value>applicazione</value>
+		<value>Applicazione</value>
 	</data>
 	<data name="lblBankingProvision" xml:space="preserve">
 		<value>Fornitura di servizi bancari</value>
@@ -1924,7 +1924,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>R/s del compratore</value>
 	</data>
 	<data name="lblDoisserChecked" xml:space="preserve">
-		<value>verificato</value>
+		<value>Verificato</value>
 	</data>
 	<data name="lblEdit" xml:space="preserve">
 		<value>redazione</value>
@@ -1948,10 +1948,10 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Nome dell'azienda completo</value>
 	</data>
 	<data name="lblManagers" xml:space="preserve">
-		<value>leader</value>
+		<value>Leader</value>
 	</data>
 	<data name="lblNotes" xml:space="preserve">
-		<value>osservazione</value>
+		<value>Osservazione</value>
 	</data>
 	<data name="lblPercentagePrepaid" xml:space="preserve">
 		<value>Percentuale di pagamento anticipato</value>
@@ -1963,13 +1963,13 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Affermazione</value>
 	</data>
 	<data name="lblPosition" xml:space="preserve">
-		<value>posizione</value>
+		<value>Posizione</value>
 	</data>
 	<data name="lblRepresentatives" xml:space="preserve">
 		<value>Rappresentanti di</value>
 	</data>
 	<data name="lblSeller" xml:space="preserve">
-		<value>venditore</value>
+		<value>Venditore</value>
 	</data>
 	<data name="lblSellerRS" xml:space="preserve">
 		<value>R/s dal venditore</value>
@@ -1978,13 +1978,13 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Fornitura di servizi di archiviazione</value>
 	</data>
 	<data name="lblUser" xml:space="preserve">
-		<value>utente</value>
+		<value>Utente</value>
 	</data>
 	<data name="lblView" xml:space="preserve">
 		<value>Guarda dentro</value>
 	</data>
 	<data name="lCont" xml:space="preserve">
-		<value>procedere</value>
+		<value>Procedere</value>
 	</data>
 	<data name="msgDelFinishSign2" xml:space="preserve">
 		<value>Vuoi continuare?</value>
@@ -2002,7 +2002,7 @@ In questo documento ci sono operazioni finanziarie.</value>
 		<value>Visualizza lo stato corrente del modulo elettronico nell'archivio</value>
 	</data>
 	<data name="ppFltПолучатель" xml:space="preserve">
-		<value>destinatario</value>
+		<value>Destinatario</value>
 	</data>
 	<data name="RUB_S1" xml:space="preserve">
 		<value>rublo</value>
@@ -2081,7 +2081,7 @@ Impossibile ottenere i dati da copiare!</value>
 		<value>Prova di nuovo</value>
 	</data>
 	<data name="lblBuyer" xml:space="preserve">
-		<value>acquirente</value>
+		<value>Acquirente</value>
 	</data>
 	<data name="lblForDependes" xml:space="preserve">
 		<value>Per dipendente</value>
@@ -2117,10 +2117,10 @@ Impossibile ottenere i dati da copiare!</value>
 		<value>firmato</value>
 	</data>
 	<data name="lPeriod" xml:space="preserve">
-		<value>periodo</value>
+		<value>Periodo</value>
 	</data>
 	<data name="lPrint" xml:space="preserve">
-		<value>stampa</value>
+		<value>Stampa</value>
 	</data>
 	<data name="lPrintAdd" xml:space="preserve">
 		<value>Stampa elenchi completi di dipendenti selezionati</value>
@@ -2138,10 +2138,10 @@ Impossibile ottenere i dati da copiare!</value>
 		<value>Mostra foto</value>
 	</data>
 	<data name="msgCall" xml:space="preserve">
-		<value>chiamata</value>
+		<value>Chiamata</value>
 	</data>
 	<data name="msgConfirm" xml:space="preserve">
-		<value>confermare</value>
+		<value>Confermare</value>
 	</data>
 	<data name="msgDelSignUnavaible" xml:space="preserve">
 		<value>La firma non è disponibile, potrebbe essere già stata eliminata.</value>
@@ -2174,7 +2174,7 @@ Impossibile ottenere i dati da copiare!</value>
 		<value>I documenti di pagamento sono selezionati in base ai seguenti criteri:</value>
 	</data>
 	<data name="ppFltПлательщик" xml:space="preserve">
-		<value>pagatore</value>
+		<value>Pagatore</value>
 	</data>
 	<data name="ppLblFilter" xml:space="preserve">
 		<value>mostra/nascondi il filtro installato</value>
@@ -2183,7 +2183,7 @@ Impossibile ottenere i dati da copiare!</value>
 		<value>Mostra record {0}. Trovato di più!</value>
 	</data>
 	<data name="cPlace" xml:space="preserve">
-		<value>ufficio</value>
+		<value>Ufficio</value>
 	</data>
 	<data name="cpNaturalThirdNameLat" xml:space="preserve">
 		<value>Patronimico in latino</value>
@@ -2217,10 +2217,10 @@ unità</value>
 		<value>Invia un messaggio sulla firma di chiusura</value>
 	</data>
 	<data name="ppBtnCancel" xml:space="preserve">
-		<value>cancellazione</value>
+		<value>Cancellazione</value>
 	</data>
 	<data name="QSBtnCancel" xml:space="preserve">
-		<value>cancellazione</value>
+		<value>Cancellazione</value>
 	</data>
 	<data name="cmdOpenDoc" xml:space="preserve">
 		<value>aperto nell'archivio documenti</value>
@@ -2253,7 +2253,7 @@ unità</value>
 		<value>Descrizione del documento nell'archivio</value>
 	</data>
 	<data name="ppLblRefreshList" xml:space="preserve">
-		<value>Aggiorna la lista</value>
+		<value>aggiorna la lista</value>
 	</data>
 	<data name="cNotContainAll" xml:space="preserve">
 		<value>Non contiene parole</value>
@@ -2280,7 +2280,7 @@ unità</value>
 		<value>L'inizio della pausa</value>
 	</data>
 	<data name="cUnlike" xml:space="preserve">
-		<value>non come</value>
+		<value>Non come</value>
 	</data>
 	<data name="dNull" xml:space="preserve">
 		<value>Non specificato</value>
@@ -2313,10 +2313,10 @@ unità</value>
 		<value>I parametri sono passati in modo errato.</value>
 	</data>
 	<data name="iPTypeMounth" xml:space="preserve">
-		<value>mese</value>
+		<value>Mese</value>
 	</data>
 	<data name="iPTypeWeek" xml:space="preserve">
-		<value>settimana</value>
+		<value>Settimana</value>
 	</data>
 	<data name="lBack" xml:space="preserve">
 		<value>Torna indietro</value>
@@ -2334,7 +2334,7 @@ unità</value>
 		<value>Titolo del documento</value>
 	</data>
 	<data name="lblDoisserAssign" xml:space="preserve">
-		<value>assegnare</value>
+		<value>Assegnare</value>
 	</data>
 	<data name="lblDoisserNotChecked" xml:space="preserve">
 		<value>Non verificato</value>
@@ -2364,7 +2364,7 @@ unità</value>
 		<value>Il titolo sul documento originale non corrisponde al tipo di documento specificato</value>
 	</data>
 	<data name="lblNaturalSexM" xml:space="preserve">
-		<value>maschio</value>
+		<value>Maschio</value>
 	</data>
 	<data name="lblNDS" xml:space="preserve">
 		<value>IVA</value>
@@ -2529,7 +2529,7 @@ unità</value>
 		<value>Nome del formato dell'attributo 3 in russo</value>
 	</data>
 	<data name="cpWorkPlace" xml:space="preserve">
-		<value>ufficio</value>
+		<value>Ufficio</value>
 	</data>
 	<data name="cpWorkSpace" xml:space="preserve">
 		<value>Luogo di lavoro</value>
@@ -2541,7 +2541,7 @@ unità</value>
 		<value>Messaggero</value>
 	</data>
 	<data name="DossierEmployeeInfo_Position" xml:space="preserve">
-		<value>ufficio</value>
+		<value>Ufficio</value>
 	</data>
 	<data name="errContacts1" xml:space="preserve">
 		<value>La chiamata non può essere stabilita da questo telefono.</value>
@@ -2565,10 +2565,10 @@ unità</value>
 		<value>euro</value>
 	</data>
 	<data name="iPTypeQuarter" xml:space="preserve">
-		<value>quarto</value>
+		<value>Quarto</value>
 	</data>
 	<data name="lbChenged" xml:space="preserve">
-		<value>cambiato</value>
+		<value>Cambiato</value>
 	</data>
 	<data name="lblAttributeFormat" xml:space="preserve">
 		<value>Maschera formato attributi</value>
@@ -2580,7 +2580,7 @@ unità</value>
 		<value>Catalogo(i)</value>
 	</data>
 	<data name="lblChanged" xml:space="preserve">
-		<value>cambiato</value>
+		<value>Cambiato</value>
 	</data>
 	<data name="lblCityCode" xml:space="preserve">
 		<value>Area/prefisso</value>
@@ -2604,13 +2604,13 @@ unità</value>
 		<value>Cerca persone</value>
 	</data>
 	<data name="lblForPosition" xml:space="preserve">
-		<value>ufficio</value>
+		<value>Ufficio</value>
 	</data>
 	<data name="lblIndex" xml:space="preserve">
-		<value>indice</value>
+		<value>Indice</value>
 	</data>
 	<data name="lblItogo" xml:space="preserve">
-		<value>in totale</value>
+		<value>In totale</value>
 	</data>
 	<data name="lblItogoClaim" xml:space="preserve">
 		<value>Totale per pritenziyam</value>
@@ -2628,13 +2628,13 @@ unità</value>
 		<value>Breve nome dell'azienda</value>
 	</data>
 	<data name="lblKurator" xml:space="preserve">
-		<value>curatore</value>
+		<value>Curatore</value>
 	</data>
 	<data name="lblLocalNumber" xml:space="preserve">
 		<value>Numero locale</value>
 	</data>
 	<data name="lblNaturalSexF" xml:space="preserve">
-		<value>femminile</value>
+		<value>Femminile</value>
 	</data>
 	<data name="lblNaturalWorkPlaces" xml:space="preserve">
 		<value>Luoghi di lavoro</value>
@@ -2664,7 +2664,7 @@ unità</value>
 		<value>Parte variabile del documento:</value>
 	</data>
 	<data name="lEnd" xml:space="preserve">
-		<value>completo</value>
+		<value>Completo</value>
 	</data>
 	<data name="lFilterCompany" xml:space="preserve">
 		<value>La compagnia</value>
@@ -2700,7 +2700,7 @@ unità</value>
 		<value>Numero di documento corretto</value>
 	</data>
 	<data name="msgDocs" xml:space="preserve">
-		<value>documentazione</value>
+		<value>Documentazione</value>
 	</data>
 	<data name="msgEditAttributeConfirm" xml:space="preserve">
 		<value>Cambia questo attributo cambierà la data di fine dell'attributo successivo da</value>
@@ -2742,7 +2742,7 @@ unità</value>
 		<value>copechi</value>
 	</data>
 	<data name="sCode" xml:space="preserve">
-		<value>codice</value>
+		<value>Codice</value>
 	</data>
 	<data name="ClearAllDoc" xml:space="preserve">
 		<value>Vuoi cancellare tutti i dati del documento?</value>
@@ -2751,7 +2751,7 @@ unità</value>
 		<value>Aggiungi all'account</value>
 	</data>
 	<data name="CONFIRM_StdCaptionYes" xml:space="preserve">
-		<value>sì</value>
+		<value>Sì</value>
 	</data>
 	<data name="CONFIRM_StdMessage" xml:space="preserve">
 		<value>Sei sicuro di voler cancellare questa voce?</value>
@@ -2787,7 +2787,7 @@ unità</value>
 		<value>ospite sulla carta ospite</value>
 	</data>
 	<data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
-		<value>Decreto(vacanza)</value>
+		<value>decreto(vacanza)</value>
 	</data>
 	<data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
 		<value>ospite personale</value>
@@ -2808,19 +2808,19 @@ unità</value>
 		<value>Specifica dell'orario di lavoro</value>
 	</data>
 	<data name="iPTypeDay" xml:space="preserve">
-		<value>giorno</value>
+		<value>Giorno</value>
 	</data>
 	<data name="iPTypeYear" xml:space="preserve">
-		<value>anno</value>
+		<value>Anno</value>
 	</data>
 	<data name="lblAdd" xml:space="preserve">
-		<value>aggiungere</value>
+		<value>Aggiungere</value>
 	</data>
 	<data name="lblAddition" xml:space="preserve">
-		<value>aggiunta</value>
+		<value>Aggiunta</value>
 	</data>
 	<data name="lblAdditional" xml:space="preserve">
-		<value>addizionale</value>
+		<value>Addizionale</value>
 	</data>
 	<data name="lblAddToPerson" xml:space="preserve">
 		<value>Aggiungi persona</value>
@@ -2829,7 +2829,7 @@ unità</value>
 		<value>scegli i documenti di pagamento</value>
 	</data>
 	<data name="lblCity" xml:space="preserve">
-		<value>città</value>
+		<value>Città</value>
 	</data>
 	<data name="lblDateDue" xml:space="preserve">
 		<value>Data di pagamento</value>
@@ -2853,10 +2853,10 @@ unità</value>
 		<value>La data di pagamento non è specificata</value>
 	</data>
 	<data name="lblGO" xml:space="preserve">
-		<value>mittente</value>
+		<value>Mittente</value>
 	</data>
 	<data name="lblGP" xml:space="preserve">
-		<value>destinatario</value>
+		<value>Destinatario</value>
 	</data>
 	<data name="lblJuridicalGovermentCompany" xml:space="preserve">
 		<value>Organizzazione statale</value>
@@ -2955,7 +2955,7 @@ Vuoi continuare?</value>
 		<value>Data del documento</value>
 	</data>
 	<data name="ppFltДоговор" xml:space="preserve">
-		<value>accordo</value>
+		<value>Accordo</value>
 	</data>
 	<data name="ppLblTitle" xml:space="preserve">
 		<value>Selezione dei documenti di pagamento</value>
@@ -2964,7 +2964,7 @@ Vuoi continuare?</value>
 		<value>Sei sicuro di voler cancellare la firma del documento?</value>
 	</data>
 	<data name="QSBtnYes" xml:space="preserve">
-		<value>sì</value>
+		<value>Sì</value>
 	</data>
 	<data name="QSMsg2" xml:space="preserve">
 		<value>La data della modifica del documento è più lunga della data della modifica del documento corrente! Ricostruisci il testo del documento?</value>
@@ -3102,7 +3102,7 @@ Vuoi continuare?</value>
 		<value>Dichiarazione doganale</value>
 	</data>
 	<data name="lblEquivalent" xml:space="preserve">
-		<value>equivalente</value>
+		<value>Equivalente</value>
 	</data>
 	<data name="TTN_lblUnitsSelect" xml:space="preserve">
 		<value>Seleziona unità. rev.</value>
@@ -3150,10 +3150,10 @@ Vuoi continuare?</value>
 		<value>Scelta del tipo di calcolo</value>
 	</data>
 	<data name="QSBtnRecalc" xml:space="preserve">
-		<value>ricalcolo</value>
+		<value>Ricalcolo</value>
 	</data>
 	<data name="QSBtnChange" xml:space="preserve">
-		<value>cambiamento</value>
+		<value>Cambiamento</value>
 	</data>
 	<data name="TTN_msgOKInfo" xml:space="preserve">
 		<value>per cambiare e ricalcolare i valori correlati</value>
@@ -3168,7 +3168,7 @@ Vuoi continuare?</value>
 		<value>forzare un cambio di valore senza ricontestualizzarlo</value>
 	</data>
 	<data name="lblService" xml:space="preserve">
-		<value>servizio</value>
+		<value>Servizio</value>
 	</data>
 	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
 		<value>Seleziona un tipo di allocazione</value>
@@ -3198,7 +3198,7 @@ Vuoi continuare?</value>
 		<value>I servizi</value>
 	</data>
 	<data name="lblWait" xml:space="preserve">
-		<value>aspettare</value>
+		<value>Aspettare</value>
 	</data>
 	<data name="TTN_FactUslTitle" xml:space="preserve">
 		<value>Lavoro svolto / servizi forniti</value>
@@ -3234,19 +3234,19 @@ Vuoi continuare?</value>
 		<value>Documenti di fondazione</value>
 	</data>
 	<data name="TTN_lblSectionCurator" xml:space="preserve">
-		<value>curatore</value>
+		<value>Curatore</value>
 	</data>
 	<data name="TTN_lblSectionGO" xml:space="preserve">
-		<value>mittente</value>
+		<value>Mittente</value>
 	</data>
 	<data name="TTN_lblSectionGP" xml:space="preserve">
-		<value>destinatario</value>
+		<value>Destinatario</value>
 	</data>
 	<data name="TTN_lblSectionShipper" xml:space="preserve">
-		<value>fornitore</value>
+		<value>Fornitore</value>
 	</data>
 	<data name="TTN_lblSectionPayer" xml:space="preserve">
-		<value>pagatore</value>
+		<value>Pagatore</value>
 	</data>
 	<data name="TTN_lblSectionGoToShipper" xml:space="preserve">
 		<value>In coincidenza con il mittente:</value>
@@ -3255,7 +3255,7 @@ Vuoi continuare?</value>
 		<value>Coincide con il destinatario:</value>
 	</data>
 	<data name="TTN_lblSectionResource" xml:space="preserve">
-		<value>merce</value>
+		<value>Merce</value>
 	</data>
 	<data name="TTN_lblSectionServices" xml:space="preserve">
 		<value>I servizi</value>
@@ -3264,7 +3264,7 @@ Vuoi continuare?</value>
 		<value>Servizi di trasporto</value>
 	</data>
 	<data name="TTN_lblSectionRequiredInfo" xml:space="preserve">
-		<value>no</value>
+		<value>No</value>
 	</data>
 	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
 		<value>l'indirizzo non corrisponde al mittente</value>
@@ -3561,7 +3561,7 @@ Vuoi continuare?</value>
 		<value>OR</value>
 	</data>
 	<data name="lANDUp" xml:space="preserve">
-		<value>e</value>
+		<value>E</value>
 	</data>
 	<data name="lEmpty" xml:space="preserve">
 		<value>vuoto</value>
@@ -3586,7 +3586,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Prezzo</value>
 	</data>
 	<data name="TTN_lblProductKits" xml:space="preserve">
-		<value>kit di prodotti</value>
+		<value>Kit di prodotti</value>
 	</data>
 	<data name="TTN_lblSetCost" xml:space="preserve">
 		<value>Un insieme di costi a magazzino</value>
@@ -3724,7 +3724,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>continua a modificare</value>
 	</data>
 	<data name="TTN_lblType" xml:space="preserve">
-		<value>tipo</value>
+		<value>Tipo</value>
 	</data>
 	<data name="TTN_lblSteward" xml:space="preserve">
 		<value>Direttore</value>
@@ -3985,7 +3985,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>L'oggetto "Movimento di mezzi monetari" non è inizializzato. Riapri la posizione modificata.</value>
 	</data>
 	<data name="lblGridAdd" xml:space="preserve">
-		<value>aggiungere</value>
+		<value>Aggiungere</value>
 	</data>
 	<data name="Cfi_msgIdDubl" xml:space="preserve">
 		<value>C'è già una voce con questo codice.</value>
@@ -4321,7 +4321,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Sei sicuro di voler cancellare questa voce?</value>
 	</data>
 	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
-		<value>L'email non è corretta</value>
+		<value>l'email non è corretta</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
 		<value>per questo dipendente per questo lavoro esiste già</value>
@@ -4447,7 +4447,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Il documento è stato salvato in modo errato</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
-		<value>L'e-mail non è corretta.</value>
+		<value>l'e-mail non è corretta.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
 		<value>tale e-mail esiste già</value>
@@ -4483,7 +4483,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Non specificato orario di arrivo del dipendente al lavoro!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
-		<value>Posto di lavoro dipendente non specificato.</value>
+		<value>posto di lavoro dipendente non specificato.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
 		<value>In ritardo non è indicato - verbale esplicativo per il gestore!</value>
@@ -4519,16 +4519,16 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Confermo</value>
 	</data>
 	<data name="DIRECTIONS_Pos_BtnCancel" xml:space="preserve">
-		<value>cancellazione</value>
+		<value>Cancellazione</value>
 	</data>
 	<data name="DIRECTIONS_Pos_BtnDel" xml:space="preserve">
-		<value>cancellare</value>
+		<value>Cancellare</value>
 	</data>
 	<data name="DIRECTIONS_Pos_BtnSave" xml:space="preserve">
 		<value>conservare</value>
 	</data>
 	<data name="DIRECTIONS_Pos_Catalog" xml:space="preserve">
-		<value>catalogo:</value>
+		<value>Catalogo:</value>
 	</data>
 	<data name="DIRECTIONS_Pos_CatalogChange1" xml:space="preserve">
 		<value>Attenzione: \ n Hai cambiato (aggiunto una nuova voce) l'accesso ai tipi di persone nella directory</value>
@@ -4540,7 +4540,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Sei sicuro di voler cancellare questa voce?</value>
 	</data>
 	<data name="DIRECTIONS_Pos_Empl" xml:space="preserve">
-		<value>dipendente:</value>
+		<value>Dipendente:</value>
 	</data>
 	<data name="DIRECTIONS_Pos_EmplTypes" xml:space="preserve">
 		<value>Accesso dei dipendenti a tipi di persone</value>
@@ -4585,10 +4585,10 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>--tutti i tipi--</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
-		<value>elenco</value>
+		<value>Elenco</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_Company" xml:space="preserve">
-		<value>società</value>
+		<value>Società</value>
 	</data>
 	<data name="DIRECTIONS_Rnd_TypePerson" xml:space="preserve">
 		<value>Tipo di viso</value>
@@ -4785,7 +4785,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Attrezzatura</value>
 	</data>
 	<data name="Users_lblPhoto" xml:space="preserve">
-		<value>fotografie</value>
+		<value>Fotografie</value>
 	</data>
 	<data name="Users_lblCountryOfRegistration" xml:space="preserve">
 		<value>Paese di registrazione</value>
@@ -4896,7 +4896,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>un computer portatile</value>
 	</data>
 	<data name="DIRECTIONS_Field_AEAccess_Login" xml:space="preserve">
-		<value>accesso</value>
+		<value>Accesso</value>
 	</data>
 	<data name="DIRECTIONS_Field_AccessData" xml:space="preserve">
 		<value>Accesso ai dati necessari per il dipendente a lavorare</value>
@@ -5254,13 +5254,13 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Devi abilitare l'account, perché il dipendente non è ancora stato licenziato</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>login non corrisponde al nome del dipendente</value>
+		<value>l'accesso non termina con il nome dell'impiegato</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>Il login deve contenere il nome del dipendente</value>
+		<value>L'accesso deve terminare con il nome dell'impiegato. Devi specificare un login diverso.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>L'e-mail non corrisponde al nome del dipendente</value>
+		<value>l'e-mail non corrisponde al nome e cognome dell'impiegato</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
 		<value>Il nome della casella di posta elettronica deve consistere in una combinazione del nome e del cognome del dipendente</value>
@@ -5270,5 +5270,161 @@ Innanzitutto, elimina la fattura risultante.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
 		<value>Il dominio delle cassette postali non corrisponde al dominio aziendale del dipendente. Devi selezionare un dominio diverso.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>l'impiegato {0} ha un'e-mail {1}</value>
+	</data>
+	<data name="TTN_btnViewPosition" xml:space="preserve">
+		<value>visualizza oggetto</value>
+	</data>
+	<data name="Inv_lblFileUploaded" xml:space="preserve">
+		<value>File caricato</value>
+	</data>
+	<data name="Inv_lblBrowseFile" xml:space="preserve">
+		<value>Navigare</value>
+	</data>
+	<data name="Inv_lblUploadFile" xml:space="preserve">
+		<value>Caricare</value>
+	</data>
+	<data name="Inv_msgFileSizeExceeded" xml:space="preserve">
+		<value>Dimensione del file superata</value>
+	</data>
+	<data name="Inv_msgInvalidFileFormat" xml:space="preserve">
+		<value>Formato file non valido</value>
+	</data>
+	<data name="Inv_msgNoFileSelected" xml:space="preserve">
+		<value>Nessun file selezionato</value>
+	</data>
+	<data name="Inv_lblFilePath" xml:space="preserve">
+		<value>Percorso del file</value>
+	</data>
+	<data name="Inv_lblTemplateUploading" xml:space="preserve">
+		<value>Caricamento modello</value>
+	</data>
+	<data name="lblLocationFrom" xml:space="preserve">
+		<value>a</value>
+	</data>
+	<data name="lblLocationTo" xml:space="preserve">
+		<value>dopo</value>
+	</data>
+	<data name="Users_lblMoveEquipment" xml:space="preserve">
+		<value>Sposta attrezzatura</value>
+	</data>
+	<data name="Users_lblWorkplaceChange" xml:space="preserve">
+		<value>Cambio sul posto di lavoro</value>
+	</data>
+	<data name="Users_EmployeeEquipmentMove" xml:space="preserve">
+		<value>Spostamento delle attrezzature dei dipendenti</value>
+	</data>
+	<data name="Users_msgSetWorkPlaceToGroup" xml:space="preserve">
+		<value>Stai tentando di assegnare al gruppo {0} una workstation in cui il gruppo {1} sta già funzionando. Questa operazione non è possibile!</value>
+	</data>
+	<data name="Users_msgNoGroupEmployeeOnWorkPlace" xml:space="preserve">
+		<value>I dipendenti che non sono membri del gruppo {0} lavorano sul posto di lavoro. Confermi che i dipendenti {1} sono membri del team di turno {0}?</value>
+	</data>
+	<data name="Users_msgSetGroupEmployeeOnShifts" xml:space="preserve">
+		<value>{0} è un membro del gruppo {1}, ma lo rimuovi dalla stazione di lavoro del gruppo e lo assegni al posto di lavoro dove {2} lavora a turni. Confermi che {0} non è un membro del gruppo {1} e lavora a turni con {2}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOn2Group" xml:space="preserve">
+		<value>{0} è un membro del gruppo {1}, ma assegni il gruppo {2} al posto di lavoro. Un dipendente non può essere contemporaneamente membro di due gruppi di turni.</value>
+	</data>
+	<data name="Users_msgChangeGroupEmployee" xml:space="preserve">
+		<value>{0} è un membro del gruppo {1}, ma lo rimuovi dalla workstation del gruppo e lo assegni al posto di lavoro del gruppo {2}. Confermi che {0} non è un membro del gruppo {1} ed è un membro del gruppo {2}?</value>
+	</data>
+	<data name="Users_msgRemoveEmployeeFromGroup" xml:space="preserve">
+		<value>{0} è un membro del gruppo {1}, ma lo stai rimuovendo dal posto di lavoro del gruppo. Stai confermando che {0} non è più un membro del gruppo {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnShift" xml:space="preserve">
+		<value>Si assegna {0} alla workstation in cui {1} lavora a turni. Confermi che {0} funziona a turni da {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnGroup" xml:space="preserve">
+		<value>Assegni {0} al posto di lavoro del gruppo {1}. Confermi che {0} è un membro del gruppo {1}?</value>
+	</data>
+	<data name="Users_lblSelectWorkplaceToSave" xml:space="preserve">
+		<value>Per salvare, è necessario selezionare un posto di lavoro.</value>
+	</data>
+	<data name="Users_msgConfirmDelete" xml:space="preserve">
+		<value>Conferma la rimozione.</value>
+	</data>
+	<data name="Users_NoLocationSource" xml:space="preserve">
+		<value>Codice sorgente posizione non passato</value>
+	</data>
+	<data name="Users_NoEmployee" xml:space="preserve">
+		<value>Codice dipendente non passato</value>
+	</data>
+	<data name="Users_NoEmployeeDestination" xml:space="preserve">
+		<value>Nuovo codice di posizione non passato</value>
+	</data>
+	<data name="Users_lblEquipmentMovedToNewWorkplace" xml:space="preserve">
+		<value>Le attrezzature si sono trasferite in un nuovo posto di lavoro:</value>
+	</data>
+	<data name="Users_lblModele" xml:space="preserve">
+		<value>Modello</value>
+	</data>
+	<data name="Users_lblEquipmentEmployeeAtNewWorkplace" xml:space="preserve">
+		<value>Attrezzature rilasciate a un dipendente in un nuovo posto di lavoro:</value>
+	</data>
+	<data name="Users_lblPreviousResponsible" xml:space="preserve">
+		<value>Responsabile precedente</value>
+	</data>
+	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
+		<value>Elimina un posto di lavoro e chiudi il modulo</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>trasferirsi in un altro posto di lavoro in ufficio</value>
+	</data>
+	<data name="TTN_msgMinTimeLike" xml:space="preserve">
+		<value>Il tempo minimo di rivalutazione ({0} min.) non è scaduto.</value>
+	</data>
+	<data name="Inv_lblAbonentNumber" xml:space="preserve">
+		<value>Numero abbonato</value>
+	</data>
+	<data name="Inv_lblAbonentFIO" xml:space="preserve">
+		<value>Nome dell'abbonato</value>
+	</data>
+	<data name="Inv_lblEmail" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="Inv_lblAbonentStatus" xml:space="preserve">
+		<value>Stato dell'abbonato</value>
+	</data>
+	<data name="Inv_lblStatusChangeDate" xml:space="preserve">
+		<value>Data dell'ultimo cambio di stato</value>
+	</data>
+	<data name="Inv_lblChangeReason" xml:space="preserve">
+		<value>Motivo dell'ultima modifica</value>
+	</data>
+	<data name="Inv_lblServiceDescription" xml:space="preserve">
+		<value>Descrizione del servizio del piano tariffario</value>
+	</data>
+	<data name="Inv_lblEndDate" xml:space="preserve">
+		<value>Data di scadenza</value>
+	</data>
+	<data name="Inv_lblStatrDate" xml:space="preserve">
+		<value>Data di inizio dell'azione</value>
+	</data>
+	<data name="Inv_lblServiceCode" xml:space="preserve">
+		<value>Codice di servizio del piano tariffario</value>
+	</data>
+	<data name="Inv_lblActivationDate" xml:space="preserve">
+		<value>Data di attivazione dell'abbonato</value>
+	</data>
+	<data name="Inv_lblCostInMonth" xml:space="preserve">
+		<value>Costo al mese</value>
+	</data>
+	<data name="Inv_lblContractCode" xml:space="preserve">
+		<value>Codice del contratto</value>
+	</data>
+	<data name="Inv_lblLoadProviderServices" xml:space="preserve">
+		<value>Scarica altri servizi Beeline</value>
+	</data>
+	<data name="Inv_lblCostInDay" xml:space="preserve">
+		<value>Costo al giorno</value>
+	</data>
+	<data name="Inv_lblCostInclusion" xml:space="preserve">
+		<value>Costo dell'inclusione</value>
+	</data>
+	<data name="Inv_lblGigInMonth" xml:space="preserve">
+		<value>Gigabyte al mese</value>
 	</data>
 </root>

@@ -995,7 +995,7 @@
     <value>Базис поставки</value>
   </data>
 	<data name="lblBasisName" xml:space="preserve">
-    <value>c</value>
+    <value>С</value>
   </data>
 	<data name="lblBillLading" xml:space="preserve">
     <value>Коносамент</value>
@@ -3073,7 +3073,7 @@
     <value>склад не соответствует плательщику</value>
   </data>
 	<data name="TTN_ntfRussianNameNotMatchProduct" xml:space="preserve">
-    <value>русское название не соответствует товару</value>
+    <value>Pусское название не соответствует товару</value>
   </data>
 	<data name="msgIN" xml:space="preserve">
     <value>в</value>
@@ -4670,10 +4670,10 @@
 		<value>Не удалось получить название всех типов лица!</value>
 	</data>
 	<data name="lb_Like" xml:space="preserve">
-		<value>Мне нравится внешний вид и функционал данной формы</value>
+		<value>Мне нравится внешний вид и функционал формы</value>
 	</data>
 	<data name="lb_NotLike" xml:space="preserve">
-		<value>Мне не нравится внешний вид и функционал данной формы</value>
+		<value>Мне не нравится внешний вид и функционал формы</value>
 	</data>
 	<data name="lblSort" xml:space="preserve">
 		<value>Сортировка</value>
@@ -5253,13 +5253,13 @@
 		<value>Необходимо включить учетную запись, т.к. сорудник еще не уволен</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>логин не соответствует фамилии сотрудника</value>
+		<value>логин не заканчивается фамилией сотрудника</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>Логин должен содержать фамилию сотрудника</value>
+		<value>Логин должен заканчиваться фамилией сотрудника</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>е-mail не соответствует имени сотрудника</value>
+		<value>е-mail не соответствует имени и фамилии сотрудника</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
 		<value>Название почтового ящика должно состоять из комбинации имени и фамилии сотрудника</value>
@@ -5269,5 +5269,161 @@
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
 		<value>Домен почтового ящика не соответствует домену компании сотрудника. Необходимо выбрать другой домен</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>у сотрудника {0}существует e-mail {1}</value>
+	</data>
+	<data name="TTN_btnViewPosition" xml:space="preserve">
+		<value>просмотр позиции</value>
+	</data>
+	<data name="Inv_lblFileUploaded" xml:space="preserve">
+		<value>Файл загружен</value>
+	</data>
+	<data name="Inv_lblBrowseFile" xml:space="preserve">
+		<value>Обзор</value>
+	</data>
+	<data name="Inv_lblUploadFile" xml:space="preserve">
+		<value>Загрузить</value>
+	</data>
+	<data name="Inv_msgFileSizeExceeded" xml:space="preserve">
+		<value>Превышен размер файла</value>
+	</data>
+	<data name="Inv_msgInvalidFileFormat" xml:space="preserve">
+		<value>Неверный формат файла</value>
+	</data>
+	<data name="Inv_msgNoFileSelected" xml:space="preserve">
+		<value>Файл не выбран</value>
+	</data>
+	<data name="Inv_lblFilePath" xml:space="preserve">
+		<value>Путь к фалу</value>
+	</data>
+	<data name="Inv_lblTemplateUploading" xml:space="preserve">
+		<value>Загрузка шаблона</value>
+	</data>
+	<data name="lblLocationFrom" xml:space="preserve">
+		<value>до</value>
+	</data>
+	<data name="lblLocationTo" xml:space="preserve">
+		<value>после</value>
+	</data>
+	<data name="Users_lblMoveEquipment" xml:space="preserve">
+		<value>Переместить оборудование</value>
+	</data>
+	<data name="Users_lblWorkplaceChange" xml:space="preserve">
+		<value>Изменение рабочего места</value>
+	</data>
+	<data name="Users_EmployeeEquipmentMove" xml:space="preserve">
+		<value>Перемещение оборудования сотрудника</value>
+	</data>
+	<data name="Users_msgSetWorkPlaceToGroup" xml:space="preserve">
+		<value>Вы пытаетесь назначить группе {0} рабочее место, на котором уже работает группа {1}. Выполнить данную операцию невозможно!</value>
+	</data>
+	<data name="Users_msgNoGroupEmployeeOnWorkPlace" xml:space="preserve">
+		<value>На рабочем месте работают сотрудники, которые не являются членами группы {0}. Вы подтверждаете, что сотрудники {1} являются членами группы посменной работы {0}?</value>
+	</data>
+	<data name="Users_msgSetGroupEmployeeOnShifts" xml:space="preserve">
+		<value>{0} является членом группы {1}, но вы снимаете его с рабочего места группы, и назначаете на рабочее место, на котором посменно работают {2}. Вы подтверждаете, что {0} не является членом группы {1} и работает посменно с {2}</value>
+	</data>
+	<data name="Users_msgSetEmployeeOn2Group" xml:space="preserve">
+		<value>{0} является членом группы {1}, но вы назначаете на рабочее место группы {2}. Сотрудник не может одновременно быть членом двух групп посменной работы.</value>
+	</data>
+	<data name="Users_msgChangeGroupEmployee" xml:space="preserve">
+		<value>{0} является членом группы {1}, но вы снимаете его с рабочего места группы, и назначаете на рабочее место группы {2}. Вы подтверждаете, что {0} не является членом группы {1} и является членом группы {2}?</value>
+	</data>
+	<data name="Users_msgRemoveEmployeeFromGroup" xml:space="preserve">
+		<value>{0} является членом группы {1}, но вы снимаете его с рабочего места группы. Вы подтверждаете, что {0} больше не вляется членом группы {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnShift" xml:space="preserve">
+		<value>Вы назначаете {0} на рабочее место, на котором посменно работают {1}. Вы подтверждаете, что {0} работает посменно с {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnGroup" xml:space="preserve">
+		<value>Вы назначаете {0} на рабочее место группы {1}. Вы подтверждаете, что {0} является членом группы {1}?</value>
+	</data>
+	<data name="Users_lblSelectWorkplaceToSave" xml:space="preserve">
+		<value>Для сохранения необходимо выбрать рабочее место.</value>
+	</data>
+	<data name="Users_msgConfirmDelete" xml:space="preserve">
+		<value>Подтвердите удаление.</value>
+	</data>
+	<data name="Users_NoLocationSource" xml:space="preserve">
+		<value>Не передан исходный код расположения</value>
+	</data>
+	<data name="Users_NoEmployee" xml:space="preserve">
+		<value>Не передан код сотрудника</value>
+	</data>
+	<data name="Users_NoEmployeeDestination" xml:space="preserve">
+		<value>Не передан новый код расположения</value>
+	</data>
+	<data name="Users_lblEquipmentMovedToNewWorkplace" xml:space="preserve">
+		<value>Оборудование, перемещаемое на новое рабочее место:</value>
+	</data>
+	<data name="Users_lblModele" xml:space="preserve">
+		<value>Модель</value>
+	</data>
+	<data name="Users_lblEquipmentEmployeeAtNewWorkplace" xml:space="preserve">
+		<value>Оборудование, выдаваемое сотруднику на новом рабочем месте:</value>
+	</data>
+	<data name="Users_lblPreviousResponsible" xml:space="preserve">
+		<value>Предыдущий ответственный</value>
+	</data>
+	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
+		<value>Удалить рабочее место и закрыть форму</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>переезд на другое рабочее место в офисе</value>
+	</data>
+	<data name="TTN_msgMinTimeLike" xml:space="preserve">
+		<value>Минимальное время повторной оценки ({0} мин.) не истекло.</value>
+	</data>
+	<data name="Inv_lblAbonentNumber" xml:space="preserve">
+		<value>Номер абонента</value>
+	</data>
+	<data name="Inv_lblAbonentFIO" xml:space="preserve">
+		<value>ФИО абонента</value>
+	</data>
+	<data name="Inv_lblEmail" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="Inv_lblAbonentStatus" xml:space="preserve">
+		<value>Статус абонента</value>
+	</data>
+	<data name="Inv_lblStatusChangeDate" xml:space="preserve">
+		<value>Дата последнего изменения статуса</value>
+	</data>
+	<data name="Inv_lblChangeReason" xml:space="preserve">
+		<value>Причина последнего изменения</value>
+	</data>
+	<data name="Inv_lblServiceDescription" xml:space="preserve">
+		<value>Описание услуги тарифного плана</value>
+	</data>
+	<data name="Inv_lblEndDate" xml:space="preserve">
+		<value>Дата окончания действия</value>
+	</data>
+	<data name="Inv_lblStatrDate" xml:space="preserve">
+		<value>Дата начала действия</value>
+	</data>
+	<data name="Inv_lblServiceCode" xml:space="preserve">
+		<value>Код услуги тарифного плана</value>
+	</data>
+	<data name="Inv_lblActivationDate" xml:space="preserve">
+		<value>Дата активации абонента</value>
+	</data>
+	<data name="Inv_lblCostInMonth" xml:space="preserve">
+		<value>Стоимость в месяц</value>
+	</data>
+	<data name="Inv_lblContractCode" xml:space="preserve">
+		<value>Код договора</value>
+	</data>
+	<data name="Inv_lblLoadProviderServices" xml:space="preserve">
+		<value>Загрузка доп. услуг билайн</value>
+	</data>
+	<data name="Inv_lblCostInDay" xml:space="preserve">
+		<value>Стоимость в день</value>
+	</data>
+	<data name="Inv_lblCostInclusion" xml:space="preserve">
+		<value>Стоимость включения</value>
+	</data>
+	<data name="Inv_lblGigInMonth" xml:space="preserve">
+		<value>Гигабайт в месяц</value>
 	</data>
 </root>

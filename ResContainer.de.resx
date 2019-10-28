@@ -181,10 +181,10 @@
     <value>Datum ist bereits übergeben </value>
   </data>
 	<data name="Vacation_NtfDateLessThatDateDoc" xml:space="preserve">
-    <value>Das Datum ist kleiner als das Dokumentdatum </value>
+    <value>das Datum ist kleiner als das Dokumentdatum </value>
   </data>
 	<data name="Vacation_NtfDatesAreNotValid" xml:space="preserve">
-    <value>Das Enddatum des Urlaubs darf nicht kleiner sein als das Startdatum des Urlaubs.</value>
+    <value>das Enddatum des Urlaubs darf nicht kleiner sein als das Startdatum des Urlaubs.</value>
   </data>
 	<data name="Vacation_NtfNoFirstSign" xml:space="preserve">
     <value>hat nicht das Recht auf die erste Signatur in der angegebenen Organisation</value>
@@ -193,13 +193,13 @@
     <value>existiert nicht am Dokumentdatum </value>
   </data>
 	<data name="Vacation_NtfPersonIsNotAvailable" xml:space="preserve">
-    <value>Eine Person ist nicht verfügbar </value>
+    <value>eine Person ist nicht verfügbar </value>
   </data>
 	<data name="Vacation_NtfWorkStaff" xml:space="preserve">
     <value>entspricht nicht dem Personaleinsatzplan der angegebenen Organisation</value>
   </data>
 	<data name="Vacation_SubDoc" xml:space="preserve">
-    <value>Dokument {0} von {1} </value>
+    <value>dokument {0} von {1} </value>
   </data>
 	<data name="Vacation_SubDates" xml:space="preserve">
     <value>von {0} bis {1} </value>
@@ -398,7 +398,7 @@
 		<value>Durchsuche</value>
 	</data>
 	<data name="lblEditable" xml:space="preserve">
-		<value>Änderungen</value>
+		<value>änderungen</value>
 	</data>
 	<data name="COMET_Title" xml:space="preserve">
 		<value>Informationen zur Zusammenarbeit</value>
@@ -425,7 +425,7 @@
 		<value>milliarden</value>
 	</data>
 	<data name="_Msg_СчетНеПоПриложению" xml:space="preserve">
-		<value>Das Bankkonto entspricht nicht dem Konto in der Anwendung</value>
+		<value>das Bankkonto entspricht nicht dem Konto in der Anwendung</value>
 	</data>
 	<data name="_Msg_СчетПокупателя" xml:space="preserve">
 		<value>das Bankkonto stimmt nicht mit dem käufer überein</value>
@@ -434,7 +434,7 @@
 		<value>bankkonto stimmt nicht mit dem Verkäufer überein</value>
 	</data>
 	<data name="_Msg_СчетРеквизитыБанка" xml:space="preserve">
-		<value>Die Bank verfügt nicht über die Voraussetzungen für {0}</value>
+		<value>die Bank verfügt nicht über die Voraussetzungen für {0}</value>
 	</data>
 	<data name="_Msg_ТекстИзменен" xml:space="preserve">
 		<value>Der Text des Dokuments wurde geändert! Aufschreiben?</value>
@@ -449,10 +449,10 @@
 		<value>Gesamtzeit der pausen</value>
 	</data>
 	<data name="_Msg_ОснованиеПокупательАдрес" xml:space="preserve">
-		<value>Die Adresse der Person stimmt nicht mit der Adresse des Käufers im Dokument überein</value>
+		<value>die Adresse der Person stimmt nicht mit der Adresse des Käufers im Dokument überein</value>
 	</data>
 	<data name="_Msg_ОснованиеПродавец" xml:space="preserve">
-		<value>Die Person entspricht nicht dem Verkäufer in dem Dokument</value>
+		<value>die Person entspricht nicht dem Verkäufer in dem Dokument</value>
 	</data>
 	<data name="_Msg_ОснованиеПродавецАдрес" xml:space="preserve">
 		<value>die Adresse der Person stimmt nicht mit der Adresse des Verkäufers im Internet überein</value>
@@ -497,37 +497,37 @@
 		<value>Die Summe der Mehrwertsteuer muss größer oder gleich 0 sein</value>
 	</data>
 	<data name="_Msg_СчетSWIFTБанка" xml:space="preserve">
-		<value>Die Bank hat keine schnelle</value>
+		<value>die Bank hat keine schnelle</value>
 	</data>
 	<data name="_Msg_СчетБанкНеПроверен" xml:space="preserve">
-		<value>Bank nicht verifiziert</value>
+		<value>bank nicht verifiziert</value>
 	</data>
 	<data name="_Msg_СчетБИКБанка" xml:space="preserve">
-		<value>Die Bank hat kein Fahrrad</value>
+		<value>die Bank hat kein Fahrrad</value>
 	</data>
 	<data name="_Msg_СчетВалютаДокумента" xml:space="preserve">
-		<value>Die Währung des Bankkontos entspricht nicht der Dokumentwährung</value>
+		<value>die Währung des Bankkontos entspricht nicht der Dokumentwährung</value>
 	</data>
 	<data name="_Msg_СчетКСБанка" xml:space="preserve">
-		<value>Die Bank hat kein Bankkonto</value>
+		<value>die Bank hat kein Bankkonto</value>
 	</data>
 	<data name="_Msg_СчетНазваниеБанка" xml:space="preserve">
-		<value>Die Bank hat keinen kurzen Namen</value>
+		<value>die Bank hat keinen kurzen Namen</value>
 	</data>
 	<data name="_Msg_СчетНеБанк" xml:space="preserve">
-		<value>Die Person ist keine Bank</value>
+		<value>die Person ist keine Bank</value>
 	</data>
 	<data name="_Msg_СчетНеДействует" xml:space="preserve">
-		<value>Bankkonto ist nicht gültig</value>
+		<value>bankkonto ist nicht gültig</value>
 	</data>
 	<data name="_Msg_СчетНеДоступен" xml:space="preserve">
-		<value>Bankkonto ist nicht verfügbar</value>
+		<value>bankkonto ist nicht verfügbar</value>
 	</data>
 	<data name="_Msg_СчетНеПоДатеДоговора" xml:space="preserve">
 		<value>Die Laufzeit der Vereinbarung entspricht nicht dem Rechnungsdatum</value>
 	</data>
 	<data name="_Msg_СчетНеПоДоговору" xml:space="preserve">
-		<value>Das Bankkonto entspricht nicht dem Konto im Vertrag</value>
+		<value>das Bankkonto entspricht nicht dem Konto im Vertrag</value>
 	</data>
 	<data name="_Msg_ОснованиеНеДоступно" xml:space="preserve">
 		<value>Das Gründungsdokument ist nicht verfügbar!</value>
@@ -536,7 +536,7 @@
 		<value>Die Dokumentenbasis ist nicht in elektronischer Form</value>
 	</data>
 	<data name="_Msg_ОснованиеПокупатель" xml:space="preserve">
-		<value>Die Person entspricht nicht dem Käufer in dem Dokument</value>
+		<value>die Person entspricht nicht dem Käufer in dem Dokument</value>
 	</data>
 	<data name="lblNewMessage" xml:space="preserve">
 		<value>Eine neue Nachricht ist angekommen</value>
@@ -560,10 +560,10 @@
 		<value>Auf der Grundlage des vorherigen Dokuments ausfüllen?</value>
 	</data>
 	<data name="_Msg_ДоговорВалюта" xml:space="preserve">
-		<value>Die Zahlungswährung entspricht nicht der Zahlungswährung im Vertrag</value>
+		<value>die Zahlungswährung entspricht nicht der Zahlungswährung im Vertrag</value>
 	</data>
 	<data name="_Msg_ДокументНеДоступен" xml:space="preserve">
-		<value>Dokument ist nicht verfügbar</value>
+		<value>dokument ist nicht verfügbar</value>
 	</data>
 	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
 		<value>Das Dokument hat keine E-Mail. Formulare</value>
@@ -581,28 +581,28 @@
 		<value>keine Adresse angegeben</value>
 	</data>
 	<data name="_Msg_ЛицоАдресЮридический" xml:space="preserve">
-		<value>Die Person hat keine legale Adresse</value>
+		<value>die Person hat keine legale Adresse</value>
 	</data>
 	<data name="_Msg_ЛицоИНН" xml:space="preserve">
-		<value>Die Person hat kein INN</value>
+		<value>die Person hat kein INN</value>
 	</data>
 	<data name="_Msg_ЛицоКПП" xml:space="preserve">
-		<value>Die Person hat keinen Checkpoint</value>
+		<value>die Person hat keinen Checkpoint</value>
 	</data>
 	<data name="_Msg_ЛицоНазвание" xml:space="preserve">
-		<value>Die Person hat keinen kurzen Namen</value>
+		<value>die Person hat keinen kurzen Namen</value>
 	</data>
 	<data name="_Msg_ЛицоНеДоступно" xml:space="preserve">
-		<value>Person ist nicht verfügbar</value>
+		<value>person ist nicht verfügbar</value>
 	</data>
 	<data name="_Msg_ЛицоНеПроверено" xml:space="preserve">
-		<value>Person nicht verifiziert</value>
+		<value>person nicht verifiziert</value>
 	</data>
 	<data name="_Msg_ЛицоПолноеНазвание" xml:space="preserve">
-		<value>Die Person hat nicht den vollständigen Namen</value>
+		<value>die Person hat nicht den vollständigen Namen</value>
 	</data>
 	<data name="_Msg_ЛицоРеквизиты" xml:space="preserve">
-		<value>Die Person verfügt nicht über die Voraussetzungen für {0}</value>
+		<value>die Person verfügt nicht über die Voraussetzungen für {0}</value>
 	</data>
 	<data name="_Msg_НетВсего" xml:space="preserve">
 		<value>Das Feld 'Summe' ist leer</value>
@@ -614,40 +614,40 @@
 		<value>Kein Dokument gefunden.</value>
 	</data>
 	<data name="_Msg_ОснованиеВалюта" xml:space="preserve">
-		<value>Die Zahlungswährung entspricht nicht der Dokumentenwährung der Basis</value>
+		<value>die Zahlungswährung entspricht nicht der Dokumentenwährung der Basis</value>
 	</data>
 	<data name="_Msg_ОснованиеГО" xml:space="preserve">
-		<value>Person entspricht nicht dem Versender im Dokument</value>
+		<value>person entspricht nicht dem Versender im Dokument</value>
 	</data>
 	<data name="_Msg_ОснованиеГОРеквизиты" xml:space="preserve">
 		<value>die Anforderungen der Person entsprechen nicht den Anforderungen an den Versender in dem Dokument zu den Gründen</value>
 	</data>
 	<data name="_Msg_ОснованиеГП" xml:space="preserve">
-		<value>Person entspricht nicht dem Empfänger im Dokument</value>
+		<value>person entspricht nicht dem Empfänger im Dokument</value>
 	</data>
 	<data name="_Msg_ОснованиеГПРеквизиты" xml:space="preserve">
 		<value>die Anforderungen der Person entsprechen nicht den Anforderungen des Empfängers in dem Dokument zu den Gründen</value>
 	</data>
 	<data name="_Msg_ОснованиеЗаказчик" xml:space="preserve">
-		<value>Die Person entspricht nicht dem Kunden in dem Dokument</value>
+		<value>die Person entspricht nicht dem Kunden in dem Dokument</value>
 	</data>
 	<data name="_Msg_ОснованиеИсполнитель" xml:space="preserve">
-		<value>Die Person entspricht nicht dem Darsteller im Dokument</value>
+		<value>die Person entspricht nicht dem Darsteller im Dokument</value>
 	</data>
 	<data name="1000000000_2" xml:space="preserve">
-		<value>Milliarden</value>
+		<value>milliarden</value>
 	</data>
 	<data name="1000000000_5" xml:space="preserve">
-		<value>Milliarden</value>
+		<value>milliarden</value>
 	</data>
 	<data name="1000000_2" xml:space="preserve">
-		<value>Millionen</value>
+		<value>millionen</value>
 	</data>
 	<data name="1000000_5" xml:space="preserve">
-		<value>Millionen</value>
+		<value>millionen</value>
 	</data>
 	<data name="1000_2" xml:space="preserve">
-		<value>Tausende von</value>
+		<value>tausende von</value>
 	</data>
 	<data name="1000_5" xml:space="preserve">
 		<value>Tausend</value>
@@ -719,7 +719,7 @@
 		<value>Kilobyte</value>
 	</data>
 	<data name="TMD_TblColumn8" xml:space="preserve">
-		<value>Mitarbeiter (inkl. MwSt.)</value>
+		<value>mitarbeiter (inkl. MwSt.)</value>
 	</data>
 	<data name="TMD_TblColumn9" xml:space="preserve">
 		<value>Betrag</value>
@@ -815,7 +815,7 @@
 		<value>Betrag bezahlt</value>
 	</data>
 	<data name="TM_TblColumn4_1" xml:space="preserve">
-		<value>Mitarbeiter</value>
+		<value>mitarbeiter</value>
 	</data>
 	<data name="TM_Title" xml:space="preserve">
 		<value>Tarifierung: Mobilfunk</value>
@@ -860,13 +860,13 @@
 		<value>manuell angeben</value>
 	</data>
 	<data name="USD_J1" xml:space="preserve">
-		<value>Cent</value>
+		<value>cent</value>
 	</data>
 	<data name="USD_J2" xml:space="preserve">
-		<value>Cent</value>
+		<value>cent</value>
 	</data>
 	<data name="USD_J5" xml:space="preserve">
-		<value>Cent</value>
+		<value>cent</value>
 	</data>
 	<data name="USD_S1" xml:space="preserve">
 		<value>US-Dollar</value>
@@ -1079,7 +1079,7 @@
 		<value>Exportieren nach 1C</value>
 	</data>
 	<data name="cmdOpenDoc" xml:space="preserve">
-		<value>Öffnen Sie im Dokumentenarchiv</value>
+		<value>öffnen Sie im Dokumentenarchiv</value>
 	</data>
 	<data name="cmdRefreshDescription" xml:space="preserve">
 		<value>Laden Sie das Formular vollständig neu, laden Sie die tatsächlichen Daten.</value>
@@ -1130,7 +1130,7 @@
 		<value>Deine Nachricht</value>
 	</data>
 	<data name="connecting" xml:space="preserve">
-		<value>Kreuzung</value>
+		<value>kreuzung</value>
 	</data>
 	<data name="ContactControl_CommunicateWithContact" xml:space="preserve">
 		<value>Kontakt nach Kontakt</value>
@@ -1369,40 +1369,40 @@
 		<value>aus der Liste entfernen</value>
 	</data>
 	<data name="RUB_J1" xml:space="preserve">
-		<value>Kopeke</value>
+		<value>kopeke</value>
 	</data>
 	<data name="RUB_J2" xml:space="preserve">
-		<value>Pfennige</value>
+		<value>pfennige</value>
 	</data>
 	<data name="RUB_J5" xml:space="preserve">
-		<value>Kopeken</value>
+		<value>kopeken</value>
 	</data>
 	<data name="RUB_S1" xml:space="preserve">
-		<value>Rubel</value>
+		<value>rubel</value>
 	</data>
 	<data name="RUB_S2" xml:space="preserve">
-		<value>Rubel</value>
+		<value>rubel</value>
 	</data>
 	<data name="RUB_S5" xml:space="preserve">
-		<value>Rubel</value>
+		<value>rubel</value>
 	</data>
 	<data name="RUR_J1" xml:space="preserve">
-		<value>Kopeke</value>
+		<value>kopeke</value>
 	</data>
 	<data name="RUR_J2" xml:space="preserve">
-		<value>Pfennige</value>
+		<value>fennige</value>
 	</data>
 	<data name="RUR_J5" xml:space="preserve">
-		<value>Kopeken</value>
+		<value>kopeken</value>
 	</data>
 	<data name="RUR_S1" xml:space="preserve">
-		<value>Rubel</value>
+		<value>rubel</value>
 	</data>
 	<data name="RUR_S2" xml:space="preserve">
-		<value>Rubel</value>
+		<value>rubel</value>
 	</data>
 	<data name="RUR_S5" xml:space="preserve">
-		<value>Rubel</value>
+		<value>rubel</value>
 	</data>
 	<data name="sAdvancedSearch" xml:space="preserve">
 		<value>Erweiterte Suche</value>
@@ -1528,7 +1528,7 @@
 		<value>Wirksam</value>
 	</data>
 	<data name="ppLblRefreshList" xml:space="preserve">
-		<value>Liste aktualisieren</value>
+		<value>liste aktualisieren</value>
 	</data>
 	<data name="ppLblTitle" xml:space="preserve">
 		<value>Zahlungsbelege auswählen</value>
@@ -1585,7 +1585,7 @@
 		<value>Anruf beenden</value>
 	</data>
 	<data name="msgBtn1" xml:space="preserve">
-		<value>Ja! Dokumentennummer:</value>
+		<value>ja! Dokumentennummer:</value>
 	</data>
 	<data name="msgBtn2" xml:space="preserve">
 		<value>Ja! Dokumentennummer:</value>
@@ -1691,7 +1691,7 @@ Daten in E-Mail Formular korrekt eingegeben und müssen nicht geändert werden?<
 		<value>Das Feld ist leer</value>
 	</data>
 	<data name="msgNoElForm" xml:space="preserve">
-		<value>Es gibt kein el.forma.</value>
+		<value>es gibt kein el.forma.</value>
 	</data>
 	<data name="msgNoForm" xml:space="preserve">
 		<value>Das Dokument hat keine elektronische Form. Das Anzeigen eines Bildes in einem Dokumentenarchiv ist nicht möglich</value>
@@ -1824,7 +1824,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>manuell angegeben</value>
 	</data>
 	<data name="MSG_HasCorrecting" xml:space="preserve">
-		<value>Das Dokument hat ein Dokument, das es korrigiert</value>
+		<value>das Dokument hat ein Dokument, das es korrigiert</value>
 	</data>
 	<data name="MSG_LastDocAsCorrected" xml:space="preserve">
 		<value>Letzteres wird als korrigierbare Grundlage eingesetzt.</value>
@@ -1854,10 +1854,10 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>Das Zahlungsdatum ist kürzer als das Dokumentdatum</value>
 	</data>
 	<data name="ntfDocNotSign" xml:space="preserve">
-		<value>Dokument nicht signiert</value>
+		<value>dokument nicht signiert</value>
 	</data>
 	<data name="NTF_DateBaseDoc" xml:space="preserve">
-		<value>Das Gründungsdatum muss kleiner oder gleich dem Datum des aktuellen Dokuments sein</value>
+		<value>das Gründungsdatum muss kleiner oder gleich dem Datum des aktuellen Dokuments sein</value>
 	</data>
 	<data name="ntf_DocIsNotSigned" xml:space="preserve">
 		<value>Die elektronische Form des Dokuments ist nicht unterschrieben</value>
@@ -1872,7 +1872,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>nicht nach Anwendung</value>
 	</data>
 	<data name="numberNotExists" xml:space="preserve">
-		<value>Das Dokument hat keine Nummer</value>
+		<value>das Dokument hat keine Nummer</value>
 	</data>
 	<data name="oneFollowType" xml:space="preserve">
 		<value>Ein Fließtextdokument</value>
@@ -1953,7 +1953,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>nach Feld</value>
 	</data>
 	<data name="lCancelSign" xml:space="preserve">
-		<value>Eine Unterschrift stornieren</value>
+		<value>eine Unterschrift stornieren</value>
 	</data>
 	<data name="lClearAdd" xml:space="preserve">
 		<value>Filterbedingungen und Werte löschen</value>
@@ -2016,7 +2016,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>Fließende Dokumente</value>
 	</data>
 	<data name="listNewDoc" xml:space="preserve">
-		<value>Erstellen Sie ein Dokument</value>
+		<value>erstellen Sie ein Dokument</value>
 	</data>
 	<data name="listNotSigned" xml:space="preserve">
 		<value>nicht unterschrieben</value>
@@ -2193,7 +2193,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>Anzahl von</value>
 	</data>
 	<data name="lblPosNo" xml:space="preserve">
-		<value>Nein</value>
+		<value>nein</value>
 	</data>
 	<data name="lblPosResource" xml:space="preserve">
 		<value>Wählen Sie eine Ressource</value>
@@ -2334,7 +2334,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>Geändert</value>
 	</data>
 	<data name="lblChoosePP" xml:space="preserve">
-		<value>Wählen Sie Zahlungsbelege</value>
+		<value>wählen Sie Zahlungsbelege</value>
 	</data>
 	<data name="lblCity" xml:space="preserve">
 		<value>Stadt</value>
@@ -2577,10 +2577,10 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>Der Angestellte ist abwesend. Es wird ersetzt durch:</value>
 	</data>
 	<data name="DossierEmployeeInfo_Organization_CoWorkingWithAnother" xml:space="preserve">
-		<value>Schichtarbeit mit:</value>
+		<value>schichtarbeit mit:</value>
 	</data>
 	<data name="DossierEmployeeInfo_PositionIsCombined" xml:space="preserve">
-		<value>Begleiter</value>
+		<value>begleiter</value>
 	</data>
 	<data name="DossierEmployeeInfo_Remplacementive" xml:space="preserve">
 		<value>Der Mitarbeiter ersetzt die folgenden abwesenden Mitarbeiter:</value>
@@ -2652,22 +2652,22 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>In Feldern gibt es ungültige Zeichen</value>
 	</data>
 	<data name="EUR_J1" xml:space="preserve">
-		<value>Cent</value>
+		<value>cent</value>
 	</data>
 	<data name="EUR_J2" xml:space="preserve">
-		<value>Cent</value>
+		<value>cent</value>
 	</data>
 	<data name="EUR_J5" xml:space="preserve">
 		<value>mit dem</value>
 	</data>
 	<data name="EUR_S1" xml:space="preserve">
-		<value>Euro</value>
+		<value>euro</value>
 	</data>
 	<data name="EUR_S2" xml:space="preserve">
-		<value>Euro</value>
+		<value>euro</value>
 	</data>
 	<data name="EUR_S5" xml:space="preserve">
-		<value>Euro</value>
+		<value>euro</value>
 	</data>
 	<data name="exDocUnavailable" xml:space="preserve">
 		<value>Dokument mit Code {0} ist nicht verfügbar.</value>
@@ -2712,7 +2712,7 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>(höher)</value>
 	</data>
 	<data name="lBack" xml:space="preserve">
-		<value>zurück</value>
+		<value>Zurück</value>
 	</data>
 	<data name="lbChenged" xml:space="preserve">
 		<value>Geändert</value>
@@ -2838,13 +2838,13 @@ Möchten Sie diesen Vorgang wirklich ausführen?</value>
 		<value>Zweite Unterschrift</value>
 	</data>
 	<data name="EmployeeStatus_Guest" xml:space="preserve">
-		<value>Gast auf der Gästekarte</value>
+		<value>gast auf der Gästekarte</value>
 	</data>
 	<data name="EmployeeStatus_MaternityLeave" xml:space="preserve">
-		<value>Dekret</value>
+		<value>dekret</value>
 	</data>
 	<data name="EmployeeStatus_PersonalGuest" xml:space="preserve">
-		<value>Gast persönlich</value>
+		<value>gast persönlich</value>
 	</data>
 	<data name="errAdressValidation" xml:space="preserve">
 		<value>Das Feld Adresse muss ausgefüllt sein</value>
@@ -3046,19 +3046,19 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>Das Objekt "In Stock verschieben" wurde nicht initialisiert. Öffnen Sie das bearbeitete Element erneut.</value>
 	</data>
 	<data name="TTN_ntfKeeperNotFound" xml:space="preserve">
-		<value>Halter nicht gefunden</value>
+		<value>halter nicht gefunden</value>
 	</data>
 	<data name="TTN_ntfKeeperNotVerified" xml:space="preserve">
-		<value>Verwahrer nicht verifiziert</value>
+		<value>verwahrer nicht verifiziert</value>
 	</data>
 	<data name="TTN_ntfKeeperNoDataOn" xml:space="preserve">
-		<value>Es liegen keine Daten über die Depotbank bei</value>
+		<value>es liegen keine Daten über die Depotbank bei</value>
 	</data>
 	<data name="TTN_ntfWarehouseNotMatchSupplier" xml:space="preserve">
-		<value>Das Lager stimmt nicht mit dem Lieferanten überein</value>
+		<value>das Lager stimmt nicht mit dem Lieferanten überein</value>
 	</data>
 	<data name="TTN_ntfWarehouseNotAvailable" xml:space="preserve">
-		<value>Lager nicht verfügbar</value>
+		<value>lager nicht verfügbar</value>
 	</data>
 	<data name="TTN_ntfWarehouseNotMatchPayer" xml:space="preserve">
 		<value>das Lager entspricht nicht dem Zahler</value>
@@ -3076,10 +3076,10 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>entspricht nicht dem Vertrag</value>
 	</data>
 	<data name="TTN_ntfLatinNameNotMatchProduct" xml:space="preserve">
-		<value>Der lateinische Name stimmt nicht mit dem Produkt überein</value>
+		<value>der lateinische Name stimmt nicht mit dem Produkt überein</value>
 	</data>
 	<data name="TTN_ntfDocumentNotAvailable" xml:space="preserve">
-		<value>Dokument ist nicht verfügbar</value>
+		<value>dokument ist nicht verfügbar</value>
 	</data>
 	<data name="TTN_errFailedGenerateButtons" xml:space="preserve">
 		<value>Fehler beim Generieren von Formularschaltflächen</value>
@@ -3166,7 +3166,7 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>um Änderungen zu verwerfen</value>
 	</data>
 	<data name="TTN_msgChange" xml:space="preserve">
-		<value>Erzwingen einer Wertänderung ohne Nachzählung</value>
+		<value>erzwingen einer Wertänderung ohne Nachzählung</value>
 	</data>
 	<data name="TTN_msgChoiceRecalcType" xml:space="preserve">
 		<value>Wählen Sie einen Zuordnungstyp</value>
@@ -3178,7 +3178,7 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>Das Feld 'Service' ist nicht ausgefüllt</value>
 	</data>
 	<data name="TTN_msgAgent" xml:space="preserve">
-		<value>Agent</value>
+		<value>agent</value>
 	</data>
 	<data name="lblPerson" xml:space="preserve">
 		<value>Person</value>
@@ -3268,28 +3268,28 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>Vermisst</value>
 	</data>
 	<data name="TTN_ntfPersonAddressGo" xml:space="preserve">
-		<value>Die Adresse entspricht nicht dem Absender</value>
+		<value>die Adresse entspricht nicht dem Absender</value>
 	</data>
 	<data name="TTN_ntfPersonAddressGp" xml:space="preserve">
 		<value>l'indirizzo non corrisponde al destinatario...</value>
 	</data>
 	<data name="TTN_ntfPersonAddressShipper" xml:space="preserve">
-		<value>Die Adresse stimmt nicht mit dem Lieferanten überein</value>
+		<value>die Adresse stimmt nicht mit dem Lieferanten überein</value>
 	</data>
 	<data name="TTN_ntfPersonAddressPayer" xml:space="preserve">
 		<value>die Adresse stimmt nicht mit dem Zahler überein</value>
 	</data>
 	<data name="TTN_ntfPersonInfoGo" xml:space="preserve">
-		<value>Requisiten entsprechen nicht dem Versender</value>
+		<value>requisiten entsprechen nicht dem Versender</value>
 	</data>
 	<data name="TTN_ntfPersonInfoGp" xml:space="preserve">
-		<value>Requisiten entsprechen nicht dem Empfänger</value>
+		<value>requisiten entsprechen nicht dem Empfänger</value>
 	</data>
 	<data name="TTN_ntfPersonInfoShipper" xml:space="preserve">
-		<value>Der Name stimmt nicht mit dem Lieferanten überein</value>
+		<value>der Name stimmt nicht mit dem Lieferanten überein</value>
 	</data>
 	<data name="TTN_ntfPersonInfoPayer" xml:space="preserve">
-		<value>Der Name passt nicht zum Zahler</value>
+		<value>der Name passt nicht zum Zahler</value>
 	</data>
 	<data name="TTN_ntfPersonCodeGo" xml:space="preserve">
 		<value>OKPO entspricht nicht dem Versender</value>
@@ -3319,49 +3319,49 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>das Konto entspricht nicht dem Versender</value>
 	</data>
 	<data name="TTN_ntfPersonStoreGp" xml:space="preserve">
-		<value>Das Verrechnungskonto entspricht nicht dem Empfänger</value>
+		<value>das Verrechnungskonto entspricht nicht dem Empfänger</value>
 	</data>
 	<data name="TTN_ntfPersonStoreShipper" xml:space="preserve">
-		<value>Das Abrechnungskonto entspricht nicht dem Lieferanten</value>
+		<value>das Abrechnungskonto entspricht nicht dem Lieferanten</value>
 	</data>
 	<data name="TTN_ntfAddressDate" xml:space="preserve">
-		<value>Adresse ist kein gültiges Dokumentdatum</value>
+		<value>adresse ist kein gültiges Dokumentdatum</value>
 	</data>
 	<data name="TTN_ntfBaseDocumentOnDate" xml:space="preserve">
-		<value>Das Gründungsdatum muss kleiner oder gleich dem Datum des aktuellen Dokuments sein</value>
+		<value>das Gründungsdatum muss kleiner oder gleich dem Datum des aktuellen Dokuments sein</value>
 	</data>
 	<data name="TTN_ntfCurrencyDocument" xml:space="preserve">
-		<value>Die Währung des Bankkontos entspricht nicht der Dokumentwährung</value>
+		<value>die Währung des Bankkontos entspricht nicht der Dokumentwährung</value>
 	</data>
 	<data name="TTN_ntfPersonStorePayer" xml:space="preserve">
-		<value>Das Abrechnungskonto entspricht nicht dem Zahler</value>
+		<value>das Abrechnungskonto entspricht nicht dem Zahler</value>
 	</data>
 	<data name="TTN_ntfInfoStore" xml:space="preserve">
-		<value>Requisiten entsprechen nicht dem Verrechnungskonto</value>
+		<value>requisiten entsprechen nicht dem Verrechnungskonto</value>
 	</data>
 	<data name="TTN_ntfEnclosureContract" xml:space="preserve">
-		<value>Anwendungen sind nicht mit dem Dokument verknüpft</value>
+		<value>anwendungen sind nicht mit dem Dokument verknüpft</value>
 	</data>
 	<data name="TTN_ntfDocumentForm" xml:space="preserve">
-		<value>Das Dokument hat keine elektronische Form</value>
+		<value>das Dokument hat keine elektronische Form</value>
 	</data>
 	<data name="TTN_ntfPersonDate" xml:space="preserve">
-		<value>Die Person hat nicht die Voraussetzungen für das Datum des Dokuments</value>
+		<value>die Person hat nicht die Voraussetzungen für das Datum des Dokuments</value>
 	</data>
 	<data name="TTN_ntfStoreAccountDate" xml:space="preserve">
-		<value>Verrechnungskonto ist nicht gültig</value>
+		<value>verrechnungskonto ist nicht gültig</value>
 	</data>
 	<data name="TTN_ntfPersonPosition" xml:space="preserve">
-		<value>Die Position passt nicht zur Person</value>
+		<value>die Position passt nicht zur Person</value>
 	</data>
 	<data name="TTN_ntfPostingOnDate" xml:space="preserve">
-		<value>Das Buchungsdatum muss größer oder gleich dem Datum des aktuellen Dokuments sein</value>
+		<value>das Buchungsdatum muss größer oder gleich dem Datum des aktuellen Dokuments sein</value>
 	</data>
 	<data name="TTN_ntfPersonDocument" xml:space="preserve">
-		<value>Personen des Dokuments entsprechen nicht dem Lieferanten und Zahler</value>
+		<value>personen des Dokuments entsprechen nicht dem Lieferanten und Zahler</value>
 	</data>
 	<data name="TTN_ntfPaymentInvoice" xml:space="preserve">
-		<value>Zahlungsdokumente haben keine Grundlage</value>
+		<value>zahlungsdokumente haben keine Grundlage</value>
 	</data>
 	<data name="TTN_bntAddResource" xml:space="preserve">
 		<value>Artikel hinzufügen</value>
@@ -3382,13 +3382,13 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>Zollanmeldung</value>
 	</data>
 	<data name="TTN_btnDeletePosition" xml:space="preserve">
-		<value>Position löschen</value>
+		<value>position löschen</value>
 	</data>
 	<data name="TTN_btnCopyPosition" xml:space="preserve">
-		<value>Position kopieren</value>
+		<value>position kopieren</value>
 	</data>
 	<data name="TTN_btnEditPosition" xml:space="preserve">
-		<value>Position bearbeiten</value>
+		<value>position bearbeiten</value>
 	</data>
 	<data name="lblPosCol15" xml:space="preserve">
 		<value>Agent-Anbieter</value>
@@ -3496,7 +3496,7 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>Gesamtzahl der Datensätze</value>
 	</data>
 	<data name="lblGridRecords" xml:space="preserve">
-		<value>Aufzeichnungen</value>
+		<value>aufzeichnungen</value>
 	</data>
 	<data name="lOf" xml:space="preserve">
 		<value>von der</value>
@@ -3526,7 +3526,7 @@ Fehler beim Abrufen der zu kopierenden Daten!</value>
 		<value>keine leere Zeichenfolge</value>
 	</data>
 	<data name="lblAnyValueSpecified" xml:space="preserve">
-		<value>Jeder Wert ist angegeben</value>
+		<value>jeder Wert ist angegeben</value>
 	</data>
 	<data name="lblBetween" xml:space="preserve">
 		<value>zwischen den</value>
@@ -3719,7 +3719,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>im Dokumentenarchiv öffnen</value>
 	</data>
 	<data name="TTN_lblContinueEditing" xml:space="preserve">
-		<value>Bearbeitung fortsetzen</value>
+		<value>bearbeitung fortsetzen</value>
 	</data>
 	<data name="TTN_msgNeedSaveDocument" xml:space="preserve">
 		<value>Speichern Sie das Dokument, um es zu bearbeiten</value>
@@ -3749,25 +3749,25 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Rundung ist nicht erfolgreich.</value>
 	</data>
 	<data name="TTN_msgAccountNotAvailable" xml:space="preserve">
-		<value>Girokonto nicht verfügbar</value>
+		<value>girokonto nicht verfügbar</value>
 	</data>
 	<data name="TTN_ntfPersonStoreDocument" xml:space="preserve">
-		<value>Das Abrechnungskonto stimmt nicht mit dem Konto im Vertrag überein</value>
+		<value>das Abrechnungskonto stimmt nicht mit dem Konto im Vertrag überein</value>
 	</data>
 	<data name="TTN_ntfPersonStoreEnclosure" xml:space="preserve">
 		<value>Das aktuelle Konto stimmt nicht mit dem Konto in der Anwendung überein</value>
 	</data>
 	<data name="TTN_ntfPersonNotTested" xml:space="preserve">
-		<value>Person nicht verifiziert</value>
+		<value>person nicht verifiziert</value>
 	</data>
 	<data name="TTN_ntfPersonNotOKPO" xml:space="preserve">
-		<value>Die Person hat kein OKPO</value>
+		<value>die Person hat kein OKPO</value>
 	</data>
 	<data name="TTN_nntfPersonNotMatchContract" xml:space="preserve">
-		<value>Die Person stimmt mit keiner Person im Vertrag überein</value>
+		<value>die Person stimmt mit keiner Person im Vertrag überein</value>
 	</data>
 	<data name="TTN_nntfPersonNotMatchEnclosure" xml:space="preserve">
-		<value>Die Person stimmt mit keiner Person in der Anwendung überein</value>
+		<value>die Person stimmt mit keiner Person in der Anwendung überein</value>
 	</data>
 	<data name="TTN_ntfNoLinkContractAnfEnclosure" xml:space="preserve">
 		<value>Es besteht keine Verbindung der Anwendung mit dem Vertrag! Anwendungscode: </value>
@@ -3830,7 +3830,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Sie können die letzte Position im Frachtbrief nicht löschen.</value>
 	</data>
 	<data name="lblGridRecordCountGroup" xml:space="preserve">
-		<value>Datensätze in der Gruppe</value>
+		<value>datensätze in der Gruppe</value>
 	</data>
 	<data name="lblGridColumnValueBooleanFalse" xml:space="preserve">
 		<value>Die Lüge</value>
@@ -3929,7 +3929,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Sind Sie sicher, dass Sie einen Standort festlegen möchten</value>
 	</data>
 	<data name="Inv_msgMoveItemTreeView2" xml:space="preserve">
-		<value>Kind in Bezug auf den Ort</value>
+		<value>kind in Bezug auf den Ort</value>
 	</data>
 	<data name="Inv_lblUnorganizedComputerizedWorkplace" xml:space="preserve">
 		<value>Unorganisierter Computerarbeitsplatz</value>
@@ -4010,7 +4010,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Abbrechen</value>
 	</data>
 	<data name="Cfi_msgTypeCashFlow" xml:space="preserve">
-		<value>Art des Cashflows</value>
+		<value>art des Cashflows</value>
 	</data>
 	<data name="Cfi_msgCashFlowTypeNotFilled" xml:space="preserve">
 		<value>nicht gefüllter Cashflow</value>
@@ -4217,7 +4217,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Die Firma</value>
 	</data>
 	<data name="errAccessDenied" xml:space="preserve">
-		<value>Sie sind für diesen Vorgang nicht berechtigt!</value>
+		<value>sie sind für diesen Vorgang nicht berechtigt!</value>
 	</data>
 	<data name="STORE_SP_Lbl_Data_OGRN" xml:space="preserve">
 		<value>SRN</value>
@@ -4244,7 +4244,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>vom Büro aus</value>
 	</data>
 	<data name="DIRECTIONS_lAEVpn" xml:space="preserve">
-		<value>Remote (über VPN)</value>
+		<value>remote (über VPN)</value>
 	</data>
 	<data name="DIRECTIONS_lAIMobile" xml:space="preserve">
 		<value>mobil (SkyLink, 3G)</value>
@@ -4268,7 +4268,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>persönlich</value>
 	</data>
 	<data name="DIRECTIONS_lCompT" xml:space="preserve">
-		<value>Thin Client</value>
+		<value>thin Client</value>
 	</data>
 	<data name="DIRECTIONS_lMin" xml:space="preserve">
 		<value>min</value>
@@ -4313,19 +4313,19 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Verfolgen Sie die Verspätung der Mitarbeiter</value>
 	</data>
 	<data name="DIRECTIONS_Msg_CopyBuffer" xml:space="preserve">
-		<value>In die Zwischenablage kopieren</value>
+		<value>in die Zwischenablage kopieren</value>
 	</data>
 	<data name="DIRECTIONS_Msg_Delete" xml:space="preserve">
 		<value>Möchten Sie diesen Eintrag wirklich löschen?</value>
 	</data>
 	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
-		<value>E-Mail ist falsch</value>
+		<value>e-Mail ist falsch</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
 		<value>für diesen Mitarbeiter ist dieser Job bereits vorhanden</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ExistsPhone" xml:space="preserve">
-		<value>Anzahl verwendet</value>
+		<value>anzahl verwendet</value>
 	</data>
 	<data name="DIRECTIONS_Msg_FillFormByEmpl" xml:space="preserve">
 		<value>Achtung! Füllen Sie das Formular basierend auf den Mitarbeiterdaten aus:</value>
@@ -4367,34 +4367,34 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>SIM-Karte ausgestellt</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ДокументНеДоступен" xml:space="preserve">
-		<value>Dokument nicht verfügbar</value>
+		<value>dokument nicht verfügbar</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛицоБезБП" xml:space="preserve">
-		<value>Die Person arbeitet nicht an einem Geschäftsprojekt</value>
+		<value>die Person arbeitet nicht an einem Geschäftsprojekt</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинНеКорректен" xml:space="preserve">
-		<value>Benutzername ist falsch</value>
+		<value>benutzername ist falsch</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинСуществует" xml:space="preserve">
-		<value>Login beschäftigt</value>
+		<value>login beschäftigt</value>
 	</data>
 	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто" xml:space="preserve">
-		<value>An diesem Arbeitsplatz kann kein Computer installiert werden</value>
+		<value>an diesem Arbeitsplatz kann kein Computer installiert werden</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ОписаниеКаталога" xml:space="preserve">
 		<value>Eine Gruppe von Personen, die von Unternehmen verwendet werden, die an diesem Projekt arbeiten</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ОтсутствуетПодчиненность" xml:space="preserve">
-		<value>Es gibt keine Nachrangigkeit im Besetzungstisch</value>
+		<value>es gibt keine Nachrangigkeit im Besetzungstisch</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе" xml:space="preserve">
-		<value>Arbeitsplatz ist nicht im Büro</value>
+		<value>arbeitsplatz ist nicht im Büro</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
 		<value>Ist die Arbeit nicht am Arbeitsplatz des Arbeitnehmers organisiert, wird ein neuer Arbeitsplatz geschaffen</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
-		<value>Arbeitsplatz nicht verfügbar</value>
+		<value>rbeitsplatz nicht verfügbar</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РасположениеЗакрыто" xml:space="preserve">
 		<value>Standort geschlossen</value>
@@ -4403,40 +4403,40 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Standort ist nicht verfügbar</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНеДоступен" xml:space="preserve">
-		<value>Mitarbeiter nicht verfügbar</value>
+		<value>mitarbeiter nicht verfügbar</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина" xml:space="preserve">
-		<value>Mitarbeiter hat kein Login</value>
+		<value>mitarbeiter hat kein Login</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНетЛица" xml:space="preserve">
-		<value>Das Personal hat keinen Eintrag im Personenverzeichnis</value>
+		<value>das Personal hat keinen Eintrag im Personenverzeichnis</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика" xml:space="preserve">
-		<value>Der Mitarbeiter gibt nicht an, welche Firma für die Finne verantwortlich ist. Regulierung</value>
+		<value>der Mitarbeiter gibt nicht an, welche Firma für die Finne verantwortlich ist. Regulierung</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
 		<value>Der Mitarbeiter hat keinen Arbeitsplatz. Geben Sie es auf der Mitarbeiterkarte an</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
-		<value>Mitarbeiter noch nicht gefeuert</value>
+		<value>mitarbeiter noch nicht gefeuert</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние1" xml:space="preserve">
-		<value>Erlass (Urlaub)</value>
+		<value>erlass (Urlaub)</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние2" xml:space="preserve">
 		<value>persönlicher Gast</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние3" xml:space="preserve">
-		<value> entlassen</value>
+		<value>entlassen</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние4" xml:space="preserve">
-		<value>Gast mit Gästekarte</value>
+		<value>gast mit Gästekarte</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние5" xml:space="preserve">
-		<value> Fremder</value>
+		<value>fremder</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ФотоНет" xml:space="preserve">
-		<value>Mitarbeiter hat kein Foto</value>
+		<value>mitarbeiter hat kein Foto</value>
 	</data>
 	<data name="DIRECTIONS_NTF_CadrNoCompany" xml:space="preserve">
 		<value>Der Personaltisch des Mitarbeiters gibt nicht an, welches Unternehmen für die Finanzregulierung verantwortlich ist.</value>
@@ -4448,13 +4448,13 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Das Dokument wurde falsch gespeichert</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
-		<value>E-Mail ist falsch</value>
+		<value>e-Mail ist falsch</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
 		<value>eine solche E-Mail existiert bereits</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique1" xml:space="preserve">
-		<value>E-Mail muss eindeutig sein</value>
+		<value>e-Mail muss eindeutig sein</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
 		<value>Der Mitarbeiter ist nicht mit dem Personenverzeichnis synchronisiert.</value>
@@ -4487,7 +4487,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Nicht angegebene Ankunftszeit des Arbeitnehmers!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
-		<value>Nicht angegebener Arbeitsplatz</value>
+		<value>nicht angegebener Arbeitsplatz</value>
 	</data>
 	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
 		<value>Verspätete Zeit wird nicht angezeigt - mündliche Erklärung für den Manager!</value>
@@ -4502,7 +4502,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Geben Sie ein Mobiltelefon an!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_ПосменнаяРабота" xml:space="preserve">
-		<value>Schichtarbeit mit</value>
+		<value>schichtarbeit mit</value>
 	</data>
 	<data name="DIRECTIONS_NTF_РабМестаВместе" xml:space="preserve">
 		<value>zusammen mit</value>
@@ -4634,16 +4634,16 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>der Arbeit am Arbeitsplatz im Büro</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
-		<value>Arbeit außerhalb des Büros</value>
+		<value>arbeit außerhalb des Büros</value>
 	</data>
 	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
-		<value>Konto</value>
+		<value>konto</value>
 	</data>
 	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
-		<value>Ein Mitarbeiter erhält eine Ausrüstung, die sich nicht an seinem Arbeitsplatz befindet</value>
+		<value>ein Mitarbeiter erhält eine Ausrüstung, die sich nicht an seinem Arbeitsplatz befindet</value>
 	</data>
 	<data name="DIRECTIONS_Title_ShowEq" xml:space="preserve">
-		<value>Ausrüstung anzeigen</value>
+		<value>ausrüstung anzeigen</value>
 	</data>
 	<data name="DIRECTIONS_Lbl_WpsEpl" xml:space="preserve">
 		<value>Angestellte Jobs</value>
@@ -4840,10 +4840,10 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>ländern</value>
 	</data>
 	<data name="lblChangeDocumentDescription" xml:space="preserve">
-		<value>Dokumentbeschreibung ändern</value>
+		<value>dokumentbeschreibung ändern</value>
 	</data>
 	<data name="lblSaveDocumentDescription" xml:space="preserve">
-		<value>Dokumentbeschreibung speichern</value>
+		<value>dokumentbeschreibung speichern</value>
 	</data>
 	<data name="lblCancelDocumentDescription" xml:space="preserve">
 		<value>dokumentbeschreibungsänderung abbrechen</value>
@@ -4888,13 +4888,13 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>stationär</value>
 	</data>
 	<data name="DIRECTIONS_Field_Phone_Dect" xml:space="preserve">
-		<value>Office-Mobilteil</value>
+		<value>office-Mobilteil</value>
 	</data>
 	<data name="DIRECTIONS_Field_Phone_WebCam" xml:space="preserve">
 		<value>WEB-Kamera</value>
 	</data>
 	<data name="DIRECTIONS_Field_Computer_Desktop" xml:space="preserve">
-		<value>Tischplatte</value>
+		<value>tischplatte</value>
 	</data>
 	<data name="DIRECTIONS_Field_AEAccess_Login" xml:space="preserve">
 		<value>Einloggen</value>
@@ -4909,16 +4909,16 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>anstelle von Mitarbeiter</value>
 	</data>
 	<data name="DIRECTIONS_Field_Positions_Folders_Title" xml:space="preserve">
-		<value>Wählen Sie freigegebene Ordner aus, auf die der Mitarbeiter zugreifen kann</value>
+		<value>wählen Sie freigegebene Ordner aus, auf die der Mitarbeiter zugreifen kann</value>
 	</data>
 	<data name="DIRECTIONS_Field_Positions_Roles_Title" xml:space="preserve">
-		<value>Wählen Sie die Rolle, die der Mitarbeiter im Unternehmen ausübt</value>
+		<value>wählen Sie die Rolle, die der Mitarbeiter im Unternehmen ausübt</value>
 	</data>
 	<data name="DIRECTIONS_Field_Positions_Types_Title" xml:space="preserve">
-		<value>Wählen Sie die Arten von Personen aus, zu denen der Mitarbeiter Zugang hat</value>
+		<value>wählen Sie die Arten von Personen aus, zu denen der Mitarbeiter Zugang hat</value>
 	</data>
 	<data name="DIRECTIONS_Field_Positions_Grants_Title" xml:space="preserve">
-		<value>Wählen Sie zusätzliche Rechte</value>
+		<value>wählen Sie zusätzliche Rechte</value>
 	</data>
 	<data name="DIRECTIONS_Field_AdvInfo" xml:space="preserve">
 		<value>Hinzufügen. Informationen zur Arbeitsorganisation</value>
@@ -4930,16 +4930,16 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Wählen Sie einen Arbeitsplatz</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoCadr" xml:space="preserve">
-		<value>Der Mitarbeiter hat keine Position in der Mitarbeiterliste</value>
+		<value>der Mitarbeiter hat keine Position in der Mitarbeiterliste</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoLider1" xml:space="preserve">
-		<value>Der Mitarbeiter hat keinen direkten Vorgesetzten</value>
+		<value>der Mitarbeiter hat keinen direkten Vorgesetzten</value>
 	</data>
 	<data name="DIRECTIONS_Field_Lider" xml:space="preserve">
 		<value>Sofortiger Vorgesetzter</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoPost" xml:space="preserve">
-		<value>Der Mitarbeiter gibt die Position nicht an</value>
+		<value>der Mitarbeiter gibt die Position nicht an</value>
 	</data>
 	<data name="DIRECTIONS_NTF_PostNoEqualsCadr" xml:space="preserve">
 		<value>Position des Mitarbeiters stimmt nicht mit der Position in der Besetzung überein</value>
@@ -4954,10 +4954,10 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>, ist nicht an seinem Arbeitsplatz</value>
 	</data>
 	<data name="DIRECTIONS_Title_EquipmentNoLocation3" xml:space="preserve">
-		<value>Keine Gerätedaten an den Arbeitsplätzen anderer Personen</value>
+		<value>keine Gerätedaten an den Arbeitsplätzen anderer Personen</value>
 	</data>
 	<data name="DIRECTIONS_Title_ShowEq1" xml:space="preserve">
-		<value>Geräteformular öffnen</value>
+		<value>geräteformular öffnen</value>
 	</data>
 	<data name="DIRECTIONS_Msg_UnbleSave" xml:space="preserve">
 		<value>Sparen ist unmöglich!</value>
@@ -4984,13 +4984,13 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Sie müssen entweder das Verzeichnis oder den Personentyp angeben</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ВсеКаталоги" xml:space="preserve">
-		<value>Zugriff in allen Verzeichnissen</value>
+		<value>zugriff in allen Verzeichnissen</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ВсеКаталоги1" xml:space="preserve">
 		<value>die jetzt existieren oder in Zukunft erscheinen werden, für den angegebenen Gesichtstyp</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ВсеТипы" xml:space="preserve">
-		<value>Erhielt Zugriff auf alle Arten von Personen im angegebenen Verzeichnis</value>
+		<value>erhielt Zugriff auf alle Arten von Personen im angegebenen Verzeichnis</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ВсеТипы1" xml:space="preserve">
 		<value>das gibt es jetzt oder wird in der Zukunft erscheinen</value>
@@ -5035,16 +5035,16 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Eine Schichtarbeitsgruppe arbeitet bereits am angegebenen Arbeitsplatz</value>
 	</data>
 	<data name="DIRECTIONS_NTF_SimRequired" xml:space="preserve">
-		<value>Mitarbeiterposition</value>
+		<value>mitarbeiterposition</value>
 	</data>
 	<data name="DIRECTIONS_NTF_SimRequired1" xml:space="preserve">
 		<value>Keine mobile Verbindung erforderlich</value>
 	</data>
 	<data name="DIRECTIONS_NTF_SimRequired2" xml:space="preserve">
-		<value>Mobile Prepaid-Internetverbindung erforderlich</value>
+		<value>mobile Prepaid-Internetverbindung erforderlich</value>
 	</data>
 	<data name="DIRECTIONS_NTF_SimRequired3" xml:space="preserve">
-		<value>Eine mobile Verbindung mit Megabyte-Aufladung ist erforderlich</value>
+		<value>eine mobile Verbindung mit Megabyte-Aufladung ist erforderlich</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoIssued" xml:space="preserve">
 		<value>nicht ausgestellt</value>
@@ -5056,16 +5056,16 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Befolgen Sie die Anweisungen, um die Arbeit zu organisieren</value>
 	</data>
 	<data name="DIRECTIONS_Title_GroupMembers" xml:space="preserve">
-		<value>Gruppenarbeit in Schichten zeigen</value>
+		<value>gruppenarbeit in Schichten zeigen</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmptyGroup" xml:space="preserve">
-		<value>Es sind keine Mitarbeiter in der Schichtgruppe</value>
+		<value>es sind keine Mitarbeiter in der Schichtgruppe</value>
 	</data>
 	<data name="DIRECTIONS_Title_GroupMembers1" xml:space="preserve">
 		<value>Die Zusammensetzung der Gruppenschichtarbeit</value>
 	</data>
 	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто" xml:space="preserve">
-		<value>Der Mitarbeiter hat einen computergesteuerten, nicht organisierten Arbeitsplatz im Büro</value>
+		<value>der Mitarbeiter hat einen computergesteuerten, nicht organisierten Arbeitsplatz im Büro</value>
 	</data>
 	<data name="msgSendMsg" xml:space="preserve">
 		<value>Nachricht senden</value>
@@ -5104,7 +5104,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>die arbeit ist organisiert</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РаботаНеОрганизована" xml:space="preserve">
-		<value>Arbeit nicht organisiert</value>
+		<value>arbeit nicht organisiert</value>
 	</data>
 	<data name="DIRECTIONS_Msg_РаботаУжеОрганизована" xml:space="preserve">
 		<value>Die Arbeit am Arbeitsplatz {0} ist bereits organisiert. Wähle einen anderen Arbeitsplatz!</value>
@@ -5131,7 +5131,7 @@ Löschen Sie zuerst die resultierende Rechnung.</value>
 		<value>Post nach</value>
 	</data>
 	<data name="TTN_lblPutOnFirstPosition" xml:space="preserve">
-		<value>Legen Sie die erste Position an</value>
+		<value>legen Sie die erste Position an</value>
 	</data>
 	<data name="TTN_ntfNotSummaOutNDS" xml:space="preserve">
 		<value>Das Feld "Betrag ohne MwSt." Ist nicht ausgefüllt</value>
@@ -5243,7 +5243,7 @@ Sie müssen einen anderen Mitarbeiter auswählen oder sich an die Personalabteil
 		<value>Ein Hinweis auf die Arbeitsorganisation des Arbeitnehmers muss von seinem unmittelbaren Vorgesetzten gemacht oder unterschrieben werden.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_AccountExpiresNo" xml:space="preserve">
-		<value>AccountExpires nicht festgelegt</value>
+		<value>accountExpires nicht festgelegt</value>
 	</data>
 	<data name="DIRECTIONS_NTF_AccountExpiresNo_Title" xml:space="preserve">
 		<value>Sie müssen das Datum einstellen, an dem das Konto gültig ist, weil Mitarbeiter bereits entlassen</value>
@@ -5255,21 +5255,177 @@ Sie müssen einen anderen Mitarbeiter auswählen oder sich an die Personalabteil
 		<value>Sie müssen das Konto aktivieren, weil Mitarbeiter ist noch nicht entlassen</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>Login stimmt nicht mit dem Namen des Mitarbeiters überein</value>
+		<value>Login endet nicht mit dem Namen des Mitarbeiters</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>Das Login muss den Namen des Mitarbeiters enthalten</value>
+		<value>Das Login muss mit dem Namen des Mitarbeiters enden. Sie müssen ein anderes Login angeben.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>E-Mail stimmt nicht mit dem Namen des Mitarbeiters überein</value>
+		<value>E-Mail stimmt nicht mit dem Vor- und Nachnamen des Mitarbeiters überein</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
 		<value>Der Name der Mailbox muss aus einer Kombination von Vor- und Nachname des Mitarbeiters bestehen</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain" xml:space="preserve">
-		<value>E-Mail stimmt nicht mit der Firma überein</value>
+		<value>e-Mail stimmt nicht mit der Firma überein</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
 		<value>Die Postfachdomäne stimmt nicht mit der Unternehmensdomäne des Mitarbeiters überein. Sie müssen eine andere Domain auswählen.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>Mitarbeiter {0} hat eine E-Mail {1}</value>
+	</data>
+	<data name="TTN_btnViewPosition" xml:space="preserve">
+		<value>artikel anzeigen</value>
+	</data>
+	<data name="Inv_lblFileUploaded" xml:space="preserve">
+		<value>Datei hochgeladen</value>
+	</data>
+	<data name="Inv_lblBrowseFile" xml:space="preserve">
+		<value>Durchsuche</value>
+	</data>
+	<data name="Inv_lblUploadFile" xml:space="preserve">
+		<value>Hochladen</value>
+	</data>
+	<data name="Inv_msgFileSizeExceeded" xml:space="preserve">
+		<value>Dateigröße überschritten</value>
+	</data>
+	<data name="Inv_msgInvalidFileFormat" xml:space="preserve">
+		<value>Ungültiges dateiformat</value>
+	</data>
+	<data name="Inv_msgNoFileSelected" xml:space="preserve">
+		<value>Keine datei ausgewählt</value>
+	</data>
+	<data name="Inv_lblFilePath" xml:space="preserve">
+		<value>Dateipfad</value>
+	</data>
+	<data name="Inv_lblTemplateUploading" xml:space="preserve">
+		<value>Hochladen von vorlagen</value>
+	</data>
+	<data name="lblLocationFrom" xml:space="preserve">
+		<value>vorher</value>
+	</data>
+	<data name="lblLocationTo" xml:space="preserve">
+		<value>nachher</value>
+	</data>
+	<data name="Users_lblMoveEquipment" xml:space="preserve">
+		<value>Bewegen Sie die Ausrüstung</value>
+	</data>
+	<data name="Users_lblWorkplaceChange" xml:space="preserve">
+		<value>Arbeitsplatzwechsel</value>
+	</data>
+	<data name="Users_EmployeeEquipmentMove" xml:space="preserve">
+		<value>Mitarbeiterausstattung umziehen</value>
+	</data>
+	<data name="Users_msgSetWorkPlaceToGroup" xml:space="preserve">
+		<value>Sie versuchen, Gruppe {0} eine Arbeitsstation zuzuweisen, auf der Gruppe {1} bereits arbeitet. Dieser Vorgang ist nicht möglich!</value>
+	</data>
+	<data name="Users_msgNoGroupEmployeeOnWorkPlace" xml:space="preserve">
+		<value>Mitarbeiter, die nicht Mitglied der Gruppe {0} sind, arbeiten am Arbeitsplatz. Bestätigen Sie, dass Mitarbeiter {1} Mitglieder des Schichtteams {0} sind?</value>
+	</data>
+	<data name="Users_msgSetGroupEmployeeOnShifts" xml:space="preserve">
+		<value>{0} ist Mitglied der Gruppe {1}, aber Sie entfernen ihn von der Arbeitsstation der Gruppe und weisen ihn dem Arbeitsplatz zu, an dem {2} im Schichtdienst arbeitet. Bestätigen Sie, dass {0} kein Mitglied der Gruppe {1} ist und in Schichten mit {2} arbeitet?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOn2Group" xml:space="preserve">
+		<value>{0} ist Mitglied der Gruppe {1}, aber Sie weisen dem Arbeitsplatz die Gruppe {2} zu. Ein Mitarbeiter kann nicht gleichzeitig Mitglied von zwei Schichtgruppen sein.</value>
+	</data>
+	<data name="Users_msgChangeGroupEmployee" xml:space="preserve">
+		<value>{0} ist Mitglied der Gruppe {1}, aber Sie entfernen ihn von der Arbeitsstation der Gruppe und weisen ihn dem Arbeitsplatz der Gruppe zu {2}. Bestätigen Sie, dass {0} kein Mitglied der Gruppe {1} und ein Mitglied der Gruppe {2} ist?</value>
+	</data>
+	<data name="Users_msgRemoveEmployeeFromGroup" xml:space="preserve">
+		<value>{0} ist Mitglied der Gruppe {1}, aber Sie entfernen ihn vom Arbeitsplatz der Gruppe. Bestätigen Sie, dass {0} kein Mitglied der Gruppe {1} mehr ist?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnShift" xml:space="preserve">
+		<value>Sie weisen der Workstation {0} zu, auf der {1} in Schichten arbeitet. Bestätigen Sie, dass {0} in der Schicht von {1} funktioniert?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnGroup" xml:space="preserve">
+		<value>Sie weisen dem Arbeitsplatz der Gruppe {1} {0} zu. Bestätigen Sie, dass {0} Mitglied der Gruppe {1} ist?</value>
+	</data>
+	<data name="Users_lblSelectWorkplaceToSave" xml:space="preserve">
+		<value>Zum Speichern müssen Sie einen Arbeitsplatz auswählen.</value>
+	</data>
+	<data name="Users_msgConfirmDelete" xml:space="preserve">
+		<value>Bestätigen Sie das Entfernen.</value>
+	</data>
+	<data name="Users_NoLocationSource" xml:space="preserve">
+		<value>Der Quellcode des Standorts wurde nicht übergeben</value>
+	</data>
+	<data name="Users_NoEmployee" xml:space="preserve">
+		<value>Mitarbeitercode nicht übergeben</value>
+	</data>
+	<data name="Users_NoEmployeeDestination" xml:space="preserve">
+		<value>Neuer Standortcode nicht übergeben</value>
+	</data>
+	<data name="Users_lblEquipmentMovedToNewWorkplace" xml:space="preserve">
+		<value>Ausrüstung an einen neuen Arbeitsplatz verlegt:</value>
+	</data>
+	<data name="Users_lblModele" xml:space="preserve">
+		<value>Modell</value>
+	</data>
+	<data name="Users_lblEquipmentEmployeeAtNewWorkplace" xml:space="preserve">
+		<value>Ausstattung eines Mitarbeiters an einem neuen Arbeitsplatz:</value>
+	</data>
+	<data name="Users_lblPreviousResponsible" xml:space="preserve">
+		<value>Vorheriger Verantwortlicher</value>
+	</data>
+	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
+		<value>Löschen Sie einen Arbeitsplatz und schließen Sie das Formular</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>umzug an einen anderen Arbeitsplatz im Büro</value>
+	</data>
+	<data name="TTN_msgMinTimeLike" xml:space="preserve">
+		<value>Die minimale Neubewertungszeit ({0} min.) ist nicht abgelaufen.</value>
+	</data>
+	<data name="Inv_lblAbonentNumber" xml:space="preserve">
+		<value>Teilnehmernummer</value>
+	</data>
+	<data name="Inv_lblAbonentFIO" xml:space="preserve">
+		<value>Name des Abonnenten</value>
+	</data>
+	<data name="Inv_lblEmail" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="Inv_lblAbonentStatus" xml:space="preserve">
+		<value>Abonnentenstatus</value>
+	</data>
+	<data name="Inv_lblStatusChangeDate" xml:space="preserve">
+		<value>Datum der letzten Statusänderung</value>
+	</data>
+	<data name="Inv_lblChangeReason" xml:space="preserve">
+		<value>Grund für die letzte Änderung</value>
+	</data>
+	<data name="Inv_lblServiceDescription" xml:space="preserve">
+		<value>Beschreibung des Tarifplans</value>
+	</data>
+	<data name="Inv_lblEndDate" xml:space="preserve">
+		<value>Ablaufdatum</value>
+	</data>
+	<data name="Inv_lblStatrDate" xml:space="preserve">
+		<value>Startdatum der Aktion</value>
+	</data>
+	<data name="Inv_lblServiceCode" xml:space="preserve">
+		<value>Tarif Service-Code</value>
+	</data>
+	<data name="Inv_lblActivationDate" xml:space="preserve">
+		<value>Aktivierungsdatum des Abonnenten</value>
+	</data>
+	<data name="Inv_lblCostInMonth" xml:space="preserve">
+		<value>Kosten pro Monat</value>
+	</data>
+	<data name="Inv_lblContractCode" xml:space="preserve">
+		<value>Vertragscode</value>
+	</data>
+	<data name="Inv_lblLoadProviderServices" xml:space="preserve">
+		<value>Laden Sie weitere Beeline-Dienste herunter</value>
+	</data>
+	<data name="Inv_lblCostInDay" xml:space="preserve">
+		<value>Kosten pro Tag</value>
+	</data>
+	<data name="Inv_lblCostInclusion" xml:space="preserve">
+		<value>Einschlusskosten</value>
+	</data>
+	<data name="Inv_lblGigInMonth" xml:space="preserve">
+		<value>Gigabyte pro Monat</value>
 	</data>
 </root>

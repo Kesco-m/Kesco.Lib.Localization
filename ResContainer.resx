@@ -262,7 +262,7 @@
     <value>Add existing</value>
   </data>
 	<data name="alertError" xml:space="preserve">
-    <value>bug</value>
+    <value>Bug</value>
   </data>
 	<data name="alertMessage" xml:space="preserve">
     <value>Message</value>
@@ -374,7 +374,7 @@ Unable to get data for copy!</value>
     <value>Transportation services in the price</value>
   </data>
 	<data name="lblApplication" xml:space="preserve">
-    <value>application</value>
+    <value>Application</value>
   </data>
 	<data name="lblAssignClaims" xml:space="preserve">
     <value>Cession</value>
@@ -383,7 +383,7 @@ Unable to get data for copy!</value>
     <value>Document sales</value>
   </data>
 	<data name="lblBasis" xml:space="preserve">
-    <value>delivery basis</value>
+    <value>Delivery basis</value>
   </data>
 	<data name="lblBasisName" xml:space="preserve">
     <value>Name basis</value>
@@ -401,10 +401,10 @@ Unable to get data for copy!</value>
     <value>Text editor</value>
   </data>
 	<data name="lblBuyer" xml:space="preserve">
-    <value>buyer</value>
+    <value>Buyer</value>
   </data>
 	<data name="lblBuyerRS" xml:space="preserve">
-    <value>account buyer</value>
+    <value>Account buyer</value>
   </data>
 	<data name="lblChoosePP" xml:space="preserve">
     <value>choose payment docs</value>
@@ -422,7 +422,7 @@ Unable to get data for copy!</value>
     <value>Description of the document in the archive</value>
   </data>
 	<data name="lblDocName" xml:space="preserve">
-    <value>document Title</value>
+    <value>Document Title</value>
   </data>
 	<data name="lblDocNumber" xml:space="preserve">
     <value>Number</value>
@@ -464,7 +464,7 @@ Unable to get data for copy!</value>
     <value>Pattern printing forme</value>
   </data>
 	<data name="lblLetterCredit" xml:space="preserve">
-    <value>letter of credit</value>
+    <value>Letter of credit</value>
   </data>
 	<data name="lblNameTitle" xml:space="preserve">
     <value>The name on the original document does not match the specified type of document</value>
@@ -548,7 +548,7 @@ Unable to get data for copy!</value>
     <value>Seller</value>
   </data>
 	<data name="lblSellerRS" xml:space="preserve">
-    <value>account seller</value>
+    <value>Account seller</value>
   </data>
 	<data name="lblSign1" xml:space="preserve">
     <value>First signatory</value>
@@ -566,7 +566,7 @@ Unable to get data for copy!</value>
     <value>Setting the corresponding table FieldsDocument fields with the logical entity</value>
   </data>
 	<data name="lblToBePaid" xml:space="preserve">
-    <value>must be paid</value>
+    <value>Must be paid</value>
   </data>
 	<data name="lblTypeDoc" xml:space="preserve">
     <value>Select document type</value>
@@ -608,7 +608,7 @@ Unable to get data for copy!</value>
     <value>Correct document number</value>
   </data>
 	<data name="msgConfirm" xml:space="preserve">
-    <value>confirm</value>
+    <value>Confirm</value>
   </data>
 	<data name="msgConfirm1" xml:space="preserve">
     <value>not like a number of the document!</value>
@@ -957,7 +957,7 @@ employee.
     <value>document is not available</value>
   </data>
 	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
-    <value>document does not have e-forms</value>
+    <value>Document does not have e-forms</value>
   </data>
 	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
     <value>Unit should be specified for product</value>
@@ -1137,7 +1137,7 @@ employee.
     <value>status</value>
   </data>
 	<data name="lblUser" xml:space="preserve">
-    <value>user</value>
+    <value>User</value>
   </data>
 	<data name="lblDocUser" xml:space="preserve">
     <value>The document work:</value>
@@ -1170,7 +1170,7 @@ employee.
     <value>No contacts</value>
   </data>
 	<data name="msgCall" xml:space="preserve">
-    <value>call</value>
+    <value>Call</value>
   </data>
 	<data name="msgPhoneSelect" xml:space="preserve">
     <value>Select the phone from which to make a call to the number</value>
@@ -1179,7 +1179,7 @@ employee.
     <value>Save as main working telephone on this computer</value>
   </data>
 	<data name="lblPosition" xml:space="preserve">
-    <value>location</value>
+    <value>Location</value>
   </data>
 	<data name="msgNoPhone" xml:space="preserve">
     <value>The phone can not be found</value>
@@ -1650,7 +1650,7 @@ employee.
     <value>Create new store</value>
   </data>
 	<data name="LinOnce" xml:space="preserve">
-    <value>selection</value>
+    <value>Selection</value>
   </data>
 	<data name="LnotinOnce" xml:space="preserve">
     <value>With the exception of</value>
@@ -1662,7 +1662,7 @@ employee.
     <value>Disabled</value>
   </data>
 	<data name="Title_Help" xml:space="preserve">
-    <value>opens the help</value>
+    <value>Opens the help</value>
   </data>
 	<data name="sName" xml:space="preserve">
     <value>Name</value>
@@ -4321,7 +4321,7 @@ Access to the data necessary for the employee to work</value>
 		<value>Are you sure you want to delete this entry?</value>
 	</data>
 	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
-		<value>Email is incorrect</value>
+		<value>e-mail is incorrect</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
 		<value>for this employee for this job already exists</value>
@@ -4450,7 +4450,7 @@ Access to the data necessary for the employee to work</value>
 		<value>The document was saved incorrectly</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
-		<value>E-mail is incorrect.</value>
+		<value>e-mail is incorrect.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
 		<value>such e-mail already exists; E-mail must be unique.</value>
@@ -5257,13 +5257,13 @@ You must select another employee or contact the personnel department to dismiss 
 		<value>You must enable the account, because employee is not fired yet</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>login does not match the employee's name</value>
+		<value>login does not end with the name of the employee</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>Login must contain employee name</value>
+		<value>The login must end with the name of the employee. You must specify a different login.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>E-mail does not match the name of the employee</value>
+		<value>e-mail does not match the name and surname of the employee</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
 		<value>The name of the mailbox must consist of a combination of the name and surname of the employee</value>
@@ -5273,5 +5273,161 @@ You must select another employee or contact the personnel department to dismiss 
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
 		<value>Mailbox domain does not match the employee’s company domain. You must select a different domain.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>employee {0} has an e-mail {1}</value>
+	</data>
+	<data name="TTN_btnViewPosition" xml:space="preserve">
+		<value>view position</value>
+	</data>
+	<data name="Inv_lblFileUploaded" xml:space="preserve">
+		<value>File uploaded</value>
+	</data>
+	<data name="Inv_lblBrowseFile" xml:space="preserve">
+		<value>Browse</value>
+	</data>
+	<data name="Inv_lblUploadFile" xml:space="preserve">
+		<value>Upload</value>
+	</data>
+	<data name="Inv_msgFileSizeExceeded" xml:space="preserve">
+		<value>File size exceeded</value>
+	</data>
+	<data name="Inv_msgInvalidFileFormat" xml:space="preserve">
+		<value>Invalid file format</value>
+	</data>
+	<data name="Inv_msgNoFileSelected" xml:space="preserve">
+		<value>No file selected</value>
+	</data>
+	<data name="Inv_lblFilePath" xml:space="preserve">
+		<value>File path</value>
+	</data>
+	<data name="Inv_lblTemplateUploading" xml:space="preserve">
+		<value>Template uploading</value>
+	</data>
+	<data name="lblLocationFrom" xml:space="preserve">
+		<value>before</value>
+	</data>
+	<data name="lblLocationTo" xml:space="preserve">
+		<value>after</value>
+	</data>
+	<data name="Users_lblMoveEquipment" xml:space="preserve">
+		<value>Move equipment</value>
+	</data>
+	<data name="Users_lblWorkplaceChange" xml:space="preserve">
+		<value>Workplace change</value>
+	</data>
+	<data name="Users_EmployeeEquipmentMove" xml:space="preserve">
+		<value>Moving employee equipment</value>
+	</data>
+	<data name="Users_msgSetWorkPlaceToGroup" xml:space="preserve">
+		<value>You are trying to assign group {0} a workstation where group {1} is already working. This operation is not possible!</value>
+	</data>
+	<data name="Users_msgNoGroupEmployeeOnWorkPlace" xml:space="preserve">
+		<value>Employees who are not members of group {0} work at the workplace. Do you confirm that employees {1} are members of shift team {0}?</value>
+	</data>
+	<data name="Users_msgSetGroupEmployeeOnShifts" xml:space="preserve">
+		<value>{0} is a member of group {1}, but you remove him from the group’s workstation and assign him to the workplace where {2} work in shifts. You confirm that {0} is not a member of the group {1} and works in shifts with {2}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOn2Group" xml:space="preserve">
+		<value>{0} is a member of group {1}, but you assign group {2} to the workplace. An employee cannot simultaneously be a member of two shift groups.</value>
+	</data>
+	<data name="Users_msgChangeGroupEmployee" xml:space="preserve">
+		<value>{0} is a member of group {1}, but you remove him from the group’s workstation and assign him to the group’s workplace {2}. Do you confirm that {0} is not a member of group {1} and is a member of group {2}?</value>
+	</data>
+	<data name="Users_msgRemoveEmployeeFromGroup" xml:space="preserve">
+		<value>{0} is a member of group {1}, but you are removing him from the group’s workplace. Are you confirming that {0} is no longer a member of group {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnShift" xml:space="preserve">
+		<value>You assign {0} to the workstation where {1} works in shifts. Do you confirm that {0} works in shift from {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnGroup" xml:space="preserve">
+		<value>You assign {0} to the workplace of group {1}. Do you confirm that {0} is a member of group {1}?</value>
+	</data>
+	<data name="Users_lblSelectWorkplaceToSave" xml:space="preserve">
+		<value>To save, you must select a workplace.</value>
+	</data>
+	<data name="Users_msgConfirmDelete" xml:space="preserve">
+		<value>Confirm removal.</value>
+	</data>
+	<data name="Users_NoLocationSource" xml:space="preserve">
+		<value>Location source code not passed</value>
+	</data>
+	<data name="Users_NoEmployee" xml:space="preserve">
+		<value>Employee code not passed</value>
+	</data>
+	<data name="Users_NoEmployeeDestination" xml:space="preserve">
+		<value>New location code not passed</value>
+	</data>
+	<data name="Users_lblEquipmentMovedToNewWorkplace" xml:space="preserve">
+		<value>Equipment moved to a new workplace:</value>
+	</data>
+	<data name="Users_lblModele" xml:space="preserve">
+		<value>Model</value>
+	</data>
+	<data name="Users_lblEquipmentEmployeeAtNewWorkplace" xml:space="preserve">
+		<value>Equipment issued to an employee at a new workplace:</value>
+	</data>
+	<data name="Users_lblPreviousResponsible" xml:space="preserve">
+		<value>Previous Responsible</value>
+	</data>
+	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
+		<value>Delete a workplace and close the form</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>moving to another workplace in the office</value>
+	</data>
+	<data name="TTN_msgMinTimeLike" xml:space="preserve">
+		<value>The minimum reevaluation time ({0} min.) has not expired.</value>
+	</data>
+	<data name="Inv_lblAbonentNumber" xml:space="preserve">
+		<value>Subscriber number</value>
+	</data>
+	<data name="Inv_lblAbonentFIO" xml:space="preserve">
+		<value>Name of subscriber</value>
+	</data>
+	<data name="Inv_lblEmail" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="Inv_lblAbonentStatus" xml:space="preserve">
+		<value>Subscriber status</value>
+	</data>
+	<data name="Inv_lblStatusChangeDate" xml:space="preserve">
+		<value>Date of Last Status Change</value>
+	</data>
+	<data name="Inv_lblChangeReason" xml:space="preserve">
+		<value>Reason for last change</value>
+	</data>
+	<data name="Inv_lblServiceDescription" xml:space="preserve">
+		<value>Description of the tariff plan service</value>
+	</data>
+	<data name="Inv_lblEndDate" xml:space="preserve">
+		<value>Expiration date</value>
+	</data>
+	<data name="Inv_lblStatrDate" xml:space="preserve">
+		<value>Action start date</value>
+	</data>
+	<data name="Inv_lblServiceCode" xml:space="preserve">
+		<value>Tariff plan service code</value>
+	</data>
+	<data name="Inv_lblActivationDate" xml:space="preserve">
+		<value>Subscriber Activation Date</value>
+	</data>
+	<data name="Inv_lblCostInMonth" xml:space="preserve">
+		<value>Cost per month</value>
+	</data>
+	<data name="Inv_lblContractCode" xml:space="preserve">
+		<value>Contract code</value>
+	</data>
+	<data name="Inv_lblLoadProviderServices" xml:space="preserve">
+		<value>Download additional beeline services</value>
+	</data>
+	<data name="Inv_lblCostInDay" xml:space="preserve">
+		<value>Cost per day</value>
+	</data>
+	<data name="Inv_lblCostInclusion" xml:space="preserve">
+		<value>Cost of inclusion</value>
+	</data>
+	<data name="Inv_lblGigInMonth" xml:space="preserve">
+		<value>Gigabytes per month</value>
 	</data>
 </root>

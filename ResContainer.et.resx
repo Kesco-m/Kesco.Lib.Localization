@@ -268,7 +268,7 @@
     <value>sõnum</value>
   </data>
 	<data name="alertWarning" xml:space="preserve">
-    <value>hoiatus</value>
+    <value>Hoiatus</value>
   </data>
 	<data name="BtnClose" xml:space="preserve">
     <value>Sulge</value>
@@ -373,7 +373,7 @@
     <value>Transporditeenused hind</value>
   </data>
 	<data name="lblApplication" xml:space="preserve">
-    <value>taotlus</value>
+    <value>Taotlus</value>
   </data>
 	<data name="lblAssignClaims" xml:space="preserve">
     <value>Loovutamine</value>
@@ -388,7 +388,7 @@
     <value>Nimi alusel</value>
   </data>
 	<data name="lblBillLading" xml:space="preserve">
-    <value>konossement</value>
+    <value>Konossement</value>
   </data>
 	<data name="lblBtnPrint" xml:space="preserve">
     <value>Trüki dokument</value>
@@ -400,7 +400,7 @@
     <value>Teksti redaktor</value>
   </data>
 	<data name="lblBuyer" xml:space="preserve">
-    <value>ostja</value>
+    <value>Ostja</value>
   </data>
 	<data name="lblBuyerRS" xml:space="preserve">
     <value>Konto ostja</value>
@@ -415,13 +415,13 @@
     <value>Kuupäev</value>
   </data>
 	<data name="lblDateDue" xml:space="preserve">
-    <value>makse kuupäev</value>
+    <value>Makse kuupäev</value>
   </data>
 	<data name="lblDescription" xml:space="preserve">
     <value>Arhiivdokumendi kirjeldus</value>
   </data>
 	<data name="lblDocName" xml:space="preserve">
-    <value>dokumendi pealkiri</value>
+    <value>Dokumendi pealkiri</value>
   </data>
 	<data name="lblDocNumber" xml:space="preserve">
     <value>number</value>
@@ -433,7 +433,7 @@
     <value>saatja</value>
   </data>
 	<data name="lblGP" xml:space="preserve">
-    <value>kaubasaaja</value>
+    <value>Kaubasaaja</value>
   </data>
 	<data name="lblInvByOsn" xml:space="preserve">
     <value>viia invoice'I andmed vastavusse alusdokumendiga</value>
@@ -463,7 +463,7 @@
     <value>Muster trükkimine forme</value>
   </data>
 	<data name="lblLetterCredit" xml:space="preserve">
-    <value>akreditiiv</value>
+    <value>Akreditiiv</value>
   </data>
 	<data name="lblNameTitle" xml:space="preserve">
     <value>Nimi originaaldokumendi ei vasta nimetatud dokumendi tüüp</value>
@@ -478,7 +478,7 @@
     <value>Alusdokument ei ole kättesaadav, teenuste osutamisel või kaupade tarnimine on kavas tulevikus</value>
   </data>
 	<data name="lblNotes" xml:space="preserve">
-    <value>märkus</value>
+    <value>Märkus</value>
   </data>
 	<data name="lblPaymentDocuments" xml:space="preserve">
     <value>Kinkepiletid</value>
@@ -544,7 +544,7 @@
     <value>trükivormide jaoks</value>
   </data>
 	<data name="lblSeller" xml:space="preserve">
-    <value>müüja</value>
+    <value>Müüja</value>
   </data>
 	<data name="lblSellerRS" xml:space="preserve">
     <value>Konto müüja</value>
@@ -565,7 +565,7 @@
     <value>Setting vastava tabeli väljad dokumendi väljad loogiline üksus</value>
   </data>
 	<data name="lblToBePaid" xml:space="preserve">
-    <value>tuleb pöörata</value>
+    <value>Tuleb pöörata</value>
   </data>
 	<data name="lblTypeDoc" xml:space="preserve">
     <value>Valige dokumendi tüüp</value>
@@ -607,7 +607,7 @@
     <value>Õige numbri</value>
   </data>
 	<data name="msgConfirm" xml:space="preserve">
-    <value>kinnitama</value>
+    <value>Kinnitama</value>
   </data>
 	<data name="msgConfirm1" xml:space="preserve">
     <value>ei meeldi dokumendi number!</value>
@@ -959,7 +959,7 @@ töötaja.
     <value>dokument ei ole kättesaadav</value>
   </data>
 	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
-    <value>dokumendil puudu elektrooniline vorm</value>
+    <value>Dokumendil puudu elektrooniline vorm</value>
   </data>
 	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
     <value>Toodete jaoks on mõõteühik kohustuslik</value>
@@ -1139,7 +1139,7 @@ töötaja.
     <value>seisund</value>
   </data>
 	<data name="lblUser" xml:space="preserve">
-    <value>kasutaja</value>
+    <value>Kasutaja</value>
   </data>
 	<data name="lblDocUser" xml:space="preserve">
     <value>Dokumendi tööd:</value>
@@ -1172,7 +1172,7 @@ töötaja.
     <value>No kontaktid</value>
   </data>
 	<data name="msgCall" xml:space="preserve">
-    <value>üleskutse</value>
+    <value>Üleskutse</value>
   </data>
 	<data name="msgPhoneSelect" xml:space="preserve">
     <value>Valige telefon, millest helistada number</value>
@@ -1181,7 +1181,7 @@ töötaja.
     <value>Säästa peamised töö- telefoni selles arvutis</value>
   </data>
 	<data name="lblPosition" xml:space="preserve">
-    <value>asukoht</value>
+    <value>Asukoht</value>
   </data>
 	<data name="msgNoPhone" xml:space="preserve">
     <value>Telefoni ei leitud</value>
@@ -1205,7 +1205,7 @@ töötaja.
     <value>töötaja</value>
   </data>
 	<data name="cEndTime" xml:space="preserve">
-    <value>töö lõpp</value>
+    <value>Töö lõpp</value>
   </data>
 	<data name="cInternetAccessCount" xml:space="preserve">
     <value>Tellimuste arv &lt;br&gt; Internet</value>
@@ -1226,16 +1226,16 @@ töötaja.
     <value>Raamatupidamisarvestuse süsteemi töötajate aega</value>
   </data>
 	<data name="iPCustom" xml:space="preserve">
-    <value>omavoliliselt</value>
+    <value>Omavoliliselt</value>
   </data>
 	<data name="iPTypeDay" xml:space="preserve">
-    <value>päev</value>
+    <value>Päev</value>
   </data>
 	<data name="iPTypeMounth" xml:space="preserve">
-    <value>kuu</value>
+    <value>Kuu</value>
   </data>
 	<data name="iPTypeQuarter" xml:space="preserve">
-    <value>kvartal</value>
+    <value>Kvartal</value>
   </data>
 	<data name="iPTypeWeek" xml:space="preserve">
     <value>Nädal</value>
@@ -1256,7 +1256,7 @@ töötaja.
     <value>* - Rikkumised juurdepääsu kontroll</value>
   </data>
 	<data name="lFilterCompany" xml:space="preserve">
-    <value>firma</value>
+    <value>Firma</value>
   </data>
 	<data name="lFilterEmplAvaible" xml:space="preserve">
     <value>Näita tööalaselt lõigud perioodiks</value>
@@ -1271,7 +1271,7 @@ töötaja.
     <value>Officer</value>
   </data>
 	<data name="lFilterSubdivision" xml:space="preserve">
-    <value>alajaotus</value>
+    <value>Alajaotus</value>
   </data>
 	<data name="lFrom" xml:space="preserve">
     <value>Koos</value>
@@ -1304,7 +1304,7 @@ töötaja.
     <value>Rikkumised juurdepääsu kontroll</value>
   </data>
 	<data name="lShowList" xml:space="preserve">
-    <value>show</value>
+    <value>Show</value>
   </data>
 	<data name="lTimeExit" xml:space="preserve">
     <value>tõusnud</value>
@@ -1322,7 +1322,7 @@ töötaja.
     <value>loendist eemaldada</value>
   </data>
 	<data name="lCont" xml:space="preserve">
-    <value>jätkama</value>
+    <value>Jätkama</value>
   </data>
 	<data name="lEnd" xml:space="preserve">
     <value>täielik</value>
@@ -1361,7 +1361,7 @@ töötaja.
     <value>Üksikasjalikult päevadel</value>
   </data>
 	<data name="lBack" xml:space="preserve">
-    <value>tagasi</value>
+    <value>Tagasi</value>
   </data>
 	<data name="lFlagCaption" xml:space="preserve">
     <value>Ära näita tühi kanded</value>
@@ -1439,16 +1439,16 @@ töötaja.
     <value>Summa sisaldab KM</value>
   </data>
 	<data name="cEmpty" xml:space="preserve">
-    <value>tühi</value>
+    <value>Tühi</value>
   </data>
 	<data name="cEnds" xml:space="preserve">
     <value>Lõpeb sõnadega</value>
   </data>
 	<data name="cEqually" xml:space="preserve">
-    <value>võrdselt</value>
+    <value>Võrdselt</value>
   </data>
 	<data name="cLess" xml:space="preserve">
-    <value>vähem</value>
+    <value>Vähem</value>
   </data>
 	<data name="cLessOrEqual" xml:space="preserve">
     <value>Väiksem või võrdne</value>
@@ -1460,7 +1460,7 @@ töötaja.
     <value>Täielikult sobib</value>
   </data>
 	<data name="cMore" xml:space="preserve">
-    <value>rohkem</value>
+    <value>Rohkem</value>
   </data>
 	<data name="cMoreOrEqual" xml:space="preserve">
     <value>Rohkem või võrdne</value>
@@ -1472,7 +1472,7 @@ töötaja.
     <value>Sõnad ei lõppenud kohta</value>
   </data>
 	<data name="cNotEqual" xml:space="preserve">
-    <value>ei võrdu</value>
+    <value>Ei võrdu</value>
   </data>
 	<data name="cNotMatches" xml:space="preserve">
     <value>Täiesti identsed</value>
@@ -1484,7 +1484,7 @@ töötaja.
     <value>Sõnad alustada</value>
   </data>
 	<data name="cUnlike" xml:space="preserve">
-    <value>erinevalt</value>
+    <value>Erinevalt</value>
   </data>
 	<data name="dEqual" xml:space="preserve">
     <value>täitsa sarnane</value>
@@ -1658,7 +1658,7 @@ töötaja.
     <value>Luua uus ladu</value>
   </data>
 	<data name="LinOnce" xml:space="preserve">
-    <value>valimine</value>
+    <value>Valimine</value>
   </data>
 	<data name="LnotinOnce" xml:space="preserve">
     <value>välja arvatud</value>
@@ -1667,16 +1667,16 @@ töötaja.
     <value>õigusaktid</value>
   </data>
 	<data name="STORE_IsNotActual" xml:space="preserve">
-    <value>ei ole kohaldatav</value>
+    <value>Ei ole kohaldatav</value>
   </data>
 	<data name="Title_Help" xml:space="preserve">
-    <value>avab abi</value>
+    <value>Avab abi</value>
   </data>
 	<data name="sName" xml:space="preserve">
     <value>Nimi</value>
   </data>
 	<data name="sTypeOfTransport" xml:space="preserve">
-    <value>transpordi liik</value>
+    <value>Transpordi liik</value>
   </data>
 	<data name="sCode" xml:space="preserve">
     <value>kood</value>
@@ -1904,7 +1904,7 @@ töötaja.
     <value>Allkirjaõigus</value>
   </data>
 	<data name="cpTo" xml:space="preserve">
-    <value>Kuni</value>
+    <value>kuni</value>
   </data>
 	<data name="cpWorker" xml:space="preserve">
     <value>Töötaja</value>
@@ -1925,7 +1925,7 @@ töötaja.
     <value>Kuupäev Koos ei saa olla rohkem kui kuupäeva Kuni</value>
   </data>
 	<data name="lblAdditional" xml:space="preserve">
-    <value>lisa</value>
+    <value>Lisa</value>
   </data>
 	<data name="lblAdress" xml:space="preserve">
     <value>Aadress</value>
@@ -2237,7 +2237,7 @@ töötaja.
     <value>Tehnilised omadused</value>
   </data>
 	<data name="lblUnit" xml:space="preserve">
-    <value>mõõtühik</value>
+    <value>Mõõtühik</value>
   </data>
 	<data name="msgHeadSignUnable" xml:space="preserve">
     <value>Ei saa määrata üksuse juhi</value>
@@ -2247,7 +2247,7 @@ töötaja.
 üksus</value>
   </data>
 	<data name="lblUnitShort" xml:space="preserve">
-    <value>üksus</value>
+    <value>Üksus</value>
   </data>
 	<data name="lblCargowaybills" xml:space="preserve">
     <value>Veosaateleht</value>
@@ -2265,10 +2265,10 @@ töötaja.
     <value>Lisama</value>
   </data>
 	<data name="lblAddition" xml:space="preserve">
-    <value>lisamine</value>
+    <value>Lisamine</value>
   </data>
 	<data name="lblRemoval" xml:space="preserve">
-    <value>eemaldamine</value>
+    <value>Eemaldamine</value>
   </data>
 	<data name="DateFrom" xml:space="preserve">
     <value>pärit </value>
@@ -2316,7 +2316,7 @@ töötaja.
     <value>Töötaja puudub.</value>
   </data>
 	<data name="lblBussinesProject" xml:space="preserve">
-    <value>äriprojekt</value>
+    <value>Äriprojekt</value>
   </data>
 	<data name="errDoisserIDNotFound" xml:space="preserve">
     <value>Mitte üle indetefikator inimene / töötaja.</value>
@@ -2512,7 +2512,7 @@ Avab dokumendid siduvad dialoogi</value>
     <value>Organisatsioon</value>
   </data>
 	<data name="Vacation_Days" xml:space="preserve">
-    <value>kestus</value>
+    <value>Kestus</value>
   </data>
 	<data name="Vacation_Director" xml:space="preserve">
     <value>organisatsiooni juhile</value>
@@ -2527,7 +2527,7 @@ Avab dokumendid siduvad dialoogi</value>
     <value>puhkuse viimane päev</value>
   </data>
 	<data name="Vacation_Type" xml:space="preserve">
-    <value>puhkuse tüüp</value>
+    <value>Puhkuse tüüp</value>
   </data>
 	<data name="Vacation_FirstWorkingDay" xml:space="preserve">
     <value>Tööpäev</value>
@@ -4315,7 +4315,7 @@ Esiteks kustutage saadud arve.</value>
 		<value>Kas soovite kindlasti selle kirje kustutada?</value>
 	</data>
 	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
-		<value>E-post on vale</value>
+		<value>e-post on vale</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
 		<value>selle töötaja jaoks selle töö jaoks juba olemas</value>
@@ -4444,7 +4444,7 @@ Esiteks kustutage saadud arve.</value>
 		<value>Dokument salvestati valesti</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
-		<value>E-post on vale.</value>
+		<value>e-post on vale.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
 		<value>selline e-post on juba olemas;</value>
@@ -4483,7 +4483,7 @@ Esiteks kustutage saadud arve.</value>
 		<value>Töötaja saabumisaeg ei ole määratud!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
-		<value>Pole määratud töökoht</value>
+		<value>pole määratud töökoht</value>
 	</data>
 	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
 		<value>Hilinenud aega ei ole näidatud - suuline selgitus juhile!</value>
@@ -4639,7 +4639,7 @@ Esiteks kustutage saadud arve.</value>
 		<value>töötajale antakse seadmeid, mis ei ole tema töökohal</value>
 	</data>
 	<data name="DIRECTIONS_Title_ShowEq" xml:space="preserve">
-		<value>Näita seadmeid</value>
+		<value>näita seadmeid</value>
 	</data>
 	<data name="DIRECTIONS_Lbl_WpsEpl" xml:space="preserve">
 		<value>Töötajate töökohad</value>
@@ -5251,13 +5251,13 @@ Te peate valima mõne teise töötaja või pöörduma personali osakonna poole, 
 		<value>Sa pead konto lubama, sest töötaja ei ole veel vallandatud</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>sisselogimine ei vasta töötaja nimele</value>
+		<value>sisselogimine ei lõpe töötaja nimega</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>Sisselogimine peab sisaldama töötaja nime</value>
+		<value>Sisselogimine peab lõppema töötaja nimega. Peate määrama teistsuguse sisselogimise.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>E-post ei vasta töötaja nimele</value>
+		<value>e-post ei ühti töötaja nime ja perekonnanimega</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
 		<value>Postkasti nimi peab koosnema töötaja nime ja perekonnanime kombinatsioonist</value>
@@ -5267,5 +5267,164 @@ Te peate valima mõne teise töötaja või pöörduma personali osakonna poole, 
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
 		<value>Postkasti domeen ei vasta töötaja ettevõtte domeenile. Peate valima teise domeeni.</value>
+	</data>
+	<data name="lblAktsiz" xml:space="preserve">
+		<value>Accise</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>töötajal {0} on e-post {1}</value>
+	</data>
+	<data name="TTN_btnViewPosition" xml:space="preserve">
+		<value>vaata üksust</value>
+	</data>
+	<data name="Inv_lblFileUploaded" xml:space="preserve">
+		<value>Fail üles laaditud</value>
+	</data>
+	<data name="Inv_lblBrowseFile" xml:space="preserve">
+		<value>Sirvige</value>
+	</data>
+	<data name="Inv_lblUploadFile" xml:space="preserve">
+		<value>Laadi üles</value>
+	</data>
+	<data name="Inv_msgFileSizeExceeded" xml:space="preserve">
+		<value>Faili suurus on ületatud</value>
+	</data>
+	<data name="Inv_msgInvalidFileFormat" xml:space="preserve">
+		<value>Vale failivorming</value>
+	</data>
+	<data name="Inv_msgNoFileSelected" xml:space="preserve">
+		<value>Ühtegi faili pole valitud</value>
+	</data>
+	<data name="Inv_lblFilePath" xml:space="preserve">
+		<value>Faili teekond</value>
+	</data>
+	<data name="Inv_lblTemplateUploading" xml:space="preserve">
+		<value>Malli üleslaadimine</value>
+	</data>
+	<data name="lblLocationFrom" xml:space="preserve">
+		<value>enne</value>
+	</data>
+	<data name="lblLocationTo" xml:space="preserve">
+		<value>pärast</value>
+	</data>
+	<data name="Users_lblMoveEquipment" xml:space="preserve">
+		<value>Varustuse teisaldamine</value>
+	</data>
+	<data name="Users_lblWorkplaceChange" xml:space="preserve">
+		<value>Töökoha vahetus</value>
+	</data>
+	<data name="Users_EmployeeEquipmentMove" xml:space="preserve">
+		<value>Töötajate varustuse kolimine</value>
+	</data>
+	<data name="Users_msgSetWorkPlaceToGroup" xml:space="preserve">
+		<value>Üritad grupile {0} määrata tööjaama, kus grupp {1} juba töötab. See toiming pole võimalik!</value>
+	</data>
+	<data name="Users_msgNoGroupEmployeeOnWorkPlace" xml:space="preserve">
+		<value>Töötajad, kes ei ole rühma {0} liikmed, töötavad töökohal. Kas kinnitate, et töötajad {1} on vahetustega meeskonna {0} liikmed?</value>
+	</data>
+	<data name="Users_msgSetGroupEmployeeOnShifts" xml:space="preserve">
+		<value>{0} on grupi {1} liige, kuid eemaldate ta rühma tööjaamast ja määrate ta töökohale, kus {2} töötab vahetustega. Kas kinnitate, et {0} ei kuulu gruppi {1} ja töötab vahetustega koos {2}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOn2Group" xml:space="preserve">
+		<value>{0} on grupi {1} liige, kuid te määrate grupi {2} töökohale. Töötaja ei saa samaaegselt kuuluda kahte vahetusgruppi.</value>
+	</data>
+	<data name="Users_msgChangeGroupEmployee" xml:space="preserve">
+		<value>{0} est membre du groupe {1}, mais vous le supprimez du poste de travail du groupe et l'affectez au poste de travail du groupe {2}. Confirmez-vous que {0} n'est pas un membre du groupe {1} et est membre du groupe {2}?</value>
+	</data>
+	<data name="Users_msgRemoveEmployeeFromGroup" xml:space="preserve">
+		<value>{0} on grupi {1} liige, kuid eemaldate ta grupi töökohalt. Kas kinnitate, et {0} ei ole enam grupi {1} liige?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnShift" xml:space="preserve">
+		<value>Olete määranud {0} tööjaamale, kus {1} töötab vahetustega. Kas kinnitate, et {0} töötab nihkega {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnGroup" xml:space="preserve">
+		<value>Te määrate grupi {1} töökohale {0}. Kas kinnitate, et {0} on grupi {1} liige?</value>
+	</data>
+	<data name="Users_lblSelectWorkplaceToSave" xml:space="preserve">
+		<value>Salvestamiseks peate valima töökoha.</value>
+	</data>
+	<data name="Users_msgConfirmDelete" xml:space="preserve">
+		<value>Kinnitage eemaldamine.</value>
+	</data>
+	<data name="Users_NoLocationSource" xml:space="preserve">
+		<value>Asukoha lähtekoodi ei edastatud</value>
+	</data>
+	<data name="Users_NoEmployee" xml:space="preserve">
+		<value>Töötaja koodi pole edasi antud</value>
+	</data>
+	<data name="Users_NoEmployeeDestination" xml:space="preserve">
+		<value>Uus asukohakood pole edastatud</value>
+	</data>
+	<data name="Users_lblEquipmentMovedToNewWorkplace" xml:space="preserve">
+		<value>Seadmed koliti uude töökohta:</value>
+	</data>
+	<data name="Users_lblModele" xml:space="preserve">
+		<value>Mudel</value>
+	</data>
+	<data name="Users_lblEquipmentEmployeeAtNewWorkplace" xml:space="preserve">
+		<value>Uue töökoha töötajale väljastatud seadmed:</value>
+	</data>
+	<data name="Users_lblPreviousResponsible" xml:space="preserve">
+		<value>Eelmine vastutav</value>
+	</data>
+	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
+		<value>Kustutage töökoht ja sulgege vorm</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>kolimine kontoris teisele töökohale</value>
+	</data>
+	<data name="TTN_msgMinTimeLike" xml:space="preserve">
+		<value>Minimaalne ümberhindamisaeg ({0} min.) pole lõppenud.</value>
+	</data>
+	<data name="Inv_lblAbonentNumber" xml:space="preserve">
+		<value>Tellija number</value>
+	</data>
+	<data name="Inv_lblAbonentFIO" xml:space="preserve">
+		<value>Abonendi nimi</value>
+	</data>
+	<data name="Inv_lblEmail" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="Inv_lblAbonentStatus" xml:space="preserve">
+		<value>Abonendi staatus</value>
+	</data>
+	<data name="Inv_lblStatusChangeDate" xml:space="preserve">
+		<value>Viimase oleku muutmise kuupäev</value>
+	</data>
+	<data name="Inv_lblChangeReason" xml:space="preserve">
+		<value>Viimase muudatuse põhjus</value>
+	</data>
+	<data name="Inv_lblServiceDescription" xml:space="preserve">
+		<value>Tariifiplaaniteenuse kirjeldus</value>
+	</data>
+	<data name="Inv_lblEndDate" xml:space="preserve">
+		<value>Aegumiskuupäev</value>
+	</data>
+	<data name="Inv_lblStatrDate" xml:space="preserve">
+		<value>Toimingu alguskuupäev</value>
+	</data>
+	<data name="Inv_lblServiceCode" xml:space="preserve">
+		<value>Tariifiplaani teenuse kood</value>
+	</data>
+	<data name="Inv_lblActivationDate" xml:space="preserve">
+		<value>Abonendi aktiveerimise kuupäev</value>
+	</data>
+	<data name="Inv_lblCostInMonth" xml:space="preserve">
+		<value>Maksumus kuus</value>
+	</data>
+	<data name="Inv_lblContractCode" xml:space="preserve">
+		<value>Lepingu kood</value>
+	</data>
+	<data name="Inv_lblLoadProviderServices" xml:space="preserve">
+		<value>Laadige alla täiendavad Beeline'i teenused</value>
+	</data>
+	<data name="Inv_lblCostInDay" xml:space="preserve">
+		<value>Maksumus päevas</value>
+	</data>
+	<data name="Inv_lblCostInclusion" xml:space="preserve">
+		<value>Kaasamise kulud</value>
+	</data>
+	<data name="Inv_lblGigInMonth" xml:space="preserve">
+		<value>Gigabaiti kuus</value>
 	</data>
 </root>

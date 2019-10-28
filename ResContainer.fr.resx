@@ -566,7 +566,7 @@
 		<value>le document n'est pas disponible</value>
 	</data>
 	<data name="_Msg_ДокументНетЭФ" xml:space="preserve">
-		<value>le document n'a aucun el. formes</value>
+		<value>Le document n'a aucun el. formes</value>
 	</data>
 	<data name="_Msg_ЕдИзмерения" xml:space="preserve">
 		<value>Pour les produits, l'unité de mesure est obligatoire</value>
@@ -629,10 +629,10 @@
 		<value>les conditions de la personne ne correspondent pas aux conditions requises du destinataire dans le document aux motifs</value>
 	</data>
 	<data name="_Msg_ОснованиеЗаказчик" xml:space="preserve">
-		<value>La personne ne respecte pas le client dans le document</value>
+		<value>la personne ne respecte pas le client dans le document</value>
 	</data>
 	<data name="_Msg_ОснованиеИсполнитель" xml:space="preserve">
-		<value>La personne ne correspond pas à l'interprète du document</value>
+		<value>la personne ne correspond pas à l'interprète du document</value>
 	</data>
 	<data name="1000000000_2" xml:space="preserve">
 		<value>milliard</value>
@@ -869,7 +869,7 @@
 		<value>cents</value>
 	</data>
 	<data name="USD_S1" xml:space="preserve">
-		<value>Dollar américain</value>
+		<value>dollar américain</value>
 	</data>
 	<data name="USD_S2" xml:space="preserve">
 		<value>le dollar américain</value>
@@ -2449,13 +2449,13 @@ unités</value>
 		<value>Mois</value>
 	</data>
 	<data name="lBack" xml:space="preserve">
-		<value>avec le</value>
+		<value>Avec le</value>
 	</data>
 	<data name="lblAttributeFormat" xml:space="preserve">
 		<value>Masque de format d'attribut</value>
 	</data>
 	<data name="lblBasisName" xml:space="preserve">
-		<value>avec le</value>
+		<value>Avec le</value>
 	</data>
 	<data name="lblBillLading" xml:space="preserve">
 		<value>Connaissement</value>
@@ -4321,7 +4321,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Êtes-vous sûr de vouloir supprimer cette entrée?</value>
 	</data>
 	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
-		<value>L'email est incorrect</value>
+		<value>l'email est incorrect</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
 		<value>pour cet employé pour ce travail existe déjà</value>
@@ -4426,7 +4426,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>personnel invité</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние3" xml:space="preserve">
-		<value> licencié</value>
+		<value>licencié</value>
 	</data>
 	<data name="DIRECTIONS_Msg_СотрудникСостояние4" xml:space="preserve">
 		<value> invité par carte d'hôte</value>
@@ -4447,13 +4447,13 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Le document n'a pas été enregistré correctement</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
-		<value>Le courrier électronique est incorrect.</value>
+		<value>le courrier électronique est incorrect.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
 		<value>ce courrier existe déjà.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailNotUnique1" xml:space="preserve">
-		<value>Le courrier électronique doit être unique.</value>
+		<value>le courrier électronique doit être unique.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
 		<value>L'employé n'est pas synchronisé avec le répertoire des personnes.</value>
@@ -4486,7 +4486,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Heure d'arrivée non spécifiée de l'employé au travail!</value>
 	</data>
 	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
-		<value>Lieu de travail des employés non spécifié.</value>
+		<value>lieu de travail des employés non spécifié.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
 		<value>Le temps tardif n'est pas indiqué - explication verbale au gestionnaire!</value>
@@ -4731,7 +4731,7 @@ Tout d'abord, supprimez la facture résultante.</value>
 		<value>Ouvrez le document pour le modifier dans une fenêtre séparée</value>
 	</data>
 	<data name="Users_msgDoesNotMatchPerson" xml:space="preserve">
-		<value>Le champ "Nom" n'est pas renseigné.</value>
+		<value>le champ "Nom" n'est pas renseigné.</value>
 	</data>
 	<data name="Users_msgNoValidDetails" xml:space="preserve">
 		<value>Un individu n'a pas de détails valides</value>
@@ -5254,13 +5254,13 @@ Vous devez sélectionner un autre employé ou contacter le service du personnel 
 		<value>Vous devez activer le compte, car employé n'est pas encore viré</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>le login ne correspond pas au nom de l'employé</value>
+		<value>le login ne se termine pas par le nom de l'employé</value>
 	</data>
 	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>Le login doit contenir le nom de l'employé</value>
+		<value>La connexion doit se terminer par le nom de l'employé. Vous devez spécifier un identifiant différent.</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>E-mail ne correspond pas au nom de l'employé</value>
+		<value>e-mail ne correspond pas au nom et prénom de l'employé</value>
 	</data>
 	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
 		<value>Le nom de la boîte aux lettres doit être composé du nom et du prénom de l'employé.</value>
@@ -5270,5 +5270,161 @@ Vous devez sélectionner un autre employé ou contacter le service du personnel 
 	</data>
 	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
 		<value>Le domaine de la boîte aux lettres ne correspond pas au domaine de l'entreprise de l'employé. Vous devez sélectionner un autre domaine.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>employé {0} a un e-mail {1}</value>
+	</data>
+	<data name="TTN_btnViewPosition" xml:space="preserve">
+		<value>voir l'article</value>
+	</data>
+	<data name="Inv_lblFileUploaded" xml:space="preserve">
+		<value>Fichier téléchargé</value>
+	</data>
+	<data name="Inv_lblBrowseFile" xml:space="preserve">
+		<value>Feuilleter</value>
+	</data>
+	<data name="Inv_lblUploadFile" xml:space="preserve">
+		<value>Télécharger</value>
+	</data>
+	<data name="Inv_msgFileSizeExceeded" xml:space="preserve">
+		<value>La taille du fichier a été dépassée</value>
+	</data>
+	<data name="Inv_msgInvalidFileFormat" xml:space="preserve">
+		<value>Format de fichier invalide</value>
+	</data>
+	<data name="Inv_msgNoFileSelected" xml:space="preserve">
+		<value>Aucun fichier sélectionné</value>
+	</data>
+	<data name="Inv_lblFilePath" xml:space="preserve">
+		<value>Chemin du fichier</value>
+	</data>
+	<data name="Inv_lblTemplateUploading" xml:space="preserve">
+		<value>Téléchargement de modèles</value>
+	</data>
+	<data name="lblLocationFrom" xml:space="preserve">
+		<value>avant</value>
+	</data>
+	<data name="lblLocationTo" xml:space="preserve">
+		<value>après</value>
+	</data>
+	<data name="Users_lblMoveEquipment" xml:space="preserve">
+		<value>Déplacer l'équipement</value>
+	</data>
+	<data name="Users_lblWorkplaceChange" xml:space="preserve">
+		<value>Changement de lieu de travail</value>
+	</data>
+	<data name="Users_EmployeeEquipmentMove" xml:space="preserve">
+		<value>Déplacement du matériel des employés</value>
+	</data>
+	<data name="Users_msgSetWorkPlaceToGroup" xml:space="preserve">
+		<value>Vous essayez d’affecter au groupe {0} un poste de travail où le groupe {1} fonctionne déjà. Cette opération n'est pas possible!</value>
+	</data>
+	<data name="Users_msgNoGroupEmployeeOnWorkPlace" xml:space="preserve">
+		<value>Les employés non membres du groupe {0} travaillent sur leur lieu de travail. Confirmez-vous que les employés {1} sont membres de l'équipe de travail {0}?</value>
+	</data>
+	<data name="Users_msgSetGroupEmployeeOnShifts" xml:space="preserve">
+		<value>{0} est membre du groupe {1}, mais vous le supprimez du poste de travail du groupe et l'affectez au lieu de travail où {2} travaille par roulement. Vous confirmez que {0} ne fait pas partie du groupe {1} et travaille par équipes avec {2}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOn2Group" xml:space="preserve">
+		<value>{0} est membre du groupe {1}, mais vous affectez le groupe {2} au lieu de travail. Un employé ne peut pas être simultanément membre de deux groupes de travail.</value>
+	</data>
+	<data name="Users_msgChangeGroupEmployee" xml:space="preserve">
+		<value>{0} est membre du groupe {1}, mais vous le supprimez du poste de travail du groupe et l'affectez au poste de travail du groupe {2}. Confirmez-vous que {0} n'est pas un membre du groupe {1} et est membre du groupe {2}?</value>
+	</data>
+	<data name="Users_msgRemoveEmployeeFromGroup" xml:space="preserve">
+		<value>{0} est membre du groupe {1}, mais vous le retirez du poste de travail du groupe. Confirmez-vous que {0} n'est plus un membre du groupe {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnShift" xml:space="preserve">
+		<value>Vous affectez {0} au poste de travail sur lequel {1} travaille par équipes. Confirmez-vous que {0} fonctionne en décalage de {1}?</value>
+	</data>
+	<data name="Users_msgSetEmployeeOnGroup" xml:space="preserve">
+		<value>Vous affectez {0} au lieu de travail du groupe {1}. Confirmez-vous que {0} est membre du groupe {1}?</value>
+	</data>
+	<data name="Users_lblSelectWorkplaceToSave" xml:space="preserve">
+		<value>Pour enregistrer, vous devez sélectionner un lieu de travail.</value>
+	</data>
+	<data name="Users_msgConfirmDelete" xml:space="preserve">
+		<value>Confirmez la suppression.</value>
+	</data>
+	<data name="Users_NoLocationSource" xml:space="preserve">
+		<value>Code source de l'emplacement non transmis</value>
+	</data>
+	<data name="Users_NoEmployee" xml:space="preserve">
+		<value>Code d'employé non transmis</value>
+	</data>
+	<data name="Users_NoEmployeeDestination" xml:space="preserve">
+		<value>Le nouveau code d'emplacement n'a pas été transmis</value>
+	</data>
+	<data name="Users_lblEquipmentMovedToNewWorkplace" xml:space="preserve">
+		<value>L'équipement a été transféré sur un nouveau lieu de travail:</value>
+	</data>
+	<data name="Users_lblModele" xml:space="preserve">
+		<value>Modèle</value>
+	</data>
+	<data name="Users_lblEquipmentEmployeeAtNewWorkplace" xml:space="preserve">
+		<value>Équipement délivré à un employé d'un nouveau lieu de travail:</value>
+	</data>
+	<data name="Users_lblPreviousResponsible" xml:space="preserve">
+		<value>Responsable précédent</value>
+	</data>
+	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
+		<value>Supprimer un lieu de travail et fermer le formulaire</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>changer de lieu de travail au bureau</value>
+	</data>
+	<data name="TTN_msgMinTimeLike" xml:space="preserve">
+		<value>Le délai minimal de réévaluation ({0} min.) n’a pas expiré.</value>
+	</data>
+	<data name="Inv_lblAbonentNumber" xml:space="preserve">
+		<value>Numéro d'abonné</value>
+	</data>
+	<data name="Inv_lblAbonentFIO" xml:space="preserve">
+		<value>Nom de l'abonné</value>
+	</data>
+	<data name="Inv_lblEmail" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="Inv_lblAbonentStatus" xml:space="preserve">
+		<value>Statut de l'abonné</value>
+	</data>
+	<data name="Inv_lblStatusChangeDate" xml:space="preserve">
+		<value>Date du dernier changement de statut</value>
+	</data>
+	<data name="Inv_lblChangeReason" xml:space="preserve">
+		<value>Raison du dernier changement</value>
+	</data>
+	<data name="Inv_lblServiceDescription" xml:space="preserve">
+		<value>Description du service de plan tarifaire</value>
+	</data>
+	<data name="Inv_lblEndDate" xml:space="preserve">
+		<value>Date d'expiration</value>
+	</data>
+	<data name="Inv_lblStatrDate" xml:space="preserve">
+		<value>Date de début de l'action</value>
+	</data>
+	<data name="Inv_lblServiceCode" xml:space="preserve">
+		<value>Code de service du plan tarifaire</value>
+	</data>
+	<data name="Inv_lblActivationDate" xml:space="preserve">
+		<value>Date d'activation de l'abonné</value>
+	</data>
+	<data name="Inv_lblCostInMonth" xml:space="preserve">
+		<value>Coût par mois</value>
+	</data>
+	<data name="Inv_lblContractCode" xml:space="preserve">
+		<value>Code du contrat</value>
+	</data>
+	<data name="Inv_lblLoadProviderServices" xml:space="preserve">
+		<value>Télécharger des services Beeline supplémentaires</value>
+	</data>
+	<data name="Inv_lblCostInDay" xml:space="preserve">
+		<value>Coût par jour</value>
+	</data>
+	<data name="Inv_lblCostInclusion" xml:space="preserve">
+		<value>Coût de l'inclusion</value>
+	</data>
+	<data name="Inv_lblGigInMonth" xml:space="preserve">
+		<value>Gigaoctets par mois</value>
 	</data>
 </root>

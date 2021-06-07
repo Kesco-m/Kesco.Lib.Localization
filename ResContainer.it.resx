@@ -1505,12 +1505,6 @@ Sei sicuro che il lavoro sul documento sia completato, dati in email modulo inse
 	<data name="cptnUnicForState" xml:space="preserve">
 		<value>Unico nel Paese</value>
 	</data>
-	<data name="DIRECTIONS_FORM_Role_Title" xml:space="preserve">
-		<value>Specificare il ruolo del dipendente nell'azienda:</value>
-	</data>
-	<data name="DIRECTIONS_FORM_Type_Title" xml:space="preserve">
-		<value>Specificare l'accesso dei dipendenti ai tipi di persone:</value>
-	</data>
 	<data name="EmployeeStatus_Fired" xml:space="preserve">
 		<value>licenziato</value>
 	</data>
@@ -2771,18 +2765,6 @@ unità</value>
 	<data name="cpTo" xml:space="preserve">
 		<value>fino a</value>
 	</data>
-	<data name="DIRECTIONS_FORM_AG_Title" xml:space="preserve">
-		<value>Seleziona diritti aggiuntivi:</value>
-	</data>
-	<data name="DIRECTIONS_FORM_CF_Title" xml:space="preserve">
-		<value>Seleziona cartelle condivise:</value>
-	</data>
-	<data name="DIRECTIONS_FORM_Mail_Title" xml:space="preserve">
-		<value>Seleziona il nome della casella di posta:</value>
-	</data>
-	<data name="DIRECTIONS_FORM_WP_Title" xml:space="preserve">
-		<value>Scegli il luogo di lavoro di un dipendente:</value>
-	</data>
 	<data name="EmployeeStatus_Guest" xml:space="preserve">
 		<value>ospite sulla carta ospite</value>
 	</data>
@@ -3027,13 +3009,13 @@ Vuoi continuare?</value>
 		<value>Sei sicuro di voler eliminare</value>
 	</data>
 	<data name="TTN_optTransactionBalance" xml:space="preserve">
-		<value>Saldo della transazione</value>
+		<value>transazione</value>
 	</data>
 	<data name="TTN_optBalanceCompletedDocuments" xml:space="preserve">
-		<value>Saldo sui documenti completati</value>
+		<value>documenti completati</value>
 	</data>
 	<data name="TTN_optBalanceSignedDocuments" xml:space="preserve">
-		<value>Saldo sui documenti firmati</value>
+		<value>documenti firmati</value>
 	</data>
 	<data name="errPrinting" xml:space="preserve">
 		<value>Errore durante la stampa</value>
@@ -3874,7 +3856,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Aggiungi socket</value>
 	</data>
 	<data name="Inv_lblSocketEditing" xml:space="preserve">
-		<value>Modifica socket</value>
+		<value>Modifica di un punto vendita in una posizione</value>
 	</data>
 	<data name="_Msg_НеСохраняется" xml:space="preserve">
 		<value>Il salvataggio non è possibile.</value>
@@ -3910,7 +3892,7 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Non ci sono prese in questa posizione</value>
 	</data>
 	<data name="Inv_msgNoEmployeesAtLocation" xml:space="preserve">
-		<value>Non ci sono impiegati in questa posizione</value>
+		<value>Nessun dipendente trovato</value>
 	</data>
 	<data name="Inv_msgNoEquipmentAtLocation" xml:space="preserve">
 		<value>Nessuna attrezzatura in questa posizione</value>
@@ -3931,16 +3913,13 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>bambino in relazione alla posizione</value>
 	</data>
 	<data name="Inv_lblUnorganizedComputerizedWorkplace" xml:space="preserve">
-		<value>Posto di lavoro informatizzato non organizzato</value>
+		<value>Luogo di lavoro informatizzato - lavoro non organizzato</value>
 	</data>
 	<data name="Inv_ComputerizedWorkplace" xml:space="preserve">
-		<value>Posto di lavoro informatizzato</value>
+		<value>Posto di lavoro computerizzato - lavoro organizzato</value>
 	</data>
 	<data name="Inv_lblGuestWorkplace" xml:space="preserve">
 		<value>Luogo di lavoro degli ospiti</value>
-	</data>
-	<data name="DIRECTIONS_FORM_ADVINFO_Title" xml:space="preserve">
-		<value>Ulteriori informazioni</value>
 	</data>
 	<data name="Cfi_lblItem" xml:space="preserve">
 		<value>Articolo</value>
@@ -4224,437 +4203,8 @@ Innanzitutto, elimina la fattura risultante.</value>
 	<data name="ExRate_msgRateExists" xml:space="preserve">
 		<value>Il tasso di cambio esiste già alla data specificata</value>
 	</data>
-	<data name="DIRECTIONS_Msg_NoData" xml:space="preserve">
-		<value>&amp;nbsp;</value>
-	</data>
-	<data name="DIRECTIONS_btnGO" xml:space="preserve">
-		<value>Correre</value>
-	</data>
 	<data name="btnOldVersion_Title" xml:space="preserve">
 		<value>Apri il documento nella vecchia versione dell'applicazione</value>
-	</data>
-	<data name="DIRECTIONS_hAccessEml" xml:space="preserve">
-		<value>Accesso ai dati necessari per il dipendente a lavorare</value>
-	</data>
-	<data name="DIRECTIONS_hDadaEml" xml:space="preserve">
-		<value>Dati dei dipendenti</value>
-	</data>
-	<data name="DIRECTIONS_hEquipEml" xml:space="preserve">
-		<value>Attrezzature e comunicazioni necessarie per il dipendente a lavorare</value>
-	</data>
-	<data name="DIRECTIONS_lAEOfiice" xml:space="preserve">
-		<value>dall'ufficio</value>
-	</data>
-	<data name="DIRECTIONS_lAEVpn" xml:space="preserve">
-		<value>remoto (via VPN)</value>
-	</data>
-	<data name="DIRECTIONS_lAIMobile" xml:space="preserve">
-		<value>mobile (SkyLink, 3G)</value>
-	</data>
-	<data name="DIRECTIONS_lAIModem" xml:space="preserve">
-		<value>da casa via modem</value>
-	</data>
-	<data name="DIRECTIONS_lAIOffice" xml:space="preserve">
-		<value>dall'ufficio</value>
-	</data>
-	<data name="DIRECTIONS_lbl_ОтветственнаяКомпания" xml:space="preserve">
-		<value>Società responsabile</value>
-	</data>
-	<data name="DIRECTIONS_lComplete" xml:space="preserve">
-		<value>Raggiunto</value>
-	</data>
-	<data name="DIRECTIONS_lCompN" xml:space="preserve">
-		<value>un computer portatile</value>
-	</data>
-	<data name="DIRECTIONS_lCompP" xml:space="preserve">
-		<value>personale</value>
-	</data>
-	<data name="DIRECTIONS_lCompT" xml:space="preserve">
-		<value>thin client</value>
-	</data>
-	<data name="DIRECTIONS_lMin" xml:space="preserve">
-		<value>min</value>
-	</data>
-	<data name="DIRECTIONS_lPhoneDect" xml:space="preserve">
-		<value>un tubo</value>
-	</data>
-	<data name="DIRECTIONS_lPhoneDesk" xml:space="preserve">
-		<value>sul tavolo</value>
-	</data>
-	<data name="DIRECTIONS_lPhoneIP" xml:space="preserve">
-		<value>Telefono IP</value>
-	</data>
-	<data name="DIRECTIONS_lPhoneIPCam" xml:space="preserve">
-		<value>Fotocamera IP</value>
-	</data>
-	<data name="DIRECTIONS_lPhoneSim" xml:space="preserve">
-		<value>Carta SIM per mob. tel.</value>
-	</data>
-	<data name="DIRECTIONS_lPLExitInSide" xml:space="preserve">
-		<value>solo all'interno dell'azienda</value>
-	</data>
-	<data name="DIRECTIONS_lPLExitOutCountry" xml:space="preserve">
-		<value>+ internazionale</value>
-	</data>
-	<data name="DIRECTIONS_lPLExitOutTown" xml:space="preserve">
-		<value>+ all'interno del paese</value>
-	</data>
-	<data name="DIRECTIONS_lPLExitTown" xml:space="preserve">
-		<value>+ città locale</value>
-	</data>
-	<data name="DIRECTIONS_lRequire" xml:space="preserve">
-		<value>È richiesto</value>
-	</data>
-	<data name="DIRECTIONS_lSotrudnikParent1" xml:space="preserve">
-		<value>come un impiegato</value>
-	</data>
-	<data name="DIRECTIONS_lSotrudnikParent2" xml:space="preserve">
-		<value>invece di dipendente</value>
-	</data>
-	<data name="DIRECTIONS_lTrack" xml:space="preserve">
-		<value>Traccia il ritardo dei dipendenti</value>
-	</data>
-	<data name="DIRECTIONS_Msg_CopyBuffer" xml:space="preserve">
-		<value>copia negli appunti</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Delete" xml:space="preserve">
-		<value>Sei sicuro di voler cancellare questa voce?</value>
-	</data>
-	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
-		<value>l'email non è corretta</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
-		<value>per questo dipendente per questo lavoro esiste già</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ExistsPhone" xml:space="preserve">
-		<value>numero usa</value>
-	</data>
-	<data name="DIRECTIONS_Msg_FillFormByEmpl" xml:space="preserve">
-		<value>Attenzione! Compila il modulo in base ai dati dei dipendenti:</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoAccessEthernet" xml:space="preserve">
-		<value>non fa parte della rete aziendale</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoAccessInternet" xml:space="preserve">
-		<value>nessun accesso internet</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoRequired" xml:space="preserve">
-		<value>non richiesto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoSignSupervisor" xml:space="preserve">
-		<value>L'istruzione non è firmata dal manager diretto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoSpecified" xml:space="preserve">
-		<value>non specificato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoThisDoc" xml:space="preserve">
-		<value>È impossibile specificare lo stesso documento del documento della fondazione!</value>
-	</data>
-	<data name="DIRECTIONS_Msg_OpenEquip" xml:space="preserve">
-		<value>modulo di equipaggiamento aperto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_OpenEquipNotResp" xml:space="preserve">
-		<value>Non è responsabile per l'attrezzatura</value>
-	</data>
-	<data name="DIRECTIONS_Msg_OpenEquipResp" xml:space="preserve">
-		<value>Responsabile per l'attrezzatura</value>
-	</data>
-	<data name="DIRECTIONS_Msg_SimGive" xml:space="preserve">
-		<value>La carte SIM sera émise</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ВыданаSim" xml:space="preserve">
-		<value>Carta SIM emessa</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ДокументНеДоступен" xml:space="preserve">
-		<value>documento non disponibile</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛицоБезБП" xml:space="preserve">
-		<value>il nome utente non è corretto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛогинНеКорректен" xml:space="preserve">
-		<value>il nome utente non è corretto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛогинСуществует" xml:space="preserve">
-		<value>login occupato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто" xml:space="preserve">
-		<value>un computer non può essere installato in questo luogo di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ОписаниеКаталога" xml:space="preserve">
-		<value>Un insieme di tipi di persone utilizzate dalle aziende che lavorano a questo progetto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ОтсутствуетПодчиненность" xml:space="preserve">
-		<value>non c'è subordinazione nella tabella del personale</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе" xml:space="preserve">
-		<value>il posto di lavoro non è in ufficio</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
-		<value>il lavoro non è organizzato sul posto di lavoro del dipendente, verrà creato un nuovo posto di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
-		<value>posto di lavoro non disponibile</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РасположениеЗакрыто" xml:space="preserve">
-		<value>posizione chiusa</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РасположениеНеДоступно" xml:space="preserve">
-		<value>la posizione non è disponibile</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНеДоступен" xml:space="preserve">
-		<value>dipendente non disponibile</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина" xml:space="preserve">
-		<value>il dipendente non ha accesso</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНетЛица" xml:space="preserve">
-		<value>il personale non ha una voce nell'elenco delle persone</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика" xml:space="preserve">
-		<value>il dipendente non specifica la società responsabile della pinna. regolazione</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
-		<value>Il dipendente non ha posto di lavoro. Specificalo nella carta del dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
-		<value>dipendente non licenziato ancora</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние1" xml:space="preserve">
-		<value>decreto (vacanza)</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние2" xml:space="preserve">
-		<value>ospite personale</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние3" xml:space="preserve">
-		<value>respinto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние4" xml:space="preserve">
-		<value>ospite per carta ospite</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние5" xml:space="preserve">
-		<value>straniero</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ФотоНет" xml:space="preserve">
-		<value>il dipendente non ha foto</value>
-	</data>
-	<data name="DIRECTIONS_NTF_CadrNoCompany" xml:space="preserve">
-		<value>Il tavolo del personale del dipendente non indica la società responsabile della regolamentazione finanziaria.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_DelayMustEmail" xml:space="preserve">
-		<value>Per tenere traccia dei ritardi, è necessario specificare \ n i gestori che devono inviare una e-mail sul ritardo di questo dipendente!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_DocInCorrect" xml:space="preserve">
-		<value>Il documento è stato salvato in modo errato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
-		<value>l'e-mail non è corretta.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
-		<value>tale e-mail esiste già</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
-		<value>Il dipendente non è sincronizzato con la directory delle persone.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_LoginIncorrect" xml:space="preserve">
-		<value>Il login non è corretto</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoDataDoc" xml:space="preserve">
-		<value>La data del documento non è specificata.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoDomain" xml:space="preserve">
-		<value>Nessun dominio specificato.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoEmail" xml:space="preserve">
-		<value>Nessuna e-mail specificata.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoEmployee" xml:space="preserve">
-		<value>Nessun dipendente specificato.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoLider" xml:space="preserve">
-		<value>Nessuna testa specificata.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoLogin" xml:space="preserve">
-		<value>Nessun accesso specificato.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoSender" xml:space="preserve">
-		<value>Il nome del mittente della posta non è specificato.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoWorkGo" xml:space="preserve">
-		<value>Non specificato orario di arrivo del dipendente al lavoro!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
-		<value>posto di lavoro dipendente non specificato.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
-		<value>In ritardo non è indicato - verbale esplicativo per il gestore!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_WriteCadr" xml:space="preserve">
-		<value>Nessuna spiegazione scritta in ritardo al dipartimento del personale!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_ГруппаПосменнойРаботы" xml:space="preserve">
-		<value>Spostamento gruppo di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_NTF_НеУказанМобильный" xml:space="preserve">
-		<value>Specifica un telefono cellulare!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_ПосменнаяРабота" xml:space="preserve">
-		<value>spostare il lavoro con</value>
-	</data>
-	<data name="DIRECTIONS_NTF_РабМестаВместе" xml:space="preserve">
-		<value>insieme a</value>
-	</data>
-	<data name="DIRECTIONS_NTF_СотрудникВГруппе" xml:space="preserve">
-		<value>È impossibile salvare il documento, perché Il dipendente specificato è un membro del gruppo di lavoro a turni!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_СотрудникВГруппе1" xml:space="preserve">
-		<value>Il dipendente specificato è un membro del gruppo di lavoro a turni! È impossibile creare un riferimento all'organizzazione del lavoro per tale dipendente!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_СотрудникВГруппе2" xml:space="preserve">
-		<value>È impossibile scegliere un dipendente che appartiene al gruppo di lavoro a turni!</value>
-	</data>
-	<data name="DIRECTIONS_NTF_СотрудникСовпадает" xml:space="preserve">
-		<value>Il dipendente selezionato è lo stesso del dipendente che viene istruito</value>
-	</data>
-	<data name="DIRECTIONS_Pos_BtnAccept" xml:space="preserve">
-		<value>Confermo</value>
-	</data>
-	<data name="DIRECTIONS_Pos_BtnCancel" xml:space="preserve">
-		<value>Cancellazione</value>
-	</data>
-	<data name="DIRECTIONS_Pos_BtnDel" xml:space="preserve">
-		<value>Cancellare</value>
-	</data>
-	<data name="DIRECTIONS_Pos_BtnSave" xml:space="preserve">
-		<value>conservare</value>
-	</data>
-	<data name="DIRECTIONS_Pos_Catalog" xml:space="preserve">
-		<value>Catalogo:</value>
-	</data>
-	<data name="DIRECTIONS_Pos_CatalogChange1" xml:space="preserve">
-		<value>Attenzione: \ n Hai cambiato (aggiunto una nuova voce) l'accesso ai tipi di persone nella directory</value>
-	</data>
-	<data name="DIRECTIONS_Pos_CatalogChange2" xml:space="preserve">
-		<value>Se cambi la directory corrente, tutte le voci aggiunte saranno cancellate! \nChange Directory?</value>
-	</data>
-	<data name="DIRECTIONS_Pos_ConfirmDel" xml:space="preserve">
-		<value>Sei sicuro di voler cancellare questa voce?</value>
-	</data>
-	<data name="DIRECTIONS_Pos_Empl" xml:space="preserve">
-		<value>Dipendente:</value>
-	</data>
-	<data name="DIRECTIONS_Pos_EmplTypes" xml:space="preserve">
-		<value>Accesso dei dipendenti a tipi di persone</value>
-	</data>
-	<data name="DIRECTIONS_Pos_ExecRole" xml:space="preserve">
-		<value>Svolge il ruolo di:</value>
-	</data>
-	<data name="DIRECTIONS_Pos_InCompany" xml:space="preserve">
-		<value>In compagnia</value>
-	</data>
-	<data name="DIRECTIONS_Pos_NoDocId" xml:space="preserve">
-		<value>Impossibile determinare il codice del documento!</value>
-	</data>
-	<data name="DIRECTIONS_Pos_PersonType" xml:space="preserve">
-		<value>Tipo di faccia:</value>
-	</data>
-	<data name="DIRECTIONS_Pos_PersonType1" xml:space="preserve">
-		<value>Tipi di persone:</value>
-	</data>
-	<data name="DIRECTIONS_Pos_PersonType2" xml:space="preserve">
-		<value>\ nNon essere selezionato, perché hai già dato a un dipendente l'accesso a tipi di persone simili.</value>
-	</data>
-	<data name="DIRECTIONS_Pos_ReqCatalog" xml:space="preserve">
-		<value>Specifica il catalogo!</value>
-	</data>
-	<data name="DIRECTIONS_Pos_ReqCatalog2" xml:space="preserve">
-		<value>Specifica la directory o il tipo di persona!</value>
-	</data>
-	<data name="DIRECTIONS_Pos_ReqCatalog3" xml:space="preserve">
-		<value>Sei sicuro di volere che questo dipendente abbia accesso a tutti i tipi di persone nella directory specificata che esistono ora o che verranno visualizzati in futuro?</value>
-	</data>
-	<data name="DIRECTIONS_Pos_RoleEmpl" xml:space="preserve">
-		<value>Il ruolo del dipendente nell'azienda</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_AllCatalog" xml:space="preserve">
-		<value>--tutte le directory--</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_AllCompany" xml:space="preserve">
-		<value>--tutte le aziende--</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_AllTypePerson" xml:space="preserve">
-		<value>--tutti i tipi--</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
-		<value>Elenco</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_Company" xml:space="preserve">
-		<value>Società</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_TypePerson" xml:space="preserve">
-		<value>Tipo di viso</value>
-	</data>
-	<data name="DIRECTIONS_Field_Phone" xml:space="preserve">
-		<value>Telefono richiesto per lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Field_Computer" xml:space="preserve">
-		<value>Per l'operazione è richiesto un computer</value>
-	</data>
-	<data name="DIRECTIONS_Field_AdvEq" xml:space="preserve">
-		<value>Il lavoro richiede attrezzature aggiuntive sul posto di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Field_AEAccess" xml:space="preserve">
-		<value>Accesso alla rete aziendale</value>
-	</data>
-	<data name="DIRECTIONS_Field_Lang" xml:space="preserve">
-		<value>Lingua preferita</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Folders" xml:space="preserve">
-		<value>Accesso alle cartelle condivise</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Roles" xml:space="preserve">
-		<value>Ruoli eseguiti</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Types" xml:space="preserve">
-		<value>Accesso a tipi di persone</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Grants" xml:space="preserve">
-		<value>Diritti aggiuntivi</value>
-	</data>
-	<data name="DIRECTIONS_Field_MobilPhone" xml:space="preserve">
-		<value>Dipendente cellulare</value>
-	</data>
-	<data name="DIRECTIONS_Field_WpType" xml:space="preserve">
-		<value>Disponi un impiegato</value>
-	</data>
-	<data name="DIRECTIONS_Field_WpType_1" xml:space="preserve">
-		<value>il lavoro sul posto di lavoro in ufficio</value>
-	</data>
-	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
-		<value>il lavoro fuori dall'ufficio</value>
-	</data>
-	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
-		<value>l'account</value>
-	</data>
-	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
-		<value>un dipendente riceve un'attrezzatura che non è sul posto di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Title_ShowEq" xml:space="preserve">
-		<value>mostrare le attrezzature</value>
-	</data>
-	<data name="DIRECTIONS_Lbl_WpsEpl" xml:space="preserve">
-		<value>Lavori dei dipendenti</value>
-	</data>
-	<data name="DIRECTIONS_lNoComplete" xml:space="preserve">
-		<value>non fatto</value>
-	</data>
-	<data name="DIRECTIONS_Pos_CatalogNoName" xml:space="preserve">
-		<value>Impossibile ottenere il nome della directory!</value>
-	</data>
-	<data name="DIRECTIONS_Pos_TypeNoName" xml:space="preserve">
-		<value>Impossibile ottenere il nome del tipo di persona!</value>
-	</data>
-	<data name="DIRECTIONS_Pos_TypeAllNoName" xml:space="preserve">
-		<value>Impossibile ottenere il nome di tutti i tipi di viso!</value>
 	</data>
 	<data name="lb_Like" xml:space="preserve">
 		<value>Mi piace l'aspetto e la funzionalità di questo modulo</value>
@@ -4679,9 +4229,6 @@ Innanzitutto, elimina la fattura risultante.</value>
 	</data>
 	<data name="ExRate_errFailedGettingRateCross" xml:space="preserve">
 		<value>Non è possibile ottenere tassi incrociati</value>
-	</data>
-	<data name="DIRECTIONS_Msg_CheckPhoneNumber" xml:space="preserve">
-		<value>Il valore inserito non corrisponde al formato del numero di telefono!</value>
 	</data>
 	<data name="TTN_JsResources" xml:space="preserve">
 		<value>"BtnSave": "conservare",
@@ -4872,199 +4419,10 @@ Innanzitutto, elimina la fattura risultante.</value>
 		<value>Nessun diritto di modificare i dati</value>
 	</data>
 	<data name="Confirm_msgRefreshNoSave" xml:space="preserve">
-		<value>Modifiche non salvate! Vuoi veramente ricaricare i dati?</value>
+		<value>Modifiche non salvate! Vuoi ricaricare i dati o ricontrollare i dati inseriti?</value>
 	</data>
 	<data name="Confirm_msgRefreshNoSaveUsers" xml:space="preserve">
 		<value>Ce formulaire est actuellement modifié par les employés: {0}. À la suite du rechargement des données, toutes les modifications apportées par eux sur leurs formulaires seront annulées. Mettre à jour les données du formulaire?</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailNotUnique1" xml:space="preserve">
-		<value>l'e-mail deve essere unica</value>
-	</data>
-	<data name="DIRECTIONS_Field_Phone_Table" xml:space="preserve">
-		<value>stazionario</value>
-	</data>
-	<data name="DIRECTIONS_Field_Phone_Dect" xml:space="preserve">
-		<value>telefono dell'ufficio</value>
-	</data>
-	<data name="DIRECTIONS_Field_Phone_WebCam" xml:space="preserve">
-		<value>Videocamera WEB</value>
-	</data>
-	<data name="DIRECTIONS_Field_Computer_Desktop" xml:space="preserve">
-		<value>tavolo</value>
-	</data>
-	<data name="DIRECTIONS_Field_Computer_Laptop" xml:space="preserve">
-		<value>un computer portatile</value>
-	</data>
-	<data name="DIRECTIONS_Field_AEAccess_Login" xml:space="preserve">
-		<value>Accesso</value>
-	</data>
-	<data name="DIRECTIONS_Field_AccessData" xml:space="preserve">
-		<value>Accesso ai dati necessari per il dipendente a lavorare</value>
-	</data>
-	<data name="DIRECTIONS_Field_AccessData_How" xml:space="preserve">
-		<value>come un impiegato</value>
-	</data>
-	<data name="DIRECTIONS_Field_AccessData_Instead" xml:space="preserve">
-		<value>invece di dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Folders_Title" xml:space="preserve">
-		<value>selezionare le cartelle condivise a cui il dipendente avrà accesso</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Roles_Title" xml:space="preserve">
-		<value>scegli il ruolo che il dipendente svolge in azienda</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Types_Title" xml:space="preserve">
-		<value>selezionare i tipi di persone a cui il dipendente ha accesso</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Grants_Title" xml:space="preserve">
-		<value>selezionare ulteriori diritti</value>
-	</data>
-	<data name="DIRECTIONS_Field_AdvInfo" xml:space="preserve">
-		<value>Extra. informazioni sull'organizzazione del lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Field_Positions_Roles_Select" xml:space="preserve">
-		<value>Soddisfa il ruolo</value>
-	</data>
-	<data name="DIRECTIONS_Field_WP_Link" xml:space="preserve">
-		<value>Scegli un posto di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoCadr" xml:space="preserve">
-		<value>il dipendente non ha una posizione nell'elenco del personale</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoLider1" xml:space="preserve">
-		<value>il dipendente non ha un manager diretto</value>
-	</data>
-	<data name="DIRECTIONS_Field_Lider" xml:space="preserve">
-		<value>Supervisore immediato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoPost" xml:space="preserve">
-		<value>il dipendente non specifica la posizione</value>
-	</data>
-	<data name="DIRECTIONS_NTF_PostNoEqualsCadr" xml:space="preserve">
-		<value>la posizione del dipendente non corrisponde alla posizione nel personale</value>
-	</data>
-	<data name="DIRECTIONS_Title_EquipmentInLocation" xml:space="preserve">
-		<value>Attrezzature sul posto</value>
-	</data>
-	<data name="DIRECTIONS_Title_EquipmentNoLocation1" xml:space="preserve">
-		<value>Attrezzature per i dipendenti</value>
-	</data>
-	<data name="DIRECTIONS_Title_EquipmentNoLocation2" xml:space="preserve">
-		<value>non è al suo posto di lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Title_EquipmentNoLocation3" xml:space="preserve">
-		<value>nessun dato di equipaggiamento sui luoghi di lavoro di altre persone</value>
-	</data>
-	<data name="DIRECTIONS_Title_ShowEq1" xml:space="preserve">
-		<value>modulo di equipaggiamento aperto</value>
-	</data>
-	<data name="DIRECTIONS_Msg_UnbleSave" xml:space="preserve">
-		<value>Salvare è impossibile!</value>
-	</data>
-	<data name="DIRECTIONS_MSG_ЗаписьСуществует" xml:space="preserve">
-		<value>Questa voce esiste già.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_НеУказанаРоль" xml:space="preserve">
-		<value>Il ruolo del dipendente non è specificato.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЧтоДанныйСотрудник" xml:space="preserve">
-		<value>Sei sicuro di volere questo impiegato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях1" xml:space="preserve">
-		<value>ha svolto il ruolo specificato in tutte le holding esistenti</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях2" xml:space="preserve">
-		<value>e le aziende che entreranno a far parte dell'azienda in futuro</value>
-	</data>
-	<data name="DIRECTIONS_Msg_НетУказанКаталог" xml:space="preserve">
-		<value>Devi specificare una directory</value>
-	</data>
-	<data name="DIRECTIONS_Msg_НетУказанКаталог1" xml:space="preserve">
-		<value>Devi specificare la directory o il tipo di persona</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ВсеКаталоги" xml:space="preserve">
-		<value>accesso in tutte le directory</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ВсеКаталоги1" xml:space="preserve">
-		<value>che esiste ora o apparirà in futuro, al tipo di volto specificato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ВсеТипы" xml:space="preserve">
-		<value>avere accesso a tutti i tipi di persone nella directory specificata</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ВсеТипы1" xml:space="preserve">
-		<value>che esistono ora o appariranno in futuro</value>
-	</data>
-	<data name="DIRECTIONS_Rnd_AllCompany1" xml:space="preserve">
-		<value>--in tutte le società--</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_ЧтоТребуется" xml:space="preserve">
-		<value>Non specificato per essere organizzato dal dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_РабМестоВОфисе" xml:space="preserve">
-		<value>Posto di lavoro dell'ufficio non specificato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_ТребуетсяДляРаботы" xml:space="preserve">
-		<value>Non è indicato che un dipendente sarà tenuto a lavorare.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_Сеть" xml:space="preserve">
-		<value>Nessun accesso alla rete aziendale</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_МобТелефон" xml:space="preserve">
-		<value>Il telefono cellulare del dipendente non è specificato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_Как" xml:space="preserve">
-		<value>Campo non riempito come dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_Вместо" xml:space="preserve">
-		<value>Campo non riempito 'invece di dipendente'</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_ВместоУчетки" xml:space="preserve">
-		<value>È impossibile salvare le istruzioni, da allora e il dipendente a cui viene fatta l'indicazione e il dipendente "invece" ha vari account</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_НетСотрудника" xml:space="preserve">
-		<value>Identifica dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_НетЗаписи" xml:space="preserve">
-		<value>Record non trovato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_MailBox" xml:space="preserve">
-		<value>Errore nel recupero dei possibili nomi delle cassette postali</value>
-	</data>
-	<data name="DIRECTIONS_NTF_ГруппаНаРасположении" xml:space="preserve">
-		<value>Un gruppo di lavoro a turni sta già lavorando nel luogo di lavoro specificato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_SimRequired" xml:space="preserve">
-		<value>posizione del dipendente</value>
-	</data>
-	<data name="DIRECTIONS_NTF_SimRequired1" xml:space="preserve">
-		<value>non è richiesta alcuna connessione mobile</value>
-	</data>
-	<data name="DIRECTIONS_NTF_SimRequired2" xml:space="preserve">
-		<value>è necessaria una connessione Internet prepagata mobile</value>
-	</data>
-	<data name="DIRECTIONS_NTF_SimRequired3" xml:space="preserve">
-		<value>È necessaria una connessione mobile con ricarica megabyte</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoIssued" xml:space="preserve">
-		<value>non rilasciato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoEquipment" xml:space="preserve">
-		<value>Le apparecchiature IT non sono disponibili in questa posizione o non si dispone dell'autorizzazione per visualizzarle</value>
-	</data>
-	<data name="DIRECTIONS_btnGO_Title" xml:space="preserve">
-		<value>Segui le istruzioni per organizzare il lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Title_GroupMembers" xml:space="preserve">
-		<value>mostra il lavoro di gruppo in turni</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmptyGroup" xml:space="preserve">
-		<value>non ci sono impiegati nel gruppo di turno</value>
-	</data>
-	<data name="DIRECTIONS_Title_GroupMembers1" xml:space="preserve">
-		<value>La composizione del lavoro di gruppo</value>
-	</data>
-	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто" xml:space="preserve">
-		<value>l'impiegato ha un posto di lavoro non organizzato computerizzato nell'ufficio</value>
 	</data>
 	<data name="msgSendMsg" xml:space="preserve">
 		<value>Invia un messaggio</value>
@@ -5098,15 +4456,6 @@ Innanzitutto, elimina la fattura risultante.</value>
 	</data>
 	<data name="ENUM_РабочееМесто_5" xml:space="preserve">
 		<value>Luogo di lavoro degli ospiti, lavoro a turni</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РаботаОрганизована" xml:space="preserve">
-		<value>il lavoro è organizzato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РаботаНеОрганизована" xml:space="preserve">
-		<value>lavoro non organizzato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РаботаУжеОрганизована" xml:space="preserve">
-		<value>Il lavoro sul posto di lavoro {0} è già organizzato. Scegli un altro posto di lavoro!</value>
 	</data>
 	<data name="TTN_lblBaseRemoval" xml:space="preserve">
 		<value>Rimozione di base</value>
@@ -5167,112 +4516,6 @@ Innanzitutto, elimina la fattura risultante.</value>
 	</data>
 	<data name="Cfi_lblDeleteCashFlowType" xml:space="preserve">
 		<value>Elimina il tipo</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ФотоНет_Title" xml:space="preserve">
-		<value>Contatta il dipartimento del personale per fotografare un dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНетЛица_Title" xml:space="preserve">
-		<value>Contattare il dipartimento del personale per sincronizzare il personale e l'elenco delle persone</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛогинНеКорректен_Title" xml:space="preserve">
-		<value>Il login deve essere composto solo da: lettere latine, numeri e segni [.-]. Un accesso può iniziare e terminare solo con una lettera o un numero. Correggi il login.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛогинСуществует_Title" xml:space="preserve">
-		<value>Devi specificare un nome utente diverso</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoWorkPlace_Title" xml:space="preserve">
-		<value>Devi specificare il luogo di lavoro per l'organizzazione del lavoro</value>
-	</data>
-	<data name="DIRECTIONS_Msg_Err_MailBox_Title" xml:space="preserve">
-		<value>Contattare l'assistenza clienti per correggere l'errore.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoSpecified_Title" xml:space="preserve">
-		<value>Devi specificare i dati mancanti</value>
-	</data>
-	<data name="DIRECTIONS_Msg_EmailНеКорректен_Title" xml:space="preserve">
-		<value>Еmail può contenere solo lettere, numeri e segni latini [.-]. Il nome della casella di posta può iniziare e terminare solo con una lettera o un numero. Apporta le correzioni necessarie</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailNotUnique_Title" xml:space="preserve">
-		<value>È necessario specificare un nome di casella postale diverso.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoCadr_Title" xml:space="preserve">
-		<value>Contatta il dipartimento del personale per portare il dipendente nella posizione</value>
-	</data>
-	<data name="DIRECTIONS_NTF_ExcessEq_Title" xml:space="preserve">
-		<value>Contatta l'assistenza</value>
-	</data>
-	<data name="DIRECTIONS_NTF_NoLider1_Title" xml:space="preserve">
-		<value>Contattare il dipartimento del personale per accettare un dipendente per la posizione o aggiungere la subordinazione amministrativa al dipendente.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РабочееНеДоступно_Title" xml:space="preserve">
-		<value>Contatta l'assistenza</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ExistsDirection_Title" xml:space="preserve">
-		<value>Vérifiez ces instructions, apportez des modifications si nécessaire. Si les exigences des instructions précédemment créées coïncident avec celles en cours, il n'est pas nécessaire de créer une nouvelle instruction....</value>
-	</data>
-	<data name="DIRECTIONS_NTF_ПосменнаяРабота_Title" xml:space="preserve">
-		<value>Nel posto di lavoro specificato, un altro dipendente sta già lavorando. Devi scegliere un altro posto di lavoro o creare un gruppo di lavoro a turni (contatta l'assistenza)</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует_Title" xml:space="preserve">
-		<value>Contattare il reparto personale per aggiungere il posto di lavoro specificato al dipendente.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто_Title" xml:space="preserve">
-		<value>È necessario innanzitutto organizzare il lavoro (in assenza di creare o eseguire un'istruzione esistente) in un ambiente di lavoro non organizzato.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе_Title" xml:space="preserve">
-		<value>Contatta l'assistenza</value>
-	</data>
-	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто_Title" xml:space="preserve">
-		<value>Contatta l'assistenza</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина_Title" xml:space="preserve">
-		<value>Vous devez sélectionner un autre employé, car celui-ci ne dispose pas d'un identifiant et que son accès aux données a déjà été supprimé ou qu'il ne l'était pas.</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние_Title" xml:space="preserve">
-		<value>Contatta l'ufficio delle risorse umane per cambiare lo stato dei dipendenti</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникНеУволен_Title" xml:space="preserve">
-		<value>Come risultato dell'esecuzione delle istruzioni, l'account e tutti i diritti di accesso ai dati saranno trasferiti al dipendente a cui viene impartita l'istruzione. L'impiegato "invece di" dopo l'esecuzione delle istruzioni non funzionerà.
-È necessario selezionare un altro dipendente o contattare il dipartimento del personale per licenziare il dipendente "invece".</value>
-	</data>
-	<data name="DIRECTIONS_Msg_СотрудникСостояние3_Title" xml:space="preserve">
-		<value>Il dipendente "as" è già stato licenziato, i suoi diritti di accesso ai dati potrebbero già essere cancellati. Devi selezionare un altro dipendente</value>
-	</data>
-	<data name="DIRECTIONS_Msg_NoSignSupervisor_Title" xml:space="preserve">
-		<value>Une indication de l'organisation du travail de l'employé doit être faite ou signée par son supérieur immédiat.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_AccountExpiresNo" xml:space="preserve">
-		<value>non impostare AccountExpires</value>
-	</data>
-	<data name="DIRECTIONS_NTF_AccountExpiresNo_Title" xml:space="preserve">
-		<value>È necessario impostare la data in cui l'account è valido, perché impiegato già licenziato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_AccountExpires_Title" xml:space="preserve">
-		<value>È necessario rimuovere la restrizione sull'azione dell'account, poiché il dipendente non è ancora stato licenziato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_Disabled_Title" xml:space="preserve">
-		<value>Devi abilitare l'account, perché il dipendente non è ancora stato licenziato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
-		<value>l'accesso non termina con il nome dell'impiegato</value>
-	</data>
-	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
-		<value>L'accesso deve terminare con il nome dell'impiegato. Devi specificare un login diverso.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
-		<value>l'e-mail non corrisponde al nome e cognome dell'impiegato</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
-		<value>Il nome della casella di posta elettronica deve consistere in una combinazione del nome e del cognome del dipendente</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailDomain" xml:space="preserve">
-		<value>la posta elettronica non corrisponde alla compagnia</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
-		<value>Il dominio delle cassette postali non corrisponde al dominio aziendale del dipendente. Devi selezionare un dominio diverso.</value>
-	</data>
-	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
-		<value>l'impiegato {0} ha un'e-mail {1}</value>
 	</data>
 	<data name="TTN_btnViewPosition" xml:space="preserve">
 		<value>visualizza oggetto</value>
@@ -5370,9 +4613,6 @@ Innanzitutto, elimina la fattura risultante.</value>
 	<data name="Users_lblDeleteWorkPlace" xml:space="preserve">
 		<value>Elimina un posto di lavoro e chiudi il modulo</value>
 	</data>
-	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
-		<value>trasferirsi in un altro posto di lavoro in ufficio</value>
-	</data>
 	<data name="TTN_msgMinTimeLike" xml:space="preserve">
 		<value>Il tempo minimo di rivalutazione ({0} min.) non è scaduto.</value>
 	</data>
@@ -5426,5 +4666,1137 @@ Innanzitutto, elimina la fattura risultante.</value>
 	</data>
 	<data name="Inv_lblGigInMonth" xml:space="preserve">
 		<value>Gigabyte al mese</value>
+	</data>
+	<data name="Inv_lblIT" xml:space="preserve">
+		<value>Solo apparecchiature IT</value>
+	</data>
+	<data name="Inv_lblNotIT" xml:space="preserve">
+		<value>Non apparecchiature IT</value>
+	</data>
+	<data name="TTN_lblBalance" xml:space="preserve">
+		<value>Saldo di</value>
+	</data>
+	<data name="Confirm_msgRefresh_captionYes" xml:space="preserve">
+		<value>Ricarica</value>
+	</data>
+	<data name="Confirm_msgRefresh_captionNo" xml:space="preserve">
+		<value>ricontrollo</value>
+	</data>
+	<data name="Confirm_msgRefresh_captionCancel" xml:space="preserve">
+		<value>cancellazione</value>
+	</data>
+	<data name="Inv_msgDeleteSoketConfirm" xml:space="preserve">
+		<value>Sei sicuro di voler rimuovere la presa</value>
+	</data>
+	<data name="Inv_msgDeleteSocket" xml:space="preserve">
+		<value>rimuovere la presa</value>
+	</data>
+	<data name="Inv_msgEditSocket" xml:space="preserve">
+		<value>modifica outlet</value>
+	</data>
+	<data name="Inv_lblPersonalArea" xml:space="preserve">
+		<value>Conto personale</value>
+	</data>
+	<data name="Inv_lblPersonalAreas" xml:space="preserve">
+		<value>Conti personali</value>
+	</data>
+	<data name="Inv_lblName" xml:space="preserve">
+		<value>Nome</value>
+	</data>
+	<data name="Inv_lblType" xml:space="preserve">
+		<value>Tipo</value>
+	</data>
+	<data name="Inv_lblLogin" xml:space="preserve">
+		<value>Accesso</value>
+	</data>
+	<data name="Inv_lblPassword" xml:space="preserve">
+		<value>Password</value>
+	</data>
+	<data name="Inv_msgNoData" xml:space="preserve">
+		<value>Nessun dato</value>
+	</data>
+	<data name="Inv_lblAddPersonalAccount" xml:space="preserve">
+		<value>aggiungi un account personale</value>
+	</data>
+	<data name="Inv_msgDeletePersonalCabinet" xml:space="preserve">
+		<value>Sei sicuro di voler cancellare il tuo account</value>
+	</data>
+	<data name="Inv_lblDeletePersonalCabinet" xml:space="preserve">
+		<value>elimina l'account personale</value>
+	</data>
+	<data name="Inv_lblEditPersonalCabinet" xml:space="preserve">
+		<value>modifica il tuo account</value>
+	</data>
+	<data name="Inv_lblUserAccess" xml:space="preserve">
+		<value>Può concedere diritti</value>
+	</data>
+	<data name="Inv_lblAccessAdd" xml:space="preserve">
+		<value>aggiungi permessi</value>
+	</data>
+	<data name="Inv_lblAccessEdit" xml:space="preserve">
+		<value>modificare i diritti di accesso</value>
+	</data>
+	<data name="Inv_lblAccessDelete" xml:space="preserve">
+		<value>rimuovere i diritti di accesso</value>
+	</data>
+	<data name="Inv_msgAccessDelete" xml:space="preserve">
+		<value>Sei sicuro di voler rimuovere i diritti del dipendente</value>
+	</data>
+	<data name="Inv_lblAccessRight" xml:space="preserve">
+		<value>diritti di accesso</value>
+	</data>
+	<data name="Inv_lblPersonalCabinetAccessRight" xml:space="preserve">
+		<value>Diritti di accesso al tuo account personale</value>
+	</data>
+	<data name="lTotalFound2" xml:space="preserve">
+		<value>Record trovati: {0}</value>
+	</data>
+	<data name="btnMinimize" xml:space="preserve">
+		<value>Girare</value>
+	</data>
+	<data name="btnMaximize" xml:space="preserve">
+		<value>Aperto</value>
+	</data>
+	<data name="btnCollapse" xml:space="preserve">
+		<value>Crollo</value>
+	</data>
+	<data name="btnRestore" xml:space="preserve">
+		<value>Ristabilire</value>
+	</data>
+	<data name="EmployeeIsGroupChoiceOther" xml:space="preserve">
+		<value>Il dipendente è un gruppo di turno. Scegli un altro dipendente.</value>
+	</data>
+	<data name="blockedPhone_Grid_Empty" xml:space="preserve">
+		<value>Nessun dato sui numeri di telefono bloccati</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_КодЗаписи" xml:space="preserve">
+		<value>Codice di registrazione</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_НомерТфОП" xml:space="preserve">
+		<value>Numero di telefono</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_ПричинаБлокировки" xml:space="preserve">
+		<value>Motivo del blocco</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_ВременноДо" xml:space="preserve">
+		<value>Chiuso fino a</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_Сотрудник" xml:space="preserve">
+		<value>Сambiato</value>
+	</data>
+	<data name="blockedPhone_Form_Title" xml:space="preserve">
+		<value>Numero di telefono bloccato</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_Delete_Title" xml:space="preserve">
+		<value>Sblocca il numero di telefono</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_Edit_Title" xml:space="preserve">
+		<value>Modifica le informazioni sul numero di telefono bloccato</value>
+	</data>
+	<data name="blockedPhone_Search_Title" xml:space="preserve">
+		<value>Numeri di telefono bloccati</value>
+	</data>
+	<data name="blockedPhone_Form_ТелефонныйНомер" xml:space="preserve">
+		<value>Numero di telefono</value>
+	</data>
+	<data name="blockedPhone_Form_Формат" xml:space="preserve">
+		<value>Formato numerico internazionale</value>
+	</data>
+	<data name="blockedPhone_Form_КодСтраны" xml:space="preserve">
+		<value>Codice paese</value>
+	</data>
+	<data name="blockedPhone_Form_КодГорода" xml:space="preserve">
+		<value>Codice città / distretto</value>
+	</data>
+	<data name="blockedPhone_Form_Местный" xml:space="preserve">
+		<value>Numero locale</value>
+	</data>
+	<data name="blockedPhone_Form_Состояние" xml:space="preserve">
+		<value>Il numero di telefono è bloccato</value>
+	</data>
+	<data name="blockedPhone_Form_Заблокирован" xml:space="preserve">
+		<value>bloccato</value>
+	</data>
+	<data name="blockedPhone_Form_Причина" xml:space="preserve">
+		<value>Motivo del blocco</value>
+	</data>
+	<data name="blockedPhone_Btn_Caption" xml:space="preserve">
+		<value>Blocca in&lt;br/&gt;modo permanente</value>
+	</data>
+	<data name="blockedPhone_Btn_Title" xml:space="preserve">
+		<value>Blocca il numero di telefono senza limiti di tempo e chiudi il modulo</value>
+	</data>
+	<data name="blockedPhone_Form_До" xml:space="preserve">
+		<value>a</value>
+	</data>
+	<data name="blockedPhone_Btn_Delete_Caption" xml:space="preserve">
+		<value>Elimina</value>
+	</data>
+	<data name="blockedPhone_Btn_Delete_Title" xml:space="preserve">
+		<value>Sblocca il numero di telefono e chiudi il modulo</value>
+	</data>
+	<data name="blockedPhone_Ntf_Номер" xml:space="preserve">
+		<value>Numero locale non specificato!</value>
+	</data>
+	<data name="blockedPhone_Ntf_Причина" xml:space="preserve">
+		<value>Il motivo del blocco non è indicato!</value>
+	</data>
+	<data name="blockedPhone_Ntf_Title" xml:space="preserve">
+		<value>Salva errore</value>
+	</data>
+	<data name="blockedPhone_Confirm_Delete" xml:space="preserve">
+		<value>Sei sicuro di voler sbloccare il numero di telefono</value>
+	</data>
+	<data name="Inv_lblSocketWorks" xml:space="preserve">
+		<value>L'uscita sta funzionando</value>
+	</data>
+	<data name="Inv_lblSocketNote" xml:space="preserve">
+		<value>Nota per la presa</value>
+	</data>
+	<data name="lblSocketChangedBy" xml:space="preserve">
+		<value>Outlet cambiato</value>
+	</data>
+	<data name="lblSocketChanged" xml:space="preserve">
+		<value>Outlet cambiato</value>
+	</data>
+	<data name="lblExtSearch" xml:space="preserve">
+		<value>Ricerca avanzata</value>
+	</data>
+	<data name="Users_msgFieldInRussian" xml:space="preserve">
+		<value>I campi devono essere compilati in russo</value>
+	</data>
+	<data name="Cert_lblCertifications" xml:space="preserve">
+		<value>Certificazioni</value>
+	</data>
+	<data name="Cert_lblCertificateStamp" xml:space="preserve">
+		<value>Impronta digitale del certificato</value>
+	</data>
+	<data name="Cert_lblPersonOwnerCertificate" xml:space="preserve">
+		<value>Persona titolare del certificato</value>
+	</data>
+	<data name="Cert_lblOwnerCertificate" xml:space="preserve">
+		<value>Titolare del certificato</value>
+	</data>
+	<data name="Cert_lblPersonCompany" xml:space="preserve">
+		<value>Volto dell'azienda</value>
+	</data>
+	<data name="Cert_lblCompanyName" xml:space="preserve">
+		<value>Società</value>
+	</data>
+	<data name="Cert_lblContract" xml:space="preserve">
+		<value>Accordo</value>
+	</data>
+	<data name="Cert_lblPublisher" xml:space="preserve">
+		<value>Rilasciato da</value>
+	</data>
+	<data name="Cert_lblCertificateNomination" xml:space="preserve">
+		<value>Assegnazioni di certificati</value>
+	</data>
+	<data name="Cert_lblValidFrom" xml:space="preserve">
+		<value>Valido da</value>
+	</data>
+	<data name="Cert_lblValidTo" xml:space="preserve">
+		<value>Valido fino al</value>
+	</data>
+	<data name="Cert_lblNotValid" xml:space="preserve">
+		<value>Non valido</value>
+	</data>
+	<data name="Cert_msgNoKeysAtCertificate" xml:space="preserve">
+		<value>Il certificato non ha chiavi</value>
+	</data>
+	<data name="Cert_lblKeyChangedBy" xml:space="preserve">
+		<value>Chiave modificata</value>
+	</data>
+	<data name="Cert_lblKeyChanged" xml:space="preserve">
+		<value>Chiave modificata</value>
+	</data>
+	<data name="Cert_lblKeyEditing" xml:space="preserve">
+		<value>Modifica della posizione di una chiave di certificato</value>
+	</data>
+	<data name="Cer_msgDeleteKeyConfirm" xml:space="preserve">
+		<value>Sei sicuro di voler eliminare la posizione della chiave</value>
+	</data>
+	<data name="Cer_msgEditKey" xml:space="preserve">
+		<value>modifica posizione chiave</value>
+	</data>
+	<data name="Cer_msgDeleteKey" xml:space="preserve">
+		<value>rimuovere la posizione chiave</value>
+	</data>
+	<data name="Cert_lblAddKey" xml:space="preserve">
+		<value>Aggiungi posizione chiave</value>
+	</data>
+	<data name="lblFilter" xml:space="preserve">
+		<value>Filtro</value>
+	</data>
+	<data name="lblDeleteAllFilter" xml:space="preserve">
+		<value>Elimina tutti i filtri</value>
+	</data>
+	<data name="lblRemoveAllInstalledFilters" xml:space="preserve">
+		<value>rimuovere tutti i filtri installati</value>
+	</data>
+	<data name="lblOpenSearchResultsSeparateWindow" xml:space="preserve">
+		<value>apri i risultati della ricerca in una finestra separata</value>
+	</data>
+	<data name="Inv_lblLocations" xml:space="preserve">
+		<value>Posizioni</value>
+	</data>
+	<data name="Inv_lblEditFilter" xml:space="preserve">
+		<value>modifica filtro</value>
+	</data>
+	<data name="Inv_lblDeleteFilter" xml:space="preserve">
+		<value>rimuovere filtro</value>
+	</data>
+	<data name="Inv_lblMoveTo" xml:space="preserve">
+		<value>Sposta in</value>
+	</data>
+	<data name="Inv_lblNotAllSubordinateItemsDisplayed" xml:space="preserve">
+		<value>Non vengono visualizzati tutti gli elementi subordinati</value>
+	</data>
+	<data name="Inv_NotRightChangeStatus" xml:space="preserve">
+		<value>Non sei autorizzato a modificare lo stato di questa posizione</value>
+	</data>
+	<data name="Inv_NotRightChangeLocations" xml:space="preserve">
+		<value>Non sei autorizzato a modificare questa posizione.</value>
+	</data>
+	<data name="Inv_NotRightAddLocations" xml:space="preserve">
+		<value>Non sei autorizzato ad aggiungere una posizione.</value>
+	</data>
+	<data name="Inv_msgLocationExists" xml:space="preserve">
+		<value>Una posizione con quel nome esiste già.</value>
+	</data>
+	<data name="Inv_msgEnterOtherLocation" xml:space="preserve">
+		<value>Inserisci un nome diverso o modifica la posizione.</value>
+	</data>
+	<data name="lblAttention" xml:space="preserve">
+		<value>Attenzione</value>
+	</data>
+	<data name="Inv_lblCannotEditRootLocation" xml:space="preserve">
+		<value>Impossibile modificare la posizione di root</value>
+	</data>
+	<data name="Inv_lblGoToPhoneNumber" xml:space="preserve">
+		<value>vai al numero di telefono</value>
+	</data>
+	<data name="Inv_lblGoToLocalNetwork" xml:space="preserve">
+		<value>vai alla rete locale</value>
+	</data>
+	<data name="Inv_lblGoToEquipment" xml:space="preserve">
+		<value>vai alle attrezzature</value>
+	</data>
+	<data name="cmdOpen" xml:space="preserve">
+		<value>Aperto</value>
+	</data>
+	<data name="Inv_lblCannotHideRootLocation" xml:space="preserve">
+		<value>Impossibile nascondere la posizione della radice</value>
+	</data>
+	<data name="lblOpen" xml:space="preserve">
+		<value>aperto</value>
+	</data>
+	<data name="lblClose" xml:space="preserve">
+		<value>vicino</value>
+	</data>
+	<data name="Inv_lblYouDefinitelyWant" xml:space="preserve">
+		<value>Sei sicuro di voler 0 questa posizione?</value>
+	</data>
+	<data name="Inv_lblLocationCode" xml:space="preserve">
+		<value>Codice posizione</value>
+	</data>
+	<data name="lblClosed" xml:space="preserve">
+		<value>Chiuso</value>
+	</data>
+	<data name="Inv_lblLocationPath" xml:space="preserve">
+		<value>Percorso della posizione</value>
+	</data>
+	<data name="Inv_lblLocalNetwork" xml:space="preserve">
+		<value>La rete locale</value>
+	</data>
+	<data name="Inv_lblSatisfiesFiltrationConditions" xml:space="preserve">
+		<value>Soddisfa le condizioni di filtrazione</value>
+	</data>
+	<data name="Inv_lblPort" xml:space="preserve">
+		<value>Port</value>
+	</data>
+	<data name="Inv_lblDeleteFilterFromColumn" xml:space="preserve">
+		<value>rimuove il filtro dalla colonna</value>
+	</data>
+	<data name="cmdCancelDescription" xml:space="preserve">
+		<value>Annulla tutte le modifiche e chiudi la finestra</value>
+	</data>
+	<data name="Confirm_msgCancel" xml:space="preserve">
+		<value>Modifiche non salvate! Vuoi comunque chiudere la pagina?</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_byLastModified" xml:space="preserve">
+		<value>Ultima modifica di</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_Инициатор" xml:space="preserve">
+		<value>Iniziatore</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_ОснованиеБлокировки" xml:space="preserve">
+		<value>Base di blocco</value>
+	</data>
+	<data name="blockedPhone_Form_Основание" xml:space="preserve">
+		<value>Base di blocco</value>
+	</data>
+	<data name="blockedPhone_Grid_Clmn_ShowIinactive" xml:space="preserve">
+		<value>mostra i blocchi completati</value>
+	</data>
+	<data name="blockedPhone_IndicateWhoCalled" xml:space="preserve">
+		<value>(Indica chi ha chiamato, a chi e per quale scopo)</value>
+	</data>
+	<data name="blockedPhone_Form_КтоЗвонил" xml:space="preserve">
+		<value>Chiamato</value>
+	</data>
+	<data name="blockedPhone_Form_КомуЗвонили" xml:space="preserve">
+		<value>Chi hanno chiamato?</value>
+	</data>
+	<data name="blockedPhone_Form_Лицо" xml:space="preserve">
+		<value>Persona</value>
+	</data>
+	<data name="blockedPhone_Form_СКакойЦелью" xml:space="preserve">
+		<value>Con l'obiettivo di</value>
+	</data>
+	<data name="blockedPhone_Form_Юридическое" xml:space="preserve">
+		<value>legale</value>
+	</data>
+	<data name="blockedPhone_Form_Физическое" xml:space="preserve">
+		<value>fisico</value>
+	</data>
+	<data name="blockedPhone_Form_Разблокировать" xml:space="preserve">
+		<value>Sbloccare</value>
+	</data>
+	<data name="blockedPhone_Form_НеУстановлено" xml:space="preserve">
+		<value>non installato</value>
+	</data>
+	<data name="blockedPhone_SavePhoneCloseAlt" xml:space="preserve">
+		<value>Salva telefono e chiudi il modulo</value>
+	</data>
+	<data name="blockedPhone_SavePhoneAlt" xml:space="preserve">
+		<value>Salva il telefono</value>
+	</data>
+	<data name="blockedPhone_Ntf_КтоЗвонил" xml:space="preserve">
+		<value>Chi ha chiamato non specificato</value>
+	</data>
+	<data name="blockedPhone_Ntf_КомуЗвонили" xml:space="preserve">
+		<value>Non specificato chi è stato chiamato</value>
+	</data>
+	<data name="blockedPhone_Ntf_СКакойЦелью" xml:space="preserve">
+		<value>Non è specificato per quale scopo hanno chiamato</value>
+	</data>
+	<data name="blockedPhone_Form__лицо" xml:space="preserve">
+		<value>persona</value>
+	</data>
+	<data name="blockedPhone_Form_С" xml:space="preserve">
+		<value>a partire dal</value>
+	</data>
+	<data name="Cert_lblNoCertifications" xml:space="preserve">
+		<value>Nessun certificato</value>
+	</data>
+	<data name="Cert_msgNoLocationKey" xml:space="preserve">
+		<value>Mancano posizioni chiave</value>
+	</data>
+	<data name="Cert_lblLocationKey" xml:space="preserve">
+		<value>Posizione chiave</value>
+	</data>
+	<data name="Cert_lblPrivateKeyContainerName" xml:space="preserve">
+		<value>Nome contenitore chiave privata</value>
+	</data>
+	<data name="Cert_lblEditingCertificate" xml:space="preserve">
+		<value>Modifica di un certificato</value>
+	</data>
+	<data name="Cert_lblAddCertificate" xml:space="preserve">
+		<value>Aggiungi certificato</value>
+	</data>
+	<data name="Cert_lblSubject" xml:space="preserve">
+		<value>Soggetto</value>
+	</data>
+	<data name="Cert_lblSubjectAddName" xml:space="preserve">
+		<value>Nome alternativo soggetto</value>
+	</data>
+	<data name="Cert_lblFileCertificate" xml:space="preserve">
+		<value>File di certificato</value>
+	</data>
+	<data name="Cert_lblLoadFromFile" xml:space="preserve">
+		<value>Carica da file</value>
+	</data>
+	<data name="Cert_lblLoadCertificateFromFileCSV" xml:space="preserve">
+		<value>Carica il certificato dal file cer</value>
+	</data>
+	<data name="Cert_lblLoadFromUrl" xml:space="preserve">
+		<value>Carica da URL</value>
+	</data>
+	<data name="Cert_lblLoadCertificateFromUrl" xml:space="preserve">
+		<value>Scarica il certificato tramite URL</value>
+	</data>
+	<data name="Cert_lblLoadingCertificateFromUrl" xml:space="preserve">
+		<value>Chargement du certificat depuis l'URL...</value>
+	</data>
+	<data name="Cert_lblReRelease" xml:space="preserve">
+		<value>Ristampa</value>
+	</data>
+	<data name="Cert_lblReReleaseCertificate" xml:space="preserve">
+		<value>Riemetti questo certificato</value>
+	</data>
+	<data name="Cert_lblPrevCertificate" xml:space="preserve">
+		<value>Certificato ristampato</value>
+	</data>
+	<data name="Cert_msgNoStamp" xml:space="preserve">
+		<value>Impronta digitale del certificato mancante</value>
+	</data>
+	<data name="Cert_msgNoPublisher" xml:space="preserve">
+		<value>Il campo non è compilato da chi è stato emesso il certificato</value>
+	</data>
+	<data name="Cert_msgNoNomination" xml:space="preserve">
+		<value>Assegnazione del certificato mancante</value>
+	</data>
+	<data name="Cert_msgNoValidFrom" xml:space="preserve">
+		<value>Manca la data di scadenza del certificato</value>
+	</data>
+	<data name="Cert_msgNoValidTo" xml:space="preserve">
+		<value>Data di scadenza del certificato mancante</value>
+	</data>
+	<data name="Cert_lblAddingKey" xml:space="preserve">
+		<value>Aggiunta di un certificato</value>
+	</data>
+	<data name="Cert_msgEmptyEquipment" xml:space="preserve">
+		<value>Il campo "Attrezzatura" non è compilato</value>
+	</data>
+	<data name="Cert_msgEmptyCriptoPro" xml:space="preserve">
+		<value>"Nome contenitore Crypto-Pro" non compilato</value>
+	</data>
+	<data name="Cert_lblEquimpentName" xml:space="preserve">
+		<value>Nome dell'equipaggiamento</value>
+	</data>
+	<data name="Cert_lblVirtualPCName" xml:space="preserve">
+		<value>PC virtuale</value>
+	</data>
+	<data name="Cert_lblCryptoProContainerName" xml:space="preserve">
+		<value>Nome del contenitore Crypto-Pro</value>
+	</data>
+	<data name="Cert_msgNeedSaveCertificate" xml:space="preserve">
+		<value>Salvare il certificato per aggiungere la posizione della chiave</value>
+	</data>
+	<data name="Cert_msgStampExist" xml:space="preserve">
+		<value>Esiste già un certificato con tale impronta digitale. &lt;br/&gt; Inserisci un'altra impronta digitale.</value>
+	</data>
+	<data name="cmdDeleteEFormTooltip" xml:space="preserve">
+		<value>Elimina modulo documento elettronico</value>
+	</data>
+	<data name="cmdDeleteEFormMsg" xml:space="preserve">
+		<value>Sei sicuro di voler eliminare il modulo elettronico del documento?</value>
+	</data>
+	<data name="Cert_msgNoResponsible" xml:space="preserve">
+		<value>Manca il responsabile del certificato</value>
+	</data>
+	<data name="Cert_lblResponsible" xml:space="preserve">
+		<value>Responsabile</value>
+	</data>
+	<data name="Cert_msgDeleteCertificate" xml:space="preserve">
+		<value>Sei sicuro di voler eliminare il certificato</value>
+	</data>
+	<data name="Cer_msgDeleteCertificate" xml:space="preserve">
+		<value>Rimuovere il certificato</value>
+	</data>
+	<data name="Cert_lblHasKeyLocations" xml:space="preserve">
+		<value>Ci sono posizioni chiave</value>
+	</data>
+	<data name="Cert_msgERRCertificateInitialized" xml:space="preserve">
+		<value>L'oggetto Certificato non è stato inizializzato. Riaprire la posizione modificata.</value>
+	</data>
+	<data name="Cert_lblPrivateKey" xml:space="preserve">
+		<value>Chiave privata</value>
+	</data>
+	<data name="Cert_lblLoadPrivateKeyFromFile" xml:space="preserve">
+		<value>Carica la chiave privata dal file</value>
+	</data>
+	<data name="Cert_lblPlaceKeyStorage" xml:space="preserve">
+		<value>Posizione di archiviazione delle chiavi</value>
+	</data>
+	<data name="Cert_lblPlaceKeyStorage_Reestr" xml:space="preserve">
+		<value>Registro</value>
+	</data>
+	<data name="Cert_lblPlaceKeyStorage_Token" xml:space="preserve">
+		<value>Gettone</value>
+	</data>
+	<data name="Cert_lblPlaceKeyStorage_NetStorage" xml:space="preserve">
+		<value>Archiviazione di rete</value>
+	</data>
+	<data name="Cert_msgEmptyPlaceKeyStorage" xml:space="preserve">
+		<value>Seleziona una posizione di archiviazione delle chiavi</value>
+	</data>
+	<data name="Cert_lblLocationPlace" xml:space="preserve">
+		<value>Posizione</value>
+	</data>
+	<data name="Cert_msgEmptyLocationPlace" xml:space="preserve">
+		<value>Il campo non è compilato Il campo "Ubicazione" non è compilato</value>
+	</data>
+	<data name="Cert_lblExecuted" xml:space="preserve">
+		<value>Eseguita</value>
+	</data>
+	<data name="Cert_msgSetLocationKeyExecute" xml:space="preserve">
+		<value>Sei sicuro di voler modificare il valore Fine per la posizione della chiave selezionata</value>
+	</data>
+	<data name="Cert_lblLocationKeyExecuted" xml:space="preserve">
+		<value>Modifica valore Fatto</value>
+	</data>
+	<data name="Cert_lblCertification" xml:space="preserve">
+		<value>Certificato</value>
+	</data>
+	<data name="Cert_lblShowCertificate" xml:space="preserve">
+		<value>Mostra certificato</value>
+	</data>
+	<data name="Cert_lblShowPrivateKey" xml:space="preserve">
+		<value>Mostra chiave privata</value>
+	</data>
+	<data name="Inv_lblEquipmentLocationNote" xml:space="preserve">
+		<value>Note sulla posizione</value>
+	</data>
+	<data name="Cert_lblChoiceCertificate" xml:space="preserve">
+		<value>Seleziona certificato</value>
+	</data>
+	<data name="Cert_msgNoFoundCertinStorage" xml:space="preserve">
+		<value>Nessun certificato trovato nell'archivio personale</value>
+	</data>
+	<data name="Cert_lblLoadFromStorage" xml:space="preserve">
+		<value>Carica dal repository</value>
+	</data>
+	<data name="Cert_lblLoadCertificateFromStorage" xml:space="preserve">
+		<value>Scarica il certificato dall'archivio personale</value>
+	</data>
+	<data name="Cert_lblKeyAdd" xml:space="preserve">
+		<value>Aggiungi posizione chiave</value>
+	</data>
+	<data name="Inv_lblLoadFromFile" xml:space="preserve">
+		<value>Carica da file</value>
+	</data>
+	<data name="Inv_lblLoadPhoneTemplateFromFile" xml:space="preserve">
+		<value>Carica il modello del telefono dal file</value>
+	</data>
+	<data name="Inv_errFailedGenerateButtons" xml:space="preserve">
+		<value>Impossibile generare i pulsanti del modulo</value>
+	</data>
+	<data name="PhoneTemplateForm_Title" xml:space="preserve">
+		<value>Modello di configurazione</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_TypeEq" xml:space="preserve">
+		<value>Tipo</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_ModelName" xml:space="preserve">
+		<value>Modello</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_Resource" xml:space="preserve">
+		<value>Risorsa</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_PN" xml:space="preserve">
+		<value>Numero del prodotto</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_Multimedia" xml:space="preserve">
+		<value>Multimedia</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_MonitorSize" xml:space="preserve">
+		<value>Diagonale, in</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_CPU" xml:space="preserve">
+		<value>Processore</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_Net" xml:space="preserve">
+		<value>Interfacce di rete</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_MemoryType" xml:space="preserve">
+		<value>Tipo di memoria</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_MemoryBanks" xml:space="preserve">
+		<value>banche, pz.</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_Driver" xml:space="preserve">
+		<value>Driver</value>
+	</data>
+	<data name="ModelEquipmentForm_Label_LifeTime" xml:space="preserve">
+		<value>Tutta la vita</value>
+	</data>
+	<data name="Inv_msgLineNum" xml:space="preserve">
+		<value>Linea</value>
+	</data>
+	<data name="ModelEquipmentForm_MsgTypeEqInitializeFailed" xml:space="preserve">
+		<value>non è stato possibile determinare il tipo di apparecchiatura</value>
+	</data>
+	<data name="ModelEquipmentForm_Title" xml:space="preserve">
+		<value>Modello dell'attrezzatura</value>
+	</data>
+	<data name="ModelEquipmentForm_EditPhoneTemplate_Title" xml:space="preserve">
+		<value>Modifica modello di configurazione del telefono IP</value>
+	</data>
+	<data name="Inv_msgRecordCannotBeSaved" xml:space="preserve">
+		<value>Il record non può essere salvato.</value>
+	</data>
+	<data name="ModelEquipmentForm_Msg_EqTypeRequired" xml:space="preserve">
+		<value>Il campo Tipo è obbligatorio</value>
+	</data>
+	<data name="ModelEquipmentForm_Msg_ModelNameRequired" xml:space="preserve">
+		<value>Il campo Modello è obbligatorio</value>
+	</data>
+	<data name="PhoneTemplateForm_Label_PhoneTemplate" xml:space="preserve">
+		<value>Modello di configurazione</value>
+	</data>
+	<data name="ModelEquipmentForm_Msg_SameModelAlreadyExists" xml:space="preserve">
+		<value>Esiste un modello di apparecchiatura con il nome e il PN specificati</value>
+	</data>
+	<data name="PhonePoolAtribute_form_Title" xml:space="preserve">
+		<value>Valore dell'attributo pool</value>
+	</data>
+	<data name="PhonePoolAtribute_form_Label_Value" xml:space="preserve">
+		<value>Valore</value>
+	</data>
+	<data name="PhonePoolAtribute_form_Label_Pool" xml:space="preserve">
+		<value>Pool di telefoni</value>
+	</data>
+	<data name="PhonePoolAtribute_form_Label_Type" xml:space="preserve">
+		<value>Tipo di attributo</value>
+	</data>
+	<data name="PhonePoolAtribute_form_Label_Description" xml:space="preserve">
+		<value>Descrizione</value>
+	</data>
+	<data name="PhonePoolAtribute_form_Delete_Title" xml:space="preserve">
+		<value>Elimina la voce con il valore dell'attributo pool</value>
+	</data>
+	<data name="PhonePoolAtribute_form_msgDelete" xml:space="preserve">
+		<value>Elimina la voce con il valore dell'attributo pool</value>
+	</data>
+	<data name="Inv_selPort" xml:space="preserve">
+		<value>selezionare la porta</value>
+	</data>
+	<data name="Inv_msgLANCodeNotFound" xml:space="preserve">
+		<value>La rete locale con codice {0} non è stata trovata nel database o non è disponibile</value>
+	</data>
+	<data name="Cert_msgOnlyValidCanBeReissued" xml:space="preserve">
+		<value>È possibile riemettere solo un certificato valido</value>
+	</data>
+	<data name="Inv_msgLANCodeNotTransmitted" xml:space="preserve">
+		<value>Codice LAN non trasmesso</value>
+	</data>
+	<data name="Inv_PoERestartError" xml:space="preserve">
+		<value>Errore di riavvio PoE</value>
+	</data>
+	<data name="Inv_msgPersonEmpty" xml:space="preserve">
+		<value>Nessun cliente selezionato.</value>
+	</data>
+	<data name="Inv_msgSocketOnlyWithEmployeeOrConnected" xml:space="preserve">
+		<value>Hai specificato la presa. In questo caso, è necessario specificare il dipendente o cosa è collegato.</value>
+	</data>
+	<data name="Inv_lblCustomer" xml:space="preserve">
+		<value>Cliente</value>
+	</data>
+	<data name="Inv_msgReturnPeriodExpired" xml:space="preserve">
+		<value>Il periodo di restituzione della rete locale è scaduto! Modifica il periodo di restituzione o chiudi il modulo!</value>
+	</data>
+	<data name="Inv_lblSwitchTo" xml:space="preserve">
+		<value>Passa a</value>
+	</data>
+	<data name="Inv_lblExchange" xml:space="preserve">
+		<value>Scambia con</value>
+	</data>
+	<data name="Inv_lblReturnPeriod" xml:space="preserve">
+		<value>Periodo di ritorno</value>
+	</data>
+	<data name="Inv_lblPOE" xml:space="preserve">
+		<value>Riavvia PoE</value>
+	</data>
+	<data name="lblChangeFilterCondition" xml:space="preserve">
+		<value>Modifica la condizione del filtro</value>
+	</data>
+	<data name="Inv_lblColumnsTable" xml:space="preserve">
+		<value>Colonne della tabella</value>
+	</data>
+	<data name="Inv_lblRestoreDefaultOrderAndVisibility" xml:space="preserve">
+		<value>Ripristina l'ordine e la visibilità predefiniti</value>
+	</data>
+	<data name="Inv_msgNotCode" xml:space="preserve">
+		<value>Codice richiesta non passato</value>
+	</data>
+	<data name="Inv_msgExpired" xml:space="preserve">
+		<value>scaduto</value>
+	</data>
+	<data name="Inv_msgEmployeeCompany" xml:space="preserve">
+		<value>Azienda dipendente</value>
+	</data>
+	<data name="Inv_msgReturnParameterError" xml:space="preserve">
+		<value>Il codice del flag di ritorno non è stato trasmesso correttamente.</value>
+	</data>
+	<data name="Inv_msgErrorExecuteQuery" xml:space="preserve">
+		<value>La richiesta non è stata eseguita correttamente.</value>
+	</data>
+	<data name="Inv_msgQueryCodeParameterError" xml:space="preserve">
+		<value>Il codice di richiesta è stato inviato in modo errato.</value>
+	</data>
+	<data name="Inv_lblClearSort" xml:space="preserve">
+		<value>Ripristina l'ordinamento</value>
+	</data>
+	<data name="Inv_lblEquipmentType" xml:space="preserve">
+		<value>Tipo di attrezzatura</value>
+	</data>
+	<data name="Inv_lblEquipmentTypes" xml:space="preserve">
+		<value>Tipi di attrezzatura</value>
+	</data>
+	<data name="lbl_block" xml:space="preserve">
+		<value>Bloccare</value>
+	</data>
+	<data name="blockPhone_Form_Title" xml:space="preserve">
+		<value>Informazioni sull'abbonato</value>
+	</data>
+	<data name="lblNoBeginWith" xml:space="preserve">
+		<value>non inizia con</value>
+	</data>
+	<data name="lblNoEndsWith" xml:space="preserve">
+		<value>non finisce con</value>
+	</data>
+	<data name="Inv_msgAbonentNotFound" xml:space="preserve">
+		<value>Sottoscrittore non trovato</value>
+	</data>
+	<data name="Inv_lblCallBack" xml:space="preserve">
+		<value>Richiama</value>
+	</data>
+	<data name="Inv_lblCallBackOnChoiceNumber" xml:space="preserve">
+		<value>Richiama al numero selezionato</value>
+	</data>
+	<data name="Inv_lblDatePhoneValidity" xml:space="preserve">
+		<value>Data di validità del telefono</value>
+	</data>
+	<data name="Users_lblUserEmployees" xml:space="preserve">
+		<value>Personale</value>
+	</data>
+	<data name="Users_lblChoiceEmployee" xml:space="preserve">
+		<value>Selezione dei dipendenti</value>
+	</data>
+	<data name="Users_msgSearchNotFound" xml:space="preserve">
+		<value>Nessun dipendente è stato trovato per questo criterio. Modifica la stringa di ricerca.</value>
+	</data>
+	<data name="Users_msgSearchResult" xml:space="preserve">
+		<value>Risultato della ricerca per tutte le organizzazioni</value>
+	</data>
+	<data name="Users_lblGeneralEmployee" xml:space="preserve">
+		<value>Impiegato generale</value>
+	</data>
+	<data name="Users_EmplSelected" xml:space="preserve">
+		<value>Dipendenti selezionati</value>
+	</data>
+	<data name="Inv_lblCreateContact" xml:space="preserve">
+		<value>Crea contatto</value>
+	</data>
+	<data name="Users_lblOrganizations" xml:space="preserve">
+		<value>L'organizzazione</value>
+	</data>
+	<data name="Users_lblIncludingStaff" xml:space="preserve">
+		<value>compreso il personale
+unità subalterne</value>
+	</data>
+	<data name="Users_lblNoChoiceEmployee" xml:space="preserve">
+		<value>nessun dipendente selezionato</value>
+	</data>
+	<data name="Users_msgMiniPhotosNotFound" xml:space="preserve">
+		<value>Mini foto del personale non trovate</value>
+	</data>
+	<data name="Users_lblMiniPhoto" xml:space="preserve">
+		<value>Mini foto</value>
+	</data>
+	<data name="Users_msgNoMiniPhoto" xml:space="preserve">
+		<value>nessuna mini foto</value>
+	</data>
+	<data name="Users_msgErrorCreateMiniPhoto" xml:space="preserve">
+		<value>Errore durante la formazione dell'elenco delle mini foto</value>
+	</data>
+	<data name="Users_lblAddPhoto" xml:space="preserve">
+		<value>Aggiungere una foto</value>
+	</data>
+	<data name="Users_lblCreateMiniPhoto" xml:space="preserve">
+		<value>Crea una mini foto</value>
+	</data>
+	<data name="Users_lblEmployeePhotos" xml:space="preserve">
+		<value>Foto dei dipendenti</value>
+	</data>
+	<data name="Users_lblNoMiniPhoto" xml:space="preserve">
+		<value>mini foto mancante</value>
+	</data>
+	<data name="Users_lblCodePhoto" xml:space="preserve">
+		<value>Codice foto</value>
+	</data>
+	<data name="Users_lblDatePhoto" xml:space="preserve">
+		<value>Data foto</value>
+	</data>
+	<data name="Users_lblChangePhoto" xml:space="preserve">
+		<value>Cambia foto</value>
+	</data>
+	<data name="Users_lblChanged" xml:space="preserve">
+		<value>Сambiato</value>
+	</data>
+	<data name="Users_lblSavePhotoParams" xml:space="preserve">
+		<value>Opzioni foto salvate.</value>
+	</data>
+	<data name="Users_lblPhotoDate" xml:space="preserve">
+		<value>Data foto</value>
+	</data>
+	<data name="Users_lblSizeImage" xml:space="preserve">
+		<value>Dimensione dell'immagine</value>
+	</data>
+	<data name="Users_lblChromaticity" xml:space="preserve">
+		<value>Cromaticità</value>
+	</data>
+	<data name="Users_lblFormat" xml:space="preserve">
+		<value>Formato</value>
+	</data>
+	<data name="Users_lblFileSizeNoMore" xml:space="preserve">
+		<value>Dimensione del file non più</value>
+	</data>
+	<data name="Users_lblNoMoreOneMonth" xml:space="preserve">
+		<value>hiljemalt üks kuu</value>
+	</data>
+	<data name="Users_lblPhotoSizeParams" xml:space="preserve">
+		<value>larghezza 531 px altezza 709 px a 300 dpi (proporzioni 3/4) (531 x 709 x 300)</value>
+	</data>
+	<data name="Users_lblColorParams" xml:space="preserve">
+		<value>16,5 milioni di colori o 24 bit per punto RGB (24 bppRGB)</value>
+	</data>
+	<data name="Users_lblAddChangePhoto" xml:space="preserve">
+		<value>Aggiungi / cambia la foto del dipendente</value>
+	</data>
+	<data name="Users_msgAfterConvertingOver64" xml:space="preserve">
+		<value>Dopo aver convertito la foto, la dimensione è diventata superiore a 64K!</value>
+	</data>
+	<data name="Users_msgFormatNoJpeg" xml:space="preserve">
+		<value>Il formato non è JPEG!</value>
+	</data>
+	<data name="Users_lblFileSize" xml:space="preserve">
+		<value>Dimensione del file</value>
+	</data>
+	<data name="Users_lblAddingPhoto" xml:space="preserve">
+		<value>Aggiunta di una foto</value>
+	</data>
+	<data name="Users_lblPrintBadge" xml:space="preserve">
+		<value>Stampa un badge per un dipendente</value>
+	</data>
+	<data name="Users_lblPrintPhotos" xml:space="preserve">
+		<value>Stampa di foto</value>
+	</data>
+	<data name="Users_lblPrintEmplPhotos" xml:space="preserve">
+		<value>Stampa le foto dei dipendenti</value>
+	</data>
+	<data name="Users_lblPrintPropusk" xml:space="preserve">
+		<value>Timbro del passaggio</value>
+	</data>
+	<data name="blockedPhone_AddPhoneAlt" xml:space="preserve">
+		<value>Aggiungi le informazioni sul nuovo numero di telefono da bloccare</value>
+	</data>
+	<data name="Users_lblPrintParam" xml:space="preserve">
+		<value>Opzioni di stampa</value>
+	</data>
+	<data name="Users_lblPreview" xml:space="preserve">
+		<value>Anteprima</value>
+	</data>
+	<data name="Inv_lblOKCMCode" xml:space="preserve">
+		<value>Codice OKSM</value>
+	</data>
+	<data name="Inv_lblTerrNameRus" xml:space="preserve">
+		<value>Nome del territorio in russo</value>
+	</data>
+	<data name="Inv_lblTerrNameRusAlt" xml:space="preserve">
+		<value>Nome alternativo del territorio in russo</value>
+	</data>
+	<data name="Inv_lblTerrNameEng" xml:space="preserve">
+		<value>Nome internazionale del territorio in inglese</value>
+	</data>
+	<data name="Inv_lblTerrNameEngAlt" xml:space="preserve">
+		<value>Nome internazionale alternativo del territorio in inglese</value>
+	</data>
+	<data name="Inv_lblAbbreviation" xml:space="preserve">
+		<value>Abbreviazione</value>
+	</data>
+	<data name="Inv_lblCountryPhoneCode" xml:space="preserve">
+		<value>Tel. codice del paese</value>
+	</data>
+	<data name="Inv_msgTerCodeNotTransmitted" xml:space="preserve">
+		<value>Codice territorio non passato</value>
+	</data>
+	<data name="Inv_msgTerCodeNotFound" xml:space="preserve">
+		<value>Il territorio con codice {0} non è stato trovato nel database o non è disponibile</value>
+	</data>
+	<data name="Inv_lblTelCodeChangedBy" xml:space="preserve">
+		<value>Il codice del telefono è cambiato</value>
+	</data>
+	<data name="Inv_lblTelCodeChanged" xml:space="preserve">
+		<value>Il codice del telefono è cambiato</value>
+	</data>
+	<data name="Inv_lblAddTelCode" xml:space="preserve">
+		<value>Aggiungi prefisso</value>
+	</data>
+	<data name="Inv_lblTelCodeEdit" xml:space="preserve">
+		<value>Modifica di un prefisso</value>
+	</data>
+	<data name="Inv_msgDeleteTelCodeConfirm" xml:space="preserve">
+		<value>Sei sicuro di voler rimuovere il prefisso</value>
+	</data>
+	<data name="Inv_lblTelephoneCode" xml:space="preserve">
+		<value>Prefisso telefonico</value>
+	</data>
+	<data name="Inv_lblAreaCodeLength" xml:space="preserve">
+		<value>Lunghezza prefisso</value>
+	</data>
+	<data name="Inv_lblTelephoneType" xml:space="preserve">
+		<value>Tipo di telefono</value>
+	</data>
+	<data name="Inv_lblDeletePhoneCode" xml:space="preserve">
+		<value>eliminare il codice del telefono</value>
+	</data>
+	<data name="Inv_lblEditPhoneCode" xml:space="preserve">
+		<value>modificare il codice del telefono</value>
+	</data>
+	<data name="Inv_lblComment" xml:space="preserve">
+		<value>Commento</value>
+	</data>
+	<data name="Inv_msgTelCodeNotTransmitted" xml:space="preserve">
+		<value>Codice telefonico non trasmesso</value>
+	</data>
+	<data name="Inv_msgTelCodeNotFound" xml:space="preserve">
+		<value>Codice di chiamata {0} non trovato nel database o non disponibile</value>
+	</data>
+	<data name="WWW_lblWWW" xml:space="preserve">
+		<value>Personale</value>
+	</data>
+	<data name="WWW_lblPersonalInformation" xml:space="preserve">
+		<value>Informazione personale</value>
+	</data>
+	<data name="WWW_msgSetDefaultLanguage" xml:space="preserve">
+		<value>Imposta la lingua dell'interfaccia predefinita</value>
+	</data>
+	<data name="WWW_lblSetReturnEmailAddress" xml:space="preserve">
+		<value>Imposta l'indirizzo email di ritorno</value>
+	</data>
+	<data name="WWW_lblChange" xml:space="preserve">
+		<value>Modificare</value>
+	</data>
+	<data name="WWW_msgChangeDefaultLanguage" xml:space="preserve">
+		<value>Stai per cambiare la lingua dell'interfaccia predefinita</value>
+	</data>
+	<data name="WWW_msgTo" xml:space="preserve">
+		<value>in</value>
+	</data>
+	<data name="WWW_msgChangeSenderEmail" xml:space="preserve">
+		<value>Stai per modificare l'indirizzo del mittente per le tue e-mail</value>
+	</data>
+	<data name="WWW_lblOpenEmployeeCard" xml:space="preserve">
+		<value>carta del dipendente aperta</value>
+	</data>
+	<data name="WWW_lblSearchEmployeesBynameOrPhone" xml:space="preserve">
+		<value>Suche nach Mitarbeitern nach Name oder Telefonnummer</value>
+	</data>
+	<data name="WWW_lblEmployee" xml:space="preserve">
+		<value>dipendente</value>
+	</data>
+	<data name="WWW_lblInDirectories" xml:space="preserve">
+		<value>teatmeteostes</value>
+	</data>
+	<data name="WWW_lblOnInternet" xml:space="preserve">
+		<value>su internet</value>
+	</data>
+	<data name="WWW_lblInternetSearch" xml:space="preserve">
+		<value>ricerca Internet</value>
+	</data>
+	<data name="WWW_lblSearchInDirectories" xml:space="preserve">
+		<value>ricerca di individui, organizzazioni e banche negli elenchi</value>
+	</data>
+	<data name="WWW_msgNotDetermineParameter" xml:space="preserve">
+		<value>Impossibile determinare il valore del parametro</value>
+	</data>
+	<data name="WWW_lblFrom" xml:space="preserve">
+		<value>di</value>
+	</data>
+	<data name="Cert_lblHasClosedKey" xml:space="preserve">
+		<value>Avere una chiave privata</value>
+	</data>
+	<data name="Cert_lblNotClosedKey" xml:space="preserve">
+		<value>Nessuna chiave privata</value>
+	</data>
+	<data name="Cert_lblNotKeyLocations" xml:space="preserve">
+		<value>Nessun luogo chiave</value>
+	</data>
+	<data name="Phone_lBtnCheckAll" xml:space="preserve">
+		<value>Seleziona tutto</value>
+	</data>
+	<data name="Phone_lBtnShowReport" xml:space="preserve">
+		<value>Mostra guida</value>
+	</data>
+	<data name="Phone_lBtnUnCheckAll" xml:space="preserve">
+		<value>Resetta tutto</value>
+	</data>
+	<data name="Phone_lCheckCommonPhone" xml:space="preserve">
+		<value>Mostra numeri di telefono generali</value>
+	</data>
+	<data name="Phone_lCheckFullName" xml:space="preserve">
+		<value>Secondo nome completo</value>
+	</data>
+	<data name="Phone_lCheckLat" xml:space="preserve">
+		<value>Latino</value>
+	</data>
+	<data name="Phone_lCheckNotHotelPhone" xml:space="preserve">
+		<value>Non mostrare i telefoni nelle camere d'albergo</value>
+	</data>
+	<data name="Phone_lCompany" xml:space="preserve">
+		<value>Aziende</value>
+	</data>
+	<data name="Phone_lMode" xml:space="preserve">
+		<value>Modalità di visualizzazione della directory</value>
+	</data>
+	<data name="Phone_lMode1" xml:space="preserve">
+		<value>Nach Telefon sortieren</value>
+	</data>
+	<data name="Phone_lMode2" xml:space="preserve">
+		<value>Ordina alfabeticamente</value>
+	</data>
+	<data name="Phone_lMode3" xml:space="preserve">
+		<value>Ordina per posizione</value>
+	</data>
+	<data name="Phone_lTitle" xml:space="preserve">
+		<value>Telefoni interni</value>
+	</data>
+	<data name="Phone_msgAlert" xml:space="preserve">
+		<value>Nessuna azienda è stata selezionata, è impossibile generare un report!</value>
+	</data>
+	<data name="WWW_lblNews" xml:space="preserve">
+		<value>Notizia</value>
+	</data>
+	<data name="cmdRefreshLower" xml:space="preserve">
+		<value>ricaricare</value>
+	</data>
+	<data name="Cert_lblAddPrivateKey" xml:space="preserve">
+		<value>Aggiungi chiave privata</value>
+	</data>
+	<data name="lblGridSetDateFilterByCurrent" xml:space="preserve">
+		<value>Imposta il filtro relativo alla data corrente</value>
+	</data>
+	<data name="Inv_lblInventory" xml:space="preserve">
+		<value>Inventario</value>
+	</data>
+	<data name="Inv_lblInconsistencies" xml:space="preserve">
+		<value>Incoerenze</value>
+	</data>
+	<data name="Inv_lblReports" xml:space="preserve">
+		<value>Rapporti</value>
+	</data>
+	<data name="Inv_lblOperations" xml:space="preserve">
+		<value>Operazioni</value>
+	</data>
+	<data name="Inv_lblInventorySettings" xml:space="preserve">
+		<value>Impostazioni dello spazio pubblicitario</value>
+	</data>
+	<data name="Inv_lblPrintingLabels" xml:space="preserve">
+		<value>Stampa di etichette</value>
+	</data>
+	<data name="Inv_lblEquipmentTransfer" xml:space="preserve">
+		<value>Trasferimento dell'attrezzatura</value>
+	</data>
+	<data name="Inv_lblClearFormParameters" xml:space="preserve">
+		<value>Cancella i parametri del modulo</value>
+	</data>
+	<data name="Inv_msgClearFormParameters" xml:space="preserve">
+		<value>Sei sicuro di voler cancellare i parametri del modulo?</value>
+	</data>
+	<data name="lblGridCommandMenu" xml:space="preserve">
+		<value>menu dei comandi</value>
 	</data>
 </root>

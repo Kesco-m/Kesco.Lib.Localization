@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Accounting_Jet_Tbl_Send" xml:space="preserve">
+    <value>Отправлено (Кб)</value>
+  </data>
+	<data name="Accounting_Jet_Tbl_Recieved" xml:space="preserve">
+		<value>Получено (Кб)</value>
+	</data>
+	<data name="Accounting_Jet_Tbl_Total" xml:space="preserve">
+		<value>Итого (Кб)</value>
+	</data>
+	<data name="Accounting_Jet_Tbl_Sum" xml:space="preserve">
+		<value>Сумма</value>
+	</data>
+	<data name="Accounting_Jet_Detail_Show" xml:space="preserve">
+		<value>Показать детализацию</value>
+	</data>
+	<data name="Accounting_Jet_Menu_Upload" xml:space="preserve">
+		<value>Загрузить данные</value>
+	</data>
+	<data name="Accounting_Jet_Menu_Upload_Title" xml:space="preserve">
+		<value>Загрузить данные из файла</value>
+	</data>
+	<data name="Accounting_Jet_Btn_Day" xml:space="preserve">
+		<value>По дням</value>
+	</data>
+	<data name="Accounting_Jet_Btn_Device" xml:space="preserve">
+		<value>По клиентам</value>
+	</data>
+	<data name="Accounting_Jet_Btn_Address" xml:space="preserve">
+		<value>По адресам</value>
+	</data>
+	<data name="Accounting_Jet_NoData" xml:space="preserve">
+		<value>Нет данных за указанный период!</value>
+	</data>
+	<data name="Accounting_Jet_NoPeriod" xml:space="preserve">
+		<value>Невозможно получить данные, т.к. не указан период!</value>
+	</data>
+	<data name="Accounting_Jet_NoPeriod_Title" xml:space="preserve">
+		<value>Укажите период, за который необходимо получить данные!</value>
+	</data>
+	<data name="Accounting_Jet_Title" xml:space="preserve">
+		<value>Тарификация интернета в самолете</value>
+	</data>
+	<data name="Accounting_Jet_NoReport" xml:space="preserve">
+		<value>Невозможно сформировать отчет, т.к. не указан период!</value>
+	</data>
+	<data name="Accounting_Jet_Msg_Title" xml:space="preserve">
+		<value>Сообщение</value>
+	</data>
+	<data name="Accounting_Jet_CreateReport" xml:space="preserve">
+		<value>Сформировать отчет</value>
+	</data>
+	<data name="Accounting_Jet_GetIp" xml:space="preserve">
+		<value>Получить информацию об ip-адресе</value>
+	</data>
+	<data name="Accounting_Jet_WaitLoad" xml:space="preserve">
+		<value>Подождите, идет загрузка данных...</value>
+	</data>
+	<data name="Accounting_Jet_Detail_Hide" xml:space="preserve">
+		<value>Скрыть детализацию</value>
+	</data>
+	<data name="Accounting_Jet_Ip_Address" xml:space="preserve">
+		<value>IP-адрес</value>
+	</data>
+	<data name="Accounting_Jet_Post_Data" xml:space="preserve">
+		<value>Отправка данных</value>
+	</data>
+	<data name="Accounting_Jet_Save_Data" xml:space="preserve">
+		<value>Сохранение данных</value>
+	</data>
+	<data name="Accounting_Jet_Upload_Complete" xml:space="preserve">
+		<value>Загрузка завершена!</value>
+	</data>
+	<data name="Accounting_Jet_Ip_Address_Info" xml:space="preserve">
+		<value>Информация об ip-адресе</value>
+	</data>
+	<data name="Accounting_Jet_Ip_Address_Err_0" xml:space="preserve">
+		<value>Невозможно получить информацию об ip-адресе, т.к. не опреден uri_whois!</value>
+	</data>
+	<data name="Accounting_Jet_Ip_Address_Err_1" xml:space="preserve">
+		<value>Не удалось получить информацию об ip-адресе</value>
+	</data>
+	<data name="Accounting_Jet_Clmn_Day" xml:space="preserve">
+		<value>День</value>
+	</data>
+	<data name="Accounting_Jet_Clmn_Device" xml:space="preserve">
+		<value>Клиент</value>
+	</data>
+	<data name="Accounting_Jet_Clmn_Address" xml:space="preserve">
+		<value>Адрес</value>
+	</data>
+	<data name="Accounting_Jet_HostName_Info" xml:space="preserve">
+		<value>Информация о HostName</value>
+	</data>
+	<data name="Accounting_Jet_Msg_Check_NoSave" xml:space="preserve">
+		<value>Сохранение невозможно!</value>
+	</data>
+	<data name="Accounting_Jet_Msg_Check_EmptyData" xml:space="preserve">
+		<value>Не заполнены обязательные поля.</value>
+	</data>
+	<data name="Accounting_Jet_Msg_Check_NoIPBegin" xml:space="preserve">
+		<value>Начало ip-диапазона не является ip-адресом.</value>
+	</data>
+	<data name="Accounting_Jet_Msg_Check_NoIPEnd" xml:space="preserve">
+		<value>Конец ip-диапазона не является ip-адресом.</value>
+	</data>
+	<data name="Accounting_Jet_Msg_Check_Delete" xml:space="preserve">
+		<value>Вы уверены, что хотите удалить информацию о Hostname?</value>
+	</data>
+	<data name="Accounting_Jet_Btn_Save" xml:space="preserve">
+		<value>Сохранить</value>
+	</data>
+	<data name="Accounting_Jet_Btn_Delete" xml:space="preserve">
+		<value>Удалить</value>
+	</data>
+	<data name="Accounting_Jet_Btn_Cancel" xml:space="preserve">
+		<value>Отмена</value>
+	</data>
+	<data name="Accounting_Jet_Change_Hostname" xml:space="preserve">
+		<value>Изменить значение Hostname</value>
+	</data>
+	<data name="Accounting_Jet_RangeIP_Start" xml:space="preserve">
+		<value>Начало ip-диапазона</value>
+	</data>
+	<data name="Accounting_Jet_RangeIP_End" xml:space="preserve">
+		<value>Конец ip-диапазона</value>
+	</data>
+</root>

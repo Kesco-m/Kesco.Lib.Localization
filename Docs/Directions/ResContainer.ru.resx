@@ -1,0 +1,1066 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="DIRECTIONS_FORM_AG_Title" xml:space="preserve">
+    <value>Выберите дополнительные права:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_CF_Title" xml:space="preserve">
+    <value>Выберите общие папки:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_Mail_Title" xml:space="preserve">
+    <value>Выберите имя почтового ящика:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_Role_Title" xml:space="preserve">
+    <value>Укажите роль сотрудника в компании:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_Type_Title" xml:space="preserve">
+    <value>Укажите доступ сотрудника к типам лиц:</value>
+  </data>
+	<data name="DIRECTIONS_FORM_WP_Title" xml:space="preserve">
+    <value>Выберите рабочее место сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_FORM_ADVINFO_Title" xml:space="preserve">
+    <value>Дополнительная информация</value>
+  </data>
+	<data name="DIRECTIONS_btnGO" xml:space="preserve">
+    <value>Выполнить</value>
+  </data>
+	<data name="DIRECTIONS_hAccessEml" xml:space="preserve">
+    <value>Доступ к данным, необходимый сотруднику для работы</value>
+  </data>
+	<data name="DIRECTIONS_hDadaEml" xml:space="preserve">
+    <value>Данные по сотруднику</value>
+  </data>
+	<data name="DIRECTIONS_hEquipEml" xml:space="preserve">
+    <value>Оборудование и коммуникации, необходимые сотруднику для работы</value>
+  </data>
+	<data name="DIRECTIONS_lAEOfiice" xml:space="preserve">
+    <value>из офиса</value>
+  </data>
+	<data name="DIRECTIONS_lAEVpn" xml:space="preserve">
+    <value>удаленный (через VPN)</value>
+  </data>
+	<data name="DIRECTIONS_lAIMobile" xml:space="preserve">
+    <value>мобильный (SkyLink, 3G)</value>
+  </data>
+	<data name="DIRECTIONS_lAIModem" xml:space="preserve">
+    <value>из дома через модем</value>
+  </data>
+	<data name="DIRECTIONS_lAIOffice" xml:space="preserve">
+    <value>из офиса</value>
+  </data>
+	<data name="DIRECTIONS_lbl_ОтветственнаяКомпания" xml:space="preserve">
+    <value>Ответственная компания</value>
+  </data>
+	<data name="DIRECTIONS_lComplete" xml:space="preserve">
+    <value>Выполнено</value>
+  </data>
+	<data name="DIRECTIONS_lCompN" xml:space="preserve">
+    <value>ноутбук</value>
+  </data>
+	<data name="DIRECTIONS_lCompP" xml:space="preserve">
+    <value>персональный</value>
+  </data>
+	<data name="DIRECTIONS_lCompT" xml:space="preserve">
+    <value>тонкий клиент</value>
+  </data>
+	<data name="DIRECTIONS_lMin" xml:space="preserve">
+    <value>мин.</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneDect" xml:space="preserve">
+    <value>трубка</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneDesk" xml:space="preserve">
+    <value>на столе</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneIP" xml:space="preserve">
+    <value>IP-телефон</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneIPCam" xml:space="preserve">
+    <value>IP-камера</value>
+  </data>
+	<data name="DIRECTIONS_lPhoneSim" xml:space="preserve">
+    <value>SIM-карта для моб. тел.</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitInSide" xml:space="preserve">
+    <value>только внутри холдинга</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitOutCountry" xml:space="preserve">
+    <value>+ международная</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitOutTown" xml:space="preserve">
+    <value>+ внутри страны</value>
+  </data>
+	<data name="DIRECTIONS_lPLExitTown" xml:space="preserve">
+    <value>+ местная городская</value>
+  </data>
+	<data name="DIRECTIONS_lRequire" xml:space="preserve">
+    <value>Требуется</value>
+  </data>
+	<data name="DIRECTIONS_lSotrudnikParent1" xml:space="preserve">
+    <value>как у сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_lSotrudnikParent2" xml:space="preserve">
+    <value>вместо сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_lTrack" xml:space="preserve">
+    <value>Отслеживать опоздания сотрудника</value>
+  </data>
+	<data name="DIRECTIONS_Msg_CopyBuffer" xml:space="preserve">
+    <value>Скопировать в буфер обмена</value>
+  </data>
+	<data name="DIRECTIONS_Msg_Delete" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эту запись?</value>
+  </data>
+	<data name="DIRECTIONS_Msg_EmailНеКорректен" xml:space="preserve">
+    <value>E-mail указан некорректно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ExistsDirection" xml:space="preserve">
+    <value>Для данного сотрудника уже существует</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ExistsPhone" xml:space="preserve">
+    <value>Номер использует</value>
+  </data>
+	<data name="DIRECTIONS_Msg_FillFormByEmpl" xml:space="preserve">
+    <value>Внимание! Заполнить форму на основании данных сотрудника: </value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoAccessEthernet" xml:space="preserve">
+    <value>Не входит в корпоративную сеть</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoAccessInternet" xml:space="preserve">
+    <value>Нет доступа к сети Internet</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoData" xml:space="preserve">
+    <value>&amp;nbsp;</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoRequired" xml:space="preserve">
+    <value>не требуется </value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoSignSupervisor" xml:space="preserve">
+    <value>Указание не подписано непосредственным руководителем</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoSpecified" xml:space="preserve">
+    <value>не указано</value>
+  </data>
+	<data name="DIRECTIONS_Msg_NoThisDoc" xml:space="preserve">
+    <value>Невозможно указать в качестве документа основания этот же самый документ!</value>
+  </data>
+	<data name="DIRECTIONS_Msg_OpenEquip" xml:space="preserve">
+    <value>Открыть форму оборудования</value>
+  </data>
+	<data name="DIRECTIONS_Msg_OpenEquipNotResp" xml:space="preserve">
+    <value>Нет ответственного за оборудование</value>
+  </data>
+	<data name="DIRECTIONS_Msg_OpenEquipResp" xml:space="preserve">
+    <value>Ответственный за оборудование</value>
+  </data>
+	<data name="DIRECTIONS_Msg_SimGive" xml:space="preserve">
+    <value>Будет выдана SIM-карта</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ВыданаSim" xml:space="preserve">
+    <value>Выдана SIM-карта</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ДокументНеДоступен" xml:space="preserve">
+    <value>Документ не доступен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ЛицоБезБП" xml:space="preserve">
+    <value>Лицо не работает по бизнес-проекту</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ЛогинНеКорректен" xml:space="preserve">
+    <value>Логин указан некорректно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ЛогинСуществует" xml:space="preserve">
+    <value>Логин занят</value>
+  </data>
+	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто" xml:space="preserve">
+    <value>На этом рабочем месте не может быть установлен компьютер</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ОписаниеКаталога" xml:space="preserve">
+    <value>Набор типов лиц, используемых компаниями, работающими по данному проекту</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ОтсутствуетПодчиненность" xml:space="preserve">
+    <value>отсутствует подчиненность в штатном расписании</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе" xml:space="preserve">
+    <value>Рабочее место не в офисе</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует" xml:space="preserve">
+    <value>Работа организуется не на рабочем месте сотрудника, будет создано новое рабочее место</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РабочееНеДоступно" xml:space="preserve">
+    <value>Рабочее место не доступно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РасположениеЗакрыто" xml:space="preserve">
+    <value>Расположение закрыто</value>
+  </data>
+	<data name="DIRECTIONS_Msg_РасположениеНеДоступно" xml:space="preserve">
+    <value>Расположение не доступно</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНеДоступен" xml:space="preserve">
+    <value>Сотрудник не доступен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина" xml:space="preserve">
+    <value>Сотрудник не имеет логина</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛица" xml:space="preserve">
+    <value>У сотрудника отсутствует запись в справочнике лиц</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛицаЗаказчика" xml:space="preserve">
+    <value>У сотрудника не указана компания, отвечающая за фин. регулирование</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста" xml:space="preserve">
+    <value>У сотрудника отсутствуют рабочие места, на которых необходимо организовать работу.</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникНеУволен" xml:space="preserve">
+    <value>Сотрудник еще не уволен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние1" xml:space="preserve">
+    <value>декрет(отпуск)</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние2" xml:space="preserve">
+    <value>гость персональный</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние3" xml:space="preserve">
+    <value>уволен</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние4" xml:space="preserve">
+    <value>гость по гостевой карточке</value>
+  </data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние5" xml:space="preserve">
+    <value>посторонний</value>
+  </data>
+	<data name="DIRECTIONS_Msg_ФотоНет" xml:space="preserve">
+    <value>у сотрудника отсутствует фотография</value>
+  </data>
+	<data name="DIRECTIONS_NTF_CadrNoCompany" xml:space="preserve">
+    <value>В штатном расписании у сотрудника не указана компания,\nотвечающая за финансовое регулирование.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_DelayMustEmail" xml:space="preserve">
+    <value>Для отслеживания опозданий необходимо указать\nруководителей, которым необходимо отсылать e-mail об опоздании данного сотрудника!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_DocInCorrect" xml:space="preserve">
+    <value>Документ был сохранен некорректно</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmailIncorrect" xml:space="preserve">
+    <value>e-mail указан некорректно</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique" xml:space="preserve">
+    <value>такой e-mail {0}уже существует</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique1" xml:space="preserve">
+    <value>e-mail должен быть уникальным</value>
+  </data>
+	<data name="DIRECTIONS_NTF_EmployeeNoPerson" xml:space="preserve">
+    <value>Cотрудник не синхронизирован со справочником лиц.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_LoginIncorrect" xml:space="preserve">
+    <value>Логин указан некорректно.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoDataDoc" xml:space="preserve">
+    <value>Не указана дата документа.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoDomain" xml:space="preserve">
+    <value>Не указан домен.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoEmail" xml:space="preserve">
+    <value>Не указан e-mail.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoEmployee" xml:space="preserve">
+    <value>Не указан сотрудник.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoLider" xml:space="preserve">
+    <value>Не указан руководитель.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoLogin" xml:space="preserve">
+    <value>Не указан логин.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoSender" xml:space="preserve">
+    <value>Не указано имя отпраивтеля почты.</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoWorkGo" xml:space="preserve">
+    <value>Не указано время прихода сотрудника на работу!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_NoWorkPlace" xml:space="preserve">
+    <value>не указано рабочее место</value>
+  </data>
+	<data name="DIRECTIONS_NTF_VerbalVisit" xml:space="preserve">
+    <value>Не указано время опоздания-устная объяснительная руководителю!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_WriteCadr" xml:space="preserve">
+    <value>Не указано время опоздания-письменная объяснительная в отдел кадров!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_ГруппаПосменнойРаботы" xml:space="preserve">
+    <value>Группа посменной работы</value>
+  </data>
+	<data name="DIRECTIONS_NTF_НеУказанМобильный" xml:space="preserve">
+    <value>Укажите мобильный телефон!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_ПосменнаяРабота" xml:space="preserve">
+    <value>посменная работа с</value>
+  </data>
+	<data name="DIRECTIONS_NTF_РабМестаВместе" xml:space="preserve">
+    <value>вместе с</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе" xml:space="preserve">
+    <value>Сохранить документ невозможно, т.к. указанный сотрудник входит в группу посменной работы!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе1" xml:space="preserve">
+    <value>Cотрудник {0} входит в группу посменной работы {1}, которая имеет собственную учетную запись! Создать учетную запись членам этой группы невозможно!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникВГруппе2" xml:space="preserve">
+    <value>Невозможно выбрать сотрудника, входящего в группу посменной работы!</value>
+  </data>
+	<data name="DIRECTIONS_NTF_СотрудникСовпадает" xml:space="preserve">
+    <value>Выбранный сотрудник совпадает с сотрудником, на которого делается указание</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnAccept" xml:space="preserve">
+    <value>Подтверждаю</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnCancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnDel" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+	<data name="DIRECTIONS_Pos_BtnSave" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+	<data name="DIRECTIONS_Pos_Catalog" xml:space="preserve">
+    <value>Каталог:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_CatalogChange1" xml:space="preserve">
+    <value>Предупреждение: \n Вы изменили (добавили новую запись) доступ к типам лиц в каталоге</value>
+  </data>
+	<data name="DIRECTIONS_Pos_CatalogChange2" xml:space="preserve">
+    <value>В случае смены текущего каталога все добавленные записи будут удалены!\nСменить каталог? </value>
+  </data>
+	<data name="DIRECTIONS_Pos_ConfirmDel" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эту запись?</value>
+  </data>
+	<data name="DIRECTIONS_Pos_Empl" xml:space="preserve">
+    <value>Сотрудник:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_EmplTypes" xml:space="preserve">
+    <value>Доступ сотрудника к типам лиц</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ExecRole" xml:space="preserve">
+    <value>Выполняет роль:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_InCompany" xml:space="preserve">
+    <value>В компании</value>
+  </data>
+	<data name="DIRECTIONS_Pos_NoDocId" xml:space="preserve">
+    <value>Не удалось определить код документа!</value>
+  </data>
+	<data name="DIRECTIONS_Pos_PersonType" xml:space="preserve">
+    <value>Тип лица:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_PersonType1" xml:space="preserve">
+    <value>Типы лиц:</value>
+  </data>
+	<data name="DIRECTIONS_Pos_PersonType2" xml:space="preserve">
+    <value>\nне могут быть выбраны, т.к Вы уже дали доступ сотруднику к подобным типам лиц.</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ReqCatalog" xml:space="preserve">
+    <value>Укажите каталог!</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ReqCatalog2" xml:space="preserve">
+    <value>Укажите или каталог или тип лица!</value>
+  </data>
+	<data name="DIRECTIONS_Pos_ReqCatalog3" xml:space="preserve">
+    <value>Вы уверены, что хотите чтобы данный сотрудник получил доступ ко всем типам лиц в указанном каталоге, которые существуют сейчас или появятся в будущем?</value>
+  </data>
+	<data name="DIRECTIONS_Pos_RoleEmpl" xml:space="preserve">
+    <value>Роль сотрудника в компании</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_AllCatalog" xml:space="preserve">
+    <value>--все каталоги--</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_AllCompany" xml:space="preserve">
+    <value>--все компании--</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_AllTypePerson" xml:space="preserve">
+    <value>--все типы лиц--</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_Catalog" xml:space="preserve">
+    <value>Каталог</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_Company" xml:space="preserve">
+    <value>Компании</value>
+  </data>
+	<data name="DIRECTIONS_Rnd_TypePerson" xml:space="preserve">
+    <value>Тип лица</value>
+  </data>
+	<data name="DIRECTIONS_Field_Phone" xml:space="preserve">
+		<value>Для работы требуется телефон</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer" xml:space="preserve">
+		<value>Для работы требуется компьютер</value>
+	</data>
+	<data name="DIRECTIONS_Field_AdvEq" xml:space="preserve">
+		<value>Для работы требуется дополнительное оборудование</value>
+	</data>
+	<data name="DIRECTIONS_Field_AEAccess" xml:space="preserve">
+		<value>Доступ к корпоративной сети</value>
+	</data>
+	<data name="DIRECTIONS_Field_Lang" xml:space="preserve">
+		<value>Предпочитаемый язык</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Folders" xml:space="preserve">
+		<value>Доступ к общим папкам</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles" xml:space="preserve">
+		<value>Выполняемые роли</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Types" xml:space="preserve">
+		<value>Доступ к типам лиц</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Grants" xml:space="preserve">
+		<value>Дополнительные права</value>
+	</data>
+	<data name="DIRECTIONS_Field_MobilPhone" xml:space="preserve">
+		<value>Мобильный телефон сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType" xml:space="preserve">
+		<value>Организовать сотруднику</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_1" xml:space="preserve">
+		<value>работу на рабочем месте в офисе</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_2" xml:space="preserve">
+		<value>работу вне офиса с выдачей оборудования</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_4" xml:space="preserve">
+		<value>учетную запись</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ExcessEq" xml:space="preserve">
+		<value>Сотруднику выдано оборудование, которое находится не на его рабочем месте</value>
+	</data>
+	<data name="DIRECTIONS_Title_ShowEq" xml:space="preserve">
+		<value>показать оборудование</value>
+	</data>
+	<data name="DIRECTIONS_Lbl_WpsEpl" xml:space="preserve">
+		<value>Рабочие места сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_lNoComplete" xml:space="preserve">
+		<value>не выполнено</value>
+	</data>
+	<data name="DIRECTIONS_Pos_CatalogNoName" xml:space="preserve">
+		<value>Не удалось получить название каталога!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_TypeNoName" xml:space="preserve">
+		<value>Не удалось получить название типа лица!</value>
+	</data>
+	<data name="DIRECTIONS_Pos_TypeAllNoName" xml:space="preserve">
+		<value>Не удалось получить название всех типов лица!</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CheckPhoneNumber" xml:space="preserve">
+		<value>Введенное Вами значение не соответствует формату телефонного номера!</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_Table" xml:space="preserve">
+		<value>стационарный</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_Dect" xml:space="preserve">
+		<value>переносная по офису трубка</value>
+	</data>
+	<data name="DIRECTIONS_Field_Phone_WebCam" xml:space="preserve">
+		<value>с видеосвязью</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer_Desktop" xml:space="preserve">
+		<value>настольный</value>
+	</data>
+	<data name="DIRECTIONS_Field_Computer_Laptop" xml:space="preserve">
+		<value>ноутбук</value>
+	</data>
+	<data name="DIRECTIONS_Field_AEAccess_Login" xml:space="preserve">
+		<value>Логин</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData" xml:space="preserve">
+		<value>Доступ к данным, необходимый сотруднику для работы</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData_How" xml:space="preserve">
+		<value>как у сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Field_AccessData_Instead" xml:space="preserve">
+		<value>вместо сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Folders_Title" xml:space="preserve">
+		<value>выбрать общие папки, к которым будет иметь доступ сотрудник</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles_Title" xml:space="preserve">
+		<value>выбрать роль, которые сотрудник выполняет в компании</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Types_Title" xml:space="preserve">
+		<value>выбрать типы лиц, к которым сотрудник имеет доступ</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Grants_Title" xml:space="preserve">
+		<value>выбрать дополнительные права</value>
+	</data>
+	<data name="DIRECTIONS_Field_AdvInfo" xml:space="preserve">
+		<value>Доп. информация по организации работы</value>
+	</data>
+	<data name="DIRECTIONS_Field_Positions_Roles_Select" xml:space="preserve">
+		<value>Выполняет роль</value>
+	</data>
+	<data name="DIRECTIONS_Field_WP_Link" xml:space="preserve">
+		<value>Выбрать рабочее место</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoCadr" xml:space="preserve">
+		<value>У сотрудника нет должности в штатном расписании</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider1" xml:space="preserve">
+		<value>У сотрудника нет непосредственного руководителя</value>
+	</data>
+	<data name="DIRECTIONS_Field_Lider" xml:space="preserve">
+		<value>Непосредственный руководитель</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoPost" xml:space="preserve">
+		<value>У сотрудника не указана должность</value>
+	</data>
+	<data name="DIRECTIONS_NTF_PostNoEqualsCadr" xml:space="preserve">
+		<value>Должность сотрудника не соответствует должности в штатном расписании</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentInLocation" xml:space="preserve">
+		<value>Оборудование</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation1" xml:space="preserve">
+		<value>Оборудование сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation2" xml:space="preserve">
+		<value>, находится не на его рабочем месте</value>
+	</data>
+	<data name="DIRECTIONS_Title_EquipmentNoLocation3" xml:space="preserve">
+		<value>Нет данных об оборудовании на чужих рабочих местах</value>
+	</data>
+	<data name="DIRECTIONS_Title_ShowEq1" xml:space="preserve">
+		<value>Открыть форму оборудования</value>
+	</data>
+	<data name="DIRECTIONS_Msg_UnbleSave" xml:space="preserve">
+		<value>Сохранение невозможно!</value>
+	</data>
+	<data name="DIRECTIONS_MSG_ЗаписьСуществует" xml:space="preserve">
+		<value>Такая запись уже существует</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеУказанаРоль" xml:space="preserve">
+		<value>Не указана роль сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЧтоДанныйСотрудник" xml:space="preserve">
+		<value>Вы уверены, что хотите, чтобы данный сотрудник</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях1" xml:space="preserve">
+		<value>выполнял указанную роль во всех существующих компаниях холдинга</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РольВоВсехКомпаниях2" xml:space="preserve">
+		<value>и компаниях, которые войдут в холдинг в будущем</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НетУказанКаталог" xml:space="preserve">
+		<value>Необходимо указать каталог</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НетУказанКаталог1" xml:space="preserve">
+		<value>Необходимо указать тип лица</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеКаталоги" xml:space="preserve">
+		<value>получил доступ во всех каталогах</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеКаталоги1" xml:space="preserve">
+		<value>которые существуют сейчас или появятся в будущем, к указанному типу лица</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеТипы" xml:space="preserve">
+		<value>получил доступ ко всем типам лиц в указанном каталоге</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ВсеТипы1" xml:space="preserve">
+		<value>которые существуют сейчас или появятся в будущем</value>
+	</data>
+	<data name="DIRECTIONS_Rnd_AllCompany1" xml:space="preserve">
+		<value>--во всех компаниях--</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ЧтоТребуется" xml:space="preserve">
+		<value>Не указано, что требуется организовать сотруднику</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_РабМестоВОфисе" xml:space="preserve">
+		<value>Не указано рабочее место в офисе</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ТребуетсяДляРаботы" xml:space="preserve">
+		<value>Не указано, что потребуется сотруднику для работы</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Сеть" xml:space="preserve">
+		<value>Не указан доступ к корпоративной сети</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_МобТелефон" xml:space="preserve">
+		<value>не указан мобильный телефон сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Как" xml:space="preserve">
+		<value>Не заполнено поле 'как у сотрудника'</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_Вместо" xml:space="preserve">
+		<value>Не заполнено поле 'вместо сотрудника'</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_ВместоУчетки" xml:space="preserve">
+		<value>Невозможно сохранить указание, т.к. и сотрудник, на которого делается указание и сотрудник 'вместо' имеют учетные записи</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_НетСотрудника" xml:space="preserve">
+		<value>Укажите сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_НетЗаписи" xml:space="preserve">
+		<value>Запись не найдена</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_MailBox" xml:space="preserve">
+		<value>Ошибка получения возможных имен почтового ящика</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ГруппаНаРасположении" xml:space="preserve">
+		<value>На указанном рабочем месте уже работает группа посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired" xml:space="preserve">
+		<value>сотруднику на должности</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired1" xml:space="preserve">
+		<value>не требуется мобильная связь</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired2" xml:space="preserve">
+		<value>требуется мобильная связь с заранее предоплаченным интернетом</value>
+	</data>
+	<data name="DIRECTIONS_NTF_SimRequired3" xml:space="preserve">
+		<value>требуется мобильная связь с помегабайтной тарификацией</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoIssued" xml:space="preserve">
+		<value>не выдано</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoEquipment" xml:space="preserve">
+		<value>IT-оборудование отсутствует на данном расположении или у Вас нет прав на его просмотр</value>
+	</data>
+	<data name="DIRECTIONS_btnGO_Title" xml:space="preserve">
+		<value>Выполнить указание на организацию работы</value>
+	</data>
+	<data name="DIRECTIONS_Title_GroupMembers" xml:space="preserve">
+		<value>показать состав группы посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmptyGroup" xml:space="preserve">
+		<value>в группу посменной работы не входит ни один сотрудник</value>
+	</data>
+	<data name="DIRECTIONS_Title_GroupMembers1" xml:space="preserve">
+		<value> Состав группы посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто" xml:space="preserve">
+		<value>У сотрудника есть компьютеризированное не организованное рабочее место в офисе</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаОрганизована" xml:space="preserve">
+		<value>Работа организована</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаНеОрганизована" xml:space="preserve">
+		<value>Работа не организована</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаУжеОрганизована" xml:space="preserve">
+		<value>Работа на рабочем месте {0} уже организована. Выберите другое рабочее место!</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ФотоНет_Title" xml:space="preserve">
+		<value>Обратитесь в отдел кадров для фотографирования сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетЛица_Title" xml:space="preserve">
+		<value>Обратитесь в отдел кадров для синхронизации штатного расписания и справочника лиц</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинНеКорректен_Title" xml:space="preserve">
+		<value>Логин должен состоять только из: латинских букв, цифр и знаков [.-]. Начинаться и заканчиваться логин может только на букву или цифру. Исправьте логин.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинСуществует_Title" xml:space="preserve">
+		<value>Необходимо указать другой логин</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoWorkPlace_Title" xml:space="preserve">
+		<value>Необходимо указать рабочее место для организации работы</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_MailBox_Title" xml:space="preserve">
+		<value>Обратитесь в службу поддержки для исправления ошибки</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSpecified_Title" xml:space="preserve">
+		<value>Необходимо указать недостающие данные</value>
+	</data>
+	<data name="DIRECTIONS_Msg_EmailНеКорректен_Title" xml:space="preserve">
+		<value>Емаil может состоять только из латинские букв, цифр и знаков [.-]. Начинаться и заканчиваться название почтового ящика может только на букву или цифру. Внесите необходимые исправления</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique_Title" xml:space="preserve">
+		<value>Необходимо указать другое название почтового ящика</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoCadr_Title" xml:space="preserve">
+		<value>Обратитесь в отдел кадров для того чтобы принять сотрудника на должность</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ExcessEq_Title" xml:space="preserve">
+		<value>Обратитесь в службу поддержки</value>
+	</data>
+	<data name="DIRECTIONS_NTF_NoLider1_Title" xml:space="preserve">
+		<value>Обратитесь в отдел кадров для того чтобы принять сотрудника на должность или добавить сотруднику административное подчинение.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееНеДоступно_Title" xml:space="preserve">
+		<value>Обратитесь в службу поддержки</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistsDirection_Title" xml:space="preserve">
+		<value>Существует другое указание такого же типа, при необходимости отредактируйте его. Создавать новое указание не нужно.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_ПосменнаяРабота_Title" xml:space="preserve">
+		<value>На указанном рабочем месте уже работает другой сотрудник. Необходимо или выбрать другое рабочее место или создать группу посменной работы(обратитесь в службу поддержки)</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеСоответствует_Title" xml:space="preserve">
+		<value>Обратитесь в отдел кадров для добавления указанного рабочего места сотруднику.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_УСотрудникаЕстьРабМесто_Title" xml:space="preserve">
+		<value>Необходимо сначала организовать работу(при отсутствии создать или выполнить существующее указание) на неорганизованном рабочем месте.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоНеВОфисе_Title" xml:space="preserve">
+		<value>Обратитесь в службу поддержки</value>
+	</data>
+	<data name="DIRECTIONS_Msg_НеКомпьютеризированноеРабочееМесто_Title" xml:space="preserve">
+		<value>Обратитесь в службу поддержки</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеИмеетЛогина_Title" xml:space="preserve">
+		<value>Необходимо выбрать другого сотрудника, т.к у указанного сотрудника нет логина и его доступ к данным уже удален или его не было</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние_Title" xml:space="preserve">
+		<value>Обратитесь в отдел кадров для изменения состояния сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНеУволен_Title" xml:space="preserve">
+		<value>В результате выполнения указание учетная запись и все права доступа к данным будут переданы сотруднику на которого делается указание. Сотрудник "вместо" после выполнения указания работать не сможет. 
+Необходимо выбрать другого сотрудника или связаться с отделом кадров для увольнения сотрудника "вместо".</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникСостояние3_Title" xml:space="preserve">
+		<value>Сотрудник "как" уже уволен, его права на доступ к данным могут быть уже удалены. Необходимо выбрать другого сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoSignSupervisor_Title" xml:space="preserve">
+		<value>Указание на организацию работы сотрудника должен делать или подписать его  непосредственный руководитель.</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpiresNo" xml:space="preserve">
+		<value>account not expires</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpiresNo_Title" xml:space="preserve">
+		<value>Необходимо установить дату, по которую действует учетная запись, т.к. сотрудник уже уволен</value>
+	</data>
+	<data name="DIRECTIONS_NTF_AccountExpires_Title" xml:space="preserve">
+		<value>Необходимо убрать ограничение на действие учетной записи, т.к. сорудник еще не уволен</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Disabled_Title" xml:space="preserve">
+		<value>Необходимо включить учетную запись, т.к. сорудник еще не уволен</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинИмя" xml:space="preserve">
+		<value>логин не соответствует сотруднику</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ЛогинИмя_Title" xml:space="preserve">
+		<value>логин должен соответствовать или имени или фамилии или первой букве в имени+фамилия или первой букве в фамилии+имя или первым буквам имени и отчества+фамилия</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailName" xml:space="preserve">
+		<value>E-mail не соответствует имени и фамилии сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailName_Title" xml:space="preserve">
+		<value>Название почтового ящика должно состоять из комбинации имени и фамилии сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailDomain" xml:space="preserve">
+		<value>E-mail не соответствует компании</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailDomain_Title" xml:space="preserve">
+		<value>Домен почтового ящика не соответствует домену компании сотрудника. Необходимо выбрать другой домен</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailCorporateDomain" xml:space="preserve">
+		<value>У сотрудника {0}существует e-mail {1}</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_8" xml:space="preserve">
+		<value>переезд на другое рабочее место в офисе</value>
+	</data>
+	<data name="DIRECTIONS_lPoohBah" xml:space="preserve">
+		<value>совместитель</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РаботаУжеОрганизована1" xml:space="preserve">
+		<value>Работа на рабочем месте уже организована</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_4_Signed" xml:space="preserve">
+		<value>работу вне офиса без выдачи оборудования</value>
+	</data>
+	<data name="DIRECTIONS_Field_WpType_4_Signed_Group" xml:space="preserve">
+		<value>учетную запись для работы в группе посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoRequired_Title" xml:space="preserve">
+		<value>Сотруднику требуется доступ к корпоративной сети, но не имея доступа к типам лиц он не получит доступа к информации о лицах-контрагентах. Необходимо указать требуемые типы лиц.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_NoRequired_Title_Phone" xml:space="preserve">
+		<value>Сотруднику требуется компьютер, но не требуется телефонное оборудование, что не позволит сотруднику организовать нормальную работу. Укажите требуемое телефонное оборудование.</value>
+	</data>
+	<data name="DIRECTIONS_MSG_GroupRules_Roles" xml:space="preserve">
+		<value>Выполняемые роли сотрудников в группе различны</value>
+	</data>
+	<data name="DIRECTIONS_MSG_GroupRules_Types" xml:space="preserve">
+		<value>Доступ к типам лиц у сотрудников в группе различен</value>
+	</data>
+	<data name="DIRECTIONS_MSG_GroupRules_Folders" xml:space="preserve">
+		<value>Доступ к общим папкам у сотрудников в группе различен</value>
+	</data>
+	<data name="DIRECTIONS_MSG_GroupRules_Params" xml:space="preserve">
+		<value>Дополнительные права сотрудников в группе различны</value>
+	</data>
+	<data name="DIRECTIONS_MSG_GroupRules_DetailTitle" xml:space="preserve">
+		<value>Показать различия</value>
+	</data>
+	<data name="DIRECTIONS_MSG_GroupRules_Title" xml:space="preserve">
+		<value>Права сотрудников, работающих в группе посменной работы, должны быть одинаковыми. Обратитесь к Анисимову В.Л. </value>
+	</data>
+	<data name="DIRECTIONS_Radio_WpType_1" xml:space="preserve">
+		<value>работу на рабочем месте в офисе</value>
+	</data>
+	<data name="DIRECTIONS_Radio_WpType_2" xml:space="preserve">
+		<value>переезд на другое рабочее место в офисе</value>
+	</data>
+	<data name="DIRECTIONS_Radio_WpType_3" xml:space="preserve">
+		<value>работу вне офиса</value>
+	</data>
+	<data name="DIRECTIONS_Radio_WpType_4" xml:space="preserve">
+		<value>изменение учетной записи при смене обязанностей</value>
+	</data>
+	<data name="DIRECTIONS_Radio_WpType_5" xml:space="preserve">
+		<value>учетную запись для работы в группе посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_DocTitle_WpType_1" xml:space="preserve">
+		<value>Организовать работу на рабочем месте в офисе</value>
+	</data>
+	<data name="DIRECTIONS_DocTitle_WpType_2" xml:space="preserve">
+		<value>Организовать переезд сотрудника на</value>
+	</data>
+	<data name="DIRECTIONS_DocTitle_WpType_3" xml:space="preserve">
+		<value>Организовать сотруднику рабочее место вне офиса</value>
+	</data>
+	<data name="DIRECTIONS_DocTitle_WpType_4" xml:space="preserve">
+		<value>Изменить учетную запись, в связи со сменой обязанностей</value>
+	</data>
+	<data name="DIRECTIONS_DocTitle_WpType_5" xml:space="preserve">
+		<value>Организовать сотруднику учетную запись для работы в группе посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Lang" xml:space="preserve">
+		<value>Не указан предпочитаемый язык</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistDirection" xml:space="preserve">
+		<value>Уже существует ранее созданное указание на данного сотрудника, по которому работа еще не завершена!</value>
+	</data>
+	<data name="DIRECTIONS_Msg_ExistDirection1" xml:space="preserve">
+		<value>Перейти на это указание?</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Title" xml:space="preserve">
+		<value>Сообщение</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Роли_1" xml:space="preserve">
+		<value>выполняет</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Роли_2" xml:space="preserve">
+		<value>выполняют</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Роли_3" xml:space="preserve">
+		<value>роль</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Папки_1" xml:space="preserve">
+		<value>имеет</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Папки_2" xml:space="preserve">
+		<value>имеют</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Папки_3" xml:space="preserve">
+		<value>доступ к общей папке</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Папки_4" xml:space="preserve">
+		<value>доступа к общей папке</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Параметры_1" xml:space="preserve">
+		<value>имеет</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Параметры_2" xml:space="preserve">
+		<value>имеют</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Типы_1" xml:space="preserve">
+		<value>имеет</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Типы_2" xml:space="preserve">
+		<value>имеют</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Типы_3" xml:space="preserve">
+		<value>доступ к типам лиц</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_Типы_4" xml:space="preserve">
+		<value>доступа к типам лиц</value>
+	</data>
+	<data name="DIRECTIONS_NTF_Inconsist_No" xml:space="preserve">
+		<value>не</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста_0" xml:space="preserve">
+		<value>Обратитесь к кадровую службу.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста_1" xml:space="preserve">
+		<value>Сотруднику необходимо создать новое рабочее место.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста_2" xml:space="preserve">
+		<value>Создать новое рабочее место сотруднику?</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста_2_0" xml:space="preserve">
+		<value>Работа организуется не на рабочем месте сотрудника!</value>
+	</data>
+	<data name="DIRECTIONS_Msg_СотрудникНетРабМеста_2_1" xml:space="preserve">
+		<value>Выбрать сотруднику новое рабочее место</value>
+	</data>
+	<data name="DIRECTIONS_btnGOTransfer" xml:space="preserve">
+		<value>Выполнить переезд</value>
+	</data>
+	<data name="DIRECTIONS_btnGOTransfer_Title" xml:space="preserve">
+		<value>Перенести оборудование сотрудника на новое рабочее место</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_МобТелефон_Title" xml:space="preserve">
+		<value>Так как сотруднику для работы требуется телефонное оборудование и ему по должности не положена sim-карта, необходимо указать номер мобильного телефона сотрудника для переадресации.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_МобТелефонТип" xml:space="preserve">
+		<value>номер телефона не является мобильным</value>
+	</data>
+	<data name="DIRECTIONS_Msg_Err_МобТелефонТип_Title" xml:space="preserve">
+		<value>Для переадресации необходимо указать мобильный номер телефона сотрудника. Сохранить документ будет невозможно</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CheckTypeDirection" xml:space="preserve">
+		<value>Сотрудник работает в группе посменной работы</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CheckTypeDirection_Title" xml:space="preserve">
+		<value>При нажатии на  "Создать указание" будет создан новый документ на организацию сотруднику учетной записи в группе посменной работы. Все подписи с текущего документа будут сняты, а сам документ удален.</value>
+	</data>
+	<data name="DIRECTIONS_Msg_CheckTypeDirection_1" xml:space="preserve">
+		<value>Необходимо создать указание на организацию сотруднику учетной записи для работы в группе посменной работы.</value>
+	</data>
+	<data name="DIRECTIONS_Radio_WpType_6" xml:space="preserve">
+		<value>работу на гостевом рабочем месте в офисе</value>
+	</data>
+	<data name="DIRECTIONS_DocTitle_WpType_6" xml:space="preserve">
+		<value>Организовать работу на гостевом рабочем месте в офисе</value>
+	</data>
+	<data name="DIRECTIONS_MSG_ConfirmTransfer" xml:space="preserve">
+		<value>Вы уверены, что сотрудник переехал на новое рабочее место и хотите в Инвентаризации переместить его ИТ-оборудование на новое рабочее место?</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique_1" xml:space="preserve">
+		<value>E-mail {0}использует как неосновной сотрудник</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique_2" xml:space="preserve">
+		<value>E-mail {0}использует как основной сотрудник</value>
+	</data>
+	<data name="DIRECTIONS_NTF_EmailNotUnique_3" xml:space="preserve">
+		<value>E-mail {0}является логином сотрудника</value>
+	</data>
+	<data name="DIRECTIONS_NTF_УжеПереехал" xml:space="preserve">
+		<value>сотрудник уже переехал на новое рабочее место</value>
+	</data>
+	<data name="DIRECTIONS_NTF_УжеПереехал_Title" xml:space="preserve">
+		<value>Необходимо проверить, что все оборудование сотрудника перенесено и подключено на новом рабочем месте и завершить работу с этим документом</value>
+	</data>
+	<data name="DIRECTIONS_Msg_РабочееМестоГруппы" xml:space="preserve">
+		<value>На рабочем месте {0} работает группа посменной работы. Выберите другое рабочее место!</value>
+	</data>
+</root>
